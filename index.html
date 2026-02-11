@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>CBM – Centralized Backup Monitoring</title>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+:root{
+  --bg:#f4f6f9;--card:#fff;--ok:#16a34a;--bad:#dc2626;--muted:#6b7280;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:Segoe UI,Arial;background:var(--bg)}
+header{background:linear-gradient(135deg,#1e3a8a,#2563eb);color:#fff;padding:20px}
+.container{padding:25px}
+
+.controls{display:flex;gap:12px;align-items:center;margin-bottom:16px}
+select,input{padding:8px 10px;border:1px solid #d1d5db;border-radius:6px}
+
+.dashboard{text-align:center;margin-bottom:20px}
+.summary{margin-bottom:10px;font-size:15px}
+.summary .ok{color:var(--ok);font-weight:600}
+.summary .bad{color:var(--bad);font-weight:600}
+
+.charts{display:flex;gap:24px;flex-wrap:wrap;justify-content:center}
+.chart{background:var(--card);padding:14px;border-radius:10px;width:240px}
+.chart .nums{margin-top:6px;font-size:13px}
+.chart .ok{color:var(--ok)} .chart .bad{color:var(--bad)}
+
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:16px}
+.card{background:var(--card);padding:14px;border-radius:10px;cursor:pointer}
+.card.active{outline:2px solid #2563eb}
+.card .v{font-size:24px;font-weight:bold}
+
+.list{background:var(--card);border-radius:10px;max-height:60vh;overflow:auto}
+.item{display:flex;gap:10px;padding:12px 16px;border-bottom:1px solid #eee}
+.dot{width:10px;height:10px;border-radius:50%;margin-top:4px}
+.dot.ok{background:var(--ok)} .dot.bad{background:var(--bad)}
+.name{font-size:14px;font-weight:500}
+.sub{font-size:12px;color:var(--muted)}
+
+.footer{text-align:center;font-size:12px;color:var(--muted);margin-top:12px}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h2>CBM – Centralized Backup Monitoring</h2>
+  <div id="updated"></div>
+</header>
+
+<div class="container">
+
+  <!-- DASHBOARD -->
+  <div class="dashboard">
+    <div class="summary">
+      <span class="ok">Total Backed Up: <span id="gOk">0</span></span>
+      &nbsp; | &nbsp;
+      <span class="bad">Total Missing: <span id="gBad">0</span></span>
+    </div>
+    <div class="charts" id="charts"></div>
+  </div>
+
+  <!-- CONTROLS -->
+  <div class="controls">
+    <strong>Region:</strong>
+    <select id="region"></select>
+    <input id="search" placeholder="Search cinema (all regions)">
+  </div>
+
+  <!-- REGION FILTER CARDS -->
+  <div class="cards">
+    <div class="card active" id="fAll">Total<div class="v" id="t">0</div></div>
+    <div class="card" id="fOk"><span style="color:#16a34a">Backed Up</span><div class="v" id="o">0</div></div>
+    <div class="card" id="fBad"><span style="color:#dc2626">Missing</span><div class="v" id="m">0</div></div>
+  </div>
+
+  <!-- LIST -->
+  <div class="list" id="list"></div>
+
+  <div class="footer">Auto-refresh every 30 seconds</div>
+</div>
+
+<script>
+let STATUS=null;
+let charts={};
+let query="";
+let currentFilter="all";
+
+/* LOAD */
+async function load(){
+  STATUS=await fetch('/CBM/data/status.json?'+Date.now()).then(r=>r.json());
+  updated.textContent="Last updated: "+STATUS.generated_at;
+  initRegions();
+  buildDashboard();
+  renderList();
+}
+
+/* REGIONS */
+function initRegions(){
+  if(region.options.length) return;
+  Object.keys(STATUS.regions).forEach(r=>region.add(new Option(r,r)));
+  region.value=Object.keys(STATUS.regions)[0];
+}
+
+/* DASHBOARD */
+function buildDashboard(){
+  chartsDiv.innerHTML="";
+  Object.values(charts).forEach(c=>c.destroy());
+  charts={};
+
+  let gO=0,gM=0;
+
+  for(const [r,cins] of Object.entries(STATUS.regions)){
+    let o=0,m=0;
+    Object.values(cins).forEach(c=>c.status==="ok"?o++:m++);
+    gO+=o; gM+=m;
+
+    const box=document.createElement("div");
+    box.className="chart";
+    box.innerHTML=`
+      <b>${r}</b>
+      <canvas></canvas>
+      <div class="nums">
+        <span class="ok">Backed Up: ${o}</span><br>
+        <span class="bad">Missing: ${m}</span>
+      </div>`;
+    chartsDiv.appendChild(box);
+
+    charts[r]=new Chart(box.querySelector("canvas"),{
+      type:"pie",
+      data:{datasets:[{data:[o,m],backgroundColor:["#16a34a","#dc2626"]}]},
+      options:{plugins:{legend:{display:false}}}
+    });
+  }
+  gOk.textContent=gO;
+  gBad.textContent=gM;
+}
+
+/* LIST */
+function renderList(){
+  list.innerHTML="";
+  let tC=0,oC=0,mC=0;
+
+  for(const [r,cins] of Object.entries(STATUS.regions)){
+    if(!query && r!==region.value) continue;
+
+    for(const [name,c] of Object.entries(cins)){
+      if(query && !name.toLowerCase().includes(query)) continue;
+      if(!query && currentFilter!=="all" && c.status!==currentFilter) continue;
+
+      tC++; c.status==="ok"?oC++:mC++;
+
+      list.innerHTML+=`
+        <div class="item">
+          <span class="dot ${c.status==="ok"?"ok":"bad"}"></span>
+          <div>
+            <div class="name">${name}</div>
+            <div class="sub">${r} • Last backup: ${c.last_backup||"—"}</div>
+          </div>
+        </div>`;
+    }
+  }
+  t.textContent=tC; o.textContent=oC; m.textContent=mC;
+}
+
+/* FILTER CARDS */
+function setFilter(f){
+  currentFilter=f;
+  document.querySelectorAll(".card").forEach(c=>c.classList.remove("active"));
+  (f==="all"?fAll:f==="ok"?fOk:fBad).classList.add("active");
+  renderList();
+}
+fAll.onclick=()=>setFilter("all");
+fOk.onclick=()=>setFilter("ok");
+fBad.onclick=()=>setFilter("missing");
+
+/* EVENTS */
+search.oninput=e=>{
+  query=e.target.value.toLowerCase().trim();
+  renderList();
+};
+
+region.onchange=()=>{
+  query=""; search.value="";
+  setFilter("all");
+};
+
+/* SHORTCUTS */
+const chartsDiv=document.getElementById("charts");
+
+load();
+setInterval(load,30000);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+
+# Local only (never push)
+scripts/
+config/
+rclone/
