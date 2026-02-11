@@ -8,7 +8,11 @@
 
 <style>
 :root{
-  --bg:#f4f6f9;--card:#fff;--ok:#16a34a;--bad:#dc2626;--muted:#6b7280;
+  --bg:#f4f6f9;
+  --card:#ffffff;
+  --ok:#16a34a;
+  --bad:#dc2626;
+  --muted:#6b7280;
 }
 *{box-sizing:border-box}
 body{margin:0;font-family:Segoe UI,Arial;background:var(--bg)}
@@ -26,7 +30,8 @@ select,input{padding:8px 10px;border:1px solid #d1d5db;border-radius:6px}
 .charts{display:flex;gap:24px;flex-wrap:wrap;justify-content:center}
 .chart{background:var(--card);padding:14px;border-radius:10px;width:240px}
 .chart .nums{margin-top:6px;font-size:13px}
-.chart .ok{color:var(--ok)} .chart .bad{color:var(--bad)}
+.chart .ok{color:var(--ok)}
+.chart .bad{color:var(--bad)}
 
 .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:16px}
 .card{background:var(--card);padding:14px;border-radius:10px;cursor:pointer}
@@ -36,7 +41,8 @@ select,input{padding:8px 10px;border:1px solid #d1d5db;border-radius:6px}
 .list{background:var(--card);border-radius:10px;max-height:60vh;overflow:auto}
 .item{display:flex;gap:10px;padding:12px 16px;border-bottom:1px solid #eee}
 .dot{width:10px;height:10px;border-radius:50%;margin-top:4px}
-.dot.ok{background:var(--ok)} .dot.bad{background:var(--bad)}
+.dot.ok{background:var(--ok)}
+.dot.bad{background:var(--bad)}
 .name{font-size:14px;font-weight:500}
 .sub{font-size:12px;color:var(--muted)}
 
@@ -53,7 +59,7 @@ select,input{padding:8px 10px;border:1px solid #d1d5db;border-radius:6px}
 
 <div class="container">
 
-  <!-- DASHBOARD -->
+  <!-- GLOBAL DASHBOARD -->
   <div class="dashboard">
     <div class="summary">
       <span class="ok">Total Backed Up: <span id="gOk">0</span></span>
@@ -72,9 +78,18 @@ select,input{padding:8px 10px;border:1px solid #d1d5db;border-radius:6px}
 
   <!-- FILTER CARDS -->
   <div class="cards">
-    <div class="card active" id="fAll">Total<div class="v" id="t">0</div></div>
-    <div class="card" id="fOk"><span style="color:#16a34a">Backed Up</span><div class="v" id="o">0</div></div>
-    <div class="card" id="fBad"><span style="color:#dc2626">Missing</span><div class="v" id="m">0</div></div>
+    <div class="card active" id="fAll">
+      Total
+      <div class="v" id="t">0</div>
+    </div>
+    <div class="card" id="fOk">
+      <span style="color:#16a34a">Backed Up</span>
+      <div class="v" id="o">0</div>
+    </div>
+    <div class="card" id="fBad">
+      <span style="color:#dc2626">Missing</span>
+      <div class="v" id="m">0</div>
+    </div>
   </div>
 
   <!-- LIST -->
@@ -84,131 +99,161 @@ select,input{padding:8px 10px;border:1px solid #d1d5db;border-radius:6px}
 </div>
 
 <script>
-let STATUS=null;
-let charts={};
-let query="";
-let currentFilter="all";
+let STATUS = null;
+let charts = {};
+let query = "";
+let currentFilter = "all";
 
-/* LOAD */
-async function load(){
+document.addEventListener("DOMContentLoaded", () => {
+  load();
+  setInterval(load, 30000);
+});
+
+async function load() {
   try {
-    STATUS = await fetch('data/status.json?' + Date.now()).then(r => r.json());
+    const res = await fetch("data/status.json?" + Date.now());
+    STATUS = await res.json();
+
     document.getElementById("updated").textContent =
       "Last updated: " + STATUS.generated_at;
+
     initRegions();
     buildDashboard();
     renderList();
-  } catch(err) {
-    console.error("Failed to load status.json", err);
+
+  } catch (e) {
+    console.error("Error loading status.json:", e);
   }
 }
 
-/* REGIONS */
-function initRegions(){
+function initRegions() {
   const regionSelect = document.getElementById("region");
-  if(regionSelect.options.length) return;
-  Object.keys(STATUS.regions).forEach(r =>
-    regionSelect.add(new Option(r,r))
-  );
+  if (regionSelect.options.length > 0) return;
+
+  Object.keys(STATUS.regions).forEach(r => {
+    regionSelect.add(new Option(r, r));
+  });
+
   regionSelect.value = Object.keys(STATUS.regions)[0];
 }
 
-/* DASHBOARD */
-function buildDashboard(){
+function buildDashboard() {
   const chartsDiv = document.getElementById("charts");
-  chartsDiv.innerHTML="";
-  Object.values(charts).forEach(c=>c.destroy());
-  charts={};
+  chartsDiv.innerHTML = "";
 
-  let gO=0,gM=0;
+  Object.values(charts).forEach(c => c.destroy());
+  charts = {};
 
-  for(const [r,cins] of Object.entries(STATUS.regions)){
-    let o=0,m=0;
-    Object.values(cins).forEach(c=>c.status==="ok"?o++:m++);
-    gO+=o; gM+=m;
+  let globalOk = 0;
+  let globalMissing = 0;
 
-    const box=document.createElement("div");
-    box.className="chart";
-    box.innerHTML=`
-      <b>${r}</b>
+  for (const [region, cinemas] of Object.entries(STATUS.regions)) {
+
+    let ok = 0;
+    let missing = 0;
+
+    Object.values(cinemas).forEach(c => {
+      if (c.status === "ok") ok++;
+      else missing++;
+    });
+
+    globalOk += ok;
+    globalMissing += missing;
+
+    const box = document.createElement("div");
+    box.className = "chart";
+    box.innerHTML = `
+      <b>${region}</b>
       <canvas></canvas>
       <div class="nums">
-        <span class="ok">Backed Up: ${o}</span><br>
-        <span class="bad">Missing: ${m}</span>
-      </div>`;
+        <span class="ok">Backed Up: ${ok}</span><br>
+        <span class="bad">Missing: ${missing}</span>
+      </div>
+    `;
     chartsDiv.appendChild(box);
 
-    charts[r]=new Chart(box.querySelector("canvas"),{
-      type:"pie",
-      data:{datasets:[{data:[o,m],backgroundColor:["#16a34a","#dc2626"]}]},
-      options:{plugins:{legend:{display:false}}}
+    charts[region] = new Chart(box.querySelector("canvas"), {
+      type: "pie",
+      data: {
+        datasets: [{
+          data: [ok, missing],
+          backgroundColor: ["#16a34a", "#dc2626"]
+        }]
+      },
+      options: {
+        plugins: { legend: { display: false } }
+      }
     });
   }
 
-  document.getElementById("gOk").textContent=gO;
-  document.getElementById("gBad").textContent=gM;
+  document.getElementById("gOk").textContent = globalOk;
+  document.getElementById("gBad").textContent = globalMissing;
 }
 
-/* LIST */
-function renderList(){
-  const list=document.getElementById("list");
-  const region=document.getElementById("region");
-  list.innerHTML="";
-  let tC=0,oC=0,mC=0;
+function renderList() {
+  const list = document.getElementById("list");
+  const regionSelect = document.getElementById("region");
 
-  for(const [r,cins] of Object.entries(STATUS.regions)){
-    if(!query && r!==region.value) continue;
+  list.innerHTML = "";
 
-    for(const [name,c] of Object.entries(cins)){
-      if(query && !name.toLowerCase().includes(query)) continue;
-      if(!query && currentFilter!=="all" && c.status!==currentFilter) continue;
+  let total = 0;
+  let okCount = 0;
+  let missingCount = 0;
 
-      tC++; c.status==="ok"?oC++:mC++;
+  for (const [region, cinemas] of Object.entries(STATUS.regions)) {
 
-      list.innerHTML+=`
+    if (!query && region !== regionSelect.value) continue;
+
+    for (const [name, cinema] of Object.entries(cinemas)) {
+
+      if (query && !name.toLowerCase().includes(query)) continue;
+      if (!query && currentFilter !== "all" && cinema.status !== currentFilter) continue;
+
+      total++;
+
+      if (cinema.status === "ok") okCount++;
+      else missingCount++;
+
+      list.innerHTML += `
         <div class="item">
-          <span class="dot ${c.status==="ok"?"ok":"bad"}"></span>
+          <span class="dot ${cinema.status === "ok" ? "ok" : "bad"}"></span>
           <div>
             <div class="name">${name}</div>
-            <div class="sub">${r} • Last backup: ${c.last_backup||"—"}</div>
+            <div class="sub">${region} • Last backup: ${cinema.last_backup || "—"}</div>
           </div>
-        </div>`;
+        </div>
+      `;
     }
   }
 
-  document.getElementById("t").textContent=tC;
-  document.getElementById("o").textContent=oC;
-  document.getElementById("m").textContent=mC;
+  document.getElementById("t").textContent = total;
+  document.getElementById("o").textContent = okCount;
+  document.getElementById("m").textContent = missingCount;
 }
 
-/* FILTERS */
-function setFilter(f){
-  currentFilter=f;
-  document.querySelectorAll(".card").forEach(c=>c.classList.remove("active"));
+function setFilter(f) {
+  currentFilter = f;
+  document.querySelectorAll(".card").forEach(c => c.classList.remove("active"));
   document.getElementById(
-    f==="all"?"fAll":f==="ok"?"fOk":"fBad"
+    f === "all" ? "fAll" : f === "ok" ? "fOk" : "fBad"
   ).classList.add("active");
   renderList();
 }
 
-document.getElementById("fAll").onclick=()=>setFilter("all");
-document.getElementById("fOk").onclick=()=>setFilter("ok");
-document.getElementById("fBad").onclick=()=>setFilter("missing");
+document.getElementById("fAll").onclick = () => setFilter("all");
+document.getElementById("fOk").onclick = () => setFilter("ok");
+document.getElementById("fBad").onclick = () => setFilter("missing");
 
-/* EVENTS */
-document.getElementById("search").oninput=e=>{
-  query=e.target.value.toLowerCase().trim();
+document.getElementById("search").oninput = e => {
+  query = e.target.value.toLowerCase().trim();
   renderList();
 };
 
-document.getElementById("region").onchange=()=>{
-  query="";
-  document.getElementById("search").value="";
+document.getElementById("region").onchange = () => {
+  query = "";
+  document.getElementById("search").value = "";
   setFilter("all");
 };
-
-load();
-setInterval(load,30000);
 </script>
 
 </body>
