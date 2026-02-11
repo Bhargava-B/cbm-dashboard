@@ -70,7 +70,7 @@ select,input{padding:8px 10px;border:1px solid #d1d5db;border-radius:6px}
     <input id="search" placeholder="Search cinema (all regions)">
   </div>
 
-  <!-- REGION FILTER CARDS -->
+  <!-- FILTER CARDS -->
   <div class="cards">
     <div class="card active" id="fAll">Total<div class="v" id="t">0</div></div>
     <div class="card" id="fOk"><span style="color:#16a34a">Backed Up</span><div class="v" id="o">0</div></div>
@@ -91,22 +91,31 @@ let currentFilter="all";
 
 /* LOAD */
 async function load(){
-  STATUS=await fetch('/CBM/data/status.json?'+Date.now()).then(r=>r.json());
-  updated.textContent="Last updated: "+STATUS.generated_at;
-  initRegions();
-  buildDashboard();
-  renderList();
+  try {
+    STATUS = await fetch('data/status.json?' + Date.now()).then(r => r.json());
+    document.getElementById("updated").textContent =
+      "Last updated: " + STATUS.generated_at;
+    initRegions();
+    buildDashboard();
+    renderList();
+  } catch(err) {
+    console.error("Failed to load status.json", err);
+  }
 }
 
 /* REGIONS */
 function initRegions(){
-  if(region.options.length) return;
-  Object.keys(STATUS.regions).forEach(r=>region.add(new Option(r,r)));
-  region.value=Object.keys(STATUS.regions)[0];
+  const regionSelect = document.getElementById("region");
+  if(regionSelect.options.length) return;
+  Object.keys(STATUS.regions).forEach(r =>
+    regionSelect.add(new Option(r,r))
+  );
+  regionSelect.value = Object.keys(STATUS.regions)[0];
 }
 
 /* DASHBOARD */
 function buildDashboard(){
+  const chartsDiv = document.getElementById("charts");
   chartsDiv.innerHTML="";
   Object.values(charts).forEach(c=>c.destroy());
   charts={};
@@ -135,12 +144,15 @@ function buildDashboard(){
       options:{plugins:{legend:{display:false}}}
     });
   }
-  gOk.textContent=gO;
-  gBad.textContent=gM;
+
+  document.getElementById("gOk").textContent=gO;
+  document.getElementById("gBad").textContent=gM;
 }
 
 /* LIST */
 function renderList(){
+  const list=document.getElementById("list");
+  const region=document.getElementById("region");
   list.innerHTML="";
   let tC=0,oC=0,mC=0;
 
@@ -163,33 +175,37 @@ function renderList(){
         </div>`;
     }
   }
-  t.textContent=tC; o.textContent=oC; m.textContent=mC;
+
+  document.getElementById("t").textContent=tC;
+  document.getElementById("o").textContent=oC;
+  document.getElementById("m").textContent=mC;
 }
 
-/* FILTER CARDS */
+/* FILTERS */
 function setFilter(f){
   currentFilter=f;
   document.querySelectorAll(".card").forEach(c=>c.classList.remove("active"));
-  (f==="all"?fAll:f==="ok"?fOk:fBad).classList.add("active");
+  document.getElementById(
+    f==="all"?"fAll":f==="ok"?"fOk":"fBad"
+  ).classList.add("active");
   renderList();
 }
-fAll.onclick=()=>setFilter("all");
-fOk.onclick=()=>setFilter("ok");
-fBad.onclick=()=>setFilter("missing");
+
+document.getElementById("fAll").onclick=()=>setFilter("all");
+document.getElementById("fOk").onclick=()=>setFilter("ok");
+document.getElementById("fBad").onclick=()=>setFilter("missing");
 
 /* EVENTS */
-search.oninput=e=>{
+document.getElementById("search").oninput=e=>{
   query=e.target.value.toLowerCase().trim();
   renderList();
 };
 
-region.onchange=()=>{
-  query=""; search.value="";
+document.getElementById("region").onchange=()=>{
+  query="";
+  document.getElementById("search").value="";
   setFilter("all");
 };
-
-/* SHORTCUTS */
-const chartsDiv=document.getElementById("charts");
 
 load();
 setInterval(load,30000);
