@@ -103,6 +103,8 @@ let STATUS = null;
 let charts = {};
 let query = "";
 let currentFilter = "all";
+let INACTIVE = {};
+
 
 document.addEventListener("DOMContentLoaded", () => {
   load();
@@ -111,8 +113,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
 async function load() {
   try {
-    const res = await fetch("data/status.json?" + Date.now());
+    const res = await fetch("data/status.json", { cache: "no-store" });
     STATUS = await res.json();
+
+    const inactiveRes = await fetch("inactive.json", { cache: "no-store" });
+    INACTIVE = await inactiveRes.json();
 
     document.getElementById("updated").textContent =
       "Last updated: " + STATUS.generated_at;
@@ -120,7 +125,6 @@ async function load() {
     initRegions();
     buildDashboard();
     renderList();
-
   } catch (e) {
     console.error("Error loading status.json:", e);
   }
@@ -205,6 +209,10 @@ function renderList() {
     if (!query && region !== regionSelect.value) continue;
 
     for (const [name, cinema] of Object.entries(cinemas)) {
+  // Skip inactive cinemas
+  if (INACTIVE[region] && INACTIVE[region].includes(name)) {
+    continue;
+  }
 
       if (query && !name.toLowerCase().includes(query)) continue;
       if (!query && currentFilter !== "all" && cinema.status !== currentFilter) continue;
