@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-02-16 16:37:04",
+    "generated_at":  "2026-02-16 17:07:04",
     "regions":  {
                     "TG":  {
                                "Sri Sai Ram 70mm A":  {
@@ -341,9 +341,13 @@
                                                                                      "status":  "ok"
                                                                                  },
                                   "Asian M Cube Mall - Attapur":  {
-                                                                      "last_backup":  null,
-                                                                      "status":  "missing"
+                                                                      "last_backup":  "2026-02-16",
+                                                                      "status":  "ok"
                                                                   },
+                                  "ART CINEMAS - Vanasthalipuram":  {
+                                                                        "last_backup":  "2026-02-16",
+                                                                        "status":  "ok"
+                                                                    },
                                   "Seetarama Cinemas - Manuguru":  {
                                                                        "last_backup":  null,
                                                                        "status":  "missing"
