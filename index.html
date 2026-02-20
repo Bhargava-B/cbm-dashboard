@@ -1,57 +1,157 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+
 <meta charset="UTF-8">
+
 <title>CBM – Centralized Backup Monitoring</title>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
 <style>
 
+:root{
+--bg:#f4f6f9;
+--card:#ffffff;
+--ok:#16a34a;
+--bad:#dc2626;
+--muted:#6b7280;
+}
+
+*{box-sizing:border-box}
+
 body{
 margin:0;
-font-family:Segoe UI;
-background:#f4f6f9;
+font-family:Segoe UI,Arial;
+background:var(--bg);
 }
 
 header{
-background:#2b50a1;
-color:white;
+background:linear-gradient(135deg,#1e3a8a,#2563eb);
+color:#fff;
 padding:20px;
 }
 
-.container{
-padding:25px;
+.container{padding:25px}
+
+.controls{
+display:flex;
+gap:12px;
+align-items:center;
+margin-bottom:16px;
+}
+
+select,input{
+padding:8px 10px;
+border:1px solid #d1d5db;
+border-radius:6px;
+}
+
+.dashboard{
+text-align:center;
+margin-bottom:20px;
+}
+
+.summary{
+margin-bottom:10px;
+font-size:15px;
+}
+
+.summary .ok{
+color:var(--ok);
+font-weight:600;
+}
+
+.summary .bad{
+color:var(--bad);
+font-weight:600;
 }
 
 .charts{
 display:flex;
-gap:20px;
+gap:24px;
 flex-wrap:wrap;
+justify-content:center;
 }
 
 .chart{
-background:white;
+background:var(--card);
 padding:14px;
 border-radius:10px;
 width:240px;
+}
+
+.chart .nums{
+margin-top:6px;
+font-size:13px;
+}
+
+.chart .ok{color:var(--ok)}
+.chart .bad{color:var(--bad)}
+
+.cards{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:12px;
+margin-bottom:16px;
+}
+
+.card{
+background:var(--card);
+padding:14px;
+border-radius:10px;
+cursor:pointer;
+}
+
+.card.active{
+outline:2px solid #2563eb;
+}
+
+.card .v{
+font-size:24px;
+font-weight:bold;
+}
+
+.list{
+background:var(--card);
+border-radius:10px;
+max-height:60vh;
+overflow:auto;
+}
+
+.item{
+display:flex;
+gap:10px;
+padding:12px 16px;
+border-bottom:1px solid #eee;
 }
 
 .dot{
 width:10px;
 height:10px;
 border-radius:50%;
-display:inline-block;
-margin-right:8px;
+margin-top:4px;
 }
 
-.ok{background:#16a34a}
-.stale{background:#ff9800}
-.bad{background:#dc2626}
+.dot.ok{background:var(--ok)}
+.dot.bad{background:var(--bad)}
 
-.item{
-padding:10px;
-border-bottom:1px solid #eee;
+.name{
+font-size:14px;
+font-weight:500;
+}
+
+.sub{
+font-size:12px;
+color:var(--muted);
+}
+
+.footer{
+text-align:center;
+font-size:12px;
+color:var(--muted);
+margin-top:12px;
 }
 
 </style>
@@ -70,73 +170,178 @@ border-bottom:1px solid #eee;
 
 <div class="container">
 
-<div id="charts" class="charts"></div>
+<div class="dashboard">
 
-<div id="list"></div>
+<div class="summary">
+
+<span class="ok">
+Total Backed Up :
+<span id="gOk">0</span>
+</span>
+
+&nbsp; | &nbsp;
+
+<span class="bad">
+Total Missing :
+<span id="gBad">0</span>
+</span>
 
 </div>
 
+<div class="charts" id="charts"></erwin ebr>
+
+</div>
+
+</div>
+
+
+<div class="controls">
+
+<strong>Region:</strong>
+
+<select id="region"></select>
+
+<input id="search" placeholder="Search cinema (all regions)">
+
+</div>
+
+
+<div class="cards">
+
+<div class="card active" id="fAll">
+
+Total
+
+<div class="v" id="t">0</div>
+
+</div>
+
+<div class="card" id="fOk">
+
+<span style="color:#16a34a">
+
+Backed Up
+
+</span>
+
+<div class="v" id="o">0</div>
+
+</div>
+
+<div class="card" id="fBad">
+
+<span style="color:#dc2626">
+
+Missing
+
+</span>
+
+<div class="v" id="m">0</div>
+
+</div>
+
+</div>
+
+
+<div class="list" id="list"></div>
+
+<div class="footer">
+
+Auto-refresh every 30 seconds
+
+</div>
+
+</div>
+
+
 <script>
 
-let STATUS={regions:{}};
+let STATUS=null;
+let charts={};
+let query="";
+let currentFilter="all";
+let INACTIVE={};
+
+document.addEventListener("DOMContentLoaded",()=>{
+
+load();
+setInterval(load,30000);
+
+});
 
 async function load(){
 
 try{
 
-STATUS=await (await fetch("data/status.json",{cache:"no-store"})).json();
+const res=await fetch("data/status.json",{cache:"no-store"});
+STATUS=await res.json();
 
-}catch{
-
-console.log("status.json not loaded");
-
-}
+const inactiveRes=await fetch("inactive.json",{cache:"no-store"});
+INACTIVE=await inactiveRes.json();
 
 document.getElementById("updated").textContent=
 
-"Last Updated : "+(STATUS.generated_at||"--");
+"Last updated: "+STATUS.generated_at;
 
-buildCharts();
+initRegions();
+buildDashboard();
+renderList();
+
+}catch(e){
+
+console.error("Error loading status.json:",e);
 
 }
 
-function buildCharts(){
+}
+
+function initRegions(){
+
+const regionSelect=document.getElementById("region");
+
+if(regionSelect.options.length>0)return;
+
+Object.keys(STATUS.regions)
+
+.forEach(r=>{
+
+regionSelect.add(new Option(r,r));
+
+});
+
+regionSelect.value=
+
+Object.keys(STATUS.regions)[0];
+
+}
+
+function buildDashboard(){
 
 const chartsDiv=document.getElementById("charts");
 
 chartsDiv.innerHTML="";
 
-const regions=STATUS.regions||{};
+Object.values(charts).forEach(c=>c.destroy());
 
-if(Object.keys(regions).length===0){
+charts={};
 
-createChart("No Data",{ok:0,stale:0,missing:0});
+let globalOk=0;
+let globalMissing=0;
 
-return;
+for(const [region,cinemas] of Object.entries(STATUS.regions)){
 
-}
-
-for(const [region,cinemas] of Object.entries(regions)){
-
-let ok=0,stale=0,missing=0;
+let ok=0;
+let missing=0;
 
 Object.values(cinemas).forEach(c=>{
 
 if(c.status==="ok") ok++;
-
-else if(c.status==="stale") stale++;
-
 else missing++;
 
 });
 
-createChart(region,{ok,stale,missing});
-
-}
-
-}
-
-function createChart(region,data){
+globalOk+=ok;
+globalMissing+=missing;
 
 const box=document.createElement("div");
 
@@ -148,21 +353,19 @@ box.innerHTML=`
 
 <canvas></canvas>
 
-<div>
+<div class="nums">
 
-OK : ${data.ok}<br>
+<span class="ok">Backed Up: ${ok}</span><br>
 
-Stale : ${data.stale}<br>
-
-Missing : ${data.missing}
+<span class="bad">Missing: ${missing}</span>
 
 </div>
 
 `;
 
-charts.appendChild(box);
+chartsDiv.appendChild(box);
 
-new Chart(
+charts[region]=new Chart(
 
 box.querySelector("canvas"),
 
@@ -171,38 +374,126 @@ box.querySelector("canvas"),
 type:"pie",
 
 data:{
-
 datasets:[{
-
-data:[data.ok,data.stale,data.missing],
-
-backgroundColor:[
-
-"#16a34a",
-
-"#ff9800",
-
-"#dc2626"
-
-]
-
+data:[ok,missing],
+backgroundColor:["#16a34a","#dc2626"]
 }]
-
 },
 
 options:{
-
 plugins:{legend:{display:false}}
-
 }
 
 });
 
 }
 
-load();
+document.getElementById("gOk").textContent=globalOk;
+document.getElementById("gBad").textContent=globalMissing;
 
-setInterval(load,30000);
+}
+
+function renderList(){
+
+const list=document.getElementById("list");
+const regionSelect=document.getElementById("region");
+
+list.innerHTML="";
+
+let total=0;
+let okCount=0;
+let missingCount=0;
+
+for(const [region,cinemas] of Object.entries(STATUS.regions)){
+
+if(!query && region!==regionSelect.value) continue;
+
+for(const [name,cinema] of Object.entries(cinemas)){
+
+if(INACTIVE[region] && INACTIVE[region].includes(name)) continue;
+
+if(query && !name.toLowerCase().includes(query)) continue;
+
+if(!query && currentFilter!=="all" && cinema.status!==currentFilter) continue;
+
+total++;
+
+if(cinema.status==="ok") okCount++;
+else missingCount++;
+
+list.innerHTML+=`
+
+<div class="item">
+
+<span class="dot ${cinema.status==="ok"?"ok":"bad"}"></span>
+
+<div>
+
+<div class="name">${name}</div>
+
+<div class="sub">
+
+${region} • Last backup:
+
+${cinema.last_backup || "—"}
+
+</div>
+
+</div>
+
+</div>
+
+`;
+
+}
+
+}
+
+document.getElementById("t").textContent=total;
+document.getElementById("o").textContent=okCount;
+document.getElementById("m").textContent=missingCount;
+
+}
+
+function setFilter(f){
+
+currentFilter=f;
+
+document.querySelectorAll(".card")
+
+.forEach(c=>c.classList.remove("active"));
+
+document.getElementById(
+
+f==="all"?"fAll":
+
+f==="ok"?"fOk":"fBad"
+
+).classList.add("active");
+
+renderList();
+
+}
+
+fAll.onclick=()=>setFilter("all");
+fOk.onclick=()=>setFilter("ok");
+fBad.onclick=()=>setFilter("missing");
+
+search.oninput=e=>{
+
+query=e.target.value.toLowerCase().trim();
+
+renderList();
+
+};
+
+region.onchange=()=>{
+
+query="";
+search.value="";
+setFilter("all");
+
+};
 
 </script>
 
