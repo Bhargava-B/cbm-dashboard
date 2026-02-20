@@ -7,45 +7,27 @@
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
 <style>
-:root{
---bg:#f4f6f9;
---card:#ffffff;
---ok:#16a34a;
---stale:#ff9800;
---bad:#dc2626;
---muted:#6b7280;
-}
 
 body{
 margin:0;
-font-family:Segoe UI,Arial;
-background:var(--bg);
+font-family:Segoe UI;
+background:#f4f6f9;
 }
 
 header{
-background:linear-gradient(135deg,#1e3a8a,#2563eb);
+background:#2b50a1;
 color:white;
 padding:20px;
 }
 
-.container{padding:25px}
-
-.dashboard{text-align:center;margin-bottom:20px}
-
-.summary span{
-font-weight:600;
-margin-right:12px;
+.container{
+padding:25px;
 }
-
-.ok{color:var(--ok)}
-.stale{color:var(--stale)}
-.bad{color:var(--bad)}
 
 .charts{
 display:flex;
-gap:24px;
+gap:20px;
 flex-wrap:wrap;
-justify-content:center;
 }
 
 .chart{
@@ -55,82 +37,25 @@ border-radius:10px;
 width:240px;
 }
 
-.cards{
-display:grid;
-grid-template-columns:repeat(4,1fr);
-gap:12px;
-margin-bottom:16px;
-}
-
-.card{
-background:white;
-padding:14px;
-border-radius:10px;
-cursor:pointer;
-}
-
-.card.active{
-outline:2px solid #2563eb;
-}
-
-.card .v{
-font-size:24px;
-font-weight:bold;
-}
-
-.controls{
-display:flex;
-gap:12px;
-align-items:center;
-margin-bottom:16px;
-}
-
-select,input{
-padding:8px;
-border-radius:6px;
-border:1px solid #ccc;
-}
-
-.list{
-background:white;
-border-radius:10px;
-max-height:60vh;
-overflow:auto;
-}
-
-.item{
-display:flex;
-gap:10px;
-padding:12px 16px;
-border-bottom:1px solid #eee;
-}
-
 .dot{
 width:10px;
 height:10px;
 border-radius:50%;
-margin-top:4px;
+display:inline-block;
+margin-right:8px;
 }
 
-.dot.ok{background:var(--ok)}
-.dot.stale{background:var(--stale)}
-.dot.bad{background:var(--bad)}
+.ok{background:#16a34a}
+.stale{background:#ff9800}
+.bad{background:#dc2626}
 
-.name{font-weight:500}
-
-.sub{
-font-size:12px;
-color:var(--muted);
-}
-
-.footer{
-text-align:center;
-font-size:12px;
-margin-top:12px;
-color:var(--muted);
+.item{
+padding:10px;
+border-bottom:1px solid #eee;
 }
 
 </style>
+
 </head>
 
 <body>
@@ -145,184 +70,99 @@ color:var(--muted);
 
 <div class="container">
 
-<div class="dashboard">
+<div id="charts" class="charts"></div>
 
-<div class="summary">
-
-<span class="ok">
-Backed Up :
-<span id="gOk">0</span>
-</span>
-
-<span class="stale">
-Stale :
-<span id="gStale">0</span>
-</span>
-
-<span class="bad">
-Missing :
-<span id="gBad">0</span>
-</span>
+<div id="list"></div>
 
 </div>
-
-<div class="charts" id="charts"></div>
-
-</div>
-
-
-<div class="controls">
-
-<strong>Region:</strong>
-
-<select id="region"></select>
-
-<input id="search" placeholder="Search cinema">
-
-</div>
-
-
-<div class="cards">
-
-<div class="card active" id="fAll">
-
-Total
-
-<div class="v" id="t">0</div>
-
-</div>
-
-
-<div class="card" id="fOk">
-
-<span class="ok">Backed Up</span>
-
-<div class="v" id="o">0</div>
-
-</div>
-
-
-<div class="card" id="fStale">
-
-<span class="stale">Stale</span>
-
-<div class="v" id="s">0</div>
-
-</div>
-
-
-<div class="card" id="fBad">
-
-<span class="bad">Missing</span>
-
-<div class="v" id="m">0</div>
-
-</div>
-
-</div>
-
-<div class="list" id="list"></div>
-
-<div class="footer">
-
-Auto-refresh every 30 seconds
-
-</div>
-
-</div>
-
 
 <script>
 
-let STATUS=null;
-
-let charts={};
-
-let query="";
-
-let currentFilter="all";
-
-let INACTIVE={};
-
-
-document.addEventListener("DOMContentLoaded",()=>{
-
-load();
-
-setInterval(load,30000);
-
-});
-
+let STATUS={regions:{}};
 
 async function load(){
 
+try{
+
 STATUS=await (await fetch("data/status.json",{cache:"no-store"})).json();
 
-INACTIVE=await (await fetch("inactive.json",{cache:"no-store"})).json();
+}catch{
 
-updated.textContent="Last updated : "+STATUS.generated_at;
-
-initRegions();
-
-buildDashboard();
-
-renderList();
+console.log("status.json not loaded");
 
 }
 
+document.getElementById("updated").textContent=
 
-function initRegions(){
+"Last Updated : "+(STATUS.generated_at||"--");
 
-if(region.options.length>0)return;
-
-Object.keys(STATUS.regions)
-
-.forEach(r=>region.add(new Option(r,r)));
-
-region.value=Object.keys(STATUS.regions)[0];
+buildCharts();
 
 }
 
+function buildCharts(){
 
-function buildDashboard(){
+const chartsDiv=document.getElementById("charts");
 
 chartsDiv.innerHTML="";
 
-Object.values(charts).forEach(c=>c.destroy());
+const regions=STATUS.regions||{};
 
-charts={};
+if(Object.keys(regions).length===0){
 
-let gOk=0,gStale=0,gMissing=0;
+createChart("No Data",{ok:0,stale:0,missing:0});
 
-for(const [region,cinemas] of Object.entries(STATUS.regions)){
+return;
+
+}
+
+for(const [region,cinemas] of Object.entries(regions)){
 
 let ok=0,stale=0,missing=0;
 
 Object.values(cinemas).forEach(c=>{
 
-if(c.status==="ok")ok++;
+if(c.status==="ok") ok++;
 
-else if(c.status==="stale")stale++;
+else if(c.status==="stale") stale++;
 
 else missing++;
 
 });
 
-gOk+=ok;
+createChart(region,{ok,stale,missing});
 
-gStale+=stale;
+}
 
-gMissing+=missing;
+}
+
+function createChart(region,data){
 
 const box=document.createElement("div");
 
 box.className="chart";
 
-box.innerHTML=`<b>${region}</b><canvas></canvas>`;
+box.innerHTML=`
 
-chartsDiv.appendChild(box);
+<b>${region}</b>
 
-charts[region]=new Chart(
+<canvas></canvas>
+
+<div>
+
+OK : ${data.ok}<br>
+
+Stale : ${data.stale}<br>
+
+Missing : ${data.missing}
+
+</div>
+
+`;
+
+charts.appendChild(box);
+
+new Chart(
 
 box.querySelector("canvas"),
 
@@ -334,168 +174,38 @@ data:{
 
 datasets:[{
 
-data:[ok,stale,missing],
+data:[data.ok,data.stale,data.missing],
 
-backgroundColor:["#16a34a","#ff9800","#dc2626"]
+backgroundColor:[
+
+"#16a34a",
+
+"#ff9800",
+
+"#dc2626"
+
+]
 
 }]
 
 },
 
-options:{plugins:{legend:{display:false}}}
+options:{
+
+plugins:{legend:{display:false}}
+
+}
 
 });
 
 }
 
-gOk.textContent=gOk;
+load();
 
-gStale.textContent=gStale;
-
-gBad.textContent=gMissing;
-
-}
-
-
-function renderList(){
-
-list.innerHTML="";
-
-let rows=[];
-
-for(const [regionName,cinemas] of Object.entries(STATUS.regions)){
-
-if(!query && regionName!==region.value)continue;
-
-for(const [name,cinema] of Object.entries(cinemas)){
-
-if(INACTIVE[regionName]?.includes(name))continue;
-
-if(query && !name.toLowerCase().includes(query))continue;
-
-if(!query && currentFilter!=="all" && cinema.status!==currentFilter)continue;
-
-rows.push({regionName,name,cinema});
-
-}
-
-}
-
-
-rows.sort((a,b)=>{
-
-const order={missing:0,stale:1,ok:2};
-
-return order[a.cinema.status]-order[b.cinema.status];
-
-});
-
-
-let total=0,ok=0,stale=0,missing=0;
-
-rows.forEach(r=>{
-
-total++;
-
-if(r.cinema.status==="ok")ok++;
-
-else if(r.cinema.status==="stale")stale++;
-
-else missing++;
-
-const dot=
-
-r.cinema.status==="ok"?"ok":
-
-r.cinema.status==="stale"?"stale":"bad";
-
-list.innerHTML+=`
-
-<div class="item">
-
-<span class="dot ${dot}"></span>
-
-<div>
-
-<div class="name">${r.name}</div>
-
-<div class="sub">
-
-${r.regionName} • Last backup :
-
-${r.cinema.last_backup||"—"}
-
-</div>
-
-</div>
-
-</div>
-
-`;
-
-});
-
-t.textContent=total;
-
-o.textContent=ok;
-
-s.textContent=stale;
-
-m.textContent=missing;
-
-}
-
-
-function setFilter(f){
-
-currentFilter=f;
-
-document.querySelectorAll(".card")
-
-.forEach(c=>c.classList.remove("active"));
-
-(f==="all"?fAll:
-
-f==="ok"?fOk:
-
-f==="stale"?fStale:fBad)
-
-.classList.add("active");
-
-renderList();
-
-}
-
-
-fAll.onclick=()=>setFilter("all");
-
-fOk.onclick=()=>setFilter("ok");
-
-fStale.onclick=()=>setFilter("stale");
-
-fBad.onclick=()=>setFilter("missing");
-
-
-search.oninput=e=>{
-
-query=e.target.value.toLowerCase().trim();
-
-renderList();
-
-};
-
-
-region.onchange=()=>{
-
-query="";
-
-search.value="";
-
-setFilter("all");
-
-};
+setInterval(load,30000);
 
 </script>
 
 </body>
+
 </html>
