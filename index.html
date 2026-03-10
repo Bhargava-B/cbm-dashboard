@@ -13,263 +13,228 @@
 --bg:#f4f6f9;
 --card:#ffffff;
 --ok:#16a34a;
---ok-bg:#f0fdf4;
---ok-border:#bbf7d0;
 --bad:#dc2626;
---bad-bg:#fef2f2;
---bad-border:#fecaca;
 --muted:#6b7280;
 --primary:#2563eb;
---primary-bg:#eff6ff;
---primary-border:#bfdbfe;
---border:#e5e7eb;
---text:#111827;
 }
 
 *{box-sizing:border-box}
 
 body{
 margin:0;
-font-family:Segoe UI,Arial,sans-serif;
+font-family:Segoe UI,Arial;
 background:var(--bg);
-color:var(--text);
 }
 
 header{
 background:linear-gradient(135deg,#1e3a8a,#2563eb);
 color:white;
-padding:20px 24px;
-}
-
-header h2{
-font-size:20px;
-font-weight:700;
-margin:0 0 4px;
-}
-
-#updated{
-font-size:12px;
-opacity:0.75;
+padding:20px;
 }
 
 .container{
-padding:24px;
+padding:25px;
 }
 
-/* ── GLOBAL SUMMARY ── */
 .summary{
-margin-bottom:20px;
+margin-bottom:18px;
 font-size:15px;
-display:flex;
-align-items:center;
-gap:6px;
 }
 
-.summary .ok{color:var(--ok);font-weight:700;}
-.summary .bad{color:var(--bad);font-weight:700;}
-.summary .sep{color:var(--muted);}
+.summary .ok{
+color:var(--ok);
+font-weight:600;
+}
+
+.summary .bad{
+color:var(--bad);
+font-weight:600;
+}
 
 
-/* ── REGION GRID ── */
+/* BIGGER REGION GRID */
+
 .region-grid{
+
 display:grid;
-grid-template-columns:repeat(auto-fill,minmax(200px,1fr));
-gap:12px;
+
+grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+
+gap:18px;
+
 margin-bottom:20px;
+
 }
 
 .region-card{
+
 background:var(--card);
-border:1px solid var(--border);
-border-radius:10px;
-padding:14px;
-box-shadow:0 2px 6px rgba(0,0,0,.06);
+
+padding:22px;
+
+border-radius:12px;
+
+box-shadow:0 3px 8px rgba(0,0,0,.08);
+
 cursor:pointer;
-transition:transform .18s, box-shadow .18s;
+
+transition:.2s;
+
+min-height:130px;
+
 }
 
 .region-card:hover{
-transform:translateY(-2px);
-box-shadow:0 6px 16px rgba(0,0,0,.1);
+
+transform:translateY(-3px);
+
 }
 
 .region-card.active{
-border:2px solid var(--primary);
-background:var(--primary-bg);
+
+outline:2px solid var(--primary);
+
 }
 
 .region-title{
-font-weight:700;
-font-size:14px;
-color:var(--text);
-margin-bottom:6px;
-letter-spacing:0.01em;
-}
 
-.region-total{
-font-size:11px;
-color:var(--muted);
-font-weight:500;
-margin-bottom:8px;
-}
-
-.region-total span{
-font-size:15px;
-font-weight:800;
-color:var(--text);
-margin-left:3px;
-}
-
-.region-stats{
-display:flex;
-gap:8px;
-}
-
-.rstat{
-flex:1;
-border-radius:7px;
-padding:7px 10px;
-display:flex;
-flex-direction:column;
-gap:1px;
-}
-
-.rstat.ok-stat{
-background:var(--ok-bg);
-border:1px solid var(--ok-border);
-}
-
-.rstat.bad-stat{
-background:var(--bad-bg);
-border:1px solid var(--bad-border);
-}
-
-.rstat .snum{
-font-size:20px;
-font-weight:800;
-line-height:1;
-letter-spacing:-0.02em;
-}
-
-.rstat.ok-stat  .snum{color:var(--ok);}
-.rstat.bad-stat .snum{color:var(--bad);}
-
-.rstat .slabel{
-font-size:9px;
-font-weight:700;
-text-transform:uppercase;
-letter-spacing:0.07em;
-margin-top:1px;
-}
-
-.rstat.ok-stat  .slabel{color:#15803d;}
-.rstat.bad-stat .slabel{color:#b91c1c;}
-
-.rstat .sview{
-margin-top:6px;
-padding:4px 0;
-border-radius:4px;
-border:none;
-font-size:10px;
 font-weight:600;
+
+margin-bottom:8px;
+
+font-size:16px;
+
+}
+
+.ok{color:var(--ok)}
+
+.bad{color:var(--bad)}
+
+
+/* BUTTONS */
+
+.filter-btn{
+
+margin-left:10px;
+
+padding:4px 10px;
+
+border-radius:6px;
+
+border:none;
+
+font-size:12px;
+
 cursor:pointer;
-width:100%;
-font-family:inherit;
-transition:opacity .15s;
+
+color:white;
+
 }
 
-.rstat.ok-stat  .sview{background:#16a34a;color:#fff;}
-.rstat.bad-stat .sview{background:#dc2626;color:#fff;}
-.rstat .sview:hover{opacity:.82;}
+.btn-ok{
 
-.rbar{
-height:3px;
-background:#e5e7eb;
-border-radius:2px;
-margin-top:10px;
-overflow:hidden;
-}
-.rbar-fill{
-height:100%;
-background:var(--ok);
-border-radius:2px;
-transition:width .5s ease;
+background:#16a34a;
+
 }
 
+.btn-bad{
 
-/* ── SEARCH ── */
+background:#dc2626;
+
+}
+
+.filter-btn:hover{
+
+opacity:.85;
+
+}
+
 .search-bar{
-margin-bottom:16px;
+
+margin-bottom:15px;
+
 }
 
 .search-bar input{
+
 width:100%;
-padding:10px 14px;
+
+padding:10px;
+
 border-radius:8px;
-border:1px solid var(--border);
-font-size:13px;
-font-family:inherit;
-background:var(--card);
-color:var(--text);
-outline:none;
-box-shadow:0 1px 3px rgba(0,0,0,.05);
-transition:border-color .15s;
+
+border:1px solid #d1d5db;
+
 }
 
-.search-bar input:focus{border-color:var(--primary);}
-.search-bar input::placeholder{color:#b0b8c4;}
-
-
-/* ── CINEMA LIST ── */
 .list{
+
 background:var(--card);
+
 border-radius:10px;
-border:1px solid var(--border);
+
 overflow:auto;
+
 max-height:65vh;
+
 box-shadow:0 2px 6px rgba(0,0,0,.05);
+
 }
 
 .item{
-display:flex;
-gap:10px;
-align-items:center;
-padding:11px 16px;
-border-bottom:1px solid #f3f4f6;
-transition:background .1s;
-}
 
-.item:hover{background:#f9fafb;}
-.item:last-child{border-bottom:none;}
+display:flex;
+
+gap:10px;
+
+padding:12px 16px;
+
+border-bottom:1px solid #eee;
+
+}
 
 .dot{
+
 width:10px;
+
 height:10px;
+
 border-radius:50%;
-flex-shrink:0;
+
+margin-top:5px;
+
 }
 
-.dot.ok {background:var(--ok);}
-.dot.bad{background:var(--bad);}
+.dot.ok{background:var(--ok)}
+
+.dot.bad{background:var(--bad)}
 
 .name{
+
 font-size:14px;
+
 font-weight:500;
+
 }
 
 .sub{
+
 font-size:12px;
+
 color:var(--muted);
-margin-top:1px;
+
 }
 
-
-/* ── FOOTER ── */
 .footer{
+
 text-align:center;
+
 font-size:12px;
+
 color:var(--muted);
-margin-top:14px;
+
+margin-top:12px;
+
 }
 
 </style>
@@ -279,136 +244,347 @@ margin-top:14px;
 <body>
 
 <header>
+
 <h2>CBM – Centralized Backup Monitoring</h2>
+
 <div id="updated"></div>
+
 </header>
 
 <div class="container">
 
 <div class="summary">
-<span class="ok">Total Backed Up : <span id="gOk">0</span></span>
-<span class="sep">&nbsp;|&nbsp;</span>
-<span class="bad">Total Missing : <span id="gBad">0</span></span>
+
+<span class="ok">
+
+Total Backed Up :
+
+<span id="gOk">0</span>
+
+</span>
+
+&nbsp; | &nbsp;
+
+<span class="bad">
+
+Total Missing :
+
+<span id="gBad">0</span>
+
+</span>
+
 </div>
 
 <div id="regionGrid" class="region-grid"></div>
 
 <div class="search-bar">
+
 <input id="search" placeholder="Search cinema...">
+
 </div>
 
 <div id="list" class="list"></div>
 
-<div class="footer">Auto-refresh every 30 seconds</div>
+<div class="footer">
+
+Auto-refresh every 30 seconds
+
+</div>
 
 </div>
 
 <script>
 
 let STATUS=null;
+
 let INACTIVE={};
+
 let activeRegion=null;
+
 let statusFilter="all";
 
+
 document.addEventListener("DOMContentLoaded",()=>{
+
 load();
+
 setInterval(load,30000);
+
 });
 
 async function load(){
+
 try{
+
 const res=await fetch("data/status.json",{cache:"no-store"});
+
 STATUS=await res.json();
+
 try{
-const ir=await fetch("inactive.json",{cache:"no-store"});
-INACTIVE=await ir.json();
+
+const inactiveRes=
+
+await fetch("inactive.json",{cache:"no-store"});
+
+INACTIVE=await inactiveRes.json();
+
 }catch{}
-document.getElementById("updated").textContent="Last updated: "+STATUS.generated_at;
+
+document.getElementById("updated")
+
+.textContent="Last updated: "+STATUS.generated_at;
+
 buildRegions();
+
 renderList();
-}catch(e){console.error(e);}
+
 }
+
+catch(e){
+
+console.error(e);
+
+}
+
+}
+
 
 function setRegionFilter(region,status){
+
 activeRegion=region;
+
 statusFilter=status;
+
 buildRegions();
+
 renderList();
+
 }
+
+
 
 function buildRegions(){
-const grid=document.getElementById("regionGrid");
+
+const grid=
+
+document.getElementById("regionGrid");
+
 grid.innerHTML="";
-let globalOk=0,globalMissing=0;
 
-for(const [region,cinemas] of Object.entries(STATUS.regions)){
-let total=0,ok=0,missing=0;
-for(const [name,c] of Object.entries(cinemas)){
-if(INACTIVE[region]&&INACTIVE[region].includes(name))continue;
+let globalOk=0;
+
+let globalMissing=0;
+
+for(const [region,cinemas]
+
+of Object.entries(STATUS.regions)){
+
+let total=0;
+
+let ok=0;
+
+let missing=0;
+
+for(const [name,c]
+
+of Object.entries(cinemas)){
+
+if(INACTIVE[region] &&
+
+INACTIVE[region].includes(name))
+
+continue;
+
 total++;
-if(c.status==="ok")ok++;
-else missing++;
-}
-globalOk+=ok;
-globalMissing+=missing;
-const pct=total?Math.round((ok/total)*100):0;
 
-const card=document.createElement("div");
-card.className="region-card"+(activeRegion===region?" active":"");
+if(c.status==="ok") ok++;
+
+else missing++;
+
+}
+
+globalOk+=ok;
+
+globalMissing+=missing;
+
+const card=
+
+document.createElement("div");
+
+card.className="region-card";
+
+if(activeRegion===region)
+
+card.classList.add("active");
 
 card.innerHTML=`
-<div class="region-title">${region}</div>
-<div class="region-total">Total Cinemas : <span>${total}</span></div>
-<div class="region-stats">
-  <div class="rstat ok-stat">
-    <div class="snum">${ok}</div>
-    <div class="slabel">Synced</div>
-    <button class="sview" onclick="event.stopPropagation();setRegionFilter('${region}','ok')">View</button>
-  </div>
-  <div class="rstat bad-stat">
-    <div class="snum">${missing}</div>
-    <div class="slabel">Failed</div>
-    <button class="sview" onclick="event.stopPropagation();setRegionFilter('${region}','missing')">View</button>
-  </div>
+
+<div class="region-title">
+
+${region}
+
 </div>
-<div class="rbar"><div class="rbar-fill" style="width:${pct}%"></div></div>
+
+<div>Total : ${total}</div>
+
+<div class="ok">
+
+Synced : ${ok}
+
+<button class="filter-btn btn-ok"
+
+onclick="event.stopPropagation();
+
+setRegionFilter('${region}','ok')">
+
+View
+
+</button>
+
+</div>
+
+<div class="bad">
+
+Failed : ${missing}
+
+<button class="filter-btn btn-bad"
+
+onclick="event.stopPropagation();
+
+setRegionFilter('${region}','missing')">
+
+View
+
+</button>
+
+</div>
+
 `;
 
 card.onclick=()=>{
+
 statusFilter="all";
-activeRegion=activeRegion===region?null:region;
+
+activeRegion=
+
+activeRegion===region?
+
+null:region;
+
 buildRegions();
+
 renderList();
+
 };
 
 grid.appendChild(card);
+
 }
 
-document.getElementById("gOk").textContent=globalOk;
-document.getElementById("gBad").textContent=globalMissing;
+document.getElementById("gOk")
+
+.textContent=globalOk;
+
+document.getElementById("gBad")
+
+.textContent=globalMissing;
+
 }
+
+
 
 function renderList(){
-const list=document.getElementById("list");
-list.innerHTML="";
-const query=document.getElementById("search").value.toLowerCase().trim();
 
-for(const [region,cinemas] of Object.entries(STATUS.regions)){
-if(activeRegion&&region!==activeRegion)continue;
-for(const [name,c] of Object.entries(cinemas)){
-if(INACTIVE[region]&&INACTIVE[region].includes(name))continue;
-if(query&&!name.toLowerCase().includes(query))continue;
-if(statusFilter!=="all"&&c.status!==statusFilter)continue;
+const list=document.getElementById("list");
+
+list.innerHTML="";
+
+const query=
+
+document.getElementById("search")
+
+.value
+
+.toLowerCase()
+
+.trim();
+
+for(const [region,cinemas]
+
+of Object.entries(STATUS.regions)){
+
+if(activeRegion &&
+
+region!==activeRegion)
+
+continue;
+
+for(const [name,c]
+
+of Object.entries(cinemas)){
+
+if(INACTIVE[region] &&
+
+INACTIVE[region]
+
+.includes(name))
+
+continue;
+
+if(query &&
+
+!name.toLowerCase()
+
+.includes(query))
+
+continue;
+
+if(statusFilter!=="all" &&
+
+c.status!==statusFilter)
+
+continue;
+
 list.innerHTML+=`
+
 <div class="item">
-  <span class="dot ${c.status==="ok"?"ok":"bad"}"></span>
-  <div>
-    <div class="name">${name}</div>
-    <div class="sub">${region} &bull; Last backup : ${c.last_backup||"—"}</div>
-  </div>
-</div>`;
+
+<span class="dot
+
+${c.status==="ok"?"ok":"bad"}">
+
+</span>
+
+<div>
+
+<div class="name">
+
+${name}
+
+</div>
+
+<div class="sub">
+
+${region}
+
+•
+
+Last backup :
+
+${c.last_backup || "—"}
+
+</div>
+
+</div>
+
+</div>
+
+`;
+
 }
+
 }
+
 }
 
 search.oninput=renderList;
@@ -416,4 +592,5 @@ search.oninput=renderList;
 </script>
 
 </body>
+
 </html>
