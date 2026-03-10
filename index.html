@@ -73,16 +73,16 @@ gap:6px;
 /* ── REGION GRID ── */
 .region-grid{
 display:grid;
-grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
-gap:16px;
-margin-bottom:22px;
+grid-template-columns:repeat(auto-fill,minmax(200px,1fr));
+gap:12px;
+margin-bottom:20px;
 }
 
 .region-card{
 background:var(--card);
 border:1px solid var(--border);
-border-radius:12px;
-padding:20px;
+border-radius:10px;
+padding:14px;
 box-shadow:0 2px 6px rgba(0,0,0,.06);
 cursor:pointer;
 transition:transform .18s, box-shadow .18s;
@@ -100,38 +100,38 @@ background:var(--primary-bg);
 
 .region-title{
 font-weight:700;
-font-size:15px;
+font-size:14px;
 color:var(--text);
-margin-bottom:10px;
+margin-bottom:6px;
 letter-spacing:0.01em;
 }
 
 .region-total{
-font-size:12px;
+font-size:11px;
 color:var(--muted);
 font-weight:500;
-margin-bottom:12px;
+margin-bottom:8px;
 }
 
 .region-total span{
-font-size:18px;
+font-size:15px;
 font-weight:800;
 color:var(--text);
-margin-left:4px;
+margin-left:3px;
 }
 
 .region-stats{
 display:flex;
-gap:10px;
+gap:8px;
 }
 
 .rstat{
 flex:1;
-border-radius:8px;
-padding:10px 12px;
+border-radius:7px;
+padding:7px 10px;
 display:flex;
 flex-direction:column;
-gap:2px;
+gap:1px;
 }
 
 .rstat.ok-stat{
@@ -145,7 +145,7 @@ border:1px solid var(--bad-border);
 }
 
 .rstat .snum{
-font-size:26px;
+font-size:20px;
 font-weight:800;
 line-height:1;
 letter-spacing:-0.02em;
@@ -155,22 +155,22 @@ letter-spacing:-0.02em;
 .rstat.bad-stat .snum{color:var(--bad);}
 
 .rstat .slabel{
-font-size:10px;
+font-size:9px;
 font-weight:700;
 text-transform:uppercase;
 letter-spacing:0.07em;
-margin-top:2px;
+margin-top:1px;
 }
 
 .rstat.ok-stat  .slabel{color:#15803d;}
 .rstat.bad-stat .slabel{color:#b91c1c;}
 
 .rstat .sview{
-margin-top:8px;
-padding:5px 0;
-border-radius:5px;
+margin-top:6px;
+padding:4px 0;
+border-radius:4px;
 border:none;
-font-size:11px;
+font-size:10px;
 font-weight:600;
 cursor:pointer;
 width:100%;
@@ -186,7 +186,7 @@ transition:opacity .15s;
 height:3px;
 background:#e5e7eb;
 border-radius:2px;
-margin-top:12px;
+margin-top:10px;
 overflow:hidden;
 }
 .rbar-fill{
