@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-03-16 12:00:03",
+    "generated_at":  "2026-03-16 19:08:02",
     "regions":  {
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -147,8 +147,8 @@
                                                                                         "status":  "missing"
                                                                                     },
                                "Gayathri Talkies -Mysuru":  {
-                                                                "last_backup":  null,
-                                                                "status":  "missing"
+                                                                "last_backup":  "2026-03-16",
+                                                                "status":  "ok"
                                                             },
                                "Maruthi Digital -Tumkuru":  {
                                                                 "last_backup":  null,
@@ -219,8 +219,8 @@
                                                            "status":  "missing"
                                                        },
                                "Lido Theater -Mysore":  {
-                                                            "last_backup":  null,
-                                                            "status":  "missing"
+                                                            "last_backup":  "2026-03-16",
+                                                            "status":  "ok"
                                                         },
                                "Narthaki 4K Dolby 7.1 Digital S R - Gandhi Nagar":  {
                                                                                         "last_backup":  null,
@@ -339,8 +339,8 @@
                                                                          "status":  "missing"
                                                                      },
                                "VISION Cinemas -Mysore":  {
-                                                              "last_backup":  "2026-03-09",
-                                                              "status":  "missing"
+                                                              "last_backup":  "2026-03-16",
+                                                              "status":  "ok"
                                                           },
                                "V Cinema Vijayalakshmi Theatre - Garudacharpalya":  {
                                                                                         "last_backup":  null,
@@ -470,6 +470,10 @@
                                                                                           "last_backup":  null,
                                                                                           "status":  "missing"
                                                                                       },
+                               "Woodlands Theatre: KR Circle":  {
+                                                                    "last_backup":  "2026-03-16",
+                                                                    "status":  "ok"
+                                                                },
                                "Ganga Theatre - Bellary":  {
                                                                "last_backup":  null,
                                                                "status":  "missing"
@@ -629,8 +633,8 @@
                                                                      "status":  "missing"
                                                                  },
                                "Vitross Cineplex - Miryalaguda":  {
-                                                                      "last_backup":  "2026-03-14",
-                                                                      "status":  "missing"
+                                                                      "last_backup":  "2026-03-16",
+                                                                      "status":  "ok"
                                                                   },
                                "Srinivasa Picture Palace - Sathupally":  {
                                                                              "last_backup":  null,
