@@ -491,7 +491,7 @@ function buildRegions() {
     card.innerHTML = `
       <div class="region-header">
         <span class="rdot" style="background:${color}"></span>
-        ${region} Region
+        ${region === 'Asian' ? 'Asian Cinemas' : region + ' Region'}
       </div>
       <div class="rrow"><span>Total</span><span>${total}</span></div>
       <div class="rrow"><span style="color:#166534">Synced</span><span style="color:#166534">${ok}</span></div>
