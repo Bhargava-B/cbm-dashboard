@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-03-27 21:00:02",
+    "generated_at":  "2026-03-27 22:00:02",
     "regions":  {
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -118,6 +118,10 @@
                                                                                        "last_backup":  null,
                                                                                        "status":  "missing"
                                                                                    },
+                               "Vaibhavi ":  {
+                                                 "last_backup":  "2026-03-27",
+                                                 "status":  "ok"
+                                             },
                                "Prakash Digital 4K Cinema - Belagavi":  {
                                                                             "last_backup":  "2026-03-26",
                                                                             "status":  "missing"
@@ -175,8 +179,8 @@
                                                                                      "status":  "missing"
                                                                                  },
                                "Srinivasa Theater Kadugudi 4K Dolby Atmos":  {
-                                                                                 "last_backup":  null,
-                                                                                 "status":  "missing"
+                                                                                 "last_backup":  "2026-03-27",
+                                                                                 "status":  "ok"
                                                                              },
                                "Triveni Theatre A":  {
                                                          "last_backup":  null,
