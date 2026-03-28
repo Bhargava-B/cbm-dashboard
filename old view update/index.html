@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>CBM – Centralized Backup Monitoring</title>
+
+<style>
+
+:root{
+--bg:#f4f6f9;
+--card:#ffffff;
+--ok:#16a34a;
+--bad:#dc2626;
+--muted:#6b7280;
+--primary:#2563eb;
+}
+
+*{box-sizing:border-box}
+
+body{
+margin:0;
+font-family:Segoe UI,Arial;
+background:var(--bg);
+}
+
+header{
+background:linear-gradient(135deg,#1e3a8a,#2563eb);
+color:white;
+padding:20px;
+}
+
+.container{
+padding:25px;
+}
+
+.summary{
+margin-bottom:18px;
+font-size:15px;
+}
+
+.summary .ok{
+color:var(--ok);
+font-weight:600;
+}
+
+.summary .bad{
+color:var(--bad);
+font-weight:600;
+}
+
+
+/* BIGGER REGION GRID */
+
+.region-grid{
+
+display:grid;
+
+grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+
+gap:18px;
+
+margin-bottom:20px;
+
+}
+
+.region-card{
+
+background:var(--card);
+
+padding:22px;
+
+border-radius:12px;
+
+box-shadow:0 3px 8px rgba(0,0,0,.08);
+
+cursor:pointer;
+
+transition:.2s;
+
+min-height:130px;
+
+}
+
+.region-card:hover{
+
+transform:translateY(-3px);
+
+}
+
+.region-card.active{
+
+outline:2px solid var(--primary);
+
+}
+
+.region-title{
+
+font-weight:600;
+
+margin-bottom:8px;
+
+font-size:16px;
+
+}
+
+.ok{color:var(--ok)}
+
+.bad{color:var(--bad)}
+
+
+/* BUTTONS */
+
+.filter-btn{
+
+margin-left:10px;
+
+padding:4px 10px;
+
+border-radius:6px;
+
+border:none;
+
+font-size:12px;
+
+cursor:pointer;
+
+color:white;
+
+}
+
+.btn-ok{
+
+background:#16a34a;
+
+}
+
+.btn-bad{
+
+background:#dc2626;
+
+}
+
+.filter-btn:hover{
+
+opacity:.85;
+
+}
+
+.search-bar{
+
+margin-bottom:15px;
+
+}
+
+.search-bar input{
+
+width:100%;
+
+padding:10px;
+
+border-radius:8px;
+
+border:1px solid #d1d5db;
+
+}
+
+.list{
+
+background:var(--card);
+
+border-radius:10px;
+
+overflow:auto;
+
+max-height:65vh;
+
+box-shadow:0 2px 6px rgba(0,0,0,.05);
+
+}
+
+.item{
+
+display:flex;
+
+gap:10px;
+
+padding:12px 16px;
+
+border-bottom:1px solid #eee;
+
+}
+
+.dot{
+
+width:10px;
+
+height:10px;
+
+border-radius:50%;
+
+margin-top:5px;
+
+}
+
+.dot.ok{background:var(--ok)}
+
+.dot.bad{background:var(--bad)}
+
+.name{
+
+font-size:14px;
+
+font-weight:500;
+
+}
+
+.sub{
+
+font-size:12px;
+
+color:var(--muted);
+
+}
+
+.footer{
+
+text-align:center;
+
+font-size:12px;
+
+color:var(--muted);
+
+margin-top:12px;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h2>CBM – Centralized Backup Monitoring</h2>
+
+<div id="updated"></div>
+
+</header>
+
+<div class="container">
+
+<div class="summary">
+
+<span class="ok">
+
+Total Backed Up :
+
+<span id="gOk">0</span>
+
+</span>
+
+&nbsp; | &nbsp;
+
+<span class="bad">
+
+Total Missing :
+
+<span id="gBad">0</span>
+
+</span>
+
+</div>
+
+<div id="regionGrid" class="region-grid"></div>
+
+<div class="search-bar">
+
+<input id="search" placeholder="Search cinema...">
+
+</div>
+
+<div id="list" class="list"></div>
+
+<div class="footer">
+
+Auto-refresh every 30 seconds
+
+</div>
+
+</div>
+
+<script>
+
+let STATUS=null;
+
+let INACTIVE={};
+
+let activeRegion=null;
+
+let statusFilter="all";
+
+
+document.addEventListener("DOMContentLoaded",()=>{
+
+load();
+
+setInterval(load,30000);
+
+});
+
+async function load(){
+
+try{
+
+const res=await fetch("data/status.json",{cache:"no-store"});
+
+STATUS=await res.json();
+
+try{
+
+const inactiveRes=
+
+await fetch("inactive.json",{cache:"no-store"});
+
+INACTIVE=await inactiveRes.json();
+
+}catch{}
+
+document.getElementById("updated")
+
+.textContent="Last updated: "+STATUS.generated_at;
+
+buildRegions();
+
+renderList();
+
+}
+
+catch(e){
+
+console.error(e);
+
+}
+
+}
+
+
+function setRegionFilter(region,status){
+
+activeRegion=region;
+
+statusFilter=status;
+
+buildRegions();
+
+renderList();
+
+}
+
+
+
+function buildRegions(){
+
+const grid=
+
+document.getElementById("regionGrid");
+
+grid.innerHTML="";
+
+let globalOk=0;
+
+let globalMissing=0;
+
+for(const [region,cinemas]
+
+of Object.entries(STATUS.regions)){
+
+let total=0;
+
+let ok=0;
+
+let missing=0;
+
+for(const [name,c]
+
+of Object.entries(cinemas)){
+
+if(INACTIVE[region] &&
+
+INACTIVE[region].includes(name))
+
+continue;
+
+total++;
+
+if(c.status==="ok") ok++;
+
+else missing++;
+
+}
+
+globalOk+=ok;
+
+globalMissing+=missing;
+
+const card=
+
+document.createElement("div");
+
+card.className="region-card";
+
+if(activeRegion===region)
+
+card.classList.add("active");
+
+card.innerHTML=`
+
+<div class="region-title">
+
+${region}
+
+</div>
+
+<div>Total : ${total}</div>
+
+<div class="ok">
+
+Synced : ${ok}
+
+<button class="filter-btn btn-ok"
+
+onclick="event.stopPropagation();
+
+setRegionFilter('${region}','ok')">
+
+View
+
+</button>
+
+</div>
+
+<div class="bad">
+
+Failed : ${missing}
+
+<button class="filter-btn btn-bad"
+
+onclick="event.stopPropagation();
+
+setRegionFilter('${region}','missing')">
+
+View
+
+</button>
+
+</div>
+
+`;
+
+card.onclick=()=>{
+
+statusFilter="all";
+
+activeRegion=
+
+activeRegion===region?
+
+null:region;
+
+buildRegions();
+
+renderList();
+
+};
+
+grid.appendChild(card);
+
+}
+
+document.getElementById("gOk")
+
+.textContent=globalOk;
+
+document.getElementById("gBad")
+
+.textContent=globalMissing;
+
+}
+
+
+
+function renderList(){
+
+const list=document.getElementById("list");
+
+list.innerHTML="";
+
+const query=
+
+document.getElementById("search")
+
+.value
+
+.toLowerCase()
+
+.trim();
+
+for(const [region,cinemas]
+
+of Object.entries(STATUS.regions)){
+
+if(activeRegion &&
+
+region!==activeRegion)
+
+continue;
+
+for(const [name,c]
+
+of Object.entries(cinemas)){
+
+if(INACTIVE[region] &&
+
+INACTIVE[region]
+
+.includes(name))
+
+continue;
+
+if(query &&
+
+!name.toLowerCase()
+
+.includes(query))
+
+continue;
+
+if(statusFilter!=="all" &&
+
+c.status!==statusFilter)
+
+continue;
+
+list.innerHTML+=`
+
+<div class="item">
+
+<span class="dot
+
+${c.status==="ok"?"ok":"bad"}">
+
+</span>
+
+<div>
+
+<div class="name">
+
+${name}
+
+</div>
+
+<div class="sub">
+
+${region}
+
+•
+
+Last backup :
+
+${c.last_backup || "—"}
+
+</div>
+
+</div>
+
+</div>
+
+`;
+
+}
+
+}
+
+}
+
+search.oninput=renderList;
+
+</script>
+
+</body>
+
+</html>
