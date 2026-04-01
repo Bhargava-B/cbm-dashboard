@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-04-01 09:00:04",
+    "generated_at":  "2026-04-01 10:00:05",
     "regions":  {
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -423,8 +423,8 @@
                                                                                  "status":  "ok"
                                                                              },
                                "Jai Bharath Theatre -Tumkur":  {
-                                                                   "last_backup":  "2026-03-31",
-                                                                   "status":  "missing"
+                                                                   "last_backup":  "2026-04-01",
+                                                                   "status":  "ok"
                                                                },
                                "Ravi Digital 4K A":  {
                                                          "last_backup":  null,
@@ -894,6 +894,10 @@
                                                                                       "last_backup":  "2026-03-31",
                                                                                       "status":  "missing"
                                                                                   },
+                                  "Asian Sha Shahensha - Chintal":  {
+                                                                        "last_backup":  "2026-04-01",
+                                                                        "status":  "ok"
+                                                                    },
                                   "Asian Sailaja - Vikarabad":  {
                                                                     "last_backup":  "2026-04-01",
                                                                     "status":  "ok"
@@ -918,10 +922,10 @@
                                                                     "last_backup":  "2026-04-01",
                                                                     "status":  "ok"
                                                                 },
-                                  "Asian Sha Shahensha - Chintal":  {
-                                                                        "last_backup":  "2026-03-31",
-                                                                        "status":  "missing"
-                                                                    },
+                                  "Asian Cinemart - RC Puram":  {
+                                                                    "last_backup":  "2026-03-31",
+                                                                    "status":  "missing"
+                                                                },
                                   "Asian Urvasi 70MM - Godavarikhani":  {
                                                                             "last_backup":  "2026-04-01",
                                                                             "status":  "ok"
@@ -966,10 +970,6 @@
                                                                                   "last_backup":  "2026-04-01",
                                                                                   "status":  "ok"
                                                                               },
-                                  "Asian Cinemart - RC Puram":  {
-                                                                    "last_backup":  "2026-03-31",
-                                                                    "status":  "missing"
-                                                                },
                                   "Asian Sitara - Sangareddy":  {
                                                                     "last_backup":  "2026-04-01",
                                                                     "status":  "ok"
