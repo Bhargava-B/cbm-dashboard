@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-04-02 20:00:04",
+    "generated_at":  "2026-04-02 21:09:15",
     "regions":  {
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -496,10 +496,10 @@
                                                  }
                            },
                     "TG":  {
-                               "Radhika Theater":  {
-                                                       "last_backup":  null,
-                                                       "status":  "missing"
-                                                   },
+                               "Sri Venkateshwara":  {
+                                                         "last_backup":  "2026-04-02",
+                                                         "status":  "ok"
+                                                     },
                                "Sri Balaji Theater":  {
                                                           "last_backup":  null,
                                                           "status":  "missing"
@@ -524,18 +524,14 @@
                                                                              "last_backup":  "2026-04-02",
                                                                              "status":  "ok"
                                                                          },
-                               "Sandhya 35mm - RTC X Road":  {
-                                                                 "last_backup":  "2026-04-02",
-                                                                 "status":  "ok"
-                                                             },
+                               "Seetarama Cinemas - Manuguru":  {
+                                                                    "last_backup":  null,
+                                                                    "status":  "missing"
+                                                                },
                                "Ramakrishna Glitterati - Abids":  {
                                                                       "last_backup":  "2026-04-02",
                                                                       "status":  "ok"
                                                                   },
-                               "Sri Sai Ram 70mm AC 4k Dolby Atmos - Malkajgiri":  {
-                                                                                       "last_backup":  null,
-                                                                                       "status":  "missing"
-                                                                                   },
                                "Santhi Theatre - Madhira":  {
                                                                 "last_backup":  null,
                                                                 "status":  "missing"
@@ -561,17 +557,17 @@
                                                                      "status":  "ok"
                                                                  },
                                "Cinemax - Vikarabad":  {
-                                                           "last_backup":  null,
-                                                           "status":  "missing"
+                                                           "last_backup":  "2026-04-02",
+                                                           "status":  "ok"
                                                        },
                                "Maheshwari Theater":  {
                                                           "last_backup":  null,
                                                           "status":  "missing"
                                                       },
-                               "cinemax - Medak":  {
-                                                       "last_backup":  "2026-04-02",
-                                                       "status":  "ok"
-                                                   },
+                               "SR CINEMAS MANTHANI":  {
+                                                           "last_backup":  "2026-04-02",
+                                                           "status":  "ok"
+                                                       },
                                "Bhramaramba 70MM AC Dts - Kukatpally":  {
                                                                             "last_backup":  null,
                                                                             "status":  "missing"
@@ -581,17 +577,17 @@
                                                                            "status":  "ok"
                                                                        },
                                "Indra Venkataramana Padmavati Cinema - Kachiguda":  {
-                                                                                        "last_backup":  null,
-                                                                                        "status":  "missing"
+                                                                                        "last_backup":  "2026-04-02",
+                                                                                        "status":  "ok"
                                                                                     },
                                "Ashwini Theater":  {
                                                        "last_backup":  null,
                                                        "status":  "missing"
                                                    },
-                               "ALLU CINEMAS":  {
-                                                    "last_backup":  null,
-                                                    "status":  "missing"
-                                                },
+                               "Radhika Theater":  {
+                                                       "last_backup":  "2026-04-02",
+                                                       "status":  "ok"
+                                                   },
                                "Srinivasa Picture Palace - Sathupally":  {
                                                                              "last_backup":  null,
                                                                              "status":  "missing"
@@ -624,17 +620,13 @@
                                                                  "last_backup":  "2026-04-02",
                                                                  "status":  "ok"
                                                              },
-                               "Vinoda 2K Dolby Atmos - Khammam":  {
-                                                                       "last_backup":  null,
-                                                                       "status":  "missing"
-                                                                   },
                                "GPR Multiplex - Nizampet Hyderabad":  {
                                                                           "last_backup":  "2026-04-02",
                                                                           "status":  "ok"
                                                                       },
                                "Vijetha 70MM 4k Atmos - Borabanda":  {
-                                                                         "last_backup":  null,
-                                                                         "status":  "missing"
+                                                                         "last_backup":  "2026-04-02",
+                                                                         "status":  "ok"
                                                                      },
                                "Sri Sai Baba - Shadnagar":  {
                                                                 "last_backup":  "2026-04-02",
@@ -660,10 +652,14 @@
                                                                               "last_backup":  null,
                                                                               "status":  "missing"
                                                                           },
-                               "SR CINEMAS RAMLAXMAN - Warangal":  {
-                                                                       "last_backup":  null,
-                                                                       "status":  "missing"
-                                                                   },
+                               "cinemax - Medak":  {
+                                                       "last_backup":  "2026-04-02",
+                                                       "status":  "ok"
+                                                   },
+                               "Sandhya 35mm - RTC X Road":  {
+                                                                 "last_backup":  "2026-04-02",
+                                                                 "status":  "ok"
+                                                             },
                                "Bhujanga 70MM - Jeedimetla":  {
                                                                   "last_backup":  "2026-04-02",
                                                                   "status":  "ok"
@@ -672,10 +668,6 @@
                                                            "last_backup":  "2026-04-02",
                                                            "status":  "ok"
                                                        },
-                               "Seetarama Cinemas - Manuguru":  {
-                                                                    "last_backup":  null,
-                                                                    "status":  "missing"
-                                                                },
                                "Sri Prema - Thukkuguda":  {
                                                               "last_backup":  null,
                                                               "status":  "missing"
@@ -685,8 +677,8 @@
                                                                  "status":  "missing"
                                                              },
                                "VLS Sridevi 2K AC Dts - Chilakalguda":  {
-                                                                            "last_backup":  null,
-                                                                            "status":  "missing"
+                                                                            "last_backup":  "2026-04-02",
+                                                                            "status":  "ok"
                                                                         },
                                "Sandhya 70MM 4K Dolby Atmos - RTC X Roads":  {
                                                                                  "last_backup":  "2026-04-02",
@@ -713,8 +705,8 @@
                                                                    "status":  "ok"
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
-                                                                        "last_backup":  null,
-                                                                        "status":  "missing"
+                                                                        "last_backup":  "2026-04-02",
+                                                                        "status":  "ok"
                                                                     },
                                "Parameswara 70MM - Shadnagar":  {
                                                                     "last_backup":  null,
@@ -724,10 +716,6 @@
                                                                        "last_backup":  null,
                                                                        "status":  "missing"
                                                                    },
-                               "Sri Venkateshwara":  {
-                                                         "last_backup":  "2026-04-02",
-                                                         "status":  "ok"
-                                                     },
                                "Sai Ranga - Miyapur":  {
                                                            "last_backup":  "2026-04-02",
                                                            "status":  "ok"
@@ -740,17 +728,13 @@
                                                               "last_backup":  "2026-04-02",
                                                               "status":  "ok"
                                                           },
-                               "Prasads Multiplex - Hyderabad":  {
-                                                                     "last_backup":  null,
-                                                                     "status":  "missing"
-                                                                 },
                                "Sri Satya Bhaskara Picture Palace - Manuguru":  {
                                                                                     "last_backup":  null,
                                                                                     "status":  "missing"
                                                                                 },
                                "Sudharsan Theater - RTC X Road":  {
-                                                                      "last_backup":  null,
-                                                                      "status":  "missing"
+                                                                      "last_backup":  "2026-04-02",
+                                                                      "status":  "ok"
                                                                   }
                            },
                     "Asian":  {
