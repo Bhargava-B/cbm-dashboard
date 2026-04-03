@@ -377,6 +377,19 @@ const REGION_DISPLAY_NAMES = {
   'City':  'City',
 };
 
+// Maps status.json region keys to card label (shown in region card header)
+const REGION_LABELS = {
+  'Asian': 'Asian Cinemas',
+  'TG':    'TG Region',
+  'AP':    'AP Region',
+  'KA':    'KA Region',
+  'City':  'City Region',
+};
+
+function getLabel(regionKey) {
+  return REGION_LABELS[regionKey] || regionKey + ' Region';
+}
+
 const REGION_COLORS = {
   'Asian Cinemas': '#059669',
   'TG':            '#0891b2',
@@ -502,7 +515,7 @@ function buildRegions() {
     card.innerHTML = `
       <div class="region-header">
         <span class="rdot" style="background:${color}"></span>
-        ${displayName} Region
+        ${getLabel(region)}
       </div>
       <div class="rrow"><span>Total</span><span>${total}</span></div>
       <div class="rrow"><span style="color:#166534">Synced</span><span style="color:#166534">${ok}</span></div>
