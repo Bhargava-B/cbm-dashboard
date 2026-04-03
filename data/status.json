@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-04-03 12:00:02",
+    "generated_at":  "2026-04-03 13:00:02",
     "regions":  {
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -1237,8 +1237,8 @@
                                                                                     "status":  "missing"
                                                                                 },
                                "Sri Govinda Mahal - Gollaprolu":  {
-                                                                      "last_backup":  null,
-                                                                      "status":  "missing"
+                                                                      "last_backup":  "2026-04-03",
+                                                                      "status":  "ok"
                                                                   },
                                "Vijaya Complex - Akividu":  {
                                                                 "last_backup":  null,
@@ -1517,8 +1517,8 @@
                                                                                         "status":  "missing"
                                                                                     },
                                "VPC Sri Krishna AC - Mummidivaram":  {
-                                                                         "last_backup":  null,
-                                                                         "status":  "missing"
+                                                                         "last_backup":  "2026-04-03",
+                                                                         "status":  "ok"
                                                                      },
                                "Sri Satyanarayana Cinemas - Eluru":  {
                                                                          "last_backup":  "2026-04-01",
@@ -1620,6 +1620,52 @@
                                                                              "last_backup":  null,
                                                                              "status":  "missing"
                                                                          }
+                           },
+                    "OR":  {
+                               "Rukmini Cineplex - Bargarh":  {
+                                                                  "last_backup":  null,
+                                                                  "status":  "missing"
+                                                              },
+                               "Meghraj Cinemaz - Koraput":  {
+                                                                 "last_backup":  null,
+                                                                 "status":  "missing"
+                                                             },
+                               "Maharaja Christie 4K Dolby Atmos 64 Channel":  {
+                                                                                   "last_backup":  null,
+                                                                                   "status":  "missing"
+                                                                               },
+                               "Keshari Theatre Barco 4K Dolby Atmos - Bhubaneshwar":  {
+                                                                                           "last_backup":  null,
+                                                                                           "status":  "missing"
+                                                                                       },
+                               "KNOX Cinema - Keonjhar":  {
+                                                              "last_backup":  null,
+                                                              "status":  "missing"
+                                                          },
+                               "Swati Cineplexx Christie 4K Dolby Atmos":  {
+                                                                               "last_backup":  null,
+                                                                               "status":  "missing"
+                                                                           },
+                               "Alishan Central - Kantabanji":  {
+                                                                    "last_backup":  null,
+                                                                    "status":  "missing"
+                                                                },
+                               "Cinepolis FE2 Arcade - Rourkela":  {
+                                                                       "last_backup":  null,
+                                                                       "status":  "missing"
+                                                                   },
+                               "Sriya 2K AC Dolby Digital - Bhubaneshwar":  {
+                                                                                "last_backup":  null,
+                                                                                "status":  "missing"
+                                                                            },
+                               "Shiva Multiplex - Jharsuguda":  {
+                                                                    "last_backup":  null,
+                                                                    "status":  "missing"
+                                                                },
+                               "Stutee Cineplexx Christie RGB Dolby Plus":  {
+                                                                                "last_backup":  null,
+                                                                                "status":  "missing"
+                                                                            }
                            }
                 }
 }
