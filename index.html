@@ -30,7 +30,6 @@ body {
   color: var(--text);
 }
 
-/* ── HEADER ── */
 header {
   background: var(--navy);
   color: white;
@@ -48,10 +47,8 @@ header h2 {
   color: #94a3b8;
 }
 
-/* ── CONTAINER ── */
 .container { padding: 20px 24px; }
 
-/* ── SUMMARY STAT CARDS ── */
 .summary-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -87,7 +84,6 @@ header h2 {
 .scard.bad-card .sv { color: var(--bad); }
 .scard.neutral .sv  { color: var(--text); }
 
-/* ── REGION CARDS ── */
 .region-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -186,7 +182,6 @@ header h2 {
   font-weight: 600;
 }
 
-/* ── FILTER BAR ── */
 .filter-bar {
   display: flex;
   align-items: center;
@@ -244,7 +239,6 @@ header h2 {
   margin-bottom: 8px;
 }
 
-/* ── CINEMA LIST ── */
 .list {
   background: var(--card);
   border-radius: 10px;
@@ -308,7 +302,6 @@ header h2 {
   font-size: 13px;
 }
 
-/* ── FOOTER ── */
 .footer {
   text-align: center;
   font-size: 11px;
@@ -368,12 +361,14 @@ let INACTIVE = {};
 let activeRegion = null;
 let statusFilter = 'all';
 
+// CHANGE 1: Added OR: '#ea580c' for Orissa region color
 const REGION_COLORS = {
   Asian: '#059669',
   TG:    '#0891b2',
   AP:    '#7c3aed',
   KA:    '#1a56db',
   City:  '#d97706',
+  OR:    '#ea580c',
 };
 
 function regionColor(name) {
@@ -406,21 +401,18 @@ function setFilter(region, status) {
   activeRegion = region === 'all' ? null : region;
   statusFilter = status;
 
-  // Update region card selection
   document.querySelectorAll('.region-card').forEach(c => c.classList.remove('selected'));
   if (activeRegion) {
     const el = document.getElementById('rc-' + activeRegion);
     if (el) el.classList.add('selected');
   }
 
-  // Update region button highlights
   document.querySelectorAll('.rbtn-row button').forEach(b => b.classList.remove('active-ok', 'active-fail'));
   if (activeRegion && status !== 'all') {
     const btn = document.getElementById('rbtn-' + activeRegion + '-' + status);
     if (btn) btn.classList.add(status === 'ok' ? 'active-ok' : 'active-fail');
   }
 
-  // Update summary card highlights
   document.querySelectorAll('.scard').forEach(c => c.classList.remove('active-filter'));
   if (region === 'all' && status === 'ok') document.getElementById('sc-ok').classList.add('active-filter');
   if (region === 'all' && status === 'missing') document.getElementById('sc-bad').classList.add('active-filter');
@@ -444,7 +436,7 @@ function updateCrumb() {
   const crumb = document.getElementById('crumb');
   const clearBtn = document.getElementById('clear-btn');
   if (activeRegion || statusFilter !== 'all') {
-    let label = activeRegion || 'All regions';
+    let label = activeRegion ? getRegionLabel(activeRegion) : 'All regions';
     if (statusFilter === 'ok') label += ' — Backed up';
     if (statusFilter === 'missing') label += ' — Missing';
     crumb.innerHTML = '<strong>' + label + '</strong>';
@@ -454,6 +446,32 @@ function updateCrumb() {
     crumb.style.display = 'none';
     clearBtn.style.display = 'none';
   }
+}
+
+// CHANGE 2: Added OR: 'Orissa Region' in getRegionLabel()
+function getRegionLabel(region) {
+  const labels = {
+    'Asian': 'Asian Cinemas',
+    'TG':    'TG Region',
+    'AP':    'AP Region',
+    'KA':    'KA Region',
+    'City':  'City Region',
+    'OR':    'Orissa Region',
+  };
+  return labels[region] || region + ' Region';
+}
+
+// CHANGE 3: Added OR: 'Orissa' in getRegionDisplay()
+function getRegionDisplay(region) {
+  const names = {
+    'Asian': 'Asian Cinemas',
+    'TG':    'TG',
+    'AP':    'AP',
+    'KA':    'KA',
+    'City':  'City',
+    'OR':    'Orissa',
+  };
+  return names[region] || region;
 }
 
 function buildRegions() {
@@ -491,7 +509,7 @@ function buildRegions() {
     card.innerHTML = `
       <div class="region-header">
         <span class="rdot" style="background:${color}"></span>
-        ${region === 'Asian' ? 'Asian Cinemas' : region + ' Region'}
+        ${getRegionLabel(region)}
       </div>
       <div class="rrow"><span>Total</span><span>${total}</span></div>
       <div class="rrow"><span style="color:#166534">Synced</span><span style="color:#166534">${ok}</span></div>
@@ -534,7 +552,7 @@ function renderList() {
           <span class="dot ${ok ? 'ok' : 'bad'}"></span>
           <div class="item-info">
             <div class="name">${name}</div>
-            <div class="sub">${region} &nbsp;·&nbsp; Last backup: ${c.last_backup || '—'}</div>
+            <div class="sub">${getRegionDisplay(region)} &nbsp;·&nbsp; Last backup: ${c.last_backup || '—'}</div>
           </div>
           <span class="badge ${ok ? 'ok' : 'bad'}">${ok ? 'Backed up' : 'Missing'}</span>
         </div>`;
