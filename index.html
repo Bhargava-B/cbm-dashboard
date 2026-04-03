@@ -368,19 +368,29 @@ let INACTIVE = {};
 let activeRegion = null;
 let statusFilter = 'all';
 
-const REGION_COLORS = {
-  Asian: '#059669',
-  TG:    '#0891b2',
-  AP:    '#7c3aed',
-  KA:    '#1a56db',
-  City:  '#d97706',
+// Maps status.json region keys to display names
+const REGION_DISPLAY_NAMES = {
+  'Asian': 'Asian Cinemas',
+  'TG':    'TG',
+  'AP':    'AP',
+  'KA':    'KA',
+  'City':  'City',
 };
 
-function regionColor(name) {
-  for (const [key, val] of Object.entries(REGION_COLORS)) {
-    if (name.toLowerCase().includes(key.toLowerCase())) return val;
-  }
-  return '#6b7280';
+const REGION_COLORS = {
+  'Asian Cinemas': '#059669',
+  'TG':            '#0891b2',
+  'AP':            '#7c3aed',
+  'KA':            '#1a56db',
+  'City':          '#d97706',
+};
+
+function regionColor(displayName) {
+  return REGION_COLORS[displayName] || '#6b7280';
+}
+
+function getDisplayName(regionKey) {
+  return REGION_DISPLAY_NAMES[regionKey] || regionKey;
 }
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -444,7 +454,7 @@ function updateCrumb() {
   const crumb = document.getElementById('crumb');
   const clearBtn = document.getElementById('clear-btn');
   if (activeRegion || statusFilter !== 'all') {
-    let label = activeRegion || 'All regions';
+    let label = activeRegion ? getDisplayName(activeRegion) : 'All regions';
     if (statusFilter === 'ok') label += ' — Backed up';
     if (statusFilter === 'missing') label += ' — Missing';
     crumb.innerHTML = '<strong>' + label + '</strong>';
@@ -474,7 +484,8 @@ function buildRegions() {
     globalTotal += total;
 
     const pct = total ? Math.round((ok / total) * 100) : 0;
-    const color = regionColor(region);
+    const displayName = getDisplayName(region);
+    const color = regionColor(displayName);
     const isSelected = activeRegion === region;
 
     const card = document.createElement('div');
@@ -491,7 +502,7 @@ function buildRegions() {
     card.innerHTML = `
       <div class="region-header">
         <span class="rdot" style="background:${color}"></span>
-        ${region} Region
+        ${displayName} Region
       </div>
       <div class="rrow"><span>Total</span><span>${total}</span></div>
       <div class="rrow"><span style="color:#166534">Synced</span><span style="color:#166534">${ok}</span></div>
@@ -529,12 +540,13 @@ function renderList() {
       if (query && !name.toLowerCase().includes(query)) continue;
       count++;
       const ok = c.status === 'ok';
+      const displayName = getDisplayName(region);
       html += `
         <div class="item">
           <span class="dot ${ok ? 'ok' : 'bad'}"></span>
           <div class="item-info">
             <div class="name">${name}</div>
-            <div class="sub">${region} &nbsp;·&nbsp; Last backup: ${c.last_backup || '—'}</div>
+            <div class="sub">${displayName} &nbsp;·&nbsp; Last backup: ${c.last_backup || '—'}</div>
           </div>
           <span class="badge ${ok ? 'ok' : 'bad'}">${ok ? 'Backed up' : 'Missing'}</span>
         </div>`;
