@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-04-03 20:00:02",
+    "generated_at":  "2026-04-03 21:00:02",
     "regions":  {
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -1635,17 +1635,17 @@
                                                                                    "status":  "missing"
                                                                                },
                                "Keshari Theatre Barco 4K Dolby Atmos - Bhubaneshwar":  {
-                                                                                           "last_backup":  null,
-                                                                                           "status":  "missing"
+                                                                                           "last_backup":  "2026-04-03",
+                                                                                           "status":  "ok"
                                                                                        },
                                "KNOX Cinema - Keonjhar":  {
                                                               "last_backup":  null,
                                                               "status":  "missing"
                                                           },
-                               "Swati Cineplexx Christie 4K Dolby Atmos":  {
-                                                                               "last_backup":  null,
-                                                                               "status":  "missing"
-                                                                           },
+                               "Sriya Stutee Swathi - Bhubaneshwar":  {
+                                                                          "last_backup":  null,
+                                                                          "status":  "missing"
+                                                                      },
                                "Alishan Central - Kantabanji":  {
                                                                     "last_backup":  null,
                                                                     "status":  "missing"
@@ -1654,18 +1654,10 @@
                                                                        "last_backup":  null,
                                                                        "status":  "missing"
                                                                    },
-                               "Sriya 2K AC Dolby Digital - Bhubaneshwar":  {
-                                                                                "last_backup":  null,
-                                                                                "status":  "missing"
-                                                                            },
                                "Shiva Multiplex - Jharsuguda":  {
                                                                     "last_backup":  null,
                                                                     "status":  "missing"
-                                                                },
-                               "Stutee Cineplexx Christie RGB Dolby Plus":  {
-                                                                                "last_backup":  null,
-                                                                                "status":  "missing"
-                                                                            }
+                                                                }
                            }
                 }
 }
