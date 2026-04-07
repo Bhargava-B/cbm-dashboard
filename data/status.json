@@ -1,15 +1,11 @@
 ﻿{
-    "generated_at":  "2026-04-07 22:00:02",
+    "generated_at":  "2026-04-07 23:00:02",
     "regions":  {
                     "KA":  {
-                               "Abhinay Theatre - Gandhi Nagar":  {
-                                                                      "last_backup":  "2026-04-07",
-                                                                      "status":  "ok"
-                                                                  },
-                               "Trishul Theatre DVG 4K Dolby Atmos - Davanagere":  {
-                                                                                       "last_backup":  "2026-04-07",
-                                                                                       "status":  "ok"
-                                                                                   },
+                               "Nataraj Talkies - Sirsi":  {
+                                                               "last_backup":  "2026-04-06",
+                                                               "status":  "missing"
+                                                           },
                                "Radhika Bellary":  {
                                                        "last_backup":  "2026-04-07",
                                                        "status":  "ok"
@@ -18,118 +14,506 @@
                                                                                "last_backup":  "2026-04-07",
                                                                                "status":  "ok"
                                                                            },
-                               "Nataraj Talkies - Sirsi":  {
-                                                               "last_backup":  "2026-04-06",
+                               "Laxmi pride cinemas -Hubli":  {
+                                                                  "last_backup":  "2026-04-07",
+                                                                  "status":  "ok"
+                                                              },
+                               "Asian Srinivasa - Mahbubnagar":  {
+                                                                     "last_backup":  "2026-04-07",
+                                                                     "status":  "ok"
+                                                                 },
+                               "Thirumala 4K Dolby Atmos - Agara":  {
+                                                                        "last_backup":  "2026-04-07",
+                                                                        "status":  "ok"
+                                                                    },
+                               "VLS Sri Rama Theatre - Jagtial":  {
+                                                                      "last_backup":  "2026-04-07",
+                                                                      "status":  "ok"
+                                                                  },
+                               "Sri Vinayaka Cinemas 4K Dolby 7.1 A":  {
+                                                                           "last_backup":  "2026-04-07",
+                                                                           "status":  "ok"
+                                                                       },
+                               "Apsara ":  {
+                                               "last_backup":  "2026-04-07",
+                                               "status":  "ok"
+                                           },
+                               "Asian Super - Balapur":  {
+                                                             "last_backup":  "2026-04-07",
+                                                             "status":  "ok"
+                                                         },
+                               "Asian Sai Krishna - Metpally":  {
+                                                                    "last_backup":  "2026-04-07",
+                                                                    "status":  "ok"
+                                                                },
+                               "Sri Radhakrishna Theatre - RT Nagar":  {
+                                                                           "last_backup":  "2026-04-07",
+                                                                           "status":  "ok"
+                                                                       },
+                               "Galaxy Paradise - Begur Road Bommanahalli":  {
+                                                                                 "last_backup":  "2026-04-07",
+                                                                                 "status":  "ok"
+                                                                             },
+                               "Sri Gowrishankar Theatre - Vijayapura":  {
+                                                                             "last_backup":  "2026-04-07",
+                                                                             "status":  "ok"
+                                                                         },
+                               "Asian Srinivasa - Kodad":  {
+                                                               "last_backup":  "2026-04-07",
+                                                               "status":  "ok"
+                                                           },
+                               "Vaibhavi ":  {
+                                                 "last_backup":  "2026-03-27",
+                                                 "status":  "missing"
+                                             },
+                               "Vaibhav Cinemas A":  {
+                                                         "last_backup":  "2026-04-07",
+                                                         "status":  "ok"
+                                                     },
+                               "Asian Sitara - Sangareddy":  {
+                                                                 "last_backup":  "2026-04-07",
+                                                                 "status":  "ok"
+                                                             },
+                               "Swagath ShankarNag ONYX LED Cinema - MG Road":  {
+                                                                                    "last_backup":  "2026-04-07",
+                                                                                    "status":  "ok"
+                                                                                },
+                               "Sampige Digital 2k Cinema - Malleshwaram":  {
+                                                                                "last_backup":  null,
+                                                                                "status":  "missing"
+                                                                            },
+                               "Asian Srinivasa - Mancherial":  {
+                                                                    "last_backup":  "2026-04-07",
+                                                                    "status":  "ok"
+                                                                },
+                               "AMB Kapali Gandhinagara":  {
+                                                               "last_backup":  null,
                                                                "status":  "missing"
+                                                           },
+                               "Asian Venkateshwara - Siddipet":  {
+                                                                      "last_backup":  "2026-04-07",
+                                                                      "status":  "ok"
+                                                                  },
+                               "Pushpanjali A":  {
+                                                     "last_backup":  "2026-04-07",
+                                                     "status":  "ok"
+                                                 },
+                               "Gayatri Theatre - Tumkuru":  {
+                                                                 "last_backup":  "2026-04-07",
+                                                                 "status":  "ok"
+                                                             },
+                               "Ashoka Cinema - Kalwakurthy":  {
+                                                                   "last_backup":  "2026-04-07",
+                                                                   "status":  "ok"
+                                                               },
+                               "Lakshmi Talkies - Tiptur":  {
+                                                                "last_backup":  null,
+                                                                "status":  "missing"
+                                                            },
+                               "Aruna Theatre A":  {
+                                                       "last_backup":  "2026-04-07",
+                                                       "status":  "ok"
+                                                   },
+                               "ART CINEMAS - Vanasthalipuram":  {
+                                                                     "last_backup":  "2026-04-07",
+                                                                     "status":  "ok"
+                                                                 },
+                               "Vinayaka Cinemas 4K Dolby 11.5 A":  {
+                                                                        "last_backup":  "2026-04-07",
+                                                                        "status":  "ok"
+                                                                    },
+                               "Sri Lakshmi A":  {
+                                                     "last_backup":  "2026-04-07",
+                                                     "status":  "ok"
+                                                 },
+                               "Mukunda 4K Dolby Atmos - M.S.Nagar":  {
+                                                                          "last_backup":  "2026-04-07",
+                                                                          "status":  "ok"
+                                                                      },
+                               "Asian Cineplanet Multiplex - Kompally":  {
+                                                                             "last_backup":  "2026-04-07",
+                                                                             "status":  "ok"
+                                                                         },
+                               "Venkateshwara Theatre Konappana Agrahara E City":  {
+                                                                                       "last_backup":  "2026-04-07",
+                                                                                       "status":  "ok"
+                                                                                   },
+                               "Vaibhavi \u0026 Vaishnavi Cinemas - Uttarahalli":  {
+                                                                                       "last_backup":  null,
+                                                                                       "status":  "missing"
+                                                                                   },
+                               "Asian Priya Cineplex - Kamareddy":  {
+                                                                        "last_backup":  "2026-04-07",
+                                                                        "status":  "ok"
+                                                                    },
+                               "Rockline Cinemas Jalahalli Cross":  {
+                                                                        "last_backup":  "2026-04-07",
+                                                                        "status":  "ok"
+                                                                    },
+                               "Asian Ashoka Air-Conditioned - Hanumakonda":  {
+                                                                                  "last_backup":  "2026-04-07",
+                                                                                  "status":  "ok"
+                                                                              },
+                               "Laxmi Theatre Tavararekere Bangalore":  {
+                                                                            "last_backup":  "2026-04-07",
+                                                                            "status":  "ok"
+                                                                        },
+                               "Asian Uday Bhaskar - Bhadrachalam":  {
+                                                                         "last_backup":  "2026-04-07",
+                                                                         "status":  "ok"
+                                                                     },
+                               "Asian Raj Lakshmi - Uppal":  {
+                                                                 "last_backup":  "2026-04-07",
+                                                                 "status":  "ok"
+                                                             },
+                               "Asian Sha Shahensha - Chintal":  {
+                                                                     "last_backup":  "2026-04-07",
+                                                                     "status":  "ok"
+                                                                 },
+                               "Milan Theatre Chickmagaluru":  {
+                                                                   "last_backup":  "2026-04-07",
+                                                                   "status":  "ok"
+                                                               },
+                               "Woodlands Theatre -Mysore":  {
+                                                                 "last_backup":  null,
+                                                                 "status":  "missing"
+                                                             },
+                               "Narthaki 4K Dolby 7.1 Digital S R - Gandhi Nagar":  {
+                                                                                        "last_backup":  null,
+                                                                                        "status":  "missing"
+                                                                                    },
+                               "HMT Digital 4K Cinema - Jalahalli":  {
+                                                                         "last_backup":  null,
+                                                                         "status":  "missing"
+                                                                     },
+                               "Sri Vajreshwari Theatre - Ullal":  {
+                                                                       "last_backup":  "2026-04-07",
+                                                                       "status":  "ok"
+                                                                   },
+                               "Asian M Cube Mall - Attapur":  {
+                                                                   "last_backup":  "2026-04-07",
+                                                                   "status":  "ok"
+                                                               },
+                               "Sri Krishna Theatre Bommanahalli Bengaluru":  {
+                                                                                  "last_backup":  null,
+                                                                                  "status":  "missing"
+                                                                              },
+                               "Rajashree Theatre - Nipani":  {
+                                                                  "last_backup":  "2026-04-07",
+                                                                  "status":  "ok"
+                                                              },
+                               "Asian Hema Durga - Uppal":  {
+                                                                "last_backup":  "2026-03-10",
+                                                                "status":  "missing"
+                                                            },
+                               "HPC Chitramandira Shivamogga":  {
+                                                                    "last_backup":  null,
+                                                                    "status":  "missing"
+                                                                },
+                               "Asian Balaji 70MM A -C - Siddipet":  {
+                                                                         "last_backup":  "2026-04-07",
+                                                                         "status":  "ok"
+                                                                     },
+                               "Robin Theatre Kengeri":  {
+                                                             "last_backup":  "2026-04-07",
+                                                             "status":  "ok"
+                                                         },
+                               "Lido Theater -Mysore":  {
+                                                            "last_backup":  "2026-04-02",
+                                                            "status":  "missing"
+                                                        },
+                               "V Cinema Vijayalakshmi Theatre - Garudacharpalya":  {
+                                                                                        "last_backup":  "2026-04-07",
+                                                                                        "status":  "ok"
+                                                                                    },
+                               "Pushpanjali 2K Digital A":  {
+                                                                "last_backup":  "2026-04-07",
+                                                                "status":  "ok"
+                                                            },
+                               "Asian Urvasi 70MM - Godavarikhani":  {
+                                                                         "last_backup":  "2026-04-07",
+                                                                         "status":  "ok"
+                                                                     },
+                               "Cinephile HSR Layout PNR Felicity Mall Haralur Rd":  {
+                                                                                         "last_backup":  "2026-04-07",
+                                                                                         "status":  "ok"
+                                                                                     },
+                               "Asian Manoj - Devarakonda":  {
+                                                                 "last_backup":  "2026-04-07",
+                                                                 "status":  "ok"
+                                                             },
+                               "Raghava Theater - Miryalaguda":  {
+                                                                     "last_backup":  "2026-04-07",
+                                                                     "status":  "ok"
+                                                                 },
+                               "Asian Radhika Multiplex - ECIL":  {
+                                                                      "last_backup":  "2026-04-07",
+                                                                      "status":  "ok"
+                                                                  },
+                               "Vasanth Theatre - Davanagere":  {
+                                                                    "last_backup":  "2026-04-07",
+                                                                    "status":  "ok"
+                                                                },
+                               "Ravi Digital 2K Dolby 7.1 HD Screen - Ejipura":  {
+                                                                                     "last_backup":  null,
+                                                                                     "status":  "missing"
+                                                                                 },
+                               "Prakash Digital 4K Cinema - Belagavi":  {
+                                                                            "last_backup":  "2026-03-26",
+                                                                            "status":  "missing"
+                                                                        },
+                               "Apsara \u0026 Sudha Cinemas - Hubli":  {
+                                                                           "last_backup":  null,
+                                                                           "status":  "missing"
+                                                                       },
+                               "Veeresh Cinemas - Magadi Road":  {
+                                                                     "last_backup":  "2026-04-07",
+                                                                     "status":  "ok"
+                                                                 },
+                               "Swagath Murali Gokula 4K Cinema":  {
+                                                                       "last_backup":  null,
+                                                                       "status":  "missing"
+                                                                   },
+                               "Asian Tarakarama Cineplex - Kachiguda":  {
+                                                                             "last_backup":  "2026-04-07",
+                                                                             "status":  "ok"
+                                                                         },
+                               "Urvashi Digital 4K Cinema - Lalbagh Road":  {
+                                                                                "last_backup":  null,
+                                                                                "status":  "missing"
+                                                                            },
+                               "Rajkamal Digital 2K Laser Projection - Mysore":  {
+                                                                                     "last_backup":  "2026-03-23",
+                                                                                     "status":  "missing"
+                                                                                 },
+                               "Asian Srinivasa - Khammam":  {
+                                                                 "last_backup":  "2026-04-03",
+                                                                 "status":  "missing"
+                                                             },
+                               "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
+                                                                                          "last_backup":  "2026-04-07",
+                                                                                          "status":  "ok"
+                                                                                      },
+                               "Gurushree Theatre Mandya":  {
+                                                                "last_backup":  "2026-04-07",
+                                                                "status":  "ok"
+                                                            },
+                               "Asian Natraj Deluxe Theatre A -c - Sircilla":  {
+                                                                                   "last_backup":  "2026-04-07",
+                                                                                   "status":  "ok"
+                                                                               },
+                               "Trinethra Digital 4K Atmos Cinema - Davanagere":  {
+                                                                                      "last_backup":  null,
+                                                                                      "status":  "missing"
+                                                                                  },
+                               "Roopa Cinema Nelamangala":  {
+                                                                "last_backup":  "2026-04-07",
+                                                                "status":  "ok"
+                                                            },
+                               "AAA Cinemas - Ameerpet":  {
+                                                              "last_backup":  null,
+                                                              "status":  "missing"
+                                                          },
+                               "Navrang Theatre - Rajaji Nagar":  {
+                                                                      "last_backup":  "2026-04-07",
+                                                                      "status":  "ok"
+                                                                  },
+                               "Vainidhi Digital 4K Dolby 7.1 A":  {
+                                                                       "last_backup":  "2026-04-07",
+                                                                       "status":  "ok"
+                                                                   },
+                               "Rupam Theatre - Hubli":  {
+                                                             "last_backup":  null,
+                                                             "status":  "missing"
+                                                         },
+                               "Ravi Digital 4K A":  {
+                                                         "last_backup":  null,
+                                                         "status":  "missing"
+                                                     },
+                               "Asian Sridevi Multiplex - Hanumakonda":  {
+                                                                             "last_backup":  "2026-04-07",
+                                                                             "status":  "ok"
+                                                                         },
+                               "Asian Pradise - Karimnagar":  {
+                                                                  "last_backup":  "2026-04-07",
+                                                                  "status":  "ok"
+                                                              },
+                               "LAXMI Picture palace Hospet":  {
+                                                                   "last_backup":  "2026-03-28",
+                                                                   "status":  "missing"
+                                                               },
+                               "Ashoka Talkies - Davanagere":  {
+                                                                   "last_backup":  "2026-04-07",
+                                                                   "status":  "ok"
+                                                               },
+                               "VISION Cinemas -Mysore":  {
+                                                              "last_backup":  "2026-04-01",
+                                                              "status":  "missing"
+                                                          },
+                               "Balaji Theatre - Siruguppa":  {
+                                                                  "last_backup":  "2026-04-07",
+                                                                  "status":  "ok"
+                                                              },
+                               "Veerabhadreshwara Theatre - Kamala Nagar":  {
+                                                                                "last_backup":  "2026-03-31",
+                                                                                "status":  "missing"
+                                                                            },
+                               "Mohan Cinema Barco 4K A":  {
+                                                               "last_backup":  "2026-04-07",
+                                                               "status":  "ok"
+                                                           },
+                               "Asian Jyothi - RC Puram":  {
+                                                               "last_backup":  "2026-04-07",
+                                                               "status":  "ok"
                                                            },
                                "Brundha 4K Dolby Atmos - Hongasandra DMart":  {
                                                                                   "last_backup":  "2026-04-07",
                                                                                   "status":  "ok"
                                                                               },
-                               "Vainidhi Digital 4K Dolby 7.1 A":  {
+                               "Jai Bharath Theatre -Tumkur":  {
+                                                                   "last_backup":  "2026-04-07",
+                                                                   "status":  "ok"
+                                                               },
+                               "Asian Nataraj Deluxe - Adilabad":  {
                                                                        "last_backup":  "2026-04-07",
                                                                        "status":  "ok"
                                                                    },
-                               "Sharada Cinemas A":  {
-                                                         "last_backup":  "2026-04-07",
-                                                         "status":  "ok"
-                                                     },
-                               "Bharathi Theatre Peenya A":  {
-                                                                 "last_backup":  "2026-04-07",
-                                                                 "status":  "ok"
-                                                             },
-                               "Robin Theatre Kengeri":  {
-                                                             "last_backup":  "2026-04-07",
-                                                             "status":  "ok"
-                                                         },
-                               "Rockline Cinemas Jalahalli Cross":  {
-                                                                        "last_backup":  "2026-04-07",
-                                                                        "status":  "ok"
-                                                                    },
-                               "Gurushree Theatre Mandya":  {
-                                                                "last_backup":  "2026-04-07",
-                                                                "status":  "ok"
-                                                            },
-                               "Sri Venkateshwara Theatre - Sidlaghatta":  {
-                                                                               "last_backup":  "2026-04-07",
-                                                                               "status":  "ok"
-                                                                           },
+                               "Manasa RGB Laser Atmos Cinemas - Konankunte":  {
+                                                                                   "last_backup":  "2026-04-07",
+                                                                                   "status":  "ok"
+                                                                               },
+                               "Sri Venkateshwara Digital 2K Cinema - Girinagar":  {
+                                                                                       "last_backup":  null,
+                                                                                       "status":  "missing"
+                                                                                   },
                                "Sreelekha Theater - Chickmagaluru":  {
                                                                          "last_backup":  "2026-04-02",
                                                                          "status":  "missing"
                                                                      },
-                               "Vaibhav Cinemas A":  {
+                               "Geetanjali -Davanagere":  {
+                                                              "last_backup":  "2026-04-07",
+                                                              "status":  "ok"
+                                                          },
+                               "SIDDESHWARA Digital 2K 7.1 Cinema - J.P.Nagar":  {
+                                                                                     "last_backup":  "2026-04-03",
+                                                                                     "status":  "missing"
+                                                                                 },
+                               "Prabha Theatre - Mysuru":  {
+                                                               "last_backup":  "2026-04-02",
+                                                               "status":  "missing"
+                                                           },
+                               "Abhinay Theatre - Gandhi Nagar":  {
+                                                                      "last_backup":  "2026-04-07",
+                                                                      "status":  "ok"
+                                                                  },
+                               "AMB Cinemas - Gachibowli":  {
+                                                                "last_backup":  null,
+                                                                "status":  "missing"
+                                                            },
+                               "Sharada Cinemas A":  {
                                                          "last_backup":  "2026-04-07",
                                                          "status":  "ok"
                                                      },
-                               "LAXMI Picture palace Hospet":  {
-                                                                   "last_backup":  "2026-03-28",
-                                                                   "status":  "missing"
+                               "Maruthi Digital -Tumkuru":  {
+                                                                "last_backup":  "2026-04-07",
+                                                                "status":  "ok"
+                                                            },
+                               "Asian Sri Mohan - Zaheerabad":  {
+                                                                    "last_backup":  "2026-04-07",
+                                                                    "status":  "ok"
+                                                                },
+                               "Balaji Theatre Tavarekere Next to Lakshmi Theatre":  {
+                                                                                         "last_backup":  "2026-04-07",
+                                                                                         "status":  "ok"
+                                                                                     },
+                               "Asian Srinivasa Theater - Miryalaguda":  {
+                                                                             "last_backup":  "2026-04-07",
+                                                                             "status":  "ok"
+                                                                         },
+                               "AVD Cinemas - Mahbubnagar":  {
+                                                                 "last_backup":  "2026-04-07",
+                                                                 "status":  "ok"
+                                                             },
+                               "Asian Maheshwari 70MM A -C DTS - Zaheerabad":  {
+                                                                                   "last_backup":  "2026-04-07",
+                                                                                   "status":  "ok"
+                                                                               },
+                               "Seetarama Cinemas - Manuguru":  {
+                                                                    "last_backup":  null,
+                                                                    "status":  "missing"
+                                                                },
+                               "Victory Cinema Barco-4K RGB-Laser - Kamakshipalya":  {
+                                                                                         "last_backup":  "2026-04-07",
+                                                                                         "status":  "ok"
+                                                                                     },
+                               "DRC Cinemas -Mysore":  {
+                                                           "last_backup":  null,
+                                                           "status":  "missing"
+                                                       },
+                               "Asian Srinivasa Deluxe - Siddipet":  {
+                                                                         "last_backup":  "2026-04-07",
+                                                                         "status":  "ok"
+                                                                     },
+                               "Sri Renuka Prasanna Theatre - J P Nagar":  {
+                                                                               "last_backup":  "2026-04-07",
+                                                                               "status":  "ok"
+                                                                           },
+                               "Vaibhav Digital 4k Dolby 7.1 - Sanjaynagar":  {
+                                                                                  "last_backup":  null,
+                                                                                  "status":  "missing"
+                                                                              },
+                               "Cine Galaxy Surathkal Mangalore 3 screens":  {
+                                                                                 "last_backup":  "2026-04-07",
+                                                                                 "status":  "ok"
+                                                                             },
+                               "Kino Cinemas - Seegehalli Kadugodi Bengaluru":  {
+                                                                                    "last_backup":  "2026-04-07",
+                                                                                    "status":  "ok"
+                                                                                },
+                               "Sri Balaji Dommasandra":  {
+                                                              "last_backup":  "2026-04-07",
+                                                              "status":  "ok"
+                                                          },
+                               "Rajkamal Theatre - Doddaballapura":  {
+                                                                         "last_backup":  null,
+                                                                         "status":  "missing"
+                                                                     },
+                               "Prasanna Digital 4K Cinema - Magadi Road":  {
+                                                                                "last_backup":  "2026-04-07",
+                                                                                "status":  "ok"
+                                                                            },
+                               "Asian Mukund Cinema - Medchal":  {
+                                                                     "last_backup":  "2026-04-06",
+                                                                     "status":  "missing"
+                                                                 },
+                               "Srinivasa SG Palya 2 screen":  {
+                                                                   "last_backup":  "2026-04-07",
+                                                                   "status":  "ok"
                                                                },
                                "Sri Lakshmi AC 4k Dolby 7.1 Gottigere":  {
                                                                              "last_backup":  "2026-04-07",
                                                                              "status":  "ok"
                                                                          },
-                               "Chandrodaya Digital 2K Cinema - Vidyapeeta Circle":  {
-                                                                                         "last_backup":  "2026-04-07",
-                                                                                         "status":  "ok"
-                                                                                     },
-                               "Lakshmi Talkies - Tiptur":  {
-                                                                "last_backup":  null,
-                                                                "status":  "missing"
-                                                            },
-                               "Balaji Theatre Tavarekere Next to Lakshmi Theatre":  {
-                                                                                         "last_backup":  "2026-04-07",
-                                                                                         "status":  "ok"
-                                                                                     },
-                               "Srinivasa Theater Kadugudi 4K Dolby Atmos":  {
-                                                                                 "last_backup":  "2026-03-27",
-                                                                                 "status":  "missing"
-                                                                             },
-                               "Swagath Poornima 4K Dolby Atmos - JC Road":  {
-                                                                                 "last_backup":  "2026-04-07",
-                                                                                 "status":  "ok"
-                                                                             },
                                "Anupama Theatre 2K Dolby - Gandhinagar":  {
                                                                               "last_backup":  "2026-04-07",
                                                                               "status":  "ok"
                                                                           },
-                               "Prasanna Digital 4K Cinema - Magadi Road":  {
-                                                                                "last_backup":  "2026-04-07",
-                                                                                "status":  "ok"
-                                                                            },
-                               "Saraswathi Picture Palace - Hospet":  {
-                                                                          "last_backup":  "2026-04-07",
-                                                                          "status":  "ok"
-                                                                      },
-                               "Sampige Digital 2k Cinema - Malleshwaram":  {
-                                                                                "last_backup":  null,
-                                                                                "status":  "missing"
-                                                                            },
-                               "Swaroop Nartaki Talkies : Belagavi":  {
-                                                                          "last_backup":  "2026-03-26",
-                                                                          "status":  "missing"
-                                                                      },
-                               "Venkateshwara Theatre Konappana Agrahara E City":  {
-                                                                                       "last_backup":  "2026-04-07",
-                                                                                       "status":  "ok"
-                                                                                   },
-                               "Vaibhavi ":  {
-                                                 "last_backup":  "2026-03-27",
-                                                 "status":  "missing"
-                                             },
-                               "Prakash Digital 4K Cinema - Belagavi":  {
-                                                                            "last_backup":  "2026-03-26",
-                                                                            "status":  "missing"
-                                                                        },
-                               "Gayatri Theatre - Tumkuru":  {
+                               "Siddalingeshwara 4K Dolby Atmos Cinema - J.P.Nagar":  {
+                                                                                          "last_backup":  "2026-04-07",
+                                                                                          "status":  "ok"
+                                                                                      },
+                               "Bharathi Theatre Peenya A":  {
                                                                  "last_backup":  "2026-04-07",
                                                                  "status":  "ok"
                                                              },
-                               "Ravi Digital 2K Dolby 7.1 HD Screen - Ejipura":  {
-                                                                                     "last_backup":  null,
-                                                                                     "status":  "missing"
-                                                                                 },
+                               "Gayathri Talkies -Mysuru":  {
+                                                                "last_backup":  "2026-04-02",
+                                                                "status":  "missing"
+                                                            },
+                               "Venkateshwhara Theater Gollarahatti":  {
+                                                                           "last_backup":  "2026-04-07",
+                                                                           "status":  "ok"
+                                                                       },
                                "Sapna Multiplex - Bidar":  {
                                                                "last_backup":  "2026-04-07",
                                                                "status":  "ok"
@@ -138,123 +522,79 @@
                                                             "last_backup":  null,
                                                             "status":  "missing"
                                                         },
-                               "Cinephile HSR Layout PNR Felicity Mall Haralur Rd":  {
-                                                                                         "last_backup":  "2026-04-07",
-                                                                                         "status":  "ok"
-                                                                                     },
-                               "Suchitra Prabhat Cinemas - Christie 4K RGB Laser":  {
-                                                                                        "last_backup":  "2026-04-07",
-                                                                                        "status":  "ok"
-                                                                                    },
-                               "Gayathri Talkies -Mysuru":  {
-                                                                "last_backup":  "2026-04-02",
-                                                                "status":  "missing"
-                                                            },
-                               "Movietime Bangalore YGR Mall 4 screens":  {
-                                                                              "last_backup":  null,
-                                                                              "status":  "missing"
-                                                                          },
-                               "Rajashree Theatre - Nipani":  {
-                                                                  "last_backup":  "2026-04-07",
-                                                                  "status":  "ok"
-                                                              },
-                               "Globe Cinemas - Belagavi":  {
-                                                                "last_backup":  "2026-04-07",
-                                                                "status":  "ok"
-                                                            },
-                               "SIDDESHWARA Digital 2K 7.1 Cinema - J.P.Nagar":  {
-                                                                                     "last_backup":  "2026-04-03",
-                                                                                     "status":  "missing"
-                                                                                 },
+                               "Coorg Cineplex Gonikoppal":  {
+                                                                 "last_backup":  "2026-04-07",
+                                                                 "status":  "ok"
+                                                             },
+                               "Sri Vinayaka Cinemas DJ Halli":  {
+                                                                     "last_backup":  null,
+                                                                     "status":  "missing"
+                                                                 },
+                               "Sri Srinivasa 4K Dolby Atmos A":  {
+                                                                      "last_backup":  "2026-04-07",
+                                                                      "status":  "ok"
+                                                                  },
+                               "Trishul Theatre DVG 4K Dolby Atmos - Davanagere":  {
+                                                                                       "last_backup":  "2026-04-07",
+                                                                                       "status":  "ok"
+                                                                                   },
                                "Amruth Digital 2K A":  {
                                                            "last_backup":  "2026-04-01",
                                                            "status":  "missing"
                                                        },
-                               "Triveni Theatre A":  {
-                                                         "last_backup":  null,
-                                                         "status":  "missing"
-                                                     },
-                               "HPC Chitramandira Shivamogga":  {
-                                                                    "last_backup":  null,
-                                                                    "status":  "missing"
-                                                                },
-                               "Roopa Cinema Nelamangala":  {
-                                                                "last_backup":  "2026-04-07",
-                                                                "status":  "ok"
-                                                            },
-                               "Pushpanjali A":  {
-                                                     "last_backup":  "2026-04-07",
-                                                     "status":  "ok"
-                                                 },
-                               "Sri Renuka Prasanna Theatre - J P Nagar":  {
-                                                                               "last_backup":  "2026-04-07",
-                                                                               "status":  "ok"
-                                                                           },
+                               "V Cinema Rammurthy Nagar 4 screens":  {
+                                                                          "last_backup":  "2026-04-07",
+                                                                          "status":  "ok"
+                                                                      },
+                               "Chandrodaya Digital 2K Cinema - Vidyapeeta Circle":  {
+                                                                                         "last_backup":  "2026-04-07",
+                                                                                         "status":  "ok"
+                                                                                     },
+                               "Asian Sailaja - Vikarabad":  {
+                                                                 "last_backup":  "2026-04-07",
+                                                                 "status":  "ok"
+                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
                                                                        "last_backup":  "2026-04-07",
                                                                        "status":  "ok"
                                                                    },
-                               "Woodlands Theatre -Mysore":  {
-                                                                 "last_backup":  null,
-                                                                 "status":  "missing"
-                                                             },
-                               "Sangam Digital - Mysuru":  {
-                                                               "last_backup":  "2026-04-02",
-                                                               "status":  "missing"
-                                                           },
-                               "Vinayaka Cinemas 4K Dolby 11.5 A":  {
-                                                                        "last_backup":  "2026-04-07",
-                                                                        "status":  "ok"
-                                                                    },
-                               "Prabha Theatre - Mysuru":  {
-                                                               "last_backup":  "2026-04-02",
-                                                               "status":  "missing"
-                                                           },
-                               "DRC Cinemas -Mysore":  {
-                                                           "last_backup":  null,
-                                                           "status":  "missing"
-                                                       },
-                               "Lido Theater -Mysore":  {
-                                                            "last_backup":  "2026-04-02",
-                                                            "status":  "missing"
-                                                        },
-                               "Narthaki 4K Dolby 7.1 Digital S R - Gandhi Nagar":  {
-                                                                                        "last_backup":  null,
-                                                                                        "status":  "missing"
-                                                                                    },
-                               "Sri Gowrishankar Theatre - Vijayapura":  {
-                                                                             "last_backup":  "2026-04-07",
-                                                                             "status":  "ok"
-                                                                         },
-                               "Anjan Digital 4K A":  {
-                                                          "last_backup":  "2026-04-07",
-                                                          "status":  "ok"
-                                                      },
-                               "Sri Radhakrishna Theatre - RT Nagar":  {
-                                                                           "last_backup":  "2026-04-07",
-                                                                           "status":  "ok"
+                               "Kamakya Cinema - Banashankari":  {
+                                                                     "last_backup":  "2026-04-07",
+                                                                     "status":  "ok"
+                                                                 },
+                               "Woodlands Theatre: KR Circle":  {
+                                                                    "last_backup":  "2026-04-07",
+                                                                    "status":  "ok"
+                                                                },
+                               "Veerbhadreshwara Theatre Shivamogga":  {
+                                                                           "last_backup":  null,
+                                                                           "status":  "missing"
                                                                        },
-                               "Vaibhav Digital 4k Dolby 7.1 - Sanjaynagar":  {
-                                                                                  "last_backup":  null,
-                                                                                  "status":  "missing"
-                                                                              },
-                               "Urvashi Digital 4K Cinema - Lalbagh Road":  {
-                                                                                "last_backup":  null,
-                                                                                "status":  "missing"
-                                                                            },
-                               "Meeralam Nawaz Picture Palace - Hospet":  {
-                                                                              "last_backup":  "2026-04-07",
-                                                                              "status":  "ok"
-                                                                          },
-                               "Apsara ":  {
-                                               "last_backup":  "2026-04-07",
-                                               "status":  "ok"
-                                           },
-                               "Sri Venkateshwara Digital 2K Cinema - Girinagar":  {
-                                                                                       "last_backup":  null,
-                                                                                       "status":  "missing"
-                                                                                   },
-                               "Maruthi Digital -Tumkuru":  {
+                               "Swagath Poornima 4K Dolby Atmos - JC Road":  {
+                                                                                 "last_backup":  "2026-04-07",
+                                                                                 "status":  "ok"
+                                                                             },
+                               "Suchitra Prabhat Cinemas - Christie 4K RGB Laser":  {
+                                                                                        "last_backup":  "2026-04-07",
+                                                                                        "status":  "ok"
+                                                                                    },
+                               "Swaroop Nartaki Talkies - Belagavi":  {
+                                                                          "last_backup":  "2026-04-07",
+                                                                          "status":  "ok"
+                                                                      },
+                               "Swaroop Nartaki Talkies : Belagavi":  {
+                                                                          "last_backup":  "2026-03-26",
+                                                                          "status":  "missing"
+                                                                      },
+                               "Asian Darshan - Kamareddy":  {
+                                                                 "last_backup":  "2026-04-07",
+                                                                 "status":  "ok"
+                                                             },
+                               "Sri Venkateshwara Theatre - Sidlaghatta":  {
+                                                                               "last_backup":  "2026-04-07",
+                                                                               "status":  "ok"
+                                                                           },
+                               "Globe Cinemas - Belagavi":  {
                                                                 "last_backup":  "2026-04-07",
                                                                 "status":  "ok"
                                                             },
@@ -262,238 +602,94 @@
                                                                  "last_backup":  "2026-04-07",
                                                                  "status":  "ok"
                                                              },
-                               "Siddalingeshwara 4K Dolby Atmos Cinema - J.P.Nagar":  {
-                                                                                          "last_backup":  "2026-04-07",
-                                                                                          "status":  "ok"
-                                                                                      },
-                               "Sri Srinivasa 4K Dolby Atmos A":  {
-                                                                      "last_backup":  "2026-04-07",
-                                                                      "status":  "ok"
-                                                                  },
-                               "Sri Vajreshwari Theatre - Ullal":  {
-                                                                       "last_backup":  "2026-04-07",
-                                                                       "status":  "ok"
-                                                                   },
-                               "Sri Vinayaka Cinemas 4K Dolby 7.1 A":  {
-                                                                           "last_backup":  "2026-04-07",
-                                                                           "status":  "ok"
-                                                                       },
-                               "Veerabhadreshwara Theatre - Kamala Nagar":  {
-                                                                                "last_backup":  "2026-03-31",
-                                                                                "status":  "missing"
-                                                                            },
-                               "Veerbhadreshwara Theatre Shivamogga":  {
-                                                                           "last_backup":  null,
-                                                                           "status":  "missing"
-                                                                       },
-                               "Balaji Theatre - Siruguppa":  {
-                                                                  "last_backup":  "2026-04-07",
-                                                                  "status":  "ok"
-                                                              },
-                               "Apsara \u0026 Sudha Cinemas - Hubli":  {
-                                                                           "last_backup":  null,
-                                                                           "status":  "missing"
-                                                                       },
-                               "Thirumala 4K Dolby Atmos - Agara":  {
-                                                                        "last_backup":  "2026-04-07",
-                                                                        "status":  "ok"
-                                                                    },
-                               "Navrang Theatre - Rajaji Nagar":  {
-                                                                      "last_backup":  "2026-04-07",
-                                                                      "status":  "ok"
-                                                                  },
-                               "Sri Balaji Dommasandra":  {
-                                                              "last_backup":  "2026-04-07",
-                                                              "status":  "ok"
-                                                          },
-                               "Swaroop Nartaki Talkies - Belagavi":  {
-                                                                          "last_backup":  "2026-04-07",
-                                                                          "status":  "ok"
-                                                                      },
-                               "Swagath Murali Gokula 4K Cinema":  {
-                                                                       "last_backup":  null,
-                                                                       "status":  "missing"
-                                                                   },
-                               "Coorg Cineplex Gonikoppal":  {
-                                                                 "last_backup":  "2026-04-07",
-                                                                 "status":  "ok"
-                                                             },
-                               "Vaibhavi \u0026 Vaishnavi Cinemas - Uttarahalli":  {
-                                                                                       "last_backup":  null,
-                                                                                       "status":  "missing"
-                                                                                   },
-                               "V Cinema Rammurthy Nagar 4 screens":  {
-                                                                          "last_backup":  "2026-04-07",
-                                                                          "status":  "ok"
-                                                                      },
-                               "Geetanjali -Davanagere":  {
-                                                              "last_backup":  "2026-04-07",
-                                                              "status":  "ok"
-                                                          },
-                               "Ramakrishna Picture Palace - Siruguppa":  {
-                                                                              "last_backup":  "2026-04-07",
-                                                                              "status":  "ok"
-                                                                          },
-                               "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "last_backup":  null,
-                                                                         "status":  "missing"
-                                                                     },
-                               "V Cinema Vijayalakshmi Theatre - Garudacharpalya":  {
-                                                                                        "last_backup":  "2026-04-07",
-                                                                                        "status":  "ok"
-                                                                                    },
-                               "Laxmi pride cinemas -Hubli":  {
-                                                                  "last_backup":  "2026-04-07",
-                                                                  "status":  "ok"
-                                                              },
-                               "Venkateshwhara Theater Gollarahatti":  {
-                                                                           "last_backup":  "2026-04-07",
-                                                                           "status":  "ok"
-                                                                       },
-                               "Kino Cinemas - Seegehalli Kadugodi Bengaluru":  {
-                                                                                    "last_backup":  "2026-04-07",
-                                                                                    "status":  "ok"
-                                                                                },
-                               "Vasanth Theatre - Davanagere":  {
-                                                                    "last_backup":  "2026-04-07",
-                                                                    "status":  "ok"
-                                                                },
-                               "Milan Theatre Chickmagaluru":  {
-                                                                   "last_backup":  "2026-04-07",
-                                                                   "status":  "ok"
-                                                               },
-                               "Manasa RGB Laser Atmos Cinemas - Konankunte":  {
-                                                                                   "last_backup":  "2026-04-07",
-                                                                                   "status":  "ok"
-                                                                               },
-                               "Galaxy Paradise - Begur Road Bommanahalli":  {
-                                                                                 "last_backup":  "2026-04-07",
-                                                                                 "status":  "ok"
-                                                                             },
-                               "Victory Cinema Barco-4K RGB-Laser - Kamakshipalya":  {
-                                                                                         "last_backup":  "2026-04-07",
-                                                                                         "status":  "ok"
-                                                                                     },
-                               "Aruna Theatre A":  {
-                                                       "last_backup":  "2026-04-07",
-                                                       "status":  "ok"
-                                                   },
-                               "Trinethra Digital 4K Atmos Cinema - Davanagere":  {
-                                                                                      "last_backup":  null,
-                                                                                      "status":  "missing"
-                                                                                  },
-                               "Mukunda 4K Dolby Atmos - M.S.Nagar":  {
-                                                                          "last_backup":  "2026-04-07",
-                                                                          "status":  "ok"
-                                                                      },
-                               "Cine Galaxy Surathkal Mangalore 3 screens":  {
-                                                                                 "last_backup":  "2026-04-07",
-                                                                                 "status":  "ok"
-                                                                             },
-                               "Rupam Theatre - Hubli":  {
-                                                             "last_backup":  null,
-                                                             "status":  "missing"
-                                                         },
-                               "Jai Bharath Theatre -Tumkur":  {
-                                                                   "last_backup":  "2026-04-07",
-                                                                   "status":  "ok"
-                                                               },
-                               "Ravi Digital 4K A":  {
-                                                         "last_backup":  null,
-                                                         "status":  "missing"
-                                                     },
-                               "Venkateshwara A":  {
-                                                       "last_backup":  "2026-04-07",
-                                                       "status":  "ok"
-                                                   },
-                               "Sri Vinayaka Cinemas DJ Halli":  {
-                                                                     "last_backup":  null,
-                                                                     "status":  "missing"
-                                                                 },
-                               "Srinivasa SG Palya 2 screen":  {
-                                                                   "last_backup":  "2026-04-07",
-                                                                   "status":  "ok"
-                                                               },
-                               "Rajkamal Digital 2K Laser Projection - Mysore":  {
-                                                                                     "last_backup":  "2026-03-23",
-                                                                                     "status":  "missing"
-                                                                                 },
-                               "Pushpanjali 2K Digital A":  {
-                                                                "last_backup":  "2026-04-07",
-                                                                "status":  "ok"
-                                                            },
-                               "Swagath ShankarNag ONYX LED Cinema - MG Road":  {
-                                                                                    "last_backup":  "2026-04-07",
-                                                                                    "status":  "ok"
-                                                                                },
-                               "Sri Krishna Theatre Bommanahalli Bengaluru":  {
-                                                                                  "last_backup":  null,
-                                                                                  "status":  "missing"
-                                                                              },
-                               "Kamakya Cinema - Banashankari":  {
-                                                                     "last_backup":  "2026-04-07",
-                                                                     "status":  "ok"
-                                                                 },
-                               "Cine Galaxy Manipal":  {
-                                                           "last_backup":  null,
-                                                           "status":  "missing"
-                                                       },
-                               "VR Cinemas 2K A":  {
-                                                       "last_backup":  "2026-04-07",
-                                                       "status":  "ok"
-                                                   },
-                               "Mohan Cinema Barco 4K A":  {
-                                                               "last_backup":  "2026-04-07",
-                                                               "status":  "ok"
-                                                           },
-                               "VISION Cinemas -Mysore":  {
-                                                              "last_backup":  "2026-04-01",
-                                                              "status":  "missing"
-                                                          },
-                               "AMB Kapali Gandhinagara":  {
-                                                               "last_backup":  null,
-                                                               "status":  "missing"
-                                                           },
-                               "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "last_backup":  "2026-04-07",
-                                                                                          "status":  "ok"
-                                                                                      },
-                               "Woodlands Theatre: KR Circle":  {
-                                                                    "last_backup":  "2026-04-07",
-                                                                    "status":  "ok"
-                                                                },
-                               "Ganga Theatre - Bellary":  {
-                                                               "last_backup":  "2026-04-07",
-                                                               "status":  "ok"
-                                                           },
-                               "Laxmi Theatre Tavararekere Bangalore":  {
-                                                                            "last_backup":  "2026-04-07",
-                                                                            "status":  "ok"
-                                                                        },
-                               "Ashoka Talkies - Davanagere":  {
-                                                                   "last_backup":  "2026-04-07",
-                                                                   "status":  "ok"
-                                                               },
                                "Venkateshwara Digital 4K Dolby 7.1 A":  {
                                                                             "last_backup":  "2026-04-07",
                                                                             "status":  "ok"
                                                                         },
-                               "HMT Digital 4K Cinema - Jalahalli":  {
-                                                                         "last_backup":  null,
-                                                                         "status":  "missing"
-                                                                     },
+                               "Ganga Theatre - Bellary":  {
+                                                               "last_backup":  "2026-04-07",
+                                                               "status":  "ok"
+                                                           },
+                               "VR Cinemas 2K A":  {
+                                                       "last_backup":  "2026-04-07",
+                                                       "status":  "ok"
+                                                   },
+                               "Triveni Theatre A":  {
+                                                         "last_backup":  null,
+                                                         "status":  "missing"
+                                                     },
+                               "Asian Cinemart - RC Puram":  {
+                                                                 "last_backup":  "2026-04-07",
+                                                                 "status":  "ok"
+                                                             },
+                               "Srinivasa Theater Kadugudi 4K Dolby Atmos":  {
+                                                                                 "last_backup":  "2026-03-27",
+                                                                                 "status":  "missing"
+                                                                             },
+                               "Ramakrishna Picture Palace - Siruguppa":  {
+                                                                              "last_backup":  "2026-04-07",
+                                                                              "status":  "ok"
+                                                                          },
+                               "Asian Lakshmikala Cinepride - Moosapet":  {
+                                                                              "last_backup":  "2026-04-07",
+                                                                              "status":  "ok"
+                                                                          },
+                               "Asian Tirumala Multiplex - Suryapet":  {
+                                                                           "last_backup":  "2026-04-07",
+                                                                           "status":  "ok"
+                                                                       },
+                               "Saraswathi Picture Palace - Hospet":  {
+                                                                          "last_backup":  "2026-04-07",
+                                                                          "status":  "ok"
+                                                                      },
+                               "Cine Galaxy Manipal":  {
+                                                           "last_backup":  null,
+                                                           "status":  "missing"
+                                                       },
                                "Sandhya RGB Laser Atmos -Madivala":  {
                                                                          "last_backup":  "2026-04-07",
                                                                          "status":  "ok"
                                                                      },
-                               "Veeresh Cinemas - Magadi Road":  {
-                                                                     "last_backup":  "2026-04-07",
-                                                                     "status":  "ok"
-                                                                 },
-                               "Sri Lakshmi A":  {
-                                                     "last_backup":  "2026-04-07",
-                                                     "status":  "ok"
-                                                 }
+                               "Asian Usha Prasad Multiplex - Nizamabad":  {
+                                                                               "last_backup":  "2026-04-07",
+                                                                               "status":  "ok"
+                                                                           },
+                               "Asian Ramakrishna - Thorrur":  {
+                                                                   "last_backup":  "2026-04-07",
+                                                                   "status":  "ok"
+                                                               },
+                               "Sangam Digital - Mysuru":  {
+                                                               "last_backup":  "2026-04-02",
+                                                               "status":  "missing"
+                                                           },
+                               "Asian Gemini Theatre - Warangal":  {
+                                                                       "last_backup":  "2026-04-07",
+                                                                       "status":  "ok"
+                                                                   },
+                               "Asian Mukund - Mahabubabad":  {
+                                                                  "last_backup":  "2026-04-07",
+                                                                  "status":  "ok"
+                                                              },
+                               "Meeralam Nawaz Picture Palace - Hospet":  {
+                                                                              "last_backup":  "2026-04-07",
+                                                                              "status":  "ok"
+                                                                          },
+                               "Venkateshwara A":  {
+                                                       "last_backup":  "2026-04-07",
+                                                       "status":  "ok"
+                                                   },
+                               "Movietime Bangalore YGR Mall 4 screens":  {
+                                                                              "last_backup":  null,
+                                                                              "status":  "missing"
+                                                                          },
+                               "Cine Town Indra Nagendra - Karmanghat":  {
+                                                                             "last_backup":  "2026-04-07",
+                                                                             "status":  "ok"
+                                                                         },
+                               "Anjan Digital 4K A":  {
+                                                          "last_backup":  "2026-04-07",
+                                                          "status":  "ok"
+                                                      }
                            },
                     "TG":  {
                                "Radhika Theater":  {
