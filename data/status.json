@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-04-07 17:00:02",
+    "generated_at":  "2026-04-07 18:00:02",
     "regions":  {
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -653,8 +653,8 @@
                                                               "status":  "ok"
                                                           },
                                "Vishnuram Cinemas - Kodad":  {
-                                                                 "last_backup":  null,
-                                                                 "status":  "missing"
+                                                                 "last_backup":  "2026-04-07",
+                                                                 "status":  "ok"
                                                              },
                                "VLS Sridevi 2K AC Dts - Chilakalguda":  {
                                                                             "last_backup":  "2026-04-07",
@@ -721,8 +721,8 @@
                                                                                     "status":  "ok"
                                                                                 },
                                "Sudharsan Theater - RTC X Road":  {
-                                                                      "last_backup":  "2026-04-02",
-                                                                      "status":  "missing"
+                                                                      "last_backup":  "2026-04-07",
+                                                                      "status":  "ok"
                                                                   }
                            },
                     "Asian":  {
@@ -1614,7 +1614,38 @@
                                                                          }
                            },
                     "OR":  {
-
+                               "Rukmini Cineplex - Bargarh":  {
+                                                                  "last_backup":  "2026-04-07",
+                                                                  "status":  "ok"
+                                                              },
+                               "Meghraj Cinemaz - Koraput":  {
+                                                                 "last_backup":  "2026-04-07",
+                                                                 "status":  "ok"
+                                                             },
+                               "Maharaja Christie 4K Dolby Atmos 64 Channel":  {
+                                                                                   "last_backup":  "2026-04-07",
+                                                                                   "status":  "ok"
+                                                                               },
+                               "Keshari Theatre Barco 4K Dolby Atmos - Bhubaneshwar":  {
+                                                                                           "last_backup":  "2026-04-07",
+                                                                                           "status":  "ok"
+                                                                                       },
+                               "KNOX Cinema - Keonjhar":  {
+                                                              "last_backup":  "2026-04-07",
+                                                              "status":  "ok"
+                                                          },
+                               "Sriya Stutee Swathi - Bhubaneshwar":  {
+                                                                          "last_backup":  "2026-04-07",
+                                                                          "status":  "ok"
+                                                                      },
+                               "Alishan Central - Kantabanji":  {
+                                                                    "last_backup":  "2026-04-07",
+                                                                    "status":  "ok"
+                                                                },
+                               "Shiva Multiplex - Jharsuguda":  {
+                                                                    "last_backup":  "2026-04-07",
+                                                                    "status":  "ok"
+                                                                }
                            }
                 }
 }
