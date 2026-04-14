@@ -236,7 +236,35 @@ header h2 {
 .count-note {
   font-size: 11px;
   color: var(--muted);
+}
+
+.fail-filter-btn {
+  font-size: 11px;
+  padding: 4px 12px;
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  background: transparent;
+  cursor: pointer;
+  font-family: inherit;
+  color: var(--muted);
+  transition: background .12s, color .12s, border-color .12s, font-weight .12s;
+}
+
+.fail-filter-btn:hover { background: #f3f4f6; }
+
+.fail-filter-btn.active {
+  background: var(--bad-bg);
+  border-color: var(--bad-border);
+  color: var(--bad);
+  font-weight: 600;
+}
+
+.count-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   margin-bottom: 8px;
+  flex-wrap: wrap;
 }
 
 .list {
@@ -351,7 +379,12 @@ header h2 {
     <button class="clear-btn" id="clear-btn" onclick="clearFilters()">Clear filter</button>
   </div>
 
-  <div class="count-note" id="count-note"></div>
+  <div class="count-row">
+    <div class="count-note" id="count-note"></div>
+    <button class="fail-filter-btn" id="btn-nodate" onclick="toggleFailFilter('nodate')">No backup date</button>
+    <button class="fail-filter-btn" id="btn-olddate" onclick="toggleFailFilter('olddate')">Old backup date</button>
+  </div>
+
   <div id="list" class="list"></div>
   <div class="footer">Auto-refresh every 30 seconds</div>
 
@@ -363,8 +396,8 @@ let STATUS = null;
 let INACTIVE = {};
 let activeRegion = null;
 let statusFilter = 'all';
+let failSubFilter = null; // 'nodate' or 'olddate'
 
-// CHANGE 1: Added OR: '#ea580c' for Orissa region color
 const REGION_COLORS = {
   Asian: '#059669',
   TG:    '#0891b2',
@@ -427,12 +460,28 @@ function setFilter(region, status) {
 function clearFilters() {
   activeRegion = null;
   statusFilter = 'all';
+  failSubFilter = null;
   document.getElementById('search').value = '';
   document.querySelectorAll('.region-card').forEach(c => c.classList.remove('selected'));
   document.querySelectorAll('.rbtn-row button').forEach(b => b.classList.remove('active-ok', 'active-fail'));
   document.querySelectorAll('.scard').forEach(c => c.classList.remove('active-filter'));
+  resetFailBtns();
   updateCrumb();
   renderList();
+}
+
+function toggleFailFilter(type) {
+  failSubFilter = failSubFilter === type ? null : type;
+  resetFailBtns();
+  if (failSubFilter) {
+    document.getElementById('btn-' + failSubFilter).classList.add('active');
+  }
+  renderList();
+}
+
+function resetFailBtns() {
+  document.getElementById('btn-nodate').classList.remove('active');
+  document.getElementById('btn-olddate').classList.remove('active');
 }
 
 function updateCrumb() {
@@ -451,7 +500,6 @@ function updateCrumb() {
   }
 }
 
-// CHANGE 2: Added OR: 'Orissa Region' in getRegionLabel()
 function getRegionLabel(region) {
   const labels = {
     'Asian': 'Asian Cinemas',
@@ -464,7 +512,6 @@ function getRegionLabel(region) {
   return labels[region] || region + ' Region';
 }
 
-// CHANGE 3: Added OR: 'Orissa' in getRegionDisplay()
 function getRegionDisplay(region) {
   const names = {
     'Asian': 'Asian Cinemas',
@@ -547,6 +594,8 @@ function renderList() {
     for (const [name, c] of Object.entries(cinemas)) {
       if (INACTIVE[region] && INACTIVE[region].includes(name)) continue;
       if (statusFilter !== 'all' && c.status !== statusFilter) continue;
+      if (failSubFilter === 'nodate' && (c.status !== 'missing' || c.last_backup)) continue;
+      if (failSubFilter === 'olddate' && (c.status !== 'missing' || !c.last_backup)) continue;
       if (query && !name.toLowerCase().includes(query)) continue;
       count++;
       const ok = c.status === 'ok';
