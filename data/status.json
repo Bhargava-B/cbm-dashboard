@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-04-24 12:00:02",
+    "generated_at":  "2026-04-24 13:00:02",
     "regions":  {
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -27,8 +27,8 @@
                                                                                   "status":  "ok"
                                                                               },
                                "Vainidhi Digital 4K Dolby 7.1 A":  {
-                                                                       "last_backup":  "2026-04-23",
-                                                                       "status":  "missing"
+                                                                       "last_backup":  "2026-04-24",
+                                                                       "status":  "ok"
                                                                    },
                                "Sharada Cinemas A":  {
                                                          "last_backup":  "2026-04-24",
@@ -1409,8 +1409,8 @@
                                                                   "status":  "missing"
                                                               },
                                "SLN Multiplex - Adda Road":  {
-                                                                 "last_backup":  "2026-04-24",
-                                                                 "status":  "ok"
+                                                                 "last_backup":  null,
+                                                                 "status":  "missing"
                                                              },
                                "Jameel Theater - Buchireddypalem":  {
                                                                         "last_backup":  null,
@@ -1781,8 +1781,8 @@
                                                                               "status":  "ok"
                                                                           },
                                "Capital Victory Screens":  {
-                                                               "last_backup":  "2026-04-24",
-                                                               "status":  "ok"
+                                                               "last_backup":  null,
+                                                               "status":  "missing"
                                                            },
                                "V Cinemas - Gudur":  {
                                                          "last_backup":  null,
