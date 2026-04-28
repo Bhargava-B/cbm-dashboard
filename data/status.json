@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-04-28 21:00:03",
+    "generated_at":  "2026-04-28 22:00:03",
     "regions":  {
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -993,8 +993,8 @@
                                                                 "status":  "ok"
                                                             },
                                "Sree Devi Picture Palace - Narasannapeta":  {
-                                                                                "last_backup":  null,
-                                                                                "status":  "missing"
+                                                                                "last_backup":  "2026-04-28",
+                                                                                "status":  "ok"
                                                                             },
                                "Bhaskara Rama AC DTS - Palasa":  {
                                                                      "last_backup":  "2026-04-28",
@@ -1020,10 +1020,6 @@
                                                                                 "last_backup":  "2026-04-28",
                                                                                 "status":  "ok"
                                                                             },
-                               "Sri Krishna Cinema AC Dolby 7.1 2K - Vizianagaram":  {
-                                                                                         "last_backup":  null,
-                                                                                         "status":  "missing"
-                                                                                     },
                                "Sree Balaji Movie Land AC 2K - Punganur":  {
                                                                                "last_backup":  null,
                                                                                "status":  "missing"
@@ -1032,10 +1028,6 @@
                                                                             "last_backup":  null,
                                                                             "status":  "missing"
                                                                         },
-                               "Sri Venkateswara Theatres Dolby 7.1 2K and 4K - Vizag":  {
-                                                                                             "last_backup":  "2026-04-28",
-                                                                                             "status":  "ok"
-                                                                                         },
                                "Sri Sivajyothi 2K Cinema 7.1 Dolby - Rajahmundry":  {
                                                                                         "last_backup":  "2026-04-28",
                                                                                         "status":  "ok"
@@ -1244,10 +1236,6 @@
                                                                          "last_backup":  null,
                                                                          "status":  "missing"
                                                                      },
-                               "Jagadeeswari Theatre - Markapur":  {
-                                                                       "last_backup":  null,
-                                                                       "status":  "missing"
-                                                                   },
                                "Aditya Theatre AC DTS - Vizianagaram":  {
                                                                             "last_backup":  "2026-04-28",
                                                                             "status":  "ok"
@@ -1284,10 +1272,6 @@
                                                                  "last_backup":  null,
                                                                  "status":  "missing"
                                                              },
-                               "Jagath Janani":  {
-                                                     "last_backup":  null,
-                                                     "status":  "missing"
-                                                 },
                                "Cine Prime Screen 1 2 - Guntur":  {
                                                                       "last_backup":  "2026-04-28",
                                                                       "status":  "ok"
@@ -1456,10 +1440,10 @@
                                                                    "last_backup":  "2026-04-28",
                                                                    "status":  "ok"
                                                                },
-                               "Sri Krishna AC 4K Dolby Atmos - Madanapalle":  {
-                                                                                   "last_backup":  null,
-                                                                                   "status":  "missing"
-                                                                               },
+                               "Sri Venkateswara Theatres Dolby 7.1 2K and 4K - Vizag":  {
+                                                                                             "last_backup":  "2026-04-28",
+                                                                                             "status":  "ok"
+                                                                                         },
                                "Sri Sai Rajeswari Complex Cine Hub - Unknown":  {
                                                                                     "last_backup":  null,
                                                                                     "status":  "missing"
@@ -1469,8 +1453,8 @@
                                                                         "status":  "ok"
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
-                                                                             "last_backup":  null,
-                                                                             "status":  "missing"
+                                                                             "last_backup":  "2026-04-28",
+                                                                             "status":  "ok"
                                                                          },
                                "Sree Alankar Cinemas - Jaggayyapeta":  {
                                                                            "last_backup":  "2026-04-28",
@@ -1520,10 +1504,10 @@
                                                   "last_backup":  "2026-04-28",
                                                   "status":  "ok"
                                               },
-                               "Aswani Deluxe AC - Piduguralla":  {
-                                                                      "last_backup":  "2026-04-28",
-                                                                      "status":  "ok"
-                                                                  },
+                               "Sri Krishna AC 4K Dolby Atmos - Madanapalle":  {
+                                                                                   "last_backup":  null,
+                                                                                   "status":  "missing"
+                                                                               },
                                "Bommarillu Cinemas":  {
                                                           "last_backup":  "2026-04-28",
                                                           "status":  "ok"
@@ -1556,10 +1540,10 @@
                                                                 "last_backup":  null,
                                                                 "status":  "missing"
                                                             },
-                               "Anusri Venkataramana":  {
-                                                            "last_backup":  null,
-                                                            "status":  "missing"
-                                                        },
+                               "Surya Mahal AC Dolby Atmos - Srikakulam":  {
+                                                                               "last_backup":  "2026-04-28",
+                                                                               "status":  "ok"
+                                                                           },
                                "VL Rama 4K Dolby - Amalapuram":  {
                                                                      "last_backup":  "2026-04-28",
                                                                      "status":  "ok"
@@ -1604,10 +1588,6 @@
                                                            "last_backup":  null,
                                                            "status":  "missing"
                                                        },
-                               "Surya Mahal AC Dolby Atmos - Srikakulam":  {
-                                                                               "last_backup":  "2026-04-28",
-                                                                               "status":  "ok"
-                                                                           },
                                "Sri Srinivasa Theater AC DTS - Nallajerla":  {
                                                                                  "last_backup":  "2026-04-28",
                                                                                  "status":  "ok"
@@ -1620,6 +1600,10 @@
                                                                      "last_backup":  "2026-04-28",
                                                                      "status":  "ok"
                                                                  },
+                               "VPC 4K Dolby Atmos - Amalapuram":  {
+                                                                       "last_backup":  null,
+                                                                       "status":  "missing"
+                                                                   },
                                "Balaji Picture Palace - Cherukupalli":  {
                                                                             "last_backup":  "2026-04-28",
                                                                             "status":  "ok"
@@ -1652,10 +1636,10 @@
                                                                       "last_backup":  null,
                                                                       "status":  "missing"
                                                                   },
-                               "VPC 4K Dolby Atmos - Amalapuram":  {
-                                                                       "last_backup":  null,
-                                                                       "status":  "missing"
-                                                                   },
+                               "Aswani Deluxe AC - Piduguralla":  {
+                                                                      "last_backup":  "2026-04-28",
+                                                                      "status":  "ok"
+                                                                  },
                                "Sri Padma Veereswara Complex - Yanam":  {
                                                                             "last_backup":  null,
                                                                             "status":  "missing"
