@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-04-29 16:00:03",
+    "generated_at":  "2026-04-29 17:00:03",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -484,6 +484,28 @@
                                                                       "last_backup":  "2026-04-29",
                                                                       "status":  "ok"
                                                                   }
+                           },
+                    "KL":  {
+                               "Padma Cinemas Kochi":  {
+                                                           "last_backup":  null,
+                                                           "status":  "missing"
+                                                       },
+                               "Vanitha Movie House Kochi":  {
+                                                                 "last_backup":  null,
+                                                                 "status":  "missing"
+                                                             },
+                               "Central Talkies, Tripunithura":  {
+                                                                     "last_backup":  null,
+                                                                     "status":  "missing"
+                                                                 },
+                               "New Theatre Trivandrum":  {
+                                                              "last_backup":  null,
+                                                              "status":  "missing"
+                                                          },
+                               "Ragam Theatre Thrissur":  {
+                                                              "last_backup":  null,
+                                                              "status":  "missing"
+                                                          }
                            },
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
