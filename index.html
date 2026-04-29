@@ -86,16 +86,16 @@ header h2 {
 
 .region-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 12px;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 10px;
   margin-bottom: 18px;
 }
 
 .region-card {
   background: var(--card);
   border: 1.5px solid var(--border);
-  border-radius: 12px;
-  padding: 16px;
+  border-radius: 10px;
+  padding: 12px;
   cursor: pointer;
   transition: border-color .15s, box-shadow .15s;
 }
@@ -110,16 +110,16 @@ header h2 {
 .region-header {
   display: flex;
   align-items: center;
-  gap: 7px;
-  font-size: 13px;
+  gap: 6px;
+  font-size: 12px;
   font-weight: 600;
   color: var(--text);
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }
 
 .rdot {
-  width: 9px;
-  height: 9px;
+  width: 8px;
+  height: 8px;
   border-radius: 50%;
   flex-shrink: 0;
 }
@@ -127,17 +127,17 @@ header h2 {
 .rrow {
   display: flex;
   justify-content: space-between;
-  font-size: 12px;
+  font-size: 11px;
   margin-bottom: 3px;
 }
 
 .rrow span:first-child { color: var(--muted); }
 
 .rbar {
-  height: 5px;
+  height: 4px;
   background: #e5e7eb;
   border-radius: 3px;
-  margin: 8px 0;
+  margin: 6px 0;
   overflow: hidden;
 }
 
@@ -149,15 +149,15 @@ header h2 {
 
 .rbtn-row {
   display: flex;
-  gap: 6px;
-  margin-top: 10px;
+  gap: 5px;
+  margin-top: 8px;
 }
 
 .rbtn-row button {
   flex: 1;
-  font-size: 11px;
-  padding: 5px 0;
-  border-radius: 6px;
+  font-size: 10px;
+  padding: 4px 0;
+  border-radius: 5px;
   border: 1px solid var(--border);
   background: transparent;
   cursor: pointer;
@@ -398,6 +398,9 @@ let activeRegion = null;
 let statusFilter = 'all';
 let failSubFilter = null;
 
+// Add new regions here — order controls card display order
+const REGION_ORDER = ['Asian', 'TG', 'AP', 'KA', 'OR', 'TN', 'KL'];
+
 const REGION_COLORS = {
   Asian: '#059669',
   TG:    '#0891b2',
@@ -406,13 +409,41 @@ const REGION_COLORS = {
   City:  '#d97706',
   OR:    '#ea580c',
   TN:    '#db2777',
+  KL:    '#0d9488',
+};
+
+const REGION_LABELS = {
+  'Asian': 'Asian Cinemas',
+  'TG':    'TG Region',
+  'AP':    'AP Region',
+  'KA':    'KA Region',
+  'City':  'City Region',
+  'OR':    'Orissa Region',
+  'TN':    'Tamil Nadu Region',
+  'KL':    'Kerala Region',
+};
+
+const REGION_DISPLAY = {
+  'Asian': 'Asian Cinemas',
+  'TG':    'TG',
+  'AP':    'AP',
+  'KA':    'KA',
+  'City':  'City',
+  'OR':    'Orissa',
+  'TN':    'Tamil Nadu',
+  'KL':    'Kerala',
 };
 
 function regionColor(name) {
-  for (const [key, val] of Object.entries(REGION_COLORS)) {
-    if (name.toLowerCase().includes(key.toLowerCase())) return val;
-  }
-  return '#6b7280';
+  return REGION_COLORS[name] || '#6b7280';
+}
+
+function getRegionLabel(region) {
+  return REGION_LABELS[region] || region + ' Region';
+}
+
+function getRegionDisplay(region) {
+  return REGION_DISPLAY[region] || region;
 }
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -432,6 +463,12 @@ async function load() {
     buildRegions();
     renderList();
   } catch(e) { console.error(e); }
+}
+
+function getSortedRegions() {
+  const ordered = REGION_ORDER.filter(r => STATUS.regions[r]);
+  const rest = Object.keys(STATUS.regions).filter(r => !REGION_ORDER.includes(r));
+  return [...ordered, ...rest];
 }
 
 function setFilter(region, status) {
@@ -501,38 +538,13 @@ function updateCrumb() {
   }
 }
 
-function getRegionLabel(region) {
-  const labels = {
-    'Asian': 'Asian Cinemas',
-    'TG':    'TG Region',
-    'AP':    'AP Region',
-    'KA':    'KA Region',
-    'City':  'City Region',
-    'OR':    'Orissa Region',
-    'TN':    'Tamil Nadu Region',
-  };
-  return labels[region] || region + ' Region';
-}
-
-function getRegionDisplay(region) {
-  const names = {
-    'Asian': 'Asian Cinemas',
-    'TG':    'TG',
-    'AP':    'AP',
-    'KA':    'KA',
-    'City':  'City',
-    'OR':    'Orissa',
-    'TN':    'Tamil Nadu',
-  };
-  return names[region] || region;
-}
-
 function buildRegions() {
   const grid = document.getElementById('regionGrid');
   grid.innerHTML = '';
   let globalOk = 0, globalMissing = 0, globalTotal = 0;
 
-  for (const [region, cinemas] of Object.entries(STATUS.regions)) {
+  for (const region of getSortedRegions()) {
+    const cinemas = STATUS.regions[region];
     let total = 0, ok = 0, missing = 0;
     for (const [name, c] of Object.entries(cinemas)) {
       if (INACTIVE[region] && INACTIVE[region].includes(name)) continue;
@@ -592,8 +604,9 @@ function renderList() {
   let html = '';
   let count = 0;
 
-  for (const [region, cinemas] of Object.entries(STATUS.regions)) {
+  for (const region of getSortedRegions()) {
     if (activeRegion && region !== activeRegion) continue;
+    const cinemas = STATUS.regions[region];
     for (const [name, c] of Object.entries(cinemas)) {
       if (INACTIVE[region] && INACTIVE[region].includes(name)) continue;
       if (statusFilter !== 'all' && c.status !== statusFilter) continue;
