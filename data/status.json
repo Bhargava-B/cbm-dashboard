@@ -1,6 +1,471 @@
 ﻿{
-    "generated_at":  "2026-04-29 11:00:03",
+    "generated_at":  "2026-04-29 12:05:02",
     "regions":  {
+                    "TN":  {
+
+                           },
+                    "OR":  {
+                               "Rukmini Cineplex - Bargarh":  {
+                                                                  "last_backup":  "2026-04-29",
+                                                                  "status":  "ok"
+                                                              },
+                               "Meghraj Cinemaz - Koraput":  {
+                                                                 "last_backup":  "2026-04-29",
+                                                                 "status":  "ok"
+                                                             },
+                               "Maharaja Christie 4K Dolby Atmos 64 Channel":  {
+                                                                                   "last_backup":  "2026-04-29",
+                                                                                   "status":  "ok"
+                                                                               },
+                               "Keshari Theatre Barco 4K Dolby Atmos - Bhubaneshwar":  {
+                                                                                           "last_backup":  "2026-04-29",
+                                                                                           "status":  "ok"
+                                                                                       },
+                               "KNOX Cinema - Keonjhar":  {
+                                                              "last_backup":  "2026-04-29",
+                                                              "status":  "ok"
+                                                          },
+                               "Sriya Stutee Swathi - Bhubaneshwar":  {
+                                                                          "last_backup":  "2026-04-29",
+                                                                          "status":  "ok"
+                                                                      },
+                               "Alishan Central - Kantabanji":  {
+                                                                    "last_backup":  "2026-04-29",
+                                                                    "status":  "ok"
+                                                                },
+                               "Shiva Multiplex - Jharsuguda":  {
+                                                                    "last_backup":  "2026-04-29",
+                                                                    "status":  "ok"
+                                                                }
+                           },
+                    "Asian":  {
+                                  "Asian Lakshmikala Cinepride - Moosapet":  {
+                                                                                 "last_backup":  "2026-04-29",
+                                                                                 "status":  "ok"
+                                                                             },
+                                  "Ashoka Cinema - Kalwakurthy":  {
+                                                                      "last_backup":  "2026-04-29",
+                                                                      "status":  "ok"
+                                                                  },
+                                  "Asian Jyothi - RC Puram":  {
+                                                                  "last_backup":  "2026-04-29",
+                                                                  "status":  "ok"
+                                                              },
+                                  "Asian Ashoka Air-Conditioned - Hanumakonda":  {
+                                                                                     "last_backup":  "2026-04-29",
+                                                                                     "status":  "ok"
+                                                                                 },
+                                  "Asian M Cube Mall - Attapur":  {
+                                                                      "last_backup":  "2026-04-29",
+                                                                      "status":  "ok"
+                                                                  },
+                                  "Seetarama Cinemas - Manuguru":  {
+                                                                       "last_backup":  null,
+                                                                       "status":  "missing"
+                                                                   },
+                                  "Asian Darshan - Kamareddy":  {
+                                                                    "last_backup":  "2026-04-29",
+                                                                    "status":  "ok"
+                                                                },
+                                  "Asian Sri Mohan - Zaheerabad":  {
+                                                                       "last_backup":  "2026-04-29",
+                                                                       "status":  "ok"
+                                                                   },
+                                  "Raghava Theater - Miryalaguda":  {
+                                                                        "last_backup":  "2026-04-29",
+                                                                        "status":  "ok"
+                                                                    },
+                                  "Asian Priya Cineplex - Kamareddy":  {
+                                                                           "last_backup":  "2026-04-29",
+                                                                           "status":  "ok"
+                                                                       },
+                                  "Asian Natraj Deluxe Theatre A -c - Sircilla":  {
+                                                                                      "last_backup":  "2026-04-29",
+                                                                                      "status":  "ok"
+                                                                                  },
+                                  "Asian Sha Shahensha - Chintal":  {
+                                                                        "last_backup":  "2026-04-29",
+                                                                        "status":  "ok"
+                                                                    },
+                                  "Asian Sailaja - Vikarabad":  {
+                                                                    "last_backup":  "2026-04-29",
+                                                                    "status":  "ok"
+                                                                },
+                                  "Asian Manoj - Devarakonda":  {
+                                                                    "last_backup":  "2026-04-29",
+                                                                    "status":  "ok"
+                                                                },
+                                  "Asian Mukund - Mahabubabad":  {
+                                                                     "last_backup":  "2026-04-29",
+                                                                     "status":  "ok"
+                                                                 },
+                                  "Asian Mukund Cinema - Medchal":  {
+                                                                        "last_backup":  "2026-04-29",
+                                                                        "status":  "ok"
+                                                                    },
+                                  "Asian Srinivasa Deluxe - Siddipet":  {
+                                                                            "last_backup":  "2026-04-29",
+                                                                            "status":  "ok"
+                                                                        },
+                                  "Asian Raj Lakshmi - Uppal":  {
+                                                                    "last_backup":  "2026-04-29",
+                                                                    "status":  "ok"
+                                                                },
+                                  "Asian Balaji 70MM A -C - Siddipet":  {
+                                                                            "last_backup":  "2026-04-29",
+                                                                            "status":  "ok"
+                                                                        },
+                                  "Asian Cinemart - RC Puram":  {
+                                                                    "last_backup":  "2026-04-29",
+                                                                    "status":  "ok"
+                                                                },
+                                  "Asian Srinivasa - Kodad":  {
+                                                                  "last_backup":  "2026-04-29",
+                                                                  "status":  "ok"
+                                                              },
+                                  "Asian Maheshwari 70MM A -C DTS - Zaheerabad":  {
+                                                                                      "last_backup":  "2026-04-29",
+                                                                                      "status":  "ok"
+                                                                                  },
+                                  "Asian Srinivasa - Mahbubnagar":  {
+                                                                        "last_backup":  "2026-04-29",
+                                                                        "status":  "ok"
+                                                                    },
+                                  "Asian Sridevi Multiplex - Hanumakonda":  {
+                                                                                "last_backup":  "2026-04-29",
+                                                                                "status":  "ok"
+                                                                            },
+                                  "Asian Srinivasa Theater - Miryalaguda":  {
+                                                                                "last_backup":  "2026-04-29",
+                                                                                "status":  "ok"
+                                                                            },
+                                  "Asian Srinivasa - Khammam":  {
+                                                                    "last_backup":  "2026-04-29",
+                                                                    "status":  "ok"
+                                                                },
+                                  "VLS Sri Rama Theatre - Jagtial":  {
+                                                                         "last_backup":  "2026-04-29",
+                                                                         "status":  "ok"
+                                                                     },
+                                  "Asian Gemini Theatre - Warangal":  {
+                                                                          "last_backup":  "2026-04-29",
+                                                                          "status":  "ok"
+                                                                      },
+                                  "ART CINEMAS - Vanasthalipuram":  {
+                                                                        "last_backup":  "2026-04-29",
+                                                                        "status":  "ok"
+                                                                    },
+                                  "AVD Cinemas - Mahbubnagar":  {
+                                                                    "last_backup":  "2026-04-29",
+                                                                    "status":  "ok"
+                                                                },
+                                  "Asian Usha Prasad Multiplex - Nizamabad":  {
+                                                                                  "last_backup":  "2026-04-29",
+                                                                                  "status":  "ok"
+                                                                              },
+                                  "Asian Sitara - Sangareddy":  {
+                                                                    "last_backup":  "2026-04-29",
+                                                                    "status":  "ok"
+                                                                },
+                                  "Asian Srinivasa - Mancherial":  {
+                                                                       "last_backup":  "2026-04-29",
+                                                                       "status":  "ok"
+                                                                   },
+                                  "Asian Radhika Multiplex - ECIL":  {
+                                                                         "last_backup":  "2026-04-29",
+                                                                         "status":  "ok"
+                                                                     },
+                                  "AMB Cinemas - Gachibowli":  {
+                                                                   "last_backup":  null,
+                                                                   "status":  "missing"
+                                                               },
+                                  "Asian Uday Bhaskar - Bhadrachalam":  {
+                                                                            "last_backup":  "2026-04-29",
+                                                                            "status":  "ok"
+                                                                        },
+                                  "Asian Ramakrishna - Thorrur":  {
+                                                                      "last_backup":  "2026-04-29",
+                                                                      "status":  "ok"
+                                                                  },
+                                  "Asian Urvasi 70MM - Godavarikhani":  {
+                                                                            "last_backup":  "2026-04-29",
+                                                                            "status":  "ok"
+                                                                        },
+                                  "Asian Hema Durga - Uppal":  {
+                                                                   "last_backup":  null,
+                                                                   "status":  "missing"
+                                                               },
+                                  "Asian Tirumala Multiplex - Suryapet":  {
+                                                                              "last_backup":  null,
+                                                                              "status":  "missing"
+                                                                          },
+                                  "Asian Cineplanet Multiplex - Kompally":  {
+                                                                                "last_backup":  "2026-04-29",
+                                                                                "status":  "ok"
+                                                                            },
+                                  "Asian Tarakarama Cineplex - Kachiguda":  {
+                                                                                "last_backup":  "2026-04-29",
+                                                                                "status":  "ok"
+                                                                            },
+                                  "Asian Pradise - Karimnagar":  {
+                                                                     "last_backup":  "2026-04-29",
+                                                                     "status":  "ok"
+                                                                 },
+                                  "Asian Nataraj Deluxe - Adilabad":  {
+                                                                          "last_backup":  "2026-04-29",
+                                                                          "status":  "ok"
+                                                                      },
+                                  "Asian Super - Balapur":  {
+                                                                "last_backup":  "2026-04-29",
+                                                                "status":  "ok"
+                                                            },
+                                  "Cine Town Indra Nagendra - Karmanghat":  {
+                                                                                "last_backup":  "2026-04-29",
+                                                                                "status":  "ok"
+                                                                            },
+                                  "Asian Venkateshwara - Siddipet":  {
+                                                                         "last_backup":  "2026-04-29",
+                                                                         "status":  "ok"
+                                                                     },
+                                  "AAA Cinemas - Ameerpet":  {
+                                                                 "last_backup":  null,
+                                                                 "status":  "missing"
+                                                             },
+                                  "Asian Sai Krishna - Metpally":  {
+                                                                       "last_backup":  "2026-04-29",
+                                                                       "status":  "ok"
+                                                                   }
+                              },
+                    "TG":  {
+                               "Radhika Theater":  {
+                                                       "last_backup":  "2026-04-29",
+                                                       "status":  "ok"
+                                                   },
+                               "Sri Balaji Theater":  {
+                                                          "last_backup":  "2026-04-28",
+                                                          "status":  "missing"
+                                                      },
+                               "Tivoli Cinemas - Secunderabad":  {
+                                                                     "last_backup":  "2026-04-28",
+                                                                     "status":  "missing"
+                                                                 },
+                               "Venkatrama - Warangal":  {
+                                                             "last_backup":  "2026-04-28",
+                                                             "status":  "missing"
+                                                         },
+                               "Amrutha Cinema - Hanumakonda":  {
+                                                                    "last_backup":  "2026-04-28",
+                                                                    "status":  "missing"
+                                                                },
+                               "Rama Krishna 70mm - Abids":  {
+                                                                 "last_backup":  "2026-04-28",
+                                                                 "status":  "missing"
+                                                             },
+                               "Mallikarjuna 70mm AC DTS - Kukatpally":  {
+                                                                             "last_backup":  "2026-04-28",
+                                                                             "status":  "missing"
+                                                                         },
+                               "Sandhya 35mm - RTC X Road":  {
+                                                                 "last_backup":  "2026-04-28",
+                                                                 "status":  "missing"
+                                                             },
+                               "Ramakrishna Glitterati - Abids":  {
+                                                                      "last_backup":  "2026-04-28",
+                                                                      "status":  "missing"
+                                                                  },
+                               "Santhi Theatre - Madhira":  {
+                                                                "last_backup":  "2026-04-29",
+                                                                "status":  "ok"
+                                                            },
+                               "Sai Balaji Theatre - Sathupally":  {
+                                                                       "last_backup":  "2026-04-29",
+                                                                       "status":  "ok"
+                                                                   },
+                               "Srinivasa Theatre - Jagtial":  {
+                                                                   "last_backup":  "2026-04-28",
+                                                                   "status":  "missing"
+                                                               },
+                               "BR Hitech 70mm - Madhapur":  {
+                                                                 "last_backup":  "2026-04-28",
+                                                                 "status":  "missing"
+                                                             },
+                               "Talluri Theatres - Kushaiguda":  {
+                                                                     "last_backup":  "2026-04-28",
+                                                                     "status":  "missing"
+                                                                 },
+                               "Cinemax - Vikarabad":  {
+                                                           "last_backup":  "2026-04-24",
+                                                           "status":  "missing"
+                                                       },
+                               "Maheshwari Theater":  {
+                                                          "last_backup":  "2026-04-28",
+                                                          "status":  "missing"
+                                                      },
+                               "SR CINEMAS MANTHANI":  {
+                                                           "last_backup":  "2026-04-29",
+                                                           "status":  "ok"
+                                                       },
+                               "Bhramaramba 70MM AC Dts - Kukatpally":  {
+                                                                            "last_backup":  "2026-04-29",
+                                                                            "status":  "ok"
+                                                                        },
+                               "Lakshmi Srinivasa Theatre - Madhira":  {
+                                                                           "last_backup":  "2026-04-29",
+                                                                           "status":  "ok"
+                                                                       },
+                               "Indra Venkataramana Padmavati Cinema - Kachiguda":  {
+                                                                                        "last_backup":  "2026-04-29",
+                                                                                        "status":  "ok"
+                                                                                    },
+                               "Ashwini Theater":  {
+                                                       "last_backup":  null,
+                                                       "status":  "missing"
+                                                   },
+                               "ALLU Cinemas":  {
+                                                    "last_backup":  "2026-04-29",
+                                                    "status":  "ok"
+                                                },
+                               "Srinivasa Picture Palace - Sathupally":  {
+                                                                             "last_backup":  "2026-04-17",
+                                                                             "status":  "missing"
+                                                                         },
+                               "Sri Venkateswara Talkies - Mancherial":  {
+                                                                             "last_backup":  "2026-04-29",
+                                                                             "status":  "ok"
+                                                                         },
+                               "Acchi Reddy Theater AC Dolby DTS - Haliya":  {
+                                                                                 "last_backup":  "2026-04-07",
+                                                                                 "status":  "missing"
+                                                                             },
+                               "cinemax - Medak":  {
+                                                       "last_backup":  "2026-04-15",
+                                                       "status":  "missing"
+                                                   },
+                               "Sri Krishna - Uppal":  {
+                                                           "last_backup":  "2026-04-29",
+                                                           "status":  "ok"
+                                                       },
+                               "Devi Theater - RTC X Road":  {
+                                                                 "last_backup":  "2026-04-29",
+                                                                 "status":  "ok"
+                                                             },
+                               "GPR Multiplex - Nizampet Hyderabad":  {
+                                                                          "last_backup":  "2026-04-29",
+                                                                          "status":  "ok"
+                                                                      },
+                               "Sri Sai Baba - Shadnagar":  {
+                                                                "last_backup":  "2026-04-29",
+                                                                "status":  "ok"
+                                                            },
+                               "AMR Vijay Bhaskar - Bhadrachalam":  {
+                                                                        "last_backup":  "2026-04-29",
+                                                                        "status":  "ok"
+                                                                    },
+                               "Cineverse Multiplex - Uppal":  {
+                                                                   "last_backup":  "2026-04-22",
+                                                                   "status":  "missing"
+                                                               },
+                               "Prashant Cinema - Secunderabad":  {
+                                                                      "last_backup":  "2026-04-29",
+                                                                      "status":  "ok"
+                                                                  },
+                               "Sri Venkateswara Theatre":  {
+                                                                "last_backup":  "2026-04-27",
+                                                                "status":  "missing"
+                                                            },
+                               "BVK Multiplex Vijayalakshmi - LB Nagar":  {
+                                                                              "last_backup":  "2026-04-27",
+                                                                              "status":  "missing"
+                                                                          },
+                               "JP Cinemas Chandanagar":  {
+                                                              "last_backup":  "2026-04-29",
+                                                              "status":  "ok"
+                                                          },
+                               "Bhujanga 70MM - Jeedimetla":  {
+                                                                  "last_backup":  "2026-04-29",
+                                                                  "status":  "ok"
+                                                              },
+                               "Laxmi - Metpally":  {
+                                                        "last_backup":  "2026-04-29",
+                                                        "status":  "ok"
+                                                    },
+                               "Sri Prema - Thukkuguda":  {
+                                                              "last_backup":  "2026-04-29",
+                                                              "status":  "ok"
+                                                          },
+                               "Vishnuram Cinemas - Kodad":  {
+                                                                 "last_backup":  "2026-04-15",
+                                                                 "status":  "missing"
+                                                             },
+                               "VLS Sridevi 2K AC Dts - Chilakalguda":  {
+                                                                            "last_backup":  "2026-04-29",
+                                                                            "status":  "ok"
+                                                                        },
+                               "Sandhya 70MM 4K Dolby Atmos - RTC X Roads":  {
+                                                                                 "last_backup":  "2026-04-29",
+                                                                                 "status":  "ok"
+                                                                             },
+                               "Srinivasa Theater - Choutuppal":  {
+                                                                      "last_backup":  "2026-04-29",
+                                                                      "status":  "ok"
+                                                                  },
+                               "SREE RAMANA - Amberpet":  {
+                                                              "last_backup":  "2026-04-29",
+                                                              "status":  "ok"
+                                                          },
+                               "Aradhana Theatre - Hyderabad":  {
+                                                                    "last_backup":  "2026-04-29",
+                                                                    "status":  "ok"
+                                                                },
+                               "Vijetha 70MM 4k Atmos - Borabanda":  {
+                                                                         "last_backup":  "2026-04-29",
+                                                                         "status":  "ok"
+                                                                     },
+                               "Sri Manikanta 70mm Theatres":  {
+                                                                   "last_backup":  "2026-04-27",
+                                                                   "status":  "missing"
+                                                               },
+                               "Sri Rama Multiplex - Sulthanabad":  {
+                                                                        "last_backup":  "2026-04-26",
+                                                                        "status":  "missing"
+                                                                    },
+                               "Seetarama Cinemas - Manuguru":  {
+                                                                    "last_backup":  "2026-04-07",
+                                                                    "status":  "missing"
+                                                                },
+                               "Parameswara 70MM - Shadnagar":  {
+                                                                    "last_backup":  "2026-04-29",
+                                                                    "status":  "ok"
+                                                                },
+                               "Sai Baba Theatre - Shankarpally":  {
+                                                                       "last_backup":  null,
+                                                                       "status":  "missing"
+                                                                   },
+                               "Sai Ranga - Miyapur":  {
+                                                           "last_backup":  "2026-04-29",
+                                                           "status":  "ok"
+                                                       },
+                               "Laxmi AC Deluxe Theatre - Korutla":  {
+                                                                         "last_backup":  "2026-04-29",
+                                                                         "status":  "ok"
+                                                                     },
+                               "Gokul 70MM - Erragadda":  {
+                                                              "last_backup":  "2026-04-29",
+                                                              "status":  "ok"
+                                                          },
+                               "Sri Venkateshwara":  {
+                                                         "last_backup":  "2026-04-29",
+                                                         "status":  "ok"
+                                                     },
+                               "Sri Satya Bhaskara Picture Palace - Manuguru":  {
+                                                                                    "last_backup":  "2026-04-29",
+                                                                                    "status":  "ok"
+                                                                                },
+                               "Sudharsan Theater - RTC X Road":  {
+                                                                      "last_backup":  "2026-04-29",
+                                                                      "status":  "ok"
+                                                                  }
+                           },
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
                                                                       "last_backup":  "2026-04-29",
@@ -495,434 +960,6 @@
                                                      "status":  "ok"
                                                  }
                            },
-                    "TG":  {
-                               "Radhika Theater":  {
-                                                       "last_backup":  "2026-04-29",
-                                                       "status":  "ok"
-                                                   },
-                               "Sri Balaji Theater":  {
-                                                          "last_backup":  "2026-04-28",
-                                                          "status":  "missing"
-                                                      },
-                               "Tivoli Cinemas - Secunderabad":  {
-                                                                     "last_backup":  "2026-04-28",
-                                                                     "status":  "missing"
-                                                                 },
-                               "Venkatrama - Warangal":  {
-                                                             "last_backup":  "2026-04-28",
-                                                             "status":  "missing"
-                                                         },
-                               "Amrutha Cinema - Hanumakonda":  {
-                                                                    "last_backup":  "2026-04-28",
-                                                                    "status":  "missing"
-                                                                },
-                               "Rama Krishna 70mm - Abids":  {
-                                                                 "last_backup":  "2026-04-28",
-                                                                 "status":  "missing"
-                                                             },
-                               "Mallikarjuna 70mm AC DTS - Kukatpally":  {
-                                                                             "last_backup":  "2026-04-28",
-                                                                             "status":  "missing"
-                                                                         },
-                               "Sandhya 35mm - RTC X Road":  {
-                                                                 "last_backup":  "2026-04-28",
-                                                                 "status":  "missing"
-                                                             },
-                               "Ramakrishna Glitterati - Abids":  {
-                                                                      "last_backup":  "2026-04-28",
-                                                                      "status":  "missing"
-                                                                  },
-                               "Santhi Theatre - Madhira":  {
-                                                                "last_backup":  "2026-04-29",
-                                                                "status":  "ok"
-                                                            },
-                               "Sai Balaji Theatre - Sathupally":  {
-                                                                       "last_backup":  "2026-04-29",
-                                                                       "status":  "ok"
-                                                                   },
-                               "Srinivasa Theatre - Jagtial":  {
-                                                                   "last_backup":  "2026-04-28",
-                                                                   "status":  "missing"
-                                                               },
-                               "BR Hitech 70mm - Madhapur":  {
-                                                                 "last_backup":  "2026-04-28",
-                                                                 "status":  "missing"
-                                                             },
-                               "Talluri Theatres - Kushaiguda":  {
-                                                                     "last_backup":  "2026-04-28",
-                                                                     "status":  "missing"
-                                                                 },
-                               "Cinemax - Vikarabad":  {
-                                                           "last_backup":  "2026-04-24",
-                                                           "status":  "missing"
-                                                       },
-                               "Maheshwari Theater":  {
-                                                          "last_backup":  "2026-04-28",
-                                                          "status":  "missing"
-                                                      },
-                               "SR CINEMAS MANTHANI":  {
-                                                           "last_backup":  "2026-04-29",
-                                                           "status":  "ok"
-                                                       },
-                               "Bhramaramba 70MM AC Dts - Kukatpally":  {
-                                                                            "last_backup":  "2026-04-29",
-                                                                            "status":  "ok"
-                                                                        },
-                               "Lakshmi Srinivasa Theatre - Madhira":  {
-                                                                           "last_backup":  "2026-04-29",
-                                                                           "status":  "ok"
-                                                                       },
-                               "Indra Venkataramana Padmavati Cinema - Kachiguda":  {
-                                                                                        "last_backup":  "2026-04-29",
-                                                                                        "status":  "ok"
-                                                                                    },
-                               "Ashwini Theater":  {
-                                                       "last_backup":  null,
-                                                       "status":  "missing"
-                                                   },
-                               "ALLU Cinemas":  {
-                                                    "last_backup":  "2026-04-29",
-                                                    "status":  "ok"
-                                                },
-                               "Srinivasa Picture Palace - Sathupally":  {
-                                                                             "last_backup":  "2026-04-17",
-                                                                             "status":  "missing"
-                                                                         },
-                               "Sri Venkateswara Talkies - Mancherial":  {
-                                                                             "last_backup":  "2026-04-29",
-                                                                             "status":  "ok"
-                                                                         },
-                               "Acchi Reddy Theater AC Dolby DTS - Haliya":  {
-                                                                                 "last_backup":  "2026-04-07",
-                                                                                 "status":  "missing"
-                                                                             },
-                               "cinemax - Medak":  {
-                                                       "last_backup":  "2026-04-15",
-                                                       "status":  "missing"
-                                                   },
-                               "Sri Krishna - Uppal":  {
-                                                           "last_backup":  "2026-04-29",
-                                                           "status":  "ok"
-                                                       },
-                               "Devi Theater - RTC X Road":  {
-                                                                 "last_backup":  "2026-04-29",
-                                                                 "status":  "ok"
-                                                             },
-                               "GPR Multiplex - Nizampet Hyderabad":  {
-                                                                          "last_backup":  "2026-04-29",
-                                                                          "status":  "ok"
-                                                                      },
-                               "Sri Sai Baba - Shadnagar":  {
-                                                                "last_backup":  "2026-04-29",
-                                                                "status":  "ok"
-                                                            },
-                               "AMR Vijay Bhaskar - Bhadrachalam":  {
-                                                                        "last_backup":  "2026-04-29",
-                                                                        "status":  "ok"
-                                                                    },
-                               "Cineverse Multiplex - Uppal":  {
-                                                                   "last_backup":  "2026-04-22",
-                                                                   "status":  "missing"
-                                                               },
-                               "Prashant Cinema - Secunderabad":  {
-                                                                      "last_backup":  "2026-04-29",
-                                                                      "status":  "ok"
-                                                                  },
-                               "Sri Venkateswara Theatre":  {
-                                                                "last_backup":  "2026-04-27",
-                                                                "status":  "missing"
-                                                            },
-                               "BVK Multiplex Vijayalakshmi - LB Nagar":  {
-                                                                              "last_backup":  "2026-04-27",
-                                                                              "status":  "missing"
-                                                                          },
-                               "JP Cinemas Chandanagar":  {
-                                                              "last_backup":  "2026-04-29",
-                                                              "status":  "ok"
-                                                          },
-                               "Bhujanga 70MM - Jeedimetla":  {
-                                                                  "last_backup":  "2026-04-29",
-                                                                  "status":  "ok"
-                                                              },
-                               "Laxmi - Metpally":  {
-                                                        "last_backup":  "2026-04-29",
-                                                        "status":  "ok"
-                                                    },
-                               "Sri Prema - Thukkuguda":  {
-                                                              "last_backup":  "2026-04-29",
-                                                              "status":  "ok"
-                                                          },
-                               "Vishnuram Cinemas - Kodad":  {
-                                                                 "last_backup":  "2026-04-15",
-                                                                 "status":  "missing"
-                                                             },
-                               "VLS Sridevi 2K AC Dts - Chilakalguda":  {
-                                                                            "last_backup":  "2026-04-29",
-                                                                            "status":  "ok"
-                                                                        },
-                               "Sandhya 70MM 4K Dolby Atmos - RTC X Roads":  {
-                                                                                 "last_backup":  "2026-04-29",
-                                                                                 "status":  "ok"
-                                                                             },
-                               "Srinivasa Theater - Choutuppal":  {
-                                                                      "last_backup":  "2026-04-29",
-                                                                      "status":  "ok"
-                                                                  },
-                               "SREE RAMANA - Amberpet":  {
-                                                              "last_backup":  "2026-04-29",
-                                                              "status":  "ok"
-                                                          },
-                               "Aradhana Theatre - Hyderabad":  {
-                                                                    "last_backup":  "2026-04-29",
-                                                                    "status":  "ok"
-                                                                },
-                               "Vijetha 70MM 4k Atmos - Borabanda":  {
-                                                                         "last_backup":  "2026-04-29",
-                                                                         "status":  "ok"
-                                                                     },
-                               "Sri Manikanta 70mm Theatres":  {
-                                                                   "last_backup":  "2026-04-27",
-                                                                   "status":  "missing"
-                                                               },
-                               "Sri Rama Multiplex - Sulthanabad":  {
-                                                                        "last_backup":  "2026-04-26",
-                                                                        "status":  "missing"
-                                                                    },
-                               "Seetarama Cinemas - Manuguru":  {
-                                                                    "last_backup":  "2026-04-07",
-                                                                    "status":  "missing"
-                                                                },
-                               "Parameswara 70MM - Shadnagar":  {
-                                                                    "last_backup":  "2026-04-29",
-                                                                    "status":  "ok"
-                                                                },
-                               "Sai Baba Theatre - Shankarpally":  {
-                                                                       "last_backup":  null,
-                                                                       "status":  "missing"
-                                                                   },
-                               "Sai Ranga - Miyapur":  {
-                                                           "last_backup":  "2026-04-29",
-                                                           "status":  "ok"
-                                                       },
-                               "Laxmi AC Deluxe Theatre - Korutla":  {
-                                                                         "last_backup":  "2026-04-29",
-                                                                         "status":  "ok"
-                                                                     },
-                               "Gokul 70MM - Erragadda":  {
-                                                              "last_backup":  "2026-04-29",
-                                                              "status":  "ok"
-                                                          },
-                               "Sri Venkateshwara":  {
-                                                         "last_backup":  "2026-04-29",
-                                                         "status":  "ok"
-                                                     },
-                               "Sri Satya Bhaskara Picture Palace - Manuguru":  {
-                                                                                    "last_backup":  "2026-04-29",
-                                                                                    "status":  "ok"
-                                                                                },
-                               "Sudharsan Theater - RTC X Road":  {
-                                                                      "last_backup":  "2026-04-29",
-                                                                      "status":  "ok"
-                                                                  }
-                           },
-                    "Asian":  {
-                                  "Asian Lakshmikala Cinepride - Moosapet":  {
-                                                                                 "last_backup":  "2026-04-29",
-                                                                                 "status":  "ok"
-                                                                             },
-                                  "Ashoka Cinema - Kalwakurthy":  {
-                                                                      "last_backup":  "2026-04-29",
-                                                                      "status":  "ok"
-                                                                  },
-                                  "Asian Jyothi - RC Puram":  {
-                                                                  "last_backup":  "2026-04-29",
-                                                                  "status":  "ok"
-                                                              },
-                                  "Asian Ashoka Air-Conditioned - Hanumakonda":  {
-                                                                                     "last_backup":  "2026-04-29",
-                                                                                     "status":  "ok"
-                                                                                 },
-                                  "Asian M Cube Mall - Attapur":  {
-                                                                      "last_backup":  "2026-04-29",
-                                                                      "status":  "ok"
-                                                                  },
-                                  "Seetarama Cinemas - Manuguru":  {
-                                                                       "last_backup":  null,
-                                                                       "status":  "missing"
-                                                                   },
-                                  "Asian Darshan - Kamareddy":  {
-                                                                    "last_backup":  "2026-04-29",
-                                                                    "status":  "ok"
-                                                                },
-                                  "Asian Sri Mohan - Zaheerabad":  {
-                                                                       "last_backup":  "2026-04-29",
-                                                                       "status":  "ok"
-                                                                   },
-                                  "Raghava Theater - Miryalaguda":  {
-                                                                        "last_backup":  "2026-04-29",
-                                                                        "status":  "ok"
-                                                                    },
-                                  "Asian Priya Cineplex - Kamareddy":  {
-                                                                           "last_backup":  "2026-04-29",
-                                                                           "status":  "ok"
-                                                                       },
-                                  "Asian Natraj Deluxe Theatre A -c - Sircilla":  {
-                                                                                      "last_backup":  "2026-04-29",
-                                                                                      "status":  "ok"
-                                                                                  },
-                                  "Asian Sha Shahensha - Chintal":  {
-                                                                        "last_backup":  "2026-04-29",
-                                                                        "status":  "ok"
-                                                                    },
-                                  "Asian Sailaja - Vikarabad":  {
-                                                                    "last_backup":  "2026-04-29",
-                                                                    "status":  "ok"
-                                                                },
-                                  "Asian Manoj - Devarakonda":  {
-                                                                    "last_backup":  "2026-04-29",
-                                                                    "status":  "ok"
-                                                                },
-                                  "Asian Mukund - Mahabubabad":  {
-                                                                     "last_backup":  "2026-04-29",
-                                                                     "status":  "ok"
-                                                                 },
-                                  "Asian Mukund Cinema - Medchal":  {
-                                                                        "last_backup":  "2026-04-29",
-                                                                        "status":  "ok"
-                                                                    },
-                                  "Asian Srinivasa Deluxe - Siddipet":  {
-                                                                            "last_backup":  "2026-04-29",
-                                                                            "status":  "ok"
-                                                                        },
-                                  "Asian Raj Lakshmi - Uppal":  {
-                                                                    "last_backup":  "2026-04-29",
-                                                                    "status":  "ok"
-                                                                },
-                                  "Asian Balaji 70MM A -C - Siddipet":  {
-                                                                            "last_backup":  "2026-04-29",
-                                                                            "status":  "ok"
-                                                                        },
-                                  "Asian Cinemart - RC Puram":  {
-                                                                    "last_backup":  "2026-04-29",
-                                                                    "status":  "ok"
-                                                                },
-                                  "Asian Srinivasa - Kodad":  {
-                                                                  "last_backup":  "2026-04-29",
-                                                                  "status":  "ok"
-                                                              },
-                                  "Asian Maheshwari 70MM A -C DTS - Zaheerabad":  {
-                                                                                      "last_backup":  "2026-04-29",
-                                                                                      "status":  "ok"
-                                                                                  },
-                                  "Asian Srinivasa - Mahbubnagar":  {
-                                                                        "last_backup":  "2026-04-29",
-                                                                        "status":  "ok"
-                                                                    },
-                                  "Asian Sridevi Multiplex - Hanumakonda":  {
-                                                                                "last_backup":  "2026-04-29",
-                                                                                "status":  "ok"
-                                                                            },
-                                  "Asian Srinivasa Theater - Miryalaguda":  {
-                                                                                "last_backup":  "2026-04-29",
-                                                                                "status":  "ok"
-                                                                            },
-                                  "Asian Srinivasa - Khammam":  {
-                                                                    "last_backup":  "2026-04-29",
-                                                                    "status":  "ok"
-                                                                },
-                                  "VLS Sri Rama Theatre - Jagtial":  {
-                                                                         "last_backup":  "2026-04-29",
-                                                                         "status":  "ok"
-                                                                     },
-                                  "Asian Gemini Theatre - Warangal":  {
-                                                                          "last_backup":  "2026-04-29",
-                                                                          "status":  "ok"
-                                                                      },
-                                  "ART CINEMAS - Vanasthalipuram":  {
-                                                                        "last_backup":  "2026-04-29",
-                                                                        "status":  "ok"
-                                                                    },
-                                  "AVD Cinemas - Mahbubnagar":  {
-                                                                    "last_backup":  "2026-04-29",
-                                                                    "status":  "ok"
-                                                                },
-                                  "Asian Usha Prasad Multiplex - Nizamabad":  {
-                                                                                  "last_backup":  "2026-04-29",
-                                                                                  "status":  "ok"
-                                                                              },
-                                  "Asian Sitara - Sangareddy":  {
-                                                                    "last_backup":  "2026-04-29",
-                                                                    "status":  "ok"
-                                                                },
-                                  "Asian Srinivasa - Mancherial":  {
-                                                                       "last_backup":  "2026-04-29",
-                                                                       "status":  "ok"
-                                                                   },
-                                  "Asian Radhika Multiplex - ECIL":  {
-                                                                         "last_backup":  "2026-04-29",
-                                                                         "status":  "ok"
-                                                                     },
-                                  "AMB Cinemas - Gachibowli":  {
-                                                                   "last_backup":  null,
-                                                                   "status":  "missing"
-                                                               },
-                                  "Asian Uday Bhaskar - Bhadrachalam":  {
-                                                                            "last_backup":  "2026-04-29",
-                                                                            "status":  "ok"
-                                                                        },
-                                  "Asian Ramakrishna - Thorrur":  {
-                                                                      "last_backup":  "2026-04-29",
-                                                                      "status":  "ok"
-                                                                  },
-                                  "Asian Urvasi 70MM - Godavarikhani":  {
-                                                                            "last_backup":  "2026-04-29",
-                                                                            "status":  "ok"
-                                                                        },
-                                  "Asian Hema Durga - Uppal":  {
-                                                                   "last_backup":  null,
-                                                                   "status":  "missing"
-                                                               },
-                                  "Asian Tirumala Multiplex - Suryapet":  {
-                                                                              "last_backup":  null,
-                                                                              "status":  "missing"
-                                                                          },
-                                  "Asian Cineplanet Multiplex - Kompally":  {
-                                                                                "last_backup":  "2026-04-29",
-                                                                                "status":  "ok"
-                                                                            },
-                                  "Asian Tarakarama Cineplex - Kachiguda":  {
-                                                                                "last_backup":  "2026-04-29",
-                                                                                "status":  "ok"
-                                                                            },
-                                  "Asian Pradise - Karimnagar":  {
-                                                                     "last_backup":  "2026-04-29",
-                                                                     "status":  "ok"
-                                                                 },
-                                  "Asian Nataraj Deluxe - Adilabad":  {
-                                                                          "last_backup":  "2026-04-29",
-                                                                          "status":  "ok"
-                                                                      },
-                                  "Asian Super - Balapur":  {
-                                                                "last_backup":  "2026-04-29",
-                                                                "status":  "ok"
-                                                            },
-                                  "Cine Town Indra Nagendra - Karmanghat":  {
-                                                                                "last_backup":  "2026-04-29",
-                                                                                "status":  "ok"
-                                                                            },
-                                  "Asian Venkateshwara - Siddipet":  {
-                                                                         "last_backup":  "2026-04-29",
-                                                                         "status":  "ok"
-                                                                     },
-                                  "AAA Cinemas - Ameerpet":  {
-                                                                 "last_backup":  null,
-                                                                 "status":  "missing"
-                                                             },
-                                  "Asian Sai Krishna - Metpally":  {
-                                                                       "last_backup":  "2026-04-29",
-                                                                       "status":  "ok"
-                                                                   }
-                              },
                     "AP":  {
                                "Chandra Guptha and Chanukya Theater":  {
                                                                            "last_backup":  "2026-04-29",
@@ -977,8 +1014,8 @@
                                                                    "status":  "missing"
                                                                },
                                "JVR Cinemas - Jaggampeta":  {
-                                                                "last_backup":  "2026-04-25",
-                                                                "status":  "missing"
+                                                                "last_backup":  "2026-04-29",
+                                                                "status":  "ok"
                                                             },
                                "Pratap Group Theaters AC 4K Dolby Atmos - Tirupati":  {
                                                                                           "last_backup":  null,
@@ -1176,10 +1213,6 @@
                                                                                "last_backup":  "2026-04-29",
                                                                                "status":  "ok"
                                                                            },
-                               "Sri Raja Rajeswari - Jangareddy Gudem":  {
-                                                                             "last_backup":  "2026-04-29",
-                                                                             "status":  "ok"
-                                                                         },
                                "Gowtham Cinemas - Rayachoti":  {
                                                                    "last_backup":  null,
                                                                    "status":  "missing"
@@ -1268,10 +1301,10 @@
                                                                "last_backup":  null,
                                                                "status":  "missing"
                                                            },
-                               "Gorantla Cinemas - Ongole":  {
-                                                                 "last_backup":  null,
-                                                                 "status":  "missing"
-                                                             },
+                               "Sri Raja Rajeswari - Jangareddy Gudem":  {
+                                                                             "last_backup":  "2026-04-29",
+                                                                             "status":  "ok"
+                                                                         },
                                "Cine Prime Screen 1 2 - Guntur":  {
                                                                       "last_backup":  "2026-04-29",
                                                                       "status":  "ok"
@@ -1305,8 +1338,8 @@
                                                                     "status":  "missing"
                                                                 },
                                "Satyam AC 4K Dolby Atmos - Ongole":  {
-                                                                         "last_backup":  null,
-                                                                         "status":  "missing"
+                                                                         "last_backup":  "2026-04-29",
+                                                                         "status":  "ok"
                                                                      },
                                "Desai Theater - Porumamilla":  {
                                                                    "last_backup":  null,
@@ -1796,40 +1829,6 @@
                                                                              "last_backup":  "2026-04-29",
                                                                              "status":  "ok"
                                                                          }
-                           },
-                    "OR":  {
-                               "Rukmini Cineplex - Bargarh":  {
-                                                                  "last_backup":  "2026-04-29",
-                                                                  "status":  "ok"
-                                                              },
-                               "Meghraj Cinemaz - Koraput":  {
-                                                                 "last_backup":  "2026-04-29",
-                                                                 "status":  "ok"
-                                                             },
-                               "Maharaja Christie 4K Dolby Atmos 64 Channel":  {
-                                                                                   "last_backup":  "2026-04-29",
-                                                                                   "status":  "ok"
-                                                                               },
-                               "Keshari Theatre Barco 4K Dolby Atmos - Bhubaneshwar":  {
-                                                                                           "last_backup":  "2026-04-29",
-                                                                                           "status":  "ok"
-                                                                                       },
-                               "KNOX Cinema - Keonjhar":  {
-                                                              "last_backup":  "2026-04-29",
-                                                              "status":  "ok"
-                                                          },
-                               "Sriya Stutee Swathi - Bhubaneshwar":  {
-                                                                          "last_backup":  "2026-04-29",
-                                                                          "status":  "ok"
-                                                                      },
-                               "Alishan Central - Kantabanji":  {
-                                                                    "last_backup":  "2026-04-29",
-                                                                    "status":  "ok"
-                                                                },
-                               "Shiva Multiplex - Jharsuguda":  {
-                                                                    "last_backup":  "2026-04-29",
-                                                                    "status":  "ok"
-                                                                }
                            }
                 }
 }
