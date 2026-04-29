@@ -396,7 +396,7 @@ let STATUS = null;
 let INACTIVE = {};
 let activeRegion = null;
 let statusFilter = 'all';
-let failSubFilter = null; // 'nodate' or 'olddate'
+let failSubFilter = null;
 
 const REGION_COLORS = {
   Asian: '#059669',
@@ -405,6 +405,7 @@ const REGION_COLORS = {
   KA:    '#1a56db',
   City:  '#d97706',
   OR:    '#ea580c',
+  TN:    '#db2777',
 };
 
 function regionColor(name) {
@@ -508,6 +509,7 @@ function getRegionLabel(region) {
     'KA':    'KA Region',
     'City':  'City Region',
     'OR':    'Orissa Region',
+    'TN':    'Tamil Nadu Region',
   };
   return labels[region] || region + ' Region';
 }
@@ -520,6 +522,7 @@ function getRegionDisplay(region) {
     'KA':    'KA',
     'City':  'City',
     'OR':    'Orissa',
+    'TN':    'Tamil Nadu',
   };
   return names[region] || region;
 }
