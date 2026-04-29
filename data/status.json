@@ -1,8 +1,27 @@
 ﻿{
-    "generated_at":  "2026-04-29 12:05:02",
+    "generated_at":  "2026-04-29 13:00:03",
     "regions":  {
                     "TN":  {
-
+                               "Kasi Talkies Chennai":  {
+                                                            "last_backup":  null,
+                                                            "status":  "missing"
+                                                        },
+                               "Vijay Park Multiplex Chennai":  {
+                                                                    "last_backup":  null,
+                                                                    "status":  "missing"
+                                                                },
+                               "RamMuthuram Theatre Tirunelveli":  {
+                                                                       "last_backup":  null,
+                                                                       "status":  "missing"
+                                                                   },
+                               "Jeeva Rukmini Theatre Pondicherry":  {
+                                                                         "last_backup":  null,
+                                                                         "status":  "missing"
+                                                                     },
+                               "Rohini Silver Screen Chennai":  {
+                                                                    "last_backup":  null,
+                                                                    "status":  "missing"
+                                                                }
                            },
                     "OR":  {
                                "Rukmini Cineplex - Bargarh":  {
@@ -1594,8 +1613,8 @@
                                                                         "status":  "missing"
                                                                     },
                                "ABR Cinemas - Gudivada":  {
-                                                              "last_backup":  null,
-                                                              "status":  "missing"
+                                                              "last_backup":  "2026-04-29",
+                                                              "status":  "ok"
                                                           },
                                "AVG Cinemas - Bhimavaram":  {
                                                                 "last_backup":  null,
