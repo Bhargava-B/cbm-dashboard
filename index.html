@@ -312,12 +312,6 @@ header h2 {
   margin-top: 2px;
 }
 
-.license {
-  font-family: ui-monospace, "SF Mono", Consolas, monospace;
-  font-size: 10.5px;
-  color: #94a3b8;
-}
-
 .badge {
   font-size: 10px;
   padding: 3px 9px;
@@ -621,15 +615,12 @@ function renderList() {
       if (query && !name.toLowerCase().includes(query)) continue;
       count++;
       const ok = c.status === 'ok';
-      let backupInfo = c.last_backup || '—';
-      if (c.last_backup_time) backupInfo += ' ' + c.last_backup_time;
-      const licenseInfo = c.license ? ` &nbsp;·&nbsp; <span class="license">${c.license}</span>` : '';
       html += `
         <div class="item">
           <span class="dot ${ok ? 'ok' : 'bad'}"></span>
           <div class="item-info">
             <div class="name">${name}</div>
-            <div class="sub">${getRegionDisplay(region)} &nbsp;·&nbsp; Last backup: ${backupInfo}${licenseInfo}</div>
+            <div class="sub">${getRegionDisplay(region)} &nbsp;·&nbsp; Last backup: ${c.last_backup || '—'}</div>
           </div>
           <span class="badge ${ok ? 'ok' : 'bad'}">${ok ? 'Backed up' : 'Missing'}</span>
         </div>`;
