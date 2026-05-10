@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-11 01:13:13",
+    "generated_at":  "2026-05-11 02:16:27",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -1102,10 +1102,18 @@
                                                                             "last_backup":  "2026-05-10",
                                                                             "status":  "missing"
                                                                         },
+                               "Sri Venkateshwara Mahal AC Dolby Atmos 2K - Punganur":  {
+                                                                                            "last_backup":  "2026-05-10",
+                                                                                            "status":  "missing"
+                                                                                        },
                                "Sri Venkateswara Theatres Dolby 7.1 2K and 4K - Vizag":  {
                                                                                              "last_backup":  "2026-05-10",
                                                                                              "status":  "missing"
                                                                                          },
+                               "Sri Sai Rajeswari Complex Cine Hub":  {
+                                                                          "last_backup":  "2026-05-10",
+                                                                          "status":  "missing"
+                                                                      },
                                "Sri Sivajyothi 2K Cinema 7.1 Dolby - Rajahmundry":  {
                                                                                         "last_backup":  "2026-05-10",
                                                                                         "status":  "missing"
@@ -1498,10 +1506,6 @@
                                                                                    "last_backup":  "2026-05-10",
                                                                                    "status":  "missing"
                                                                                },
-                               "Sri Sai Rajeswari Complex Cine Hub - Unknown":  {
-                                                                                    "last_backup":  "2026-05-10",
-                                                                                    "status":  "missing"
-                                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
                                                                         "last_backup":  "2026-05-06",
                                                                         "status":  "missing"
@@ -1786,10 +1790,6 @@
                                                                       "last_backup":  "2026-05-10",
                                                                       "status":  "missing"
                                                                   },
-                               "Sri Venkateshwara Mahal AC Dolby Atmos 2K - Unknown":  {
-                                                                                           "last_backup":  "2026-05-10",
-                                                                                           "status":  "missing"
-                                                                                       },
                                "Venkata Padmavathi Cineplex - Amalapuram":  {
                                                                                 "last_backup":  null,
                                                                                 "status":  "missing"
@@ -1836,5 +1836,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-11 01:00:02"
+    "started_at":  "2026-05-11 02:00:02"
 }
