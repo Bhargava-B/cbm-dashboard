@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-11 16:14:25",
+    "generated_at":  "2026-05-11 17:13:12",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -1171,8 +1171,8 @@
                                                                              "status":  "ok"
                                                                          },
                                "Dr PV Rao Cineplex - Kanchikacherla":  {
-                                                                           "last_backup":  null,
-                                                                           "status":  "missing"
+                                                                           "last_backup":  "2026-05-11",
+                                                                           "status":  "ok"
                                                                        },
                                "Srinivasa Theater - Giddalur":  {
                                                                     "last_backup":  "2026-05-11",
@@ -1347,8 +1347,8 @@
                                                                       "status":  "ok"
                                                                   },
                                "Sri Srinivasa Theater - Amaravathi":  {
-                                                                          "last_backup":  null,
-                                                                          "status":  "missing"
+                                                                          "last_backup":  "2026-05-11",
+                                                                          "status":  "ok"
                                                                       },
                                "Balaji Iconia":  {
                                                      "last_backup":  "2026-05-11",
@@ -1639,8 +1639,8 @@
                                                         "status":  "ok"
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "last_backup":  "2026-05-11",
-                                                                                "status":  "ok"
+                                                                                "last_backup":  "2026-05-04",
+                                                                                "status":  "missing"
                                                                             },
                                "SV Talkies - Nindra":  {
                                                            "last_backup":  "2026-05-01",
@@ -1844,5 +1844,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-11 16:00:03"
+    "started_at":  "2026-05-11 17:00:03"
 }
