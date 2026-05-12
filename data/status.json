@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-12 15:18:12",
+    "generated_at":  "2026-05-12 17:13:58",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -1383,8 +1383,8 @@
                                                                         "status":  "ok"
                                                                     },
                                "Surya Cinemax - Kakinada":  {
-                                                                "last_backup":  null,
-                                                                "status":  "missing"
+                                                                "last_backup":  "2026-05-12",
+                                                                "status":  "ok"
                                                             },
                                "Swathi Theater - Bhavanipuram":  {
                                                                      "last_backup":  "2026-05-12",
@@ -1427,8 +1427,8 @@
                                                                                       "status":  "ok"
                                                                                   },
                                "Padmaja Picture Palace 2K AC DTS - Malikipuram":  {
-                                                                                      "last_backup":  null,
-                                                                                      "status":  "missing"
+                                                                                      "last_backup":  "2026-05-12",
+                                                                                      "status":  "ok"
                                                                                   },
                                "Dwaraka Cinemas 4K Dolby Atmos - Nuzvid":  {
                                                                                "last_backup":  "2026-05-12",
@@ -1511,8 +1511,8 @@
                                                                                     "status":  "ok"
                                                                                 },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "last_backup":  "2026-05-06",
-                                                                        "status":  "missing"
+                                                                        "last_backup":  "2026-05-12",
+                                                                        "status":  "ok"
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
                                                                              "last_backup":  "2026-05-12",
@@ -1539,8 +1539,8 @@
                                                                             "status":  "ok"
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "last_backup":  null,
-                                                                        "status":  "missing"
+                                                                        "last_backup":  "2026-05-12",
+                                                                        "status":  "ok"
                                                                     },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "last_backup":  "2026-05-12",
@@ -1775,8 +1775,8 @@
                                                                             "status":  "missing"
                                                                         },
                                "Jagadamba Complex AC 4K Dolby Atmos - Vizag":  {
-                                                                                   "last_backup":  "2026-05-11",
-                                                                                   "status":  "missing"
+                                                                                   "last_backup":  "2026-05-12",
+                                                                                   "status":  "ok"
                                                                                },
                                "Rain Cinema - Nellore":  {
                                                              "last_backup":  "2026-05-12",
@@ -1798,10 +1798,6 @@
                                                                                            "last_backup":  "2026-05-12",
                                                                                            "status":  "ok"
                                                                                        },
-                               "Venkata Padmavathi Cineplex - Amalapuram":  {
-                                                                                "last_backup":  null,
-                                                                                "status":  "missing"
-                                                                            },
                                "Sri Seshmahal Theatre - Tadepalligudem":  {
                                                                               "last_backup":  "2026-05-12",
                                                                               "status":  "ok"
@@ -1844,5 +1840,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-12 15:00:03"
+    "started_at":  "2026-05-12 17:00:03"
 }
