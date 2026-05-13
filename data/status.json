@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-13 15:14:09",
+    "generated_at":  "2026-05-13 16:17:18",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -1615,8 +1615,8 @@
                                                                                  "status":  "ok"
                                                                              },
                                "Surya Cinemax - Ramachandrapuram":  {
-                                                                        "last_backup":  null,
-                                                                        "status":  "missing"
+                                                                        "last_backup":  "2026-05-13",
+                                                                        "status":  "ok"
                                                                     },
                                "ABR Cinemas - Gudivada":  {
                                                               "last_backup":  "2026-05-13",
@@ -1763,8 +1763,8 @@
                                                                       "status":  "ok"
                                                                   },
                                "KVR Cinemas AC 2K 5WAY Dolby 7.1 Sound - Ponduru":  {
-                                                                                        "last_backup":  "2026-05-09",
-                                                                                        "status":  "missing"
+                                                                                        "last_backup":  "2026-05-13",
+                                                                                        "status":  "ok"
                                                                                     },
                                "Sri Jayalakshmi Complex Anusri Cinemas - Samalkota":  {
                                                                                           "last_backup":  null,
@@ -1840,5 +1840,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-13 15:00:03"
+    "started_at":  "2026-05-13 16:00:03"
 }
