@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-15 12:16:28",
+    "generated_at":  "2026-05-15 13:15:22",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -1170,10 +1170,10 @@
                                                                              "last_backup":  "2026-05-15",
                                                                              "status":  "ok"
                                                                          },
-                               "Dr PV Rao Cineplex - Kanchikacherla":  {
-                                                                           "last_backup":  "2026-05-15",
-                                                                           "status":  "ok"
-                                                                       },
+                               "Sri Rama \u0026 Sri Krishna Cinemas - Nandikotkur":  {
+                                                                                         "last_backup":  null,
+                                                                                         "status":  "missing"
+                                                                                     },
                                "Srinivasa Theater - Giddalur":  {
                                                                     "last_backup":  "2026-05-15",
                                                                     "status":  "ok"
@@ -1230,10 +1230,6 @@
                                                                 "last_backup":  null,
                                                                 "status":  "missing"
                                                             },
-                               "Sri Rama Complex - Nandyal":  {
-                                                                  "last_backup":  "2026-05-15",
-                                                                  "status":  "ok"
-                                                              },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
                                                                                    "last_backup":  "2026-05-15",
                                                                                    "status":  "ok"
@@ -1242,10 +1238,6 @@
                                                                                         "last_backup":  "2026-05-15",
                                                                                         "status":  "ok"
                                                                                     },
-                               "Jayalakshmi Theater - Samalkota":  {
-                                                                       "last_backup":  null,
-                                                                       "status":  "missing"
-                                                                   },
                                "Chand Picture Palace AC DTS - Proddatur":  {
                                                                                "last_backup":  "2026-05-15",
                                                                                "status":  "ok"
@@ -1542,6 +1534,10 @@
                                                                         "last_backup":  "2026-05-15",
                                                                         "status":  "ok"
                                                                     },
+                               "Dr PV Rao Cineplex - Kanchikacherla":  {
+                                                                           "last_backup":  "2026-05-15",
+                                                                           "status":  "ok"
+                                                                       },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "last_backup":  "2026-05-15",
                                                                                    "status":  "ok"
@@ -1554,10 +1550,6 @@
                                                                      "last_backup":  "2026-05-15",
                                                                      "status":  "ok"
                                                                  },
-                               "Sri Rama \u0026 Sri Krishna Cinemas - Nandikotkur":  {
-                                                                                         "last_backup":  null,
-                                                                                         "status":  "missing"
-                                                                                     },
                                "Mini Srinivasa - Yemmiganur":  {
                                                                    "last_backup":  "2026-05-13",
                                                                    "status":  "missing"
@@ -1766,10 +1758,10 @@
                                                                                         "last_backup":  "2026-05-13",
                                                                                         "status":  "missing"
                                                                                     },
-                               "Sri Jayalakshmi Complex Anusri Cinemas - Samalkota":  {
-                                                                                          "last_backup":  null,
-                                                                                          "status":  "missing"
-                                                                                      },
+                               "Sri Rama Complex - Nandyal":  {
+                                                                  "last_backup":  "2026-05-15",
+                                                                  "status":  "ok"
+                                                              },
                                "Sri Srinivasa Mahal SS Max - Sompeta":  {
                                                                             "last_backup":  "2026-05-15",
                                                                             "status":  "ok"
@@ -1840,5 +1832,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-15 12:00:03"
+    "started_at":  "2026-05-15 13:00:03"
 }
