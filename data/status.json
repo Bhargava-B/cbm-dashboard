@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-16 16:15:23",
+    "generated_at":  "2026-05-16 17:14:16",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -219,8 +219,8 @@
                                                                               "status":  "missing"
                                                                           },
                                   "Asian Cineplanet Multiplex - Kompally":  {
-                                                                                "last_backup":  "2026-05-14",
-                                                                                "status":  "missing"
+                                                                                "last_backup":  "2026-05-16",
+                                                                                "status":  "ok"
                                                                             },
                                   "Asian Tarakarama Cineplex - Kachiguda":  {
                                                                                 "last_backup":  "2026-05-16",
@@ -486,10 +486,10 @@
                                                                   }
                            },
                     "KL":  {
-                               "Ragam Theatre Thrissur":  {
-                                                              "last_backup":  "2026-05-16",
-                                                              "status":  "ok"
-                                                          },
+                               "Aashirvad Cineplexx Kottiyam":  {
+                                                                    "last_backup":  "2026-05-16",
+                                                                    "status":  "ok"
+                                                                },
                                "Padma Cinemas Kochi":  {
                                                            "last_backup":  "2026-05-16",
                                                            "status":  "ok"
@@ -506,9 +506,13 @@
                                                                  "last_backup":  "2026-05-16",
                                                                  "status":  "ok"
                                                              },
+                               "Ragam Theatre Thrissur":  {
+                                                              "last_backup":  "2026-05-16",
+                                                              "status":  "ok"
+                                                          },
                                "Central Talkies Tripunithura":  {
-                                                                    "last_backup":  "2026-05-07",
-                                                                    "status":  "missing"
+                                                                    "last_backup":  "2026-05-16",
+                                                                    "status":  "ok"
                                                                 },
                                "New Theatre Trivandrum":  {
                                                               "last_backup":  "2026-05-16",
@@ -1639,8 +1643,8 @@
                                                         "status":  "ok"
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "last_backup":  "2026-05-16",
-                                                                                "status":  "ok"
+                                                                                "last_backup":  "2026-05-04",
+                                                                                "status":  "missing"
                                                                             },
                                "SV Talkies - Nindra":  {
                                                            "last_backup":  "2026-05-16",
@@ -1703,8 +1707,8 @@
                                                                             "status":  "ok"
                                                                         },
                                "G2V Theaters Ravi Priya Mall - Ongole":  {
-                                                                             "last_backup":  "2026-05-15",
-                                                                             "status":  "missing"
+                                                                             "last_backup":  "2026-05-16",
+                                                                             "status":  "ok"
                                                                          },
                                "Laxmi AC DTS 2K - Kakinada":  {
                                                                   "last_backup":  "2026-05-16",
@@ -1840,5 +1844,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-16 16:00:03"
+    "started_at":  "2026-05-16 17:00:03"
 }
