@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-16 15:17:24",
+    "generated_at":  "2026-05-16 16:15:23",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -490,26 +490,30 @@
                                                               "last_backup":  "2026-05-16",
                                                               "status":  "ok"
                                                           },
-                               "Central Talkies, Tripunithura":  {
-                                                                     "last_backup":  "2026-05-07",
-                                                                     "status":  "missing"
-                                                                 },
+                               "Padma Cinemas Kochi":  {
+                                                           "last_backup":  "2026-05-16",
+                                                           "status":  "ok"
+                                                       },
                                "Aashirvad Cineplexx Kadappra":  {
                                                                     "last_backup":  "2026-05-16",
                                                                     "status":  "ok"
                                                                 },
+                               "Aashirvad Cineplexx Perumbavoor":  {
+                                                                       "last_backup":  "2026-05-16",
+                                                                       "status":  "ok"
+                                                                   },
                                "Vanitha Movie House Kochi":  {
                                                                  "last_backup":  "2026-05-16",
                                                                  "status":  "ok"
                                                              },
+                               "Central Talkies Tripunithura":  {
+                                                                    "last_backup":  "2026-05-07",
+                                                                    "status":  "missing"
+                                                                },
                                "New Theatre Trivandrum":  {
                                                               "last_backup":  "2026-05-16",
                                                               "status":  "ok"
-                                                          },
-                               "Padma Cinemas Kochi":  {
-                                                           "last_backup":  "2026-05-16",
-                                                           "status":  "ok"
-                                                       }
+                                                          }
                            },
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -1836,5 +1840,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-16 15:00:03"
+    "started_at":  "2026-05-16 16:00:03"
 }
