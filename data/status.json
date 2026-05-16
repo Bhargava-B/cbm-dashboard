@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-16 11:16:16",
+    "generated_at":  "2026-05-16 12:17:05",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -486,26 +486,30 @@
                                                                   }
                            },
                     "KL":  {
-                               "Padma Cinemas Kochi":  {
-                                                           "last_backup":  "2026-05-07",
-                                                           "status":  "missing"
-                                                       },
-                               "Vanitha Movie House Kochi":  {
-                                                                 "last_backup":  "2026-05-07",
-                                                                 "status":  "missing"
-                                                             },
+                               "Ragam Theatre Thrissur":  {
+                                                              "last_backup":  "2026-05-16",
+                                                              "status":  "ok"
+                                                          },
                                "Central Talkies, Tripunithura":  {
                                                                      "last_backup":  "2026-05-07",
                                                                      "status":  "missing"
                                                                  },
+                               "Aashirvad Cineplexx Kadappra":  {
+                                                                    "last_backup":  "2026-05-16",
+                                                                    "status":  "ok"
+                                                                },
+                               "Vanitha Movie House Kochi":  {
+                                                                 "last_backup":  "2026-05-07",
+                                                                 "status":  "missing"
+                                                             },
                                "New Theatre Trivandrum":  {
                                                               "last_backup":  "2026-05-08",
                                                               "status":  "missing"
                                                           },
-                               "Ragam Theatre Thrissur":  {
-                                                              "last_backup":  "2026-05-16",
-                                                              "status":  "ok"
-                                                          }
+                               "Padma Cinemas Kochi":  {
+                                                           "last_backup":  "2026-05-07",
+                                                           "status":  "missing"
+                                                       }
                            },
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -1832,5 +1836,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-16 11:00:03"
+    "started_at":  "2026-05-16 12:00:03"
 }
