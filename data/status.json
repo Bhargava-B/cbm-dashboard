@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-16 13:15:13",
+    "generated_at":  "2026-05-16 14:14:28",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -301,8 +301,8 @@
                                                                        "status":  "missing"
                                                                    },
                                "Srinivasa Theatre - Jagtial":  {
-                                                                   "last_backup":  "2026-05-12",
-                                                                   "status":  "missing"
+                                                                   "last_backup":  "2026-05-16",
+                                                                   "status":  "ok"
                                                                },
                                "BR Hitech 70mm - Madhapur":  {
                                                                  "last_backup":  "2026-05-16",
@@ -503,12 +503,12 @@
                                                                  "status":  "missing"
                                                              },
                                "New Theatre Trivandrum":  {
-                                                              "last_backup":  "2026-05-08",
-                                                              "status":  "missing"
+                                                              "last_backup":  "2026-05-16",
+                                                              "status":  "ok"
                                                           },
                                "Padma Cinemas Kochi":  {
-                                                           "last_backup":  "2026-05-07",
-                                                           "status":  "missing"
+                                                           "last_backup":  "2026-05-16",
+                                                           "status":  "ok"
                                                        }
                            },
                     "KA":  {
@@ -1836,5 +1836,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-16 13:00:03"
+    "started_at":  "2026-05-16 14:00:03"
 }
