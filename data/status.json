@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-17 16:15:11",
+    "generated_at":  "2026-05-17 17:15:20",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -502,22 +502,26 @@
                                                                        "last_backup":  "2026-05-17",
                                                                        "status":  "ok"
                                                                    },
-                               "Vanitha Movie House Kochi":  {
-                                                                 "last_backup":  "2026-05-17",
-                                                                 "status":  "ok"
-                                                             },
+                               "Aashirvaad Cineplexx Muvattupuzha":  {
+                                                                         "last_backup":  null,
+                                                                         "status":  "missing"
+                                                                     },
                                "Ragam Theatre Thrissur":  {
                                                               "last_backup":  "2026-05-17",
                                                               "status":  "ok"
                                                           },
                                "Central Talkies Tripunithura":  {
-                                                                    "last_backup":  "2026-05-16",
-                                                                    "status":  "missing"
+                                                                    "last_backup":  "2026-05-17",
+                                                                    "status":  "ok"
                                                                 },
                                "New Theatre Trivandrum":  {
                                                               "last_backup":  "2026-05-17",
                                                               "status":  "ok"
-                                                          }
+                                                          },
+                               "Vanitha Movie House Kochi":  {
+                                                                 "last_backup":  "2026-05-17",
+                                                                 "status":  "ok"
+                                                             }
                            },
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -1643,8 +1647,8 @@
                                                         "status":  "ok"
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "last_backup":  "2026-05-17",
-                                                                                "status":  "ok"
+                                                                                "last_backup":  "2026-05-04",
+                                                                                "status":  "missing"
                                                                             },
                                "SV Talkies - Nindra":  {
                                                            "last_backup":  "2026-05-17",
@@ -1844,5 +1848,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-17 16:00:03"
+    "started_at":  "2026-05-17 17:00:03"
 }
