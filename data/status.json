@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-17 19:13:42",
+    "generated_at":  "2026-05-17 20:14:30",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -487,8 +487,8 @@
                            },
                     "KL":  {
                                "Aashirvad Cineplexx Piravom":  {
-                                                                   "last_backup":  null,
-                                                                   "status":  "missing"
+                                                                   "last_backup":  "2026-05-17",
+                                                                   "status":  "ok"
                                                                },
                                "Aashirvad Cineplexx Pathanapuram":  {
                                                                         "last_backup":  "2026-05-17",
@@ -498,6 +498,10 @@
                                                               "last_backup":  "2026-05-17",
                                                               "status":  "ok"
                                                           },
+                               "Revathy Cinemax Paripally":  {
+                                                                 "last_backup":  "2026-05-17",
+                                                                 "status":  "ok"
+                                                             },
                                "Padma Cinemas Kochi":  {
                                                            "last_backup":  "2026-05-17",
                                                            "status":  "ok"
@@ -510,22 +514,30 @@
                                                                       "last_backup":  "2026-05-17",
                                                                       "status":  "ok"
                                                                   },
-                               "Aashirvad Cineplexx Perumbavoor":  {
-                                                                       "last_backup":  "2026-05-17",
-                                                                       "status":  "ok"
-                                                                   },
-                               "Aashirvad Cineplexx Kadappra":  {
-                                                                    "last_backup":  "2026-05-17",
-                                                                    "status":  "ok"
-                                                                },
-                               "New Theatre Trivandrum":  {
-                                                              "last_backup":  "2026-05-17",
-                                                              "status":  "ok"
-                                                          },
                                "Aashirvad Cineplexx Kottiyam":  {
                                                                     "last_backup":  "2026-05-17",
                                                                     "status":  "ok"
                                                                 },
+                               "Aashirvaad Cineplexx Muvattupuzha":  {
+                                                                         "last_backup":  "2026-05-17",
+                                                                         "status":  "ok"
+                                                                     },
+                               "New Theatre Trivandrum":  {
+                                                              "last_backup":  "2026-05-17",
+                                                              "status":  "ok"
+                                                          },
+                               "Aashirvad Cineplexx Kadappra":  {
+                                                                    "last_backup":  "2026-05-17",
+                                                                    "status":  "ok"
+                                                                },
+                               "Aashirvad Cineplexx Perumbavoor":  {
+                                                                       "last_backup":  "2026-05-17",
+                                                                       "status":  "ok"
+                                                                   },
+                               "MLal Aashirvad Cineplexx Shoranur":  {
+                                                                         "last_backup":  null,
+                                                                         "status":  "missing"
+                                                                     },
                                "MLal Aashirvad Cineplexx Haripad":  {
                                                                         "last_backup":  "2026-05-17",
                                                                         "status":  "ok"
@@ -546,10 +558,10 @@
                                                                   "last_backup":  "2026-05-17",
                                                                   "status":  "ok"
                                                               },
-                               "Aashirvaad Cineplexx Muvattupuzha":  {
-                                                                         "last_backup":  "2026-05-17",
-                                                                         "status":  "ok"
-                                                                     }
+                               "Goodwill cinemas Kallara":  {
+                                                                "last_backup":  "2026-05-17",
+                                                                "status":  "ok"
+                                                            }
                            },
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -741,8 +753,8 @@
                                                                                "status":  "ok"
                                                                            },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "last_backup":  "2026-05-16",
-                                                                       "status":  "missing"
+                                                                       "last_backup":  "2026-05-17",
+                                                                       "status":  "ok"
                                                                    },
                                "Woodlands Theatre -Mysore":  {
                                                                  "last_backup":  null,
@@ -1876,5 +1888,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-17 19:00:03"
+    "started_at":  "2026-05-17 20:00:03"
 }
