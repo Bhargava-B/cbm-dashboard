@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-17 11:13:35",
+    "generated_at":  "2026-05-17 12:18:29",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -297,8 +297,8 @@
                                                                 "status":  "missing"
                                                             },
                                "Sai Balaji Theatre - Sathupally":  {
-                                                                       "last_backup":  "2026-05-15",
-                                                                       "status":  "missing"
+                                                                       "last_backup":  "2026-05-17",
+                                                                       "status":  "ok"
                                                                    },
                                "Srinivasa Theatre - Jagtial":  {
                                                                    "last_backup":  "2026-05-17",
@@ -1515,8 +1515,8 @@
                                                                                     "status":  "missing"
                                                                                 },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "last_backup":  "2026-05-16",
-                                                                        "status":  "missing"
+                                                                        "last_backup":  "2026-05-17",
+                                                                        "status":  "ok"
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
                                                                              "last_backup":  "2026-05-17",
@@ -1844,5 +1844,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-17 11:00:03"
+    "started_at":  "2026-05-17 12:00:03"
 }
