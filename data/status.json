@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-17 17:15:20",
+    "generated_at":  "2026-05-17 18:16:35",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -503,13 +503,25 @@
                                                                        "status":  "ok"
                                                                    },
                                "Aashirvaad Cineplexx Muvattupuzha":  {
-                                                                         "last_backup":  null,
-                                                                         "status":  "missing"
+                                                                         "last_backup":  "2026-05-17",
+                                                                         "status":  "ok"
                                                                      },
                                "Ragam Theatre Thrissur":  {
                                                               "last_backup":  "2026-05-17",
                                                               "status":  "ok"
                                                           },
+                               "Vanitha Movie House Kochi":  {
+                                                                 "last_backup":  "2026-05-17",
+                                                                 "status":  "ok"
+                                                             },
+                               "Aashirvad Cineplexx Thodupuzha":  {
+                                                                      "last_backup":  "2026-05-17",
+                                                                      "status":  "ok"
+                                                                  },
+                               "MLal Aashirvad Cineplexx Haripad":  {
+                                                                        "last_backup":  "2026-05-17",
+                                                                        "status":  "ok"
+                                                                    },
                                "Central Talkies Tripunithura":  {
                                                                     "last_backup":  "2026-05-17",
                                                                     "status":  "ok"
@@ -518,10 +530,10 @@
                                                               "last_backup":  "2026-05-17",
                                                               "status":  "ok"
                                                           },
-                               "Vanitha Movie House Kochi":  {
-                                                                 "last_backup":  "2026-05-17",
-                                                                 "status":  "ok"
-                                                             }
+                               "Aashirvad Cineplexx Pathanapuram":  {
+                                                                        "last_backup":  "2026-05-17",
+                                                                        "status":  "ok"
+                                                                    }
                            },
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -1848,5 +1860,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-17 17:00:03"
+    "started_at":  "2026-05-17 18:00:03"
 }
