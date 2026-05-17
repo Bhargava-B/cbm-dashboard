@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-17 20:14:30",
+    "generated_at":  "2026-05-17 21:18:17",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -502,6 +502,10 @@
                                                                  "last_backup":  "2026-05-17",
                                                                  "status":  "ok"
                                                              },
+                               "Jos Theatre Thrissur":  {
+                                                            "last_backup":  "2026-05-17",
+                                                            "status":  "ok"
+                                                        },
                                "Padma Cinemas Kochi":  {
                                                            "last_backup":  "2026-05-17",
                                                            "status":  "ok"
@@ -535,8 +539,8 @@
                                                                        "status":  "ok"
                                                                    },
                                "MLal Aashirvad Cineplexx Shoranur":  {
-                                                                         "last_backup":  null,
-                                                                         "status":  "missing"
+                                                                         "last_backup":  "2026-05-17",
+                                                                         "status":  "ok"
                                                                      },
                                "MLal Aashirvad Cineplexx Haripad":  {
                                                                         "last_backup":  "2026-05-17",
@@ -1888,5 +1892,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-17 20:00:03"
+    "started_at":  "2026-05-17 21:00:03"
 }
