@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-19 16:14:37",
+    "generated_at":  "2026-05-19 17:15:55",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -257,8 +257,8 @@
                               },
                     "TG":  {
                                "Radhika Theater":  {
-                                                       "last_backup":  "2026-05-17",
-                                                       "status":  "missing"
+                                                       "last_backup":  "2026-05-19",
+                                                       "status":  "ok"
                                                    },
                                "Sri Balaji Theater":  {
                                                           "last_backup":  "2026-05-19",
@@ -522,6 +522,10 @@
                                                               "last_backup":  "2026-05-19",
                                                               "status":  "ok"
                                                           },
+                               "MLal Aashirvad Cineplexx Haripad":  {
+                                                                        "last_backup":  "2026-05-19",
+                                                                        "status":  "ok"
+                                                                    },
                                "Aashirvad Cineplexx Kadappra":  {
                                                                     "last_backup":  "2026-05-19",
                                                                     "status":  "ok"
@@ -551,8 +555,8 @@
                                                              "status":  "ok"
                                                          },
                                "Ariesplex SL Cinemas Trivandrum":  {
-                                                                       "last_backup":  null,
-                                                                       "status":  "missing"
+                                                                       "last_backup":  "2026-05-19",
+                                                                       "status":  "ok"
                                                                    },
                                "New Central Talkies:Thripunnithura":  {
                                                                           "last_backup":  "2026-05-19",
@@ -562,6 +566,10 @@
                                                      "last_backup":  "2026-05-19",
                                                      "status":  "ok"
                                                  },
+                               "E Max Cinemas RGB Laser Calicut":  {
+                                                                       "last_backup":  "2026-05-19",
+                                                                       "status":  "ok"
+                                                                   },
                                "Aashirvad Cineplexx Piravom":  {
                                                                    "last_backup":  "2026-05-19",
                                                                    "status":  "ok"
@@ -574,6 +582,10 @@
                                                                 "last_backup":  "2026-05-19",
                                                                 "status":  "ok"
                                                             },
+                               "Sathya Movie House Palakkad":  {
+                                                                   "last_backup":  "2026-05-19",
+                                                                   "status":  "ok"
+                                                               },
                                "Abhinaya Anu Theatre Kottayam":  {
                                                                      "last_backup":  "2026-05-19",
                                                                      "status":  "ok"
@@ -594,10 +606,10 @@
                                                                      "last_backup":  "2026-05-19",
                                                                      "status":  "ok"
                                                                  },
-                               "MLal Aashirvad Cineplexx Haripad":  {
-                                                                        "last_backup":  "2026-05-19",
-                                                                        "status":  "ok"
-                                                                    },
+                               "Kavitha Theatre Ernakulam":  {
+                                                                 "last_backup":  "2026-05-19",
+                                                                 "status":  "ok"
+                                                             },
                                "Revathy Cinemax Paripally":  {
                                                                  "last_backup":  "2026-05-19",
                                                                  "status":  "ok"
@@ -1727,8 +1739,8 @@
                                                         "status":  "missing"
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "last_backup":  "2026-05-19",
-                                                                                "status":  "ok"
+                                                                                "last_backup":  "2026-05-04",
+                                                                                "status":  "missing"
                                                                             },
                                "SV Talkies - Nindra":  {
                                                            "last_backup":  "2026-05-19",
@@ -1928,5 +1940,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-19 16:00:03"
+    "started_at":  "2026-05-19 17:00:03"
 }
