@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-19 17:15:55",
+    "generated_at":  "2026-05-19 18:15:55",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -507,8 +507,8 @@
                                                                   "status":  "ok"
                                                               },
                                "New Central Talkies Thripunnithura":  {
-                                                                          "last_backup":  null,
-                                                                          "status":  "missing"
+                                                                          "last_backup":  "2026-05-19",
+                                                                          "status":  "ok"
                                                                       },
                                "Aashirvad Cineplexx Perumbavoor":  {
                                                                        "last_backup":  "2026-05-19",
@@ -530,6 +530,10 @@
                                                                     "last_backup":  "2026-05-19",
                                                                     "status":  "ok"
                                                                 },
+                               "Zeenath Theatre Aluva":  {
+                                                             "last_backup":  "2026-05-19",
+                                                             "status":  "ok"
+                                                         },
                                "Vanitha Movie House Kochi":  {
                                                                  "last_backup":  "2026-05-19",
                                                                  "status":  "ok"
@@ -558,10 +562,6 @@
                                                                        "last_backup":  "2026-05-19",
                                                                        "status":  "ok"
                                                                    },
-                               "New Central Talkies:Thripunnithura":  {
-                                                                          "last_backup":  "2026-05-19",
-                                                                          "status":  "ok"
-                                                                      },
                                "Shenoys Kochi":  {
                                                      "last_backup":  "2026-05-19",
                                                      "status":  "ok"
@@ -1940,5 +1940,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-19 17:00:03"
+    "started_at":  "2026-05-19 18:00:03"
 }
