@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-19 14:17:53",
+    "generated_at":  "2026-05-19 15:14:55",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -522,6 +522,10 @@
                                                                       "last_backup":  "2026-05-19",
                                                                       "status":  "ok"
                                                                   },
+                               "New Central Talkies Thripunnithura":  {
+                                                                          "last_backup":  null,
+                                                                          "status":  "missing"
+                                                                      },
                                "New Theatre Trivandrum":  {
                                                               "last_backup":  "2026-05-19",
                                                               "status":  "ok"
@@ -547,8 +551,8 @@
                                                                      "status":  "ok"
                                                                  },
                                "Shivadam Cinemas Urakam":  {
-                                                               "last_backup":  null,
-                                                               "status":  "missing"
+                                                               "last_backup":  "2026-05-19",
+                                                               "status":  "ok"
                                                            },
                                "MLal Aashirvad Cineplexx Shoranur":  {
                                                                          "last_backup":  "2026-05-19",
@@ -1904,5 +1908,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-19 14:00:03"
+    "started_at":  "2026-05-19 15:00:03"
 }
