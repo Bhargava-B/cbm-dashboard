@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-19 09:22:58",
+    "generated_at":  "2026-05-19 10:19:15",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -147,8 +147,8 @@
                                                                                       "status":  "ok"
                                                                                   },
                                   "Asian Srinivasa - Mahbubnagar":  {
-                                                                        "last_backup":  "2026-05-18",
-                                                                        "status":  "missing"
+                                                                        "last_backup":  "2026-05-19",
+                                                                        "status":  "ok"
                                                                     },
                                   "Asian Sridevi Multiplex - Hanumakonda":  {
                                                                                 "last_backup":  "2026-05-19",
@@ -486,6 +486,10 @@
                                                                   }
                            },
                     "KL":  {
+                               "Revathy Cinemax Paripally":  {
+                                                                 "last_backup":  "2026-05-19",
+                                                                 "status":  "ok"
+                                                             },
                                "Aashirvad Cineplexx Piravom":  {
                                                                    "last_backup":  "2026-05-19",
                                                                    "status":  "ok"
@@ -498,10 +502,10 @@
                                                               "last_backup":  "2026-05-19",
                                                               "status":  "ok"
                                                           },
-                               "Revathy Cinemax Paripally":  {
-                                                                 "last_backup":  "2026-05-19",
-                                                                 "status":  "ok"
-                                                             },
+                               "Abhilash Aasha Ananth Kottayam":  {
+                                                                      "last_backup":  "2026-05-19",
+                                                                      "status":  "ok"
+                                                                  },
                                "Jos Theatre Thrissur":  {
                                                             "last_backup":  "2026-05-19",
                                                             "status":  "ok"
@@ -526,26 +530,26 @@
                                                                          "last_backup":  "2026-05-19",
                                                                          "status":  "ok"
                                                                      },
-                               "New Theatre Trivandrum":  {
-                                                              "last_backup":  "2026-05-19",
-                                                              "status":  "ok"
-                                                          },
-                               "Aashirvad Cineplexx Kadappra":  {
-                                                                    "last_backup":  "2026-05-19",
-                                                                    "status":  "ok"
-                                                                },
-                               "Aashirvad Cineplexx Perumbavoor":  {
-                                                                       "last_backup":  "2026-05-19",
-                                                                       "status":  "ok"
-                                                                   },
-                               "MLal Aashirvad Cineplexx Shoranur":  {
-                                                                         "last_backup":  "2026-05-19",
-                                                                         "status":  "ok"
-                                                                     },
                                "MLal Aashirvad Cineplexx Haripad":  {
                                                                         "last_backup":  "2026-05-19",
                                                                         "status":  "ok"
                                                                     },
+                               "Aashirvad Cineplexx Kadappra":  {
+                                                                    "last_backup":  "2026-05-19",
+                                                                    "status":  "ok"
+                                                                },
+                               "New Theatre Trivandrum":  {
+                                                              "last_backup":  "2026-05-19",
+                                                              "status":  "ok"
+                                                          },
+                               "MLal Aashirvad Cineplexx Shoranur":  {
+                                                                         "last_backup":  "2026-05-19",
+                                                                         "status":  "ok"
+                                                                     },
+                               "Aashirvad Cineplexx Perumbavoor":  {
+                                                                       "last_backup":  "2026-05-19",
+                                                                       "status":  "ok"
+                                                                   },
                                "Central Talkies Tripunithura":  {
                                                                     "last_backup":  "2026-05-19",
                                                                     "status":  "ok"
@@ -585,7 +589,7 @@
                                                                                "status":  "ok"
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "last_backup":  "2026-05-17",
+                                                               "last_backup":  "2026-05-18",
                                                                "status":  "missing"
                                                            },
                                "Brundha 4K Dolby Atmos - Hongasandra DMart":  {
@@ -609,8 +613,8 @@
                                                              "status":  "ok"
                                                          },
                                "Rockline Cinemas Jalahalli Cross":  {
-                                                                        "last_backup":  "2026-05-18",
-                                                                        "status":  "missing"
+                                                                        "last_backup":  "2026-05-19",
+                                                                        "status":  "ok"
                                                                     },
                                "Gurushree Theatre Mandya":  {
                                                                 "last_backup":  "2026-05-19",
@@ -1243,8 +1247,8 @@
                                                                                "status":  "ok"
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "last_backup":  "2026-05-18",
-                                                                                   "status":  "missing"
+                                                                                   "last_backup":  "2026-05-19",
+                                                                                   "status":  "ok"
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
                                                                       "last_backup":  "2026-05-19",
@@ -1892,5 +1896,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-19 09:00:03"
+    "started_at":  "2026-05-19 10:00:03"
 }
