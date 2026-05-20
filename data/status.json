@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-20 18:12:27",
+    "generated_at":  "2026-05-20 19:12:45",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -551,8 +551,8 @@
                                                                     "status":  "ok"
                                                                 },
                                "Sridar Cinema Ernakulum":  {
-                                                               "last_backup":  null,
-                                                               "status":  "missing"
+                                                               "last_backup":  "2026-05-20",
+                                                               "status":  "ok"
                                                            },
                                "Vanitha Movie House Kochi":  {
                                                                  "last_backup":  "2026-05-20",
@@ -2008,5 +2008,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-20 18:00:02"
+    "started_at":  "2026-05-20 19:00:02"
 }
