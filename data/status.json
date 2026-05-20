@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-20 12:19:22",
+    "generated_at":  "2026-05-20 13:16:32",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -385,8 +385,8 @@
                                                                    "status":  "missing"
                                                                },
                                "Prashant Cinema - Secunderabad":  {
-                                                                      "last_backup":  null,
-                                                                      "status":  "missing"
+                                                                      "last_backup":  "2026-05-20",
+                                                                      "status":  "ok"
                                                                   },
                                "Sri Venkateswara Theatre":  {
                                                                 "last_backup":  null,
@@ -397,16 +397,16 @@
                                                                               "status":  "missing"
                                                                           },
                                "JP Cinemas Chandanagar":  {
-                                                              "last_backup":  null,
-                                                              "status":  "missing"
+                                                              "last_backup":  "2026-05-20",
+                                                              "status":  "ok"
                                                           },
                                "Bhujanga 70MM - Jeedimetla":  {
-                                                                  "last_backup":  null,
-                                                                  "status":  "missing"
+                                                                  "last_backup":  "2026-05-20",
+                                                                  "status":  "ok"
                                                               },
                                "Laxmi - Metpally":  {
-                                                        "last_backup":  null,
-                                                        "status":  "missing"
+                                                        "last_backup":  "2026-05-20",
+                                                        "status":  "ok"
                                                     },
                                "Sri Prema - Thukkuguda":  {
                                                               "last_backup":  null,
@@ -1988,5 +1988,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-20 12:00:03"
+    "started_at":  "2026-05-20 13:00:03"
 }
