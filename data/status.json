@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-20 10:17:21",
+    "generated_at":  "2026-05-20 11:21:07",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -251,8 +251,8 @@
                                                                  "status":  "missing"
                                                              },
                                   "Asian Sai Krishna - Metpally":  {
-                                                                       "last_backup":  "2026-05-19",
-                                                                       "status":  "missing"
+                                                                       "last_backup":  "2026-05-20",
+                                                                       "status":  "ok"
                                                                    }
                               },
                     "TG":  {
@@ -333,24 +333,24 @@
                                                                            "status":  "ok"
                                                                        },
                                "Indra Venkataramana Padmavati Cinema - Kachiguda":  {
-                                                                                        "last_backup":  null,
-                                                                                        "status":  "missing"
+                                                                                        "last_backup":  "2026-05-20",
+                                                                                        "status":  "ok"
                                                                                     },
                                "Ashwini Theater":  {
                                                        "last_backup":  null,
                                                        "status":  "missing"
                                                    },
                                "ALLU Cinemas":  {
-                                                    "last_backup":  null,
-                                                    "status":  "missing"
+                                                    "last_backup":  "2026-05-20",
+                                                    "status":  "ok"
                                                 },
                                "Srinivasa Picture Palace - Sathupally":  {
                                                                              "last_backup":  null,
                                                                              "status":  "missing"
                                                                          },
                                "Sri Venkateswara Talkies - Mancherial":  {
-                                                                             "last_backup":  null,
-                                                                             "status":  "missing"
+                                                                             "last_backup":  "2026-05-20",
+                                                                             "status":  "ok"
                                                                          },
                                "Acchi Reddy Theater AC Dolby DTS - Haliya":  {
                                                                                  "last_backup":  null,
@@ -542,6 +542,10 @@
                                                                   "last_backup":  "2026-05-20",
                                                                   "status":  "ok"
                                                               },
+                               "Penta Cinemas Pulpally":  {
+                                                              "last_backup":  null,
+                                                              "status":  "missing"
+                                                          },
                                "MLal Aashirvad Cineplexx Haripad":  {
                                                                         "last_backup":  "2026-05-20",
                                                                         "status":  "ok"
@@ -657,11 +661,7 @@
                                "Magic Frames Sahina Cinemas Mattannur":  {
                                                                              "last_backup":  "2026-05-20",
                                                                              "status":  "ok"
-                                                                         },
-                               "Majestic Theatre Narakkal":  {
-                                                                 "last_backup":  null,
-                                                                 "status":  "missing"
-                                                             }
+                                                                         }
                            },
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -1567,8 +1567,8 @@
                                                                       "status":  "ok"
                                                                   },
                                "Srinivasa Theater AC 2K Dolby - Markapur":  {
-                                                                                "last_backup":  "2026-05-19",
-                                                                                "status":  "missing"
+                                                                                "last_backup":  "2026-05-20",
+                                                                                "status":  "ok"
                                                                             },
                                "G3 Srichandra Ramachandra Theaters - Kankipadu":  {
                                                                                       "last_backup":  "2026-05-19",
@@ -1783,8 +1783,8 @@
                                                                 "status":  "ok"
                                                             },
                                "Adabala Theatres":  {
-                                                        "last_backup":  "2026-05-18",
-                                                        "status":  "missing"
+                                                        "last_backup":  "2026-05-20",
+                                                        "status":  "ok"
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
                                                                                 "last_backup":  "2026-05-20",
@@ -1988,5 +1988,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-20 10:00:03"
+    "started_at":  "2026-05-20 11:00:03"
 }
