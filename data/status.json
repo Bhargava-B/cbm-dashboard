@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-20 11:21:07",
+    "generated_at":  "2026-05-20 12:19:22",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -361,24 +361,24 @@
                                                        "status":  "missing"
                                                    },
                                "Sri Krishna - Uppal":  {
-                                                           "last_backup":  null,
-                                                           "status":  "missing"
+                                                           "last_backup":  "2026-05-20",
+                                                           "status":  "ok"
                                                        },
                                "Devi Theater - RTC X Road":  {
-                                                                 "last_backup":  null,
-                                                                 "status":  "missing"
+                                                                 "last_backup":  "2026-05-20",
+                                                                 "status":  "ok"
                                                              },
                                "GPR Multiplex - Nizampet Hyderabad":  {
-                                                                          "last_backup":  null,
-                                                                          "status":  "missing"
+                                                                          "last_backup":  "2026-05-20",
+                                                                          "status":  "ok"
                                                                       },
                                "Sri Sai Baba - Shadnagar":  {
-                                                                "last_backup":  null,
-                                                                "status":  "missing"
+                                                                "last_backup":  "2026-05-20",
+                                                                "status":  "ok"
                                                             },
                                "AMR Vijay Bhaskar - Bhadrachalam":  {
-                                                                        "last_backup":  null,
-                                                                        "status":  "missing"
+                                                                        "last_backup":  "2026-05-20",
+                                                                        "status":  "ok"
                                                                     },
                                "Cineverse Multiplex - Uppal":  {
                                                                    "last_backup":  null,
@@ -1739,8 +1739,8 @@
                                                                   "status":  "ok"
                                                               },
                                "Sri Ramchandra Talkies - Kodumur":  {
-                                                                        "last_backup":  "2026-05-19",
-                                                                        "status":  "missing"
+                                                                        "last_backup":  "2026-05-20",
+                                                                        "status":  "ok"
                                                                     },
                                "Sri Ramulamma Theatre - Thagarapuvalasa Vizag":  {
                                                                                      "last_backup":  "2026-05-09",
@@ -1988,5 +1988,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-20 11:00:03"
+    "started_at":  "2026-05-20 12:00:03"
 }
