@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-20 17:12:14",
+    "generated_at":  "2026-05-20 18:12:27",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -550,10 +550,10 @@
                                                                     "last_backup":  "2026-05-20",
                                                                     "status":  "ok"
                                                                 },
-                               "Zeenath Theatre Aluva":  {
-                                                             "last_backup":  "2026-05-20",
-                                                             "status":  "ok"
-                                                         },
+                               "Sridar Cinema Ernakulum":  {
+                                                               "last_backup":  null,
+                                                               "status":  "missing"
+                                                           },
                                "Vanitha Movie House Kochi":  {
                                                                  "last_backup":  "2026-05-20",
                                                                  "status":  "ok"
@@ -566,6 +566,10 @@
                                                                     "last_backup":  "2026-05-20",
                                                                     "status":  "ok"
                                                                 },
+                               "Zeenath Theatre Aluva":  {
+                                                             "last_backup":  "2026-05-20",
+                                                             "status":  "ok"
+                                                         },
                                "Central Talkies Tripunithura":  {
                                                                     "last_backup":  "2026-05-20",
                                                                     "status":  "ok"
@@ -2004,5 +2008,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-20 17:00:03"
+    "started_at":  "2026-05-20 18:00:02"
 }
