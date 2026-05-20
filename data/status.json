@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-20 09:19:24",
+    "generated_at":  "2026-05-20 10:17:21",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -522,6 +522,10 @@
                                                                 "last_backup":  "2026-05-20",
                                                                 "status":  "ok"
                                                             },
+                               "Sree Sailom Cine House Kadakkal":  {
+                                                                       "last_backup":  "2026-05-20",
+                                                                       "status":  "ok"
+                                                                   },
                                "Magic Frames Mehboob Kasaragod":  {
                                                                       "last_backup":  "2026-05-20",
                                                                       "status":  "ok"
@@ -563,8 +567,8 @@
                                                                     "status":  "ok"
                                                                 },
                                "Central Talkies Tripunithura":  {
-                                                                    "last_backup":  "2026-05-19",
-                                                                    "status":  "missing"
+                                                                    "last_backup":  "2026-05-20",
+                                                                    "status":  "ok"
                                                                 },
                                "Padma Cinemas Kochi":  {
                                                            "last_backup":  "2026-05-20",
@@ -653,7 +657,11 @@
                                "Magic Frames Sahina Cinemas Mattannur":  {
                                                                              "last_backup":  "2026-05-20",
                                                                              "status":  "ok"
-                                                                         }
+                                                                         },
+                               "Majestic Theatre Narakkal":  {
+                                                                 "last_backup":  null,
+                                                                 "status":  "missing"
+                                                             }
                            },
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -673,7 +681,7 @@
                                                                                "status":  "ok"
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "last_backup":  "2026-05-18",
+                                                               "last_backup":  "2026-05-19",
                                                                "status":  "missing"
                                                            },
                                "Brundha 4K Dolby Atmos - Hongasandra DMart":  {
@@ -781,8 +789,8 @@
                                                                  "status":  "missing"
                                                              },
                                "Ravi Digital 2K Dolby 7.1 HD Screen - Ejipura":  {
-                                                                                     "last_backup":  "2026-05-19",
-                                                                                     "status":  "missing"
+                                                                                     "last_backup":  "2026-05-20",
+                                                                                     "status":  "ok"
                                                                                  },
                                "Sapna Multiplex - Bidar":  {
                                                                "last_backup":  "2026-05-20",
@@ -877,8 +885,8 @@
                                                                                         "status":  "missing"
                                                                                     },
                                "Sri Gowrishankar Theatre - Vijayapura":  {
-                                                                             "last_backup":  "2026-05-19",
-                                                                             "status":  "missing"
+                                                                             "last_backup":  "2026-05-20",
+                                                                             "status":  "ok"
                                                                          },
                                "Anjan Digital 4K A":  {
                                                           "last_backup":  "2026-05-20",
@@ -1331,8 +1339,8 @@
                                                                                "status":  "ok"
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "last_backup":  "2026-05-19",
-                                                                                   "status":  "missing"
+                                                                                   "last_backup":  "2026-05-20",
+                                                                                   "status":  "ok"
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
                                                                       "last_backup":  "2026-05-20",
@@ -1980,5 +1988,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-20 09:00:03"
+    "started_at":  "2026-05-20 10:00:03"
 }
