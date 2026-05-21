@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-21 21:13:19",
+    "generated_at":  "2026-05-21 22:13:03",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -502,14 +502,18 @@
                                                                "last_backup":  "2026-05-21",
                                                                "status":  "ok"
                                                            },
+                               "E Max Cinemas RGB Laser Calicut":  {
+                                                                       "last_backup":  "2026-05-21",
+                                                                       "status":  "ok"
+                                                                   },
                                "Devaki Cinemas Guruvayoor":  {
                                                                  "last_backup":  "2026-05-21",
                                                                  "status":  "ok"
                                                              },
-                               "New Central Talkies Thripunnithura":  {
-                                                                          "last_backup":  "2026-05-21",
-                                                                          "status":  "ok"
-                                                                      },
+                               "Artech Cinemas Trivandrum":  {
+                                                                 "last_backup":  "2026-05-21",
+                                                                 "status":  "ok"
+                                                             },
                                "Ajanta Theatre 70mm Trivandrum":  {
                                                                       "last_backup":  "2026-05-21",
                                                                       "status":  "ok"
@@ -602,6 +606,10 @@
                                                              "last_backup":  "2026-05-21",
                                                              "status":  "ok"
                                                          },
+                               "New Central Talkies Thripunnithura":  {
+                                                                          "last_backup":  "2026-05-21",
+                                                                          "status":  "ok"
+                                                                      },
                                "Nice Movie House Thalayolaparambu":  {
                                                                          "last_backup":  "2026-05-21",
                                                                          "status":  "ok"
@@ -610,10 +618,10 @@
                                                      "last_backup":  "2026-05-21",
                                                      "status":  "ok"
                                                  },
-                               "E Max Cinemas RGB Laser Calicut":  {
-                                                                       "last_backup":  "2026-05-21",
-                                                                       "status":  "ok"
-                                                                   },
+                               "Greenfield Moviemax Trivandrum":  {
+                                                                      "last_backup":  null,
+                                                                      "status":  "missing"
+                                                                  },
                                "Aashirvad Cineplexx Piravom":  {
                                                                    "last_backup":  "2026-05-21",
                                                                    "status":  "ok"
@@ -678,6 +686,10 @@
                                                             "last_backup":  "2026-05-21",
                                                             "status":  "ok"
                                                         },
+                               "Rajadhani Theatre Payyannur":  {
+                                                                   "last_backup":  "2026-05-21",
+                                                                   "status":  "ok"
+                                                               },
                                "Magic Frames Pattambi":  {
                                                              "last_backup":  "2026-05-21",
                                                              "status":  "ok"
@@ -2056,5 +2068,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-21 21:00:02"
+    "started_at":  "2026-05-21 22:00:02"
 }
