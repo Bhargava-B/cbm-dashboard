@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-21 11:12:48",
+    "generated_at":  "2026-05-21 12:16:08",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -510,7 +510,7 @@
                                                                           "last_backup":  "2026-05-21",
                                                                           "status":  "ok"
                                                                       },
-                               "Magic Frames Mehboob Kasaragod":  {
+                               "Ajanta Theatre 70mm Trivandrum":  {
                                                                       "last_backup":  "2026-05-21",
                                                                       "status":  "ok"
                                                                   },
@@ -519,6 +519,10 @@
                                                                        "status":  "ok"
                                                                    },
                                "Ariesplex Cinema Punalur":  {
+                                                                "last_backup":  "2026-05-21",
+                                                                "status":  "ok"
+                                                            },
+                               "Ladder Cinemas Ottapalam":  {
                                                                 "last_backup":  "2026-05-21",
                                                                 "status":  "ok"
                                                             },
@@ -567,8 +571,8 @@
                                                                     "status":  "ok"
                                                                 },
                                "Dreamax E cinemas mayannur":  {
-                                                                  "last_backup":  null,
-                                                                  "status":  "missing"
+                                                                  "last_backup":  "2026-05-21",
+                                                                  "status":  "ok"
                                                               },
                                "Zeenath Theatre Aluva":  {
                                                              "last_backup":  "2026-05-21",
@@ -610,14 +614,14 @@
                                                                    "last_backup":  "2026-05-21",
                                                                    "status":  "ok"
                                                                },
-                               "Jos Theatre Thrissur":  {
-                                                            "last_backup":  "2026-05-21",
-                                                            "status":  "ok"
-                                                        },
                                "Abhilash Aasha Ananth Kottayam":  {
                                                                       "last_backup":  "2026-05-21",
                                                                       "status":  "ok"
                                                                   },
+                               "Swaram Layam Cinema Kattakada":  {
+                                                                     "last_backup":  "2026-05-21",
+                                                                     "status":  "ok"
+                                                                 },
                                "Goodwill cinemas Kallara":  {
                                                                 "last_backup":  "2026-05-21",
                                                                 "status":  "ok"
@@ -634,6 +638,10 @@
                                                                    "last_backup":  "2026-05-21",
                                                                    "status":  "ok"
                                                                },
+                               "Magic Frames Downtown Thalasseri":  {
+                                                                        "last_backup":  "2026-05-21",
+                                                                        "status":  "ok"
+                                                                    },
                                "Abhinaya Anu Theatre Kottayam":  {
                                                                      "last_backup":  "2026-05-21",
                                                                      "status":  "ok"
@@ -654,10 +662,10 @@
                                                                  "last_backup":  "2026-05-21",
                                                                  "status":  "ok"
                                                              },
-                               "Magic Frames Downtown Thalasseri":  {
-                                                                        "last_backup":  "2026-05-21",
-                                                                        "status":  "ok"
-                                                                    },
+                               "Jos Theatre Thrissur":  {
+                                                            "last_backup":  "2026-05-21",
+                                                            "status":  "ok"
+                                                        },
                                "Magic Frames Pattambi":  {
                                                              "last_backup":  "2026-05-21",
                                                              "status":  "ok"
@@ -666,10 +674,18 @@
                                                                      "last_backup":  "2026-05-21",
                                                                      "status":  "ok"
                                                                  },
+                               "Trinity Movie Max Aishwarya Pathanamthitta":  {
+                                                                                  "last_backup":  null,
+                                                                                  "status":  "missing"
+                                                                              },
                                "Kavitha Theatre Ernakulam":  {
                                                                  "last_backup":  "2026-05-21",
                                                                  "status":  "ok"
                                                              },
+                               "Magic Frames Mehboob Kasaragod":  {
+                                                                      "last_backup":  "2026-05-21",
+                                                                      "status":  "ok"
+                                                                  },
                                "Magic Frames Sahina Cinemas Mattannur":  {
                                                                              "last_backup":  "2026-05-21",
                                                                              "status":  "ok"
@@ -1076,6 +1092,10 @@
                                                                           "last_backup":  null,
                                                                           "status":  "missing"
                                                                       },
+                               "Urvashi Cinemas":  {
+                                                       "last_backup":  "2026-05-21",
+                                                       "status":  "ok"
+                                                   },
                                "Rockline Cinemas, Jalahalli Cross":  {
                                                                          "last_backup":  null,
                                                                          "status":  "missing"
@@ -1243,8 +1263,8 @@
                                                                                           "status":  "ok"
                                                                                       },
                                "Sangeetha - Nandyal":  {
-                                                           "last_backup":  "2026-05-20",
-                                                           "status":  "missing"
+                                                           "last_backup":  "2026-05-21",
+                                                           "status":  "ok"
                                                        },
                                "SLV Theater - Koilkuntla":  {
                                                                 "last_backup":  "2026-05-21",
@@ -1687,8 +1707,8 @@
                                                                                     "status":  "ok"
                                                                                 },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "last_backup":  "2026-05-19",
-                                                                        "status":  "missing"
+                                                                        "last_backup":  "2026-05-21",
+                                                                        "status":  "ok"
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
                                                                              "last_backup":  "2026-05-21",
@@ -2016,5 +2036,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-21 11:00:03"
+    "started_at":  "2026-05-21 12:00:08"
 }
