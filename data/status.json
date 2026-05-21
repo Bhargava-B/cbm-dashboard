@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-21 14:12:56",
+    "generated_at":  "2026-05-21 15:12:53",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -574,10 +574,10 @@
                                                                   "last_backup":  "2026-05-21",
                                                                   "status":  "ok"
                                                               },
-                               "Zeenath Theatre Aluva":  {
-                                                             "last_backup":  "2026-05-21",
-                                                             "status":  "ok"
-                                                         },
+                               "Sumangali cinemas Payyannur":  {
+                                                                   "last_backup":  null,
+                                                                   "status":  "missing"
+                                                               },
                                "EVM Grand Cinemas Cherthala":  {
                                                                    "last_backup":  "2026-05-21",
                                                                    "status":  "ok"
@@ -598,6 +598,10 @@
                                                                     "last_backup":  "2026-05-21",
                                                                     "status":  "ok"
                                                                 },
+                               "Zeenath Theatre Aluva":  {
+                                                             "last_backup":  "2026-05-21",
+                                                             "status":  "ok"
+                                                         },
                                "Nice Movie House Thalayolaparambu":  {
                                                                          "last_backup":  "2026-05-21",
                                                                          "status":  "ok"
@@ -618,6 +622,10 @@
                                                                       "last_backup":  "2026-05-21",
                                                                       "status":  "ok"
                                                                   },
+                               "Anurag Cinema Shoranur":  {
+                                                              "last_backup":  "2026-05-21",
+                                                              "status":  "ok"
+                                                          },
                                "Swaram Layam Cinema Kattakada":  {
                                                                      "last_backup":  "2026-05-21",
                                                                      "status":  "ok"
@@ -936,10 +944,6 @@
                                                                                         "last_backup":  null,
                                                                                         "status":  "missing"
                                                                                     },
-                               "VISION Cinemas -Mysore":  {
-                                                              "last_backup":  "2026-05-21",
-                                                              "status":  "ok"
-                                                          },
                                "Sri Gowrishankar Theatre - Vijayapura":  {
                                                                              "last_backup":  null,
                                                                              "status":  "missing"
@@ -1040,18 +1044,14 @@
                                                                          "last_backup":  null,
                                                                          "status":  "missing"
                                                                      },
-                               "Geetanjali - Davanagere":  {
-                                                               "last_backup":  null,
-                                                               "status":  "missing"
-                                                           },
+                               "VISION Cinemas -Mysore":  {
+                                                              "last_backup":  "2026-05-21",
+                                                              "status":  "ok"
+                                                          },
                                "Sri Lakshmi A∩╝ÅC 4k Dolby 7.1: Gottigere":  {
                                                                                  "last_backup":  null,
                                                                                  "status":  "missing"
                                                                              },
-                               "Gayathri Talkies - Mysuru":  {
-                                                                 "last_backup":  null,
-                                                                 "status":  "missing"
-                                                             },
                                "Laxmi pride cinemas -Hubli":  {
                                                                   "last_backup":  "2026-05-21",
                                                                   "status":  "ok"
@@ -2056,5 +2056,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-21 14:00:02"
+    "started_at":  "2026-05-21 15:00:02"
 }
