@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-21 22:13:03",
+    "generated_at":  "2026-05-21 23:12:41",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -619,8 +619,8 @@
                                                      "status":  "ok"
                                                  },
                                "Greenfield Moviemax Trivandrum":  {
-                                                                      "last_backup":  null,
-                                                                      "status":  "missing"
+                                                                      "last_backup":  "2026-05-21",
+                                                                      "status":  "ok"
                                                                   },
                                "Aashirvad Cineplexx Piravom":  {
                                                                    "last_backup":  "2026-05-21",
@@ -2068,5 +2068,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-21 22:00:02"
+    "started_at":  "2026-05-21 23:00:02"
 }
