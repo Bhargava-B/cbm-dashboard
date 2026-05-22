@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-22 17:12:32",
+    "generated_at":  "2026-05-22 18:12:36",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -610,14 +610,14 @@
                                                                 "last_backup":  "2026-05-22",
                                                                 "status":  "ok"
                                                             },
-                               "Aashirvad Cineplexx Kadappra":  {
-                                                                    "last_backup":  "2026-05-22",
-                                                                    "status":  "ok"
-                                                                },
                                "Ganam Cinema Thrissur":  {
                                                              "last_backup":  "2026-05-22",
                                                              "status":  "ok"
                                                          },
+                               "Anupama Theatre Kottayam":  {
+                                                                "last_backup":  "2026-05-22",
+                                                                "status":  "ok"
+                                                            },
                                "Kavitha Theatre Ernakulam":  {
                                                                  "last_backup":  "2026-05-22",
                                                                  "status":  "ok"
@@ -690,6 +690,10 @@
                                                                  "last_backup":  "2026-05-22",
                                                                  "status":  "ok"
                                                              },
+                               "Universal Theatre Pala":  {
+                                                              "last_backup":  "2026-05-22",
+                                                              "status":  "ok"
+                                                          },
                                "SMB Complex Kaliyikkavila":  {
                                                                  "last_backup":  "2026-05-22",
                                                                  "status":  "ok"
@@ -730,6 +734,10 @@
                                                                           "last_backup":  "2026-05-22",
                                                                           "status":  "ok"
                                                                       },
+                               "Aashirvad Cineplexx Kadappra":  {
+                                                                    "last_backup":  "2026-05-22",
+                                                                    "status":  "ok"
+                                                                },
                                "Sumangali cinemas Payyannur":  {
                                                                    "last_backup":  "2026-05-22",
                                                                    "status":  "ok"
@@ -2124,5 +2132,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-22 17:00:03"
+    "started_at":  "2026-05-22 18:00:03"
 }
