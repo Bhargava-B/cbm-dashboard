@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-22 09:15:03",
+    "generated_at":  "2026-05-22 10:15:48",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -518,6 +518,10 @@
                                                                       "last_backup":  "2026-05-22",
                                                                       "status":  "ok"
                                                                   },
+                               "Universal Theatre Pala":  {
+                                                              "last_backup":  null,
+                                                              "status":  "missing"
+                                                          },
                                "Aashirvad Cineplexx Perumbavoor":  {
                                                                        "last_backup":  "2026-05-22",
                                                                        "status":  "ok"
@@ -1315,8 +1319,8 @@
                                                            "status":  "ok"
                                                        },
                                "SLV Theater - Koilkuntla":  {
-                                                                "last_backup":  "2026-05-21",
-                                                                "status":  "missing"
+                                                                "last_backup":  "2026-05-22",
+                                                                "status":  "ok"
                                                             },
                                "Sree Devi Picture Palace - Narasannapeta":  {
                                                                                 "last_backup":  "2026-05-22",
@@ -1435,8 +1439,8 @@
                                                                                "status":  "ok"
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "last_backup":  "2026-05-21",
-                                                                                   "status":  "missing"
+                                                                                   "last_backup":  "2026-05-22",
+                                                                                   "status":  "ok"
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
                                                                       "last_backup":  "2026-05-21",
@@ -2084,5 +2088,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-22 09:00:03"
+    "started_at":  "2026-05-22 10:00:03"
 }
