@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-22 18:12:36",
+    "generated_at":  "2026-05-22 19:13:07",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -566,14 +566,18 @@
                                                                     "last_backup":  "2026-05-22",
                                                                     "status":  "ok"
                                                                 },
-                               "Anurag Cinema Shoranur":  {
-                                                              "last_backup":  "2026-05-22",
-                                                              "status":  "ok"
-                                                          },
                                "Ladder Cinemas Manjeri":  {
                                                               "last_backup":  "2026-05-22",
                                                               "status":  "ok"
                                                           },
+                               "Anurag Cinema Shoranur":  {
+                                                              "last_backup":  "2026-05-22",
+                                                              "status":  "ok"
+                                                          },
+                               "Apsara Theatre Changanassery":  {
+                                                                    "last_backup":  "2026-05-22",
+                                                                    "status":  "ok"
+                                                                },
                                "Sri Kalidas M Plex Kattakada":  {
                                                                     "last_backup":  "2026-05-22",
                                                                     "status":  "ok"
@@ -638,6 +642,10 @@
                                                                    "last_backup":  "2026-05-22",
                                                                    "status":  "ok"
                                                                },
+                               "Dhanya Remya Kollam":  {
+                                                           "last_backup":  "2026-05-22",
+                                                           "status":  "ok"
+                                                       },
                                "Fun Movies Thrissur":  {
                                                            "last_backup":  "2026-05-22",
                                                            "status":  "ok"
@@ -726,6 +734,10 @@
                                                                   "last_backup":  "2026-05-22",
                                                                   "status":  "ok"
                                                               },
+                               "Dhanya Remya Kottayam":  {
+                                                             "last_backup":  "2026-05-22",
+                                                             "status":  "ok"
+                                                         },
                                "RD Cinema Mundakayam":  {
                                                             "last_backup":  "2026-05-22",
                                                             "status":  "ok"
@@ -2132,5 +2144,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-22 18:00:03"
+    "started_at":  "2026-05-22 19:00:03"
 }
