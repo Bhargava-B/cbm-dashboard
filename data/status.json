@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-22 10:15:48",
+    "generated_at":  "2026-05-22 11:13:03",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -139,8 +139,8 @@
                                                                     "status":  "ok"
                                                                 },
                                   "Asian Srinivasa - Kodad":  {
-                                                                  "last_backup":  "2026-05-21",
-                                                                  "status":  "missing"
+                                                                  "last_backup":  "2026-05-22",
+                                                                  "status":  "ok"
                                                               },
                                   "Asian Maheshwari 70MM A -C DTS - Zaheerabad":  {
                                                                                       "last_backup":  "2026-05-22",
@@ -155,8 +155,8 @@
                                                                                 "status":  "ok"
                                                                             },
                                   "Asian Srinivasa Theater - Miryalaguda":  {
-                                                                                "last_backup":  "2026-05-21",
-                                                                                "status":  "missing"
+                                                                                "last_backup":  "2026-05-22",
+                                                                                "status":  "ok"
                                                                             },
                                   "Asian Srinivasa - Khammam":  {
                                                                     "last_backup":  "2026-05-22",
@@ -231,8 +231,8 @@
                                                                      "status":  "ok"
                                                                  },
                                   "Asian Nataraj Deluxe - Adilabad":  {
-                                                                          "last_backup":  "2026-05-21",
-                                                                          "status":  "missing"
+                                                                          "last_backup":  "2026-05-22",
+                                                                          "status":  "ok"
                                                                       },
                                   "Asian Super - Balapur":  {
                                                                 "last_backup":  "2026-05-22",
@@ -490,10 +490,10 @@
                                                           "last_backup":  "2026-05-22",
                                                           "status":  "ok"
                                                       },
-                               "Aashirvad Cineplexx Thodupuzha":  {
-                                                                      "last_backup":  "2026-05-22",
-                                                                      "status":  "ok"
-                                                                  },
+                               "Jos Theatre Thrissur":  {
+                                                            "last_backup":  "2026-05-22",
+                                                            "status":  "ok"
+                                                        },
                                "Aashirvaad Cineplexx Muvattupuzha":  {
                                                                          "last_backup":  "2026-05-22",
                                                                          "status":  "ok"
@@ -518,10 +518,6 @@
                                                                       "last_backup":  "2026-05-22",
                                                                       "status":  "ok"
                                                                   },
-                               "Universal Theatre Pala":  {
-                                                              "last_backup":  null,
-                                                              "status":  "missing"
-                                                          },
                                "Aashirvad Cineplexx Perumbavoor":  {
                                                                        "last_backup":  "2026-05-22",
                                                                        "status":  "ok"
@@ -598,14 +594,14 @@
                                                                     "last_backup":  "2026-05-22",
                                                                     "status":  "ok"
                                                                 },
-                               "Ganam Cinema Thrissur":  {
-                                                             "last_backup":  "2026-05-22",
-                                                             "status":  "ok"
-                                                         },
-                               "Central Talkies Tripunithura":  {
-                                                                    "last_backup":  "2026-05-22",
-                                                                    "status":  "ok"
-                                                                },
+                               "Dhanya Remya Pathanamthitta":  {
+                                                                   "last_backup":  "2026-05-22",
+                                                                   "status":  "ok"
+                                                               },
+                               "Ariesplex SL Cinemas Trivandrum":  {
+                                                                       "last_backup":  "2026-05-22",
+                                                                       "status":  "ok"
+                                                                   },
                                "Zeenath Theatre Aluva":  {
                                                              "last_backup":  "2026-05-22",
                                                              "status":  "ok"
@@ -658,10 +654,6 @@
                                                                    "last_backup":  "2026-05-22",
                                                                    "status":  "ok"
                                                                },
-                               "Magic Frames Downtown Thalasseri":  {
-                                                                        "last_backup":  "2026-05-22",
-                                                                        "status":  "ok"
-                                                                    },
                                "Abhinaya Anu Theatre Kottayam":  {
                                                                      "last_backup":  "2026-05-22",
                                                                      "status":  "ok"
@@ -674,26 +666,30 @@
                                                               "last_backup":  "2026-05-22",
                                                               "status":  "ok"
                                                           },
+                               "Lakshmi Cinemas 4K RGB Kodungallur":  {
+                                                                          "last_backup":  "2026-05-22",
+                                                                          "status":  "ok"
+                                                                      },
                                "Ladder Cinemas Manjeri":  {
                                                               "last_backup":  "2026-05-22",
                                                               "status":  "ok"
                                                           },
-                               "Ariesplex SL Cinemas Trivandrum":  {
-                                                                       "last_backup":  "2026-05-22",
-                                                                       "status":  "ok"
-                                                                   },
                                "Revathy Cinemax Paripally":  {
                                                                  "last_backup":  "2026-05-22",
                                                                  "status":  "ok"
                                                              },
-                               "Jos Theatre Thrissur":  {
-                                                            "last_backup":  "2026-05-22",
-                                                            "status":  "ok"
-                                                        },
+                               "Magic Frames Downtown Thalasseri":  {
+                                                                        "last_backup":  "2026-05-22",
+                                                                        "status":  "ok"
+                                                                    },
                                "Rajadhani Theatre Payyannur":  {
                                                                    "last_backup":  "2026-05-22",
                                                                    "status":  "ok"
                                                                },
+                               "Aashirvad Cineplexx Thodupuzha":  {
+                                                                      "last_backup":  "2026-05-22",
+                                                                      "status":  "ok"
+                                                                  },
                                "Magic Frames Pattambi":  {
                                                              "last_backup":  "2026-05-22",
                                                              "status":  "ok"
@@ -710,10 +706,18 @@
                                                                  "last_backup":  "2026-05-22",
                                                                  "status":  "ok"
                                                              },
+                               "Central Talkies Tripunithura":  {
+                                                                    "last_backup":  "2026-05-22",
+                                                                    "status":  "ok"
+                                                                },
                                "Magic Frames Mehboob Kasaragod":  {
                                                                       "last_backup":  "2026-05-22",
                                                                       "status":  "ok"
                                                                   },
+                               "Ganam Cinema Thrissur":  {
+                                                             "last_backup":  "2026-05-22",
+                                                             "status":  "ok"
+                                                         },
                                "Magic Frames Sahina Cinemas Mattannur":  {
                                                                              "last_backup":  "2026-05-22",
                                                                              "status":  "ok"
@@ -896,6 +900,10 @@
                                                                      "last_backup":  null,
                                                                      "status":  "missing"
                                                                  },
+                               "Sri Balaji 2K Dolby Atmos 7.1 Viveknagar":  {
+                                                                                "last_backup":  "2026-05-22",
+                                                                                "status":  "ok"
+                                                                            },
                                "Cine Galaxy - Surathkal, Mangalore(3 screens)":  {
                                                                                      "last_backup":  null,
                                                                                      "status":  "missing"
@@ -1157,8 +1165,8 @@
                                                                      "status":  "missing"
                                                                  },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "last_backup":  "2026-05-21",
-                                                                         "status":  "missing"
+                                                                         "last_backup":  "2026-05-22",
+                                                                         "status":  "ok"
                                                                      },
                                "Movietime Bangalore YGR MALL(4 screens)":  {
                                                                                "last_backup":  null,
@@ -1263,8 +1271,8 @@
                                                                            "status":  "ok"
                                                                        },
                                "Sudha Theater AC UFO 2K Dolby - Proddatur":  {
-                                                                                 "last_backup":  "2026-05-21",
-                                                                                 "status":  "missing"
+                                                                                 "last_backup":  "2026-05-22",
+                                                                                 "status":  "ok"
                                                                              },
                                "Abhiram - Nandyal":  {
                                                          "last_backup":  "2026-05-21",
@@ -1575,7 +1583,7 @@
                                                                                 "status":  "missing"
                                                                             },
                                "Raja Cinemax AC 2K Dolby - Kothavalasa":  {
-                                                                              "last_backup":  "2026-05-17",
+                                                                              "last_backup":  "2026-05-21",
                                                                               "status":  "missing"
                                                                           },
                                "Sri Lakshmi Narasimha Picture Palace - 104 Area":  {
@@ -1615,8 +1623,8 @@
                                                                              "status":  "ok"
                                                                          },
                                "Sudharshan AC DTS - Kanigiri":  {
-                                                                    "last_backup":  "2026-05-21",
-                                                                    "status":  "missing"
+                                                                    "last_backup":  "2026-05-22",
+                                                                    "status":  "ok"
                                                                 },
                                "Satyam AC 4K Dolby Atmos - Ongole":  {
                                                                          "last_backup":  "2026-05-22",
@@ -1807,8 +1815,8 @@
                                                                      "status":  "ok"
                                                                  },
                                "Mini Srinivasa - Yemmiganur":  {
-                                                                   "last_backup":  "2026-05-21",
-                                                                   "status":  "missing"
+                                                                   "last_backup":  "2026-05-22",
+                                                                   "status":  "ok"
                                                                },
                                "KS Talkies":  {
                                                   "last_backup":  "2026-05-22",
@@ -1883,8 +1891,8 @@
                                                                 "status":  "ok"
                                                             },
                                "Adabala Theatres":  {
-                                                        "last_backup":  "2026-05-21",
-                                                        "status":  "missing"
+                                                        "last_backup":  "2026-05-22",
+                                                        "status":  "ok"
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
                                                                                 "last_backup":  "2026-05-22",
@@ -2043,8 +2051,8 @@
                                                                       "status":  "missing"
                                                                   },
                                "Sri Venkateshwara Mahal AC Dolby Atmos 2K - Unknown":  {
-                                                                                           "last_backup":  "2026-05-21",
-                                                                                           "status":  "missing"
+                                                                                           "last_backup":  "2026-05-22",
+                                                                                           "status":  "ok"
                                                                                        },
                                "Sri Seshmahal Theatre - Tadepalligudem":  {
                                                                               "last_backup":  "2026-05-22",
@@ -2088,5 +2096,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-22 10:00:03"
+    "started_at":  "2026-05-22 11:00:03"
 }
