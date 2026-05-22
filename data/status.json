@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-22 12:13:27",
+    "generated_at":  "2026-05-22 13:13:02",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -542,10 +542,10 @@
                                                                          "last_backup":  "2026-05-22",
                                                                          "status":  "ok"
                                                                      },
-                               "New Theatre Trivandrum":  {
-                                                              "last_backup":  "2026-05-22",
-                                                              "status":  "ok"
-                                                          },
+                               "IMP Big Screen 2K 3D Parassala":  {
+                                                                      "last_backup":  "2026-05-22",
+                                                                      "status":  "ok"
+                                                                  },
                                "Cheloor Grand Cinemas Cherpulassery":  {
                                                                            "last_backup":  "2026-05-22",
                                                                            "status":  "ok"
@@ -554,6 +554,10 @@
                                                                   "last_backup":  "2026-05-22",
                                                                   "status":  "ok"
                                                               },
+                               "New Theatre Trivandrum":  {
+                                                              "last_backup":  "2026-05-22",
+                                                              "status":  "ok"
+                                                          },
                                "MLal Aashirvad Cineplexx Haripad":  {
                                                                         "last_backup":  "2026-05-22",
                                                                         "status":  "ok"
@@ -973,8 +977,8 @@
                                                                                       "status":  "missing"
                                                                                   },
                                "Prabha Theatre - Mysuru":  {
-                                                               "last_backup":  "2026-05-21",
-                                                               "status":  "missing"
+                                                               "last_backup":  "2026-05-22",
+                                                               "status":  "ok"
                                                            },
                                "Swagath ShankarNag (ONYX) LED Cinema - MG Road":  {
                                                                                       "last_backup":  "2026-05-22",
@@ -2104,5 +2108,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-22 12:00:03"
+    "started_at":  "2026-05-22 13:00:03"
 }
