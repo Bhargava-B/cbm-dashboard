@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-23 15:12:23",
+    "generated_at":  "2026-05-23 16:12:24",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -486,10 +486,10 @@
                                                                   }
                            },
                     "KL":  {
-                               "Aroma Theatre Palakkad":  {
-                                                              "last_backup":  "2026-05-23",
-                                                              "status":  "ok"
-                                                          },
+                               "Aashirvad Cineplexx Perumbavoor":  {
+                                                                       "last_backup":  "2026-05-23",
+                                                                       "status":  "ok"
+                                                                   },
                                "PAN CINEMAS Maradu":  {
                                                           "last_backup":  "2026-05-23",
                                                           "status":  "ok"
@@ -498,7 +498,7 @@
                                                                   "last_backup":  "2026-05-23",
                                                                   "status":  "ok"
                                                               },
-                               "Ragam Theatre Thrissur":  {
+                               "Aroma Theatre Palakkad":  {
                                                               "last_backup":  "2026-05-23",
                                                               "status":  "ok"
                                                           },
@@ -518,10 +518,6 @@
                                                                "last_backup":  "2026-05-23",
                                                                "status":  "ok"
                                                            },
-                               "Aashirvad Cineplexx Perumbavoor":  {
-                                                                       "last_backup":  "2026-05-23",
-                                                                       "status":  "ok"
-                                                                   },
                                "Vanitha Movie House Kochi":  {
                                                                  "last_backup":  "2026-05-23",
                                                                  "status":  "ok"
@@ -534,6 +530,10 @@
                                                                    "last_backup":  "2026-05-23",
                                                                    "status":  "ok"
                                                                },
+                               "Mint Cinemas Sulthan Bathery":  {
+                                                                    "last_backup":  "2026-05-23",
+                                                                    "status":  "ok"
+                                                                },
                                "Ladder Cinemas Ottapalam":  {
                                                                 "last_backup":  "2026-05-23",
                                                                 "status":  "ok"
@@ -622,6 +622,10 @@
                                                                     "last_backup":  "2026-05-23",
                                                                     "status":  "ok"
                                                                 },
+                               "Ragam Theatre Thrissur":  {
+                                                              "last_backup":  "2026-05-23",
+                                                              "status":  "ok"
+                                                          },
                                "Ariesplex SL Cinemas Trivandrum":  {
                                                                        "last_backup":  "2026-05-23",
                                                                        "status":  "ok"
@@ -666,6 +670,10 @@
                                                                  "last_backup":  "2026-05-23",
                                                                  "status":  "ok"
                                                              },
+                               "Rani Talkies Nedumangadu":  {
+                                                                "last_backup":  null,
+                                                                "status":  "missing"
+                                                            },
                                "Dhanya Remya Kollam":  {
                                                            "last_backup":  "2026-05-23",
                                                            "status":  "ok"
@@ -718,6 +726,10 @@
                                                                  "last_backup":  "2026-05-23",
                                                                  "status":  "ok"
                                                              },
+                               "Zeenath Theatre Aluva":  {
+                                                             "last_backup":  "2026-05-23",
+                                                             "status":  "ok"
+                                                         },
                                "Majestic Theatre Narakkal":  {
                                                                  "last_backup":  "2026-05-23",
                                                                  "status":  "ok"
@@ -742,10 +754,10 @@
                                                                          "last_backup":  "2026-05-23",
                                                                          "status":  "ok"
                                                                      },
-                               "Zeenath Theatre Aluva":  {
-                                                             "last_backup":  "2026-05-23",
-                                                             "status":  "ok"
-                                                         },
+                               "Avishkar Cinemas Kottayi":  {
+                                                                "last_backup":  "2026-05-23",
+                                                                "status":  "ok"
+                                                            },
                                "Swaram Layam Cinema Kattakada":  {
                                                                      "last_backup":  "2026-05-23",
                                                                      "status":  "ok"
@@ -2188,5 +2200,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-23 15:00:03"
+    "started_at":  "2026-05-23 16:00:03"
 }
