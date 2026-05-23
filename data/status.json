@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-23 12:13:12",
+    "generated_at":  "2026-05-23 13:12:53",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -139,8 +139,8 @@
                                                                     "status":  "ok"
                                                                 },
                                   "Asian Srinivasa - Kodad":  {
-                                                                  "last_backup":  "2026-05-22",
-                                                                  "status":  "missing"
+                                                                  "last_backup":  "2026-05-23",
+                                                                  "status":  "ok"
                                                               },
                                   "Asian Maheshwari 70MM A -C DTS - Zaheerabad":  {
                                                                                       "last_backup":  "2026-05-23",
@@ -538,6 +538,10 @@
                                                                 "last_backup":  "2026-05-23",
                                                                 "status":  "ok"
                                                             },
+                               "EVM Latha Theatre Muvattupuzha":  {
+                                                                      "last_backup":  "2026-05-23",
+                                                                      "status":  "ok"
+                                                                  },
                                "MLal Aashirvad Cineplexx Shoranur":  {
                                                                          "last_backup":  "2026-05-23",
                                                                          "status":  "ok"
@@ -586,6 +590,10 @@
                                                                           "last_backup":  "2026-05-23",
                                                                           "status":  "ok"
                                                                       },
+                               "Capitol Upasana Theatre Ranni":  {
+                                                                     "last_backup":  "2026-05-23",
+                                                                     "status":  "ok"
+                                                                 },
                                "MLal Aashirvad Cineplexx Haripad":  {
                                                                         "last_backup":  "2026-05-23",
                                                                         "status":  "ok"
@@ -671,8 +679,8 @@
                                                                          "status":  "ok"
                                                                      },
                                "Silver Hills Cinema Thodupuzha":  {
-                                                                      "last_backup":  "2026-05-22",
-                                                                      "status":  "missing"
+                                                                      "last_backup":  "2026-05-23",
+                                                                      "status":  "ok"
                                                                   },
                                "Sridar Cinema Ernakulum":  {
                                                                "last_backup":  "2026-05-23",
@@ -790,6 +798,10 @@
                                                                  "last_backup":  "2026-05-23",
                                                                  "status":  "ok"
                                                              },
+                               "Sreekaleeswary Cinema Kodungallur":  {
+                                                                         "last_backup":  "2026-05-23",
+                                                                         "status":  "ok"
+                                                                     },
                                "Magic Frames Devi Cinemas Cherpulassery":  {
                                                                                "last_backup":  "2026-05-23",
                                                                                "status":  "ok"
@@ -2160,5 +2172,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-23 12:00:03"
+    "started_at":  "2026-05-23 13:00:03"
 }
