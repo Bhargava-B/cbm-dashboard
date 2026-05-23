@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-23 19:12:51",
+    "generated_at":  "2026-05-23 20:13:03",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -491,8 +491,8 @@
                                                                        "status":  "ok"
                                                                    },
                                "Jos Theatre  Pala":  {
-                                                         "last_backup":  null,
-                                                         "status":  "missing"
+                                                         "last_backup":  "2026-05-23",
+                                                         "status":  "ok"
                                                      },
                                "PAN CINEMAS Maradu":  {
                                                           "last_backup":  "2026-05-23",
@@ -2228,5 +2228,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-23 19:00:03"
+    "started_at":  "2026-05-23 20:00:03"
 }
