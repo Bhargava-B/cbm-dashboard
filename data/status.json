@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-23 17:12:40",
+    "generated_at":  "2026-05-23 18:13:07",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -490,6 +490,10 @@
                                                                        "last_backup":  "2026-05-23",
                                                                        "status":  "ok"
                                                                    },
+                               "Jos Theatre  Pala":  {
+                                                         "last_backup":  null,
+                                                         "status":  "missing"
+                                                     },
                                "PAN CINEMAS Maradu":  {
                                                           "last_backup":  "2026-05-23",
                                                           "status":  "ok"
@@ -590,6 +594,10 @@
                                                                   "last_backup":  "2026-05-23",
                                                                   "status":  "ok"
                                                               },
+                               "Nice Movie House Thalayolaparambu":  {
+                                                                         "last_backup":  "2026-05-23",
+                                                                         "status":  "ok"
+                                                                     },
                                "Apsara Theatre Changanassery":  {
                                                                     "last_backup":  "2026-05-23",
                                                                     "status":  "ok"
@@ -710,10 +718,10 @@
                                                                  "last_backup":  "2026-05-23",
                                                                  "status":  "ok"
                                                              },
-                               "Nice Movie House Thalayolaparambu":  {
-                                                                         "last_backup":  "2026-05-23",
-                                                                         "status":  "ok"
-                                                                     },
+                               "ARC Coronation Kozhikode":  {
+                                                                "last_backup":  "2026-05-23",
+                                                                "status":  "ok"
+                                                            },
                                "Silver Hills Cinema Thodupuzha":  {
                                                                       "last_backup":  "2026-05-23",
                                                                       "status":  "ok"
@@ -763,8 +771,8 @@
                                                                    "status":  "ok"
                                                                },
                                "Shadow Cinema Pazhayannur":  {
-                                                                 "last_backup":  null,
-                                                                 "status":  "missing"
+                                                                 "last_backup":  "2026-05-23",
+                                                                 "status":  "ok"
                                                              },
                                "Aashirvad Cineplexx Kozhikode":  {
                                                                      "last_backup":  "2026-05-23",
@@ -782,6 +790,10 @@
                                                                      "last_backup":  "2026-05-23",
                                                                      "status":  "ok"
                                                                  },
+                               "SN Theatre Haripad":  {
+                                                          "last_backup":  "2026-05-23",
+                                                          "status":  "ok"
+                                                      },
                                "Seema Cineplex Pathanapuram":  {
                                                                    "last_backup":  "2026-05-23",
                                                                    "status":  "ok"
@@ -810,10 +822,6 @@
                                                                        "last_backup":  "2026-05-23",
                                                                        "status":  "ok"
                                                                    },
-                               "Cheloor Grand Cinemas Cherpulassery":  {
-                                                                           "last_backup":  "2026-05-23",
-                                                                           "status":  "ok"
-                                                                       },
                                "Sumangali cinemas Payyannur":  {
                                                                    "last_backup":  "2026-05-23",
                                                                    "status":  "ok"
@@ -838,10 +846,10 @@
                                                                    "last_backup":  "2026-05-23",
                                                                    "status":  "ok"
                                                                },
-                               "ARC Coronation Kozhikode":  {
-                                                                "last_backup":  "2026-05-23",
-                                                                "status":  "ok"
-                                                            },
+                               "Cheloor Grand Cinemas Cherpulassery":  {
+                                                                           "last_backup":  "2026-05-23",
+                                                                           "status":  "ok"
+                                                                       },
                                "Devaki Cinemas Guruvayoor":  {
                                                                  "last_backup":  "2026-05-23",
                                                                  "status":  "ok"
@@ -2220,5 +2228,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-23 17:00:03"
+    "started_at":  "2026-05-23 18:00:03"
 }
