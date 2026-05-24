@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-24 15:12:51",
+    "generated_at":  "2026-05-24 16:12:58",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -522,6 +522,10 @@
                                                                      "last_backup":  "2026-05-24",
                                                                      "status":  "ok"
                                                                  },
+                               "Devaki Cinemas Guruvayoor":  {
+                                                                 "last_backup":  "2026-05-24",
+                                                                 "status":  "ok"
+                                                             },
                                "JK Cinemas Irinjalakuda":  {
                                                                "last_backup":  "2026-05-24",
                                                                "status":  "ok"
@@ -534,6 +538,10 @@
                                                                     "last_backup":  "2026-05-24",
                                                                     "status":  "ok"
                                                                 },
+                               "Rani Talkies Nedumangadu":  {
+                                                                "last_backup":  "2026-05-24",
+                                                                "status":  "ok"
+                                                            },
                                "Vanitha Movie House Kochi":  {
                                                                  "last_backup":  "2026-05-24",
                                                                  "status":  "ok"
@@ -610,6 +618,10 @@
                                                                     "last_backup":  "2026-05-24",
                                                                     "status":  "ok"
                                                                 },
+                               "Matha Madhurya Theatre Aluva":  {
+                                                                    "last_backup":  "2026-05-24",
+                                                                    "status":  "ok"
+                                                                },
                                "Sai Cineplexx Oachira":  {
                                                              "last_backup":  "2026-05-24",
                                                              "status":  "ok"
@@ -618,6 +630,10 @@
                                                                        "last_backup":  "2026-05-24",
                                                                        "status":  "ok"
                                                                    },
+                               "Sindhu Cinema Venjarammoodu":  {
+                                                                   "last_backup":  "2026-05-24",
+                                                                   "status":  "ok"
+                                                               },
                                "Kairali Sree Theatre Thrissur":  {
                                                                      "last_backup":  "2026-05-24",
                                                                      "status":  "ok"
@@ -646,10 +662,10 @@
                                                               "last_backup":  "2026-05-24",
                                                               "status":  "ok"
                                                           },
-                               "Matha Madhurya Theatre Aluva":  {
-                                                                    "last_backup":  "2026-05-24",
-                                                                    "status":  "ok"
-                                                                },
+                               "Artech Cinemas Trivandrum":  {
+                                                                 "last_backup":  "2026-05-24",
+                                                                 "status":  "ok"
+                                                             },
                                "Ragam Theatre Thrissur":  {
                                                               "last_backup":  "2026-05-24",
                                                               "status":  "ok"
@@ -690,6 +706,10 @@
                                                                              "last_backup":  "2026-05-24",
                                                                              "status":  "ok"
                                                                          },
+                               "Majestic Theatre Narakkal":  {
+                                                                 "last_backup":  "2026-05-24",
+                                                                 "status":  "ok"
+                                                             },
                                "Chellam Cinemas puthur":  {
                                                               "last_backup":  "2026-05-24",
                                                               "status":  "ok"
@@ -706,10 +726,14 @@
                                                                  "last_backup":  "2026-05-24",
                                                                  "status":  "ok"
                                                              },
-                               "Rani Talkies Nedumangadu":  {
-                                                                "last_backup":  "2026-05-24",
-                                                                "status":  "ok"
-                                                            },
+                               "MAR Basil EVM Theatre Rajakumari":  {
+                                                                        "last_backup":  "2026-05-24",
+                                                                        "status":  "ok"
+                                                                    },
+                               "Sarita Cinema Kochi":  {
+                                                           "last_backup":  null,
+                                                           "status":  "missing"
+                                                       },
                                "Dhanya Remya Kollam":  {
                                                            "last_backup":  "2026-05-24",
                                                            "status":  "ok"
@@ -762,18 +786,14 @@
                                                      "last_backup":  "2026-05-24",
                                                      "status":  "ok"
                                                  },
-                               "Artech Cinemas Trivandrum":  {
-                                                                 "last_backup":  "2026-05-24",
-                                                                 "status":  "ok"
-                                                             },
                                "Zeenath Theatre Aluva":  {
                                                              "last_backup":  "2026-05-24",
                                                              "status":  "ok"
                                                          },
-                               "Majestic Theatre Narakkal":  {
-                                                                 "last_backup":  "2026-05-24",
-                                                                 "status":  "ok"
-                                                             },
+                               "E Max Cinemas RGB Laser Calicut":  {
+                                                                       "last_backup":  "2026-05-24",
+                                                                       "status":  "ok"
+                                                                   },
                                "Universal Theatre Pala":  {
                                                               "last_backup":  "2026-05-24",
                                                               "status":  "ok"
@@ -842,10 +862,6 @@
                                                           "last_backup":  "2026-05-24",
                                                           "status":  "ok"
                                                       },
-                               "E Max Cinemas RGB Laser Calicut":  {
-                                                                       "last_backup":  "2026-05-24",
-                                                                       "status":  "ok"
-                                                                   },
                                "Sumangali cinemas Payyannur":  {
                                                                    "last_backup":  "2026-05-24",
                                                                    "status":  "ok"
@@ -874,10 +890,10 @@
                                                                            "last_backup":  "2026-05-24",
                                                                            "status":  "ok"
                                                                        },
-                               "Devaki Cinemas Guruvayoor":  {
-                                                                 "last_backup":  "2026-05-24",
-                                                                 "status":  "ok"
-                                                             },
+                               "JM Movies Josh Mall Mookkannoor":  {
+                                                                       "last_backup":  "2026-05-24",
+                                                                       "status":  "ok"
+                                                                   },
                                "Magic Frames Devi Cinemas Cherpulassery":  {
                                                                                "last_backup":  "2026-05-24",
                                                                                "status":  "ok"
@@ -2264,5 +2280,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-24 15:00:03"
+    "started_at":  "2026-05-24 16:00:03"
 }
