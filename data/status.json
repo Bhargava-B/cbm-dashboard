@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-24 16:12:58",
+    "generated_at":  "2026-05-24 17:13:24",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -522,10 +522,6 @@
                                                                      "last_backup":  "2026-05-24",
                                                                      "status":  "ok"
                                                                  },
-                               "Devaki Cinemas Guruvayoor":  {
-                                                                 "last_backup":  "2026-05-24",
-                                                                 "status":  "ok"
-                                                             },
                                "JK Cinemas Irinjalakuda":  {
                                                                "last_backup":  "2026-05-24",
                                                                "status":  "ok"
@@ -731,8 +727,8 @@
                                                                         "status":  "ok"
                                                                     },
                                "Sarita Cinema Kochi":  {
-                                                           "last_backup":  null,
-                                                           "status":  "missing"
+                                                           "last_backup":  "2026-05-24",
+                                                           "status":  "ok"
                                                        },
                                "Dhanya Remya Kollam":  {
                                                            "last_backup":  "2026-05-24",
@@ -790,10 +786,10 @@
                                                              "last_backup":  "2026-05-24",
                                                              "status":  "ok"
                                                          },
-                               "E Max Cinemas RGB Laser Calicut":  {
-                                                                       "last_backup":  "2026-05-24",
-                                                                       "status":  "ok"
-                                                                   },
+                               "Ganga Complex Attingal":  {
+                                                              "last_backup":  null,
+                                                              "status":  "missing"
+                                                          },
                                "Universal Theatre Pala":  {
                                                               "last_backup":  "2026-05-24",
                                                               "status":  "ok"
@@ -846,6 +842,10 @@
                                                                 "last_backup":  "2026-05-24",
                                                                 "status":  "ok"
                                                             },
+                               "UGM Cinemas 4K Ettumanoor":  {
+                                                                 "last_backup":  "2026-05-24",
+                                                                 "status":  "ok"
+                                                             },
                                "Devi Cinemas Perumpuzha":  {
                                                                "last_backup":  "2026-05-24",
                                                                "status":  "ok"
@@ -862,6 +862,10 @@
                                                           "last_backup":  "2026-05-24",
                                                           "status":  "ok"
                                                       },
+                               "E Max Cinemas RGB Laser Calicut":  {
+                                                                       "last_backup":  "2026-05-24",
+                                                                       "status":  "ok"
+                                                                   },
                                "Sumangali cinemas Payyannur":  {
                                                                    "last_backup":  "2026-05-24",
                                                                    "status":  "ok"
@@ -890,10 +894,10 @@
                                                                            "last_backup":  "2026-05-24",
                                                                            "status":  "ok"
                                                                        },
-                               "JM Movies Josh Mall Mookkannoor":  {
-                                                                       "last_backup":  "2026-05-24",
-                                                                       "status":  "ok"
-                                                                   },
+                               "Devaki Cinemas Guruvayoor":  {
+                                                                 "last_backup":  "2026-05-24",
+                                                                 "status":  "ok"
+                                                             },
                                "Magic Frames Devi Cinemas Cherpulassery":  {
                                                                                "last_backup":  "2026-05-24",
                                                                                "status":  "ok"
@@ -2079,8 +2083,8 @@
                                                         "status":  "ok"
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "last_backup":  "2026-05-24",
-                                                                                "status":  "ok"
+                                                                                "last_backup":  "2026-05-04",
+                                                                                "status":  "missing"
                                                                             },
                                "SV Talkies - Nindra":  {
                                                            "last_backup":  "2026-05-21",
@@ -2280,5 +2284,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-24 16:00:03"
+    "started_at":  "2026-05-24 17:00:03"
 }
