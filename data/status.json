@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-24 18:13:29",
+    "generated_at":  "2026-05-24 19:13:56",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -522,6 +522,10 @@
                                                                      "last_backup":  "2026-05-24",
                                                                      "status":  "ok"
                                                                  },
+                               "Devaki Cinemas Guruvayoor":  {
+                                                                 "last_backup":  "2026-05-24",
+                                                                 "status":  "ok"
+                                                             },
                                "JK Cinemas Irinjalakuda":  {
                                                                "last_backup":  "2026-05-24",
                                                                "status":  "ok"
@@ -610,10 +614,10 @@
                                                                          "last_backup":  "2026-05-24",
                                                                          "status":  "ok"
                                                                      },
-                               "Simla Brahmakulam Theatre Kanjany":  {
-                                                                         "last_backup":  "2026-05-24",
-                                                                         "status":  "ok"
-                                                                     },
+                               "Aura Cinemas Peravoor":  {
+                                                             "last_backup":  "2026-05-24",
+                                                             "status":  "ok"
+                                                         },
                                "Apsara Theatre Changanassery":  {
                                                                     "last_backup":  "2026-05-24",
                                                                     "status":  "ok"
@@ -630,6 +634,10 @@
                                                                        "last_backup":  "2026-05-24",
                                                                        "status":  "ok"
                                                                    },
+                               "Simla Brahmakulam Theatre Kanjany":  {
+                                                                         "last_backup":  "2026-05-24",
+                                                                         "status":  "ok"
+                                                                     },
                                "Sindhu Cinema Venjarammoodu":  {
                                                                    "last_backup":  "2026-05-24",
                                                                    "status":  "ok"
@@ -866,6 +874,10 @@
                                                                     "last_backup":  "2026-05-24",
                                                                     "status":  "ok"
                                                                 },
+                               "Santhosh Cinema Kattappana":  {
+                                                                  "last_backup":  null,
+                                                                  "status":  "missing"
+                                                              },
                                "GMAX Cinema Kollam":  {
                                                           "last_backup":  "2026-05-24",
                                                           "status":  "ok"
@@ -874,6 +886,10 @@
                                                                        "last_backup":  "2026-05-24",
                                                                        "status":  "ok"
                                                                    },
+                               "Varsha Theatre Anchal":  {
+                                                             "last_backup":  "2026-05-24",
+                                                             "status":  "ok"
+                                                         },
                                "Sumangali cinemas Payyannur":  {
                                                                    "last_backup":  "2026-05-24",
                                                                    "status":  "ok"
@@ -882,6 +898,10 @@
                                                                           "last_backup":  "2026-05-24",
                                                                           "status":  "ok"
                                                                       },
+                               "GTracks Screen 1 Kadinamkulam":  {
+                                                                     "last_backup":  "2026-05-24",
+                                                                     "status":  "ok"
+                                                                 },
                                "NVP Cinema Oyoor":  {
                                                         "last_backup":  "2026-05-24",
                                                         "status":  "ok"
@@ -902,10 +922,10 @@
                                                                            "last_backup":  "2026-05-24",
                                                                            "status":  "ok"
                                                                        },
-                               "Devaki Cinemas Guruvayoor":  {
-                                                                 "last_backup":  "2026-05-24",
-                                                                 "status":  "ok"
-                                                             },
+                               "JM Movies Josh Mall Mookkannoor":  {
+                                                                       "last_backup":  "2026-05-24",
+                                                                       "status":  "ok"
+                                                                   },
                                "Anchani Cinemas 4K Pallickathodu":  {
                                                                         "last_backup":  "2026-05-24",
                                                                         "status":  "ok"
@@ -2296,5 +2316,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-24 18:00:03"
+    "started_at":  "2026-05-24 19:00:03"
 }
