@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-24 13:15:23",
+    "generated_at":  "2026-05-24 14:13:09",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -527,8 +527,8 @@
                                                                "status":  "ok"
                                                            },
                                "HK Cinema Pothencode":  {
-                                                            "last_backup":  null,
-                                                            "status":  "missing"
+                                                            "last_backup":  "2026-05-24",
+                                                            "status":  "ok"
                                                         },
                                "Sri Kalidas M Plex Kattakada":  {
                                                                     "last_backup":  "2026-05-24",
@@ -610,10 +610,10 @@
                                                                     "last_backup":  "2026-05-24",
                                                                     "status":  "ok"
                                                                 },
-                               "Sathya Movie House Palakkad":  {
-                                                                   "last_backup":  "2026-05-24",
-                                                                   "status":  "ok"
-                                                               },
+                               "Sai Cineplexx Oachira":  {
+                                                             "last_backup":  "2026-05-24",
+                                                             "status":  "ok"
+                                                         },
                                "Lenin Cinemas KSFDC  Trivandrum":  {
                                                                        "last_backup":  "2026-05-24",
                                                                        "status":  "ok"
@@ -654,6 +654,10 @@
                                                               "last_backup":  "2026-05-24",
                                                               "status":  "ok"
                                                           },
+                               "Jass theatre ottapalam":  {
+                                                              "last_backup":  "2026-05-24",
+                                                              "status":  "ok"
+                                                          },
                                "Ariesplex SL Cinemas Trivandrum":  {
                                                                        "last_backup":  "2026-05-24",
                                                                        "status":  "ok"
@@ -662,6 +666,10 @@
                                                                 "last_backup":  "2026-05-24",
                                                                 "status":  "ok"
                                                             },
+                               "Sathya Movie House Palakkad":  {
+                                                                   "last_backup":  "2026-05-24",
+                                                                   "status":  "ok"
+                                                               },
                                "Ganam Cinema Thrissur":  {
                                                              "last_backup":  "2026-05-24",
                                                              "status":  "ok"
@@ -818,6 +826,10 @@
                                                                 "last_backup":  "2026-05-24",
                                                                 "status":  "ok"
                                                             },
+                               "Devi Cinemas Perumpuzha":  {
+                                                               "last_backup":  "2026-05-24",
+                                                               "status":  "ok"
+                                                           },
                                "New Central Talkies Thripunnithura":  {
                                                                           "last_backup":  "2026-05-24",
                                                                           "status":  "ok"
@@ -826,6 +838,10 @@
                                                                     "last_backup":  "2026-05-24",
                                                                     "status":  "ok"
                                                                 },
+                               "GMAX Cinema Kollam":  {
+                                                          "last_backup":  "2026-05-24",
+                                                          "status":  "ok"
+                                                      },
                                "E Max Cinemas RGB Laser Calicut":  {
                                                                        "last_backup":  "2026-05-24",
                                                                        "status":  "ok"
@@ -2244,5 +2260,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-24 13:00:03"
+    "started_at":  "2026-05-24 14:00:03"
 }
