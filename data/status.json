@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-24 11:13:05",
+    "generated_at":  "2026-05-24 12:20:07",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -1041,12 +1041,12 @@
                                                                                      "status":  "missing"
                                                                                  },
                                "Rajashree Theatre - Nipani":  {
-                                                                  "last_backup":  null,
-                                                                  "status":  "missing"
+                                                                  "last_backup":  "2026-05-24",
+                                                                  "status":  "ok"
                                                               },
                                "Globe Cinemas - Belagavi":  {
-                                                                "last_backup":  "2026-05-23",
-                                                                "status":  "missing"
+                                                                "last_backup":  "2026-05-24",
+                                                                "status":  "ok"
                                                             },
                                "SIDDESHWARA Digital 2K 7.1 Cinema - J.P.Nagar":  {
                                                                                      "last_backup":  "2026-05-21",
@@ -1943,8 +1943,8 @@
                                                                            "status":  "ok"
                                                                        },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
-                                                                                   "last_backup":  "2026-05-23",
-                                                                                   "status":  "missing"
+                                                                                   "last_backup":  "2026-05-24",
+                                                                                   "status":  "ok"
                                                                                },
                                "Srinivasa Cine Complex":  {
                                                               "last_backup":  "2026-05-24",
@@ -2236,5 +2236,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-24 11:00:03"
+    "started_at":  "2026-05-24 12:00:03"
 }
