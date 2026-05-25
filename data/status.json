@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-25 13:15:06",
+    "generated_at":  "2026-05-25 14:15:06",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -586,6 +586,10 @@
                                                                     "last_backup":  "2026-05-25",
                                                                     "status":  "ok"
                                                                 },
+                               "Sania Cinemas Eramallur":  {
+                                                               "last_backup":  "2026-05-25",
+                                                               "status":  "ok"
+                                                           },
                                "EVM Latha Theatre Muvattupuzha":  {
                                                                       "last_backup":  "2026-05-25",
                                                                       "status":  "ok"
@@ -783,8 +787,8 @@
                                                                         "status":  "ok"
                                                                     },
                                "Sarita Cinema Kochi":  {
-                                                           "last_backup":  "2026-05-24",
-                                                           "status":  "missing"
+                                                           "last_backup":  "2026-05-25",
+                                                           "status":  "ok"
                                                        },
                                "Dhanya Remya Kollam":  {
                                                            "last_backup":  "2026-05-25",
@@ -935,8 +939,8 @@
                                                              "status":  "ok"
                                                          },
                                "GMAX Cinema Kollam":  {
-                                                          "last_backup":  "2026-05-24",
-                                                          "status":  "missing"
+                                                          "last_backup":  "2026-05-25",
+                                                          "status":  "ok"
                                                       },
                                "The Crown Theatre Calicut":  {
                                                                  "last_backup":  "2026-05-25",
@@ -2380,5 +2384,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-25 13:00:03"
+    "started_at":  "2026-05-25 14:00:03"
 }
