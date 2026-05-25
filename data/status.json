@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-25 18:14:25",
+    "generated_at":  "2026-05-25 19:14:39",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -658,6 +658,10 @@
                                                                     "last_backup":  "2026-05-25",
                                                                     "status":  "ok"
                                                                 },
+                               "Sai Cineplexx Oachira":  {
+                                                             "last_backup":  "2026-05-25",
+                                                             "status":  "ok"
+                                                         },
                                "MT Cineplex Pothancode":  {
                                                               "last_backup":  "2026-05-25",
                                                               "status":  "ok"
@@ -666,10 +670,10 @@
                                                                     "last_backup":  "2026-05-25",
                                                                     "status":  "ok"
                                                                 },
-                               "Sai Cineplexx Oachira":  {
-                                                             "last_backup":  "2026-05-25",
-                                                             "status":  "ok"
-                                                         },
+                               "Gavi Galaxy cinemas Seethathodu":  {
+                                                                       "last_backup":  "2026-05-25",
+                                                                       "status":  "ok"
+                                                                   },
                                "Lenin Cinemas KSFDC  Trivandrum":  {
                                                                        "last_backup":  "2026-05-25",
                                                                        "status":  "ok"
@@ -1002,6 +1006,10 @@
                                                                        "last_backup":  "2026-05-25",
                                                                        "status":  "ok"
                                                                    },
+                               "Thangaraj Theatre Kollengode":  {
+                                                                    "last_backup":  "2026-05-25",
+                                                                    "status":  "ok"
+                                                                },
                                "Anchani Cinemas 4K Pallickathodu":  {
                                                                         "last_backup":  "2026-05-25",
                                                                         "status":  "ok"
@@ -2392,5 +2400,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-25 18:00:03"
+    "started_at":  "2026-05-25 19:00:03"
 }
