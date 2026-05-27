@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-27 12:15:52",
+    "generated_at":  "2026-05-27 13:15:20",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -827,8 +827,8 @@
                                                                 "status":  "ok"
                                                             },
                                "Silver Hills Cinema Thodupuzha":  {
-                                                                      "last_backup":  "2026-05-26",
-                                                                      "status":  "missing"
+                                                                      "last_backup":  "2026-05-27",
+                                                                      "status":  "ok"
                                                                   },
                                "Lakshmi Cinemas 4K RGB Kodungallur":  {
                                                                           "last_backup":  "2026-05-27",
@@ -1695,8 +1695,8 @@
                                                                               "status":  "missing"
                                                                           },
                                "Raja Theater Anusri":  {
-                                                           "last_backup":  "2026-05-26",
-                                                           "status":  "missing"
+                                                           "last_backup":  "2026-05-27",
+                                                           "status":  "ok"
                                                        },
                                "Sri Srinivasa Theater - Dhone":  {
                                                                      "last_backup":  "2026-05-27",
@@ -2404,5 +2404,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-27 12:00:03"
+    "started_at":  "2026-05-27 13:00:03"
 }
