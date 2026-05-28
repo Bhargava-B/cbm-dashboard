@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-28 09:16:16",
+    "generated_at":  "2026-05-28 10:15:37",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -614,6 +614,10 @@
                                                                         "last_backup":  "2026-05-28",
                                                                         "status":  "ok"
                                                                     },
+                               "Ramraj Movies Punalur":  {
+                                                             "last_backup":  "2026-05-28",
+                                                             "status":  "ok"
+                                                         },
                                "Magic Frames Sahina Cinemas Mattannur":  {
                                                                              "last_backup":  "2026-05-28",
                                                                              "status":  "ok"
@@ -630,6 +634,10 @@
                                                                       "last_backup":  "2026-05-28",
                                                                       "status":  "ok"
                                                                   },
+                               "Partha Movie House Kollam":  {
+                                                                 "last_backup":  "2026-05-28",
+                                                                 "status":  "ok"
+                                                             },
                                "Aashirvad Cineplexx Kottiyam":  {
                                                                     "last_backup":  "2026-05-28",
                                                                     "status":  "ok"
@@ -750,6 +758,10 @@
                                                              "last_backup":  "2026-05-28",
                                                              "status":  "ok"
                                                          },
+                               "Pranavam Cinema Kollam":  {
+                                                              "last_backup":  "2026-05-28",
+                                                              "status":  "ok"
+                                                          },
                                "Anupama Theatre Kottayam":  {
                                                                 "last_backup":  "2026-05-28",
                                                                 "status":  "ok"
@@ -866,6 +878,10 @@
                                                               "last_backup":  "2026-05-28",
                                                               "status":  "ok"
                                                           },
+                               "Sreelakshmi Cinema Amballur":  {
+                                                                   "last_backup":  "2026-05-28",
+                                                                   "status":  "ok"
+                                                               },
                                "SMB Complex Kaliyikkavila":  {
                                                                  "last_backup":  "2026-05-28",
                                                                  "status":  "ok"
@@ -1377,8 +1393,8 @@
                                                                                    "status":  "missing"
                                                                                },
                                "Robin Theatre Kengeri":  {
-                                                             "last_backup":  "2026-05-27",
-                                                             "status":  "missing"
+                                                             "last_backup":  "2026-05-28",
+                                                             "status":  "ok"
                                                          },
                                "Geetanjali -Davanagere":  {
                                                               "last_backup":  "2026-05-28",
@@ -1445,8 +1461,8 @@
                                                                           "status":  "ok"
                                                                       },
                                "Urvashi Cinemas":  {
-                                                       "last_backup":  "2026-05-27",
-                                                       "status":  "missing"
+                                                       "last_backup":  "2026-05-28",
+                                                       "status":  "ok"
                                                    },
                                "Rockline Cinemas, Jalahalli Cross":  {
                                                                          "last_backup":  null,
@@ -1763,8 +1779,8 @@
                                                                                "status":  "ok"
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "last_backup":  "2026-05-27",
-                                                                                   "status":  "missing"
+                                                                                   "last_backup":  "2026-05-28",
+                                                                                   "status":  "ok"
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
                                                                       "last_backup":  "2026-05-28",
@@ -1951,8 +1967,8 @@
                                                                    "status":  "ok"
                                                                },
                                "Raja Picture Palace - Anakapalle":  {
-                                                                        "last_backup":  "2026-05-27",
-                                                                        "status":  "missing"
+                                                                        "last_backup":  "2026-05-28",
+                                                                        "status":  "ok"
                                                                     },
                                "Surya Cinemax - Kakinada":  {
                                                                 "last_backup":  "2026-05-28",
@@ -2412,5 +2428,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-28 09:00:03"
+    "started_at":  "2026-05-28 10:00:03"
 }
