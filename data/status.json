@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-29 16:14:01",
+    "generated_at":  "2026-05-29 17:14:14",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -686,10 +686,10 @@
                                                                        "last_backup":  "2026-05-29",
                                                                        "status":  "ok"
                                                                    },
-                               "Simla Brahmakulam Theatre Kanjany":  {
-                                                                         "last_backup":  "2026-05-29",
-                                                                         "status":  "ok"
-                                                                     },
+                               "JB Cinemas 4K 3D Nallila":  {
+                                                                "last_backup":  null,
+                                                                "status":  "missing"
+                                                            },
                                "Sindhu Cinema Venjarammoodu":  {
                                                                    "last_backup":  "2026-05-29",
                                                                    "status":  "ok"
@@ -782,6 +782,10 @@
                                                                  "last_backup":  "2026-05-29",
                                                                  "status":  "ok"
                                                              },
+                               "Simla Brahmakulam Theatre Kanjany":  {
+                                                                         "last_backup":  "2026-05-29",
+                                                                         "status":  "ok"
+                                                                     },
                                "Chellam Cinemas puthur":  {
                                                               "last_backup":  "2026-05-29",
                                                               "status":  "ok"
@@ -2227,8 +2231,8 @@
                                                         "status":  "missing"
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "last_backup":  "2026-05-29",
-                                                                                "status":  "ok"
+                                                                                "last_backup":  "2026-05-04",
+                                                                                "status":  "missing"
                                                                             },
                                "SV Talkies - Nindra":  {
                                                            "last_backup":  "2026-05-29",
@@ -2428,5 +2432,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-29 16:00:03"
+    "started_at":  "2026-05-29 17:00:03"
 }
