@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-29 17:14:14",
+    "generated_at":  "2026-05-29 18:14:22",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -687,8 +687,8 @@
                                                                        "status":  "ok"
                                                                    },
                                "JB Cinemas 4K 3D Nallila":  {
-                                                                "last_backup":  null,
-                                                                "status":  "missing"
+                                                                "last_backup":  "2026-05-29",
+                                                                "status":  "ok"
                                                             },
                                "Sindhu Cinema Venjarammoodu":  {
                                                                    "last_backup":  "2026-05-29",
@@ -2167,8 +2167,8 @@
                                                           "status":  "ok"
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
-                                                                 "last_backup":  "2026-05-25",
-                                                                 "status":  "missing"
+                                                                 "last_backup":  "2026-05-29",
+                                                                 "status":  "ok"
                                                              },
                                "Srinivasa AC 4K Dolby Atmos - Puttur":  {
                                                                             "last_backup":  null,
@@ -2432,5 +2432,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-29 17:00:03"
+    "started_at":  "2026-05-29 18:00:03"
 }
