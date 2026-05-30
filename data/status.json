@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-30 15:14:15",
+    "generated_at":  "2026-05-30 16:13:59",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -518,10 +518,10 @@
                                                               "last_backup":  "2026-05-30",
                                                               "status":  "ok"
                                                           },
-                               "HighStreet Cinemas Muvattupuzha":  {
-                                                                       "last_backup":  "2026-05-30",
-                                                                       "status":  "ok"
-                                                                   },
+                               "Sania Cinemas Eramallur":  {
+                                                               "last_backup":  "2026-05-30",
+                                                               "status":  "ok"
+                                                           },
                                "Matha Madhurya Theatre Aluva":  {
                                                                     "last_backup":  "2026-05-30",
                                                                     "status":  "ok"
@@ -534,10 +534,10 @@
                                                                         "last_backup":  "2026-05-30",
                                                                         "status":  "ok"
                                                                     },
-                               "Kripa Movies Kurumassery":  {
-                                                                "last_backup":  "2026-05-30",
-                                                                "status":  "ok"
-                                                            },
+                               "Dreambig Pratibha Theatre Mavelikkara":  {
+                                                                             "last_backup":  "2026-05-30",
+                                                                             "status":  "ok"
+                                                                         },
                                "Aashirvad Cineplexx Kadappra":  {
                                                                     "last_backup":  "2026-05-30",
                                                                     "status":  "ok"
@@ -626,6 +626,10 @@
                                                               "last_backup":  "2026-05-30",
                                                               "status":  "ok"
                                                           },
+                               "Dream Cinema Kallachi":  {
+                                                             "last_backup":  "2026-05-30",
+                                                             "status":  "ok"
+                                                         },
                                "Zeenath Theatre Aluva":  {
                                                              "last_backup":  "2026-05-30",
                                                              "status":  "ok"
@@ -738,10 +742,10 @@
                                                               "last_backup":  "2026-05-30",
                                                               "status":  "ok"
                                                           },
-                               "Jass theatre ottapalam":  {
-                                                              "last_backup":  "2026-05-30",
-                                                              "status":  "ok"
-                                                          },
+                               "HighStreet Cinemas Muvattupuzha":  {
+                                                                       "last_backup":  "2026-05-30",
+                                                                       "status":  "ok"
+                                                                   },
                                "SN Theatre Haripad":  {
                                                           "last_backup":  "2026-05-30",
                                                           "status":  "ok"
@@ -826,10 +830,10 @@
                                                                           "last_backup":  "2026-05-30",
                                                                           "status":  "ok"
                                                                       },
-                               "SA Multiplex Pulluvila":  {
-                                                              "last_backup":  "2026-05-30",
-                                                              "status":  "ok"
-                                                          },
+                               "Kripa Movies Kurumassery":  {
+                                                                "last_backup":  "2026-05-30",
+                                                                "status":  "ok"
+                                                            },
                                "M Cinema Varapuzha":  {
                                                           "last_backup":  "2026-05-30",
                                                           "status":  "ok"
@@ -846,6 +850,10 @@
                                                                       "last_backup":  "2026-05-30",
                                                                       "status":  "ok"
                                                                   },
+                               "Priyadarshini Cinema Palakkad":  {
+                                                                     "last_backup":  "2026-05-30",
+                                                                     "status":  "ok"
+                                                                 },
                                "Surya Theatre Erattupetta":  {
                                                                  "last_backup":  "2026-05-30",
                                                                  "status":  "ok"
@@ -882,6 +890,10 @@
                                                                     "last_backup":  "2026-05-30",
                                                                     "status":  "ok"
                                                                 },
+                               "SA Multiplex Pulluvila":  {
+                                                              "last_backup":  "2026-05-30",
+                                                              "status":  "ok"
+                                                          },
                                "Central Talkies Tripunithura":  {
                                                                     "last_backup":  "2026-05-30",
                                                                     "status":  "ok"
@@ -958,6 +970,10 @@
                                                                     "last_backup":  "2026-05-30",
                                                                     "status":  "ok"
                                                                 },
+                               "Jass theatre ottapalam":  {
+                                                              "last_backup":  "2026-05-30",
+                                                              "status":  "ok"
+                                                          },
                                "Ramdas Movie House Thrissur":  {
                                                                    "last_backup":  "2026-05-30",
                                                                    "status":  "ok"
@@ -1018,10 +1034,6 @@
                                                                          "last_backup":  "2026-05-30",
                                                                          "status":  "ok"
                                                                      },
-                               "Sania Cinemas Eramallur":  {
-                                                               "last_backup":  "2026-05-30",
-                                                               "status":  "ok"
-                                                           },
                                "Gavi Galaxy cinemas Seethathodu":  {
                                                                        "last_backup":  "2026-05-30",
                                                                        "status":  "ok"
@@ -2183,8 +2195,8 @@
                                                                         "status":  "ok"
                                                                     },
                                "Dr PV Rao Cineplex - Kanchikacherla":  {
-                                                                           "last_backup":  "2026-05-28",
-                                                                           "status":  "missing"
+                                                                           "last_backup":  "2026-05-30",
+                                                                           "status":  "ok"
                                                                        },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "last_backup":  "2026-05-30",
@@ -2480,5 +2492,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-30 15:00:03"
+    "started_at":  "2026-05-30 16:00:03"
 }
