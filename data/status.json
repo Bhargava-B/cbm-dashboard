@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-30 11:15:36",
+    "generated_at":  "2026-05-30 12:21:13",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -538,10 +538,10 @@
                                                                     "last_backup":  "2026-05-30",
                                                                     "status":  "ok"
                                                                 },
-                               "Ariesplex Cinema Punalur":  {
-                                                                "last_backup":  "2026-05-30",
-                                                                "status":  "ok"
-                                                            },
+                               "Devaki Cinemas Guruvayoor":  {
+                                                                 "last_backup":  "2026-05-30",
+                                                                 "status":  "ok"
+                                                             },
                                "VB CINEMAS Thriprayar":  {
                                                              "last_backup":  "2026-05-30",
                                                              "status":  "ok"
@@ -622,10 +622,10 @@
                                                                  "last_backup":  "2026-05-30",
                                                                  "status":  "ok"
                                                              },
-                               "Devaki Cinemas Guruvayoor":  {
-                                                                 "last_backup":  "2026-05-30",
-                                                                 "status":  "ok"
-                                                             },
+                               "Zeenath Theatre Aluva":  {
+                                                             "last_backup":  "2026-05-30",
+                                                             "status":  "ok"
+                                                         },
                                "Alakode Film City Alakkode":  {
                                                                   "last_backup":  "2026-05-30",
                                                                   "status":  "ok"
@@ -655,8 +655,8 @@
                                                            "status":  "ok"
                                                        },
                                "Ladder Cinemas Manjeri":  {
-                                                              "last_backup":  "2026-05-29",
-                                                              "status":  "missing"
+                                                              "last_backup":  "2026-05-30",
+                                                              "status":  "ok"
                                                           },
                                "Vanitha Movie House Kochi":  {
                                                                  "last_backup":  "2026-05-30",
@@ -810,6 +810,10 @@
                                                                              "last_backup":  "2026-05-30",
                                                                              "status":  "ok"
                                                                          },
+                               "Ganam Theatre Kattanam":  {
+                                                              "last_backup":  "2026-05-30",
+                                                              "status":  "ok"
+                                                          },
                                "New Central Talkies Thripunnithura":  {
                                                                           "last_backup":  "2026-05-30",
                                                                           "status":  "ok"
@@ -834,18 +838,26 @@
                                                                       "last_backup":  "2026-05-30",
                                                                       "status":  "ok"
                                                                   },
+                               "Surya Theatre Erattupetta":  {
+                                                                 "last_backup":  "2026-05-30",
+                                                                 "status":  "ok"
+                                                             },
                                "Harisree Theatre Kazhakuttom":  {
                                                                     "last_backup":  "2026-05-30",
                                                                     "status":  "ok"
                                                                 },
-                               "Sumangali cinemas Payyannur":  {
-                                                                   "last_backup":  "2026-05-30",
-                                                                   "status":  "ok"
-                                                               },
+                               "Anurag Cinema Shoranur":  {
+                                                              "last_backup":  "2026-05-30",
+                                                              "status":  "ok"
+                                                          },
                                "Aashirvad Cineplexx Kozhikode":  {
                                                                      "last_backup":  "2026-05-30",
                                                                      "status":  "ok"
                                                                  },
+                               "Ariesplex Cinema Punalur":  {
+                                                                "last_backup":  "2026-05-30",
+                                                                "status":  "ok"
+                                                            },
                                "Sridar Cinema Ernakulum":  {
                                                                "last_backup":  "2026-05-30",
                                                                "status":  "ok"
@@ -862,10 +874,6 @@
                                                                     "last_backup":  "2026-05-30",
                                                                     "status":  "ok"
                                                                 },
-                               "Zeenath Theatre Aluva":  {
-                                                             "last_backup":  "2026-05-30",
-                                                             "status":  "ok"
-                                                         },
                                "Central Talkies Tripunithura":  {
                                                                     "last_backup":  "2026-05-30",
                                                                     "status":  "ok"
@@ -990,10 +998,6 @@
                                                                 "last_backup":  "2026-05-30",
                                                                 "status":  "ok"
                                                             },
-                               "Anurag Cinema Shoranur":  {
-                                                              "last_backup":  "2026-05-30",
-                                                              "status":  "ok"
-                                                          },
                                "Simla Brahmakulam Theatre Kanjany":  {
                                                                          "last_backup":  "2026-05-30",
                                                                          "status":  "ok"
@@ -1038,6 +1042,10 @@
                                                                      "last_backup":  "2026-05-30",
                                                                      "status":  "ok"
                                                                  },
+                               "Sumangali cinemas Payyannur":  {
+                                                                   "last_backup":  "2026-05-30",
+                                                                   "status":  "ok"
+                                                               },
                                "Ragam Theatre Thrissur":  {
                                                               "last_backup":  "2026-05-30",
                                                               "status":  "ok"
@@ -2452,5 +2460,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-30 11:00:03"
+    "started_at":  "2026-05-30 12:00:03"
 }
