@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-31 13:14:55",
+    "generated_at":  "2026-05-31 14:14:57",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -786,6 +786,10 @@
                                                              "last_backup":  "2026-05-31",
                                                              "status":  "ok"
                                                          },
+                               "Shafas Grand 4K North Paravur":  {
+                                                                     "last_backup":  null,
+                                                                     "status":  "missing"
+                                                                 },
                                "Kirthi Mudra Vadakara":  {
                                                              "last_backup":  "2026-05-31",
                                                              "status":  "ok"
@@ -2520,5 +2524,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-31 13:00:03"
+    "started_at":  "2026-05-31 14:00:03"
 }
