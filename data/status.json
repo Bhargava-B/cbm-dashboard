@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-31 11:21:05",
+    "generated_at":  "2026-05-31 12:22:27",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -1022,6 +1022,10 @@
                                                                        "last_backup":  "2026-05-31",
                                                                        "status":  "ok"
                                                                    },
+                               "VKG Cinemas Pavaratty":  {
+                                                             "last_backup":  "2026-05-31",
+                                                             "status":  "ok"
+                                                         },
                                "EVM Grand Cinemas Cherthala":  {
                                                                    "last_backup":  "2026-05-31",
                                                                    "status":  "ok"
@@ -1577,8 +1581,8 @@
                                                                      "status":  "missing"
                                                                  },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "last_backup":  "2026-05-29",
-                                                                         "status":  "missing"
+                                                                         "last_backup":  "2026-05-31",
+                                                                         "status":  "ok"
                                                                      },
                                "Movietime Bangalore YGR MALL(4 screens)":  {
                                                                                "last_backup":  null,
@@ -2516,5 +2520,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-31 11:00:03"
+    "started_at":  "2026-05-31 12:00:03"
 }
