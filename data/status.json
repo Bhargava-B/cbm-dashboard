@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-31 14:14:57",
+    "generated_at":  "2026-05-31 15:14:14",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -530,6 +530,10 @@
                                                                         "last_backup":  "2026-05-31",
                                                                         "status":  "ok"
                                                                     },
+                               "DEV Cinemas Kanichar":  {
+                                                            "last_backup":  "2026-05-31",
+                                                            "status":  "ok"
+                                                        },
                                "MAR Basil EVM Theatre Rajakumari":  {
                                                                         "last_backup":  "2026-05-31",
                                                                         "status":  "ok"
@@ -646,6 +650,10 @@
                                                                    "last_backup":  "2026-05-31",
                                                                    "status":  "ok"
                                                                },
+                               "Dreambig Jawahar Cinema Kalady":  {
+                                                                      "last_backup":  "2026-05-31",
+                                                                      "status":  "ok"
+                                                                  },
                                "GMAX Cinema Kollam":  {
                                                           "last_backup":  "2026-05-31",
                                                           "status":  "ok"
@@ -694,10 +702,6 @@
                                                               "last_backup":  "2026-05-31",
                                                               "status":  "ok"
                                                           },
-                               "PAN CINEMAS Maradu":  {
-                                                          "last_backup":  "2026-05-31",
-                                                          "status":  "ok"
-                                                      },
                                "Jos Theatre  Pala":  {
                                                          "last_backup":  "2026-05-31",
                                                          "status":  "ok"
@@ -714,14 +718,14 @@
                                                                        "last_backup":  "2026-05-31",
                                                                        "status":  "ok"
                                                                    },
-                               "IMP Big Screen 2K 3D Parassala":  {
-                                                                      "last_backup":  "2026-05-31",
-                                                                      "status":  "ok"
-                                                                  },
-                               "Baby Cinemas Kuthuparamba":  {
-                                                                 "last_backup":  "2026-05-31",
-                                                                 "status":  "ok"
-                                                             },
+                               "K Cinemas TrippleBeam 3D Ayyampilly":  {
+                                                                           "last_backup":  "2026-05-31",
+                                                                           "status":  "ok"
+                                                                       },
+                               "PAN CINEMAS Maradu":  {
+                                                          "last_backup":  "2026-05-31",
+                                                          "status":  "ok"
+                                                      },
                                "Sai Cineplexx Oachira":  {
                                                              "last_backup":  "2026-05-31",
                                                              "status":  "ok"
@@ -787,8 +791,8 @@
                                                              "status":  "ok"
                                                          },
                                "Shafas Grand 4K North Paravur":  {
-                                                                     "last_backup":  null,
-                                                                     "status":  "missing"
+                                                                     "last_backup":  "2026-05-31",
+                                                                     "status":  "ok"
                                                                  },
                                "Kirthi Mudra Vadakara":  {
                                                              "last_backup":  "2026-05-31",
@@ -842,6 +846,10 @@
                                                               "last_backup":  "2026-05-31",
                                                               "status":  "ok"
                                                           },
+                               "IMP Big Screen 2K 3D Parassala":  {
+                                                                      "last_backup":  "2026-05-31",
+                                                                      "status":  "ok"
+                                                                  },
                                "Dreams Theatre Attingal":  {
                                                                "last_backup":  "2026-05-31",
                                                                "status":  "ok"
@@ -858,10 +866,6 @@
                                                                  "last_backup":  "2026-05-31",
                                                                  "status":  "ok"
                                                              },
-                               "EVM Latha Theatre Muvattupuzha":  {
-                                                                      "last_backup":  "2026-05-31",
-                                                                      "status":  "ok"
-                                                                  },
                                "Priyadarshini Cinema Palakkad":  {
                                                                      "last_backup":  "2026-05-31",
                                                                      "status":  "ok"
@@ -874,6 +878,10 @@
                                                               "last_backup":  "2026-05-31",
                                                               "status":  "ok"
                                                           },
+                               "S Cinemas Konni":  {
+                                                       "last_backup":  null,
+                                                       "status":  "missing"
+                                                   },
                                "Fun Movies Thrissur":  {
                                                            "last_backup":  "2026-05-31",
                                                            "status":  "ok"
@@ -926,10 +934,10 @@
                                                                 "last_backup":  "2026-05-31",
                                                                 "status":  "ok"
                                                             },
-                               "Sindhu Cinema Venjarammoodu":  {
-                                                                   "last_backup":  "2026-05-31",
-                                                                   "status":  "ok"
-                                                               },
+                               "EVM Latha Theatre Muvattupuzha":  {
+                                                                      "last_backup":  "2026-05-31",
+                                                                      "status":  "ok"
+                                                                  },
                                "JK Cinemas Irinjalakuda":  {
                                                                "last_backup":  "2026-05-31",
                                                                "status":  "ok"
@@ -938,6 +946,10 @@
                                                                     "last_backup":  "2026-05-31",
                                                                     "status":  "ok"
                                                                 },
+                               "JK Cinemas Thriprayar":  {
+                                                             "last_backup":  "2026-05-31",
+                                                             "status":  "ok"
+                                                         },
                                "Dreamax E cinemas mayannur":  {
                                                                   "last_backup":  "2026-05-31",
                                                                   "status":  "ok"
@@ -990,10 +1002,10 @@
                                                            "last_backup":  "2026-05-31",
                                                            "status":  "ok"
                                                        },
-                               "Ganga Complex Attingal":  {
-                                                              "last_backup":  "2026-05-31",
-                                                              "status":  "ok"
-                                                          },
+                               "Baby Cinemas Kuthuparamba":  {
+                                                                 "last_backup":  "2026-05-31",
+                                                                 "status":  "ok"
+                                                             },
                                "Lakshmi Cinemas 4K RGB Kodungallur":  {
                                                                           "last_backup":  "2026-05-31",
                                                                           "status":  "ok"
@@ -1082,6 +1094,10 @@
                                                                     "last_backup":  "2026-05-31",
                                                                     "status":  "ok"
                                                                 },
+                               "Ganga Complex Attingal":  {
+                                                              "last_backup":  "2026-05-31",
+                                                              "status":  "ok"
+                                                          },
                                "Alakode Film City Alakkode":  {
                                                                   "last_backup":  "2026-05-31",
                                                                   "status":  "ok"
@@ -1137,7 +1153,11 @@
                                "Abhinaya Anu Theatre Kottayam":  {
                                                                      "last_backup":  "2026-05-31",
                                                                      "status":  "ok"
-                                                                 }
+                                                                 },
+                               "Sindhu Cinema Venjarammoodu":  {
+                                                                   "last_backup":  "2026-05-31",
+                                                                   "status":  "ok"
+                                                               }
                            },
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
@@ -2524,5 +2544,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-31 14:00:03"
+    "started_at":  "2026-05-31 15:00:03"
 }
