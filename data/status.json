@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-31 17:14:48",
+    "generated_at":  "2026-05-31 18:15:08",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -750,6 +750,10 @@
                                                      "last_backup":  "2026-05-31",
                                                      "status":  "ok"
                                                  },
+                               "Liberty Cinema Kannur":  {
+                                                             "last_backup":  null,
+                                                             "status":  "missing"
+                                                         },
                                "Nice Movie House Thalayolaparambu":  {
                                                                          "last_backup":  "2026-05-31",
                                                                          "status":  "ok"
@@ -2572,5 +2576,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-31 17:00:03"
+    "started_at":  "2026-05-31 18:00:03"
 }
