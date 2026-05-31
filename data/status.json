@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-31 15:14:14",
+    "generated_at":  "2026-05-31 16:14:20",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -879,8 +879,8 @@
                                                               "status":  "ok"
                                                           },
                                "S Cinemas Konni":  {
-                                                       "last_backup":  null,
-                                                       "status":  "missing"
+                                                       "last_backup":  "2026-05-31",
+                                                       "status":  "ok"
                                                    },
                                "Fun Movies Thrissur":  {
                                                            "last_backup":  "2026-05-31",
@@ -966,6 +966,10 @@
                                                                  "last_backup":  "2026-05-31",
                                                                  "status":  "ok"
                                                              },
+                               "Sneha Cinema Alathur":  {
+                                                            "last_backup":  "2026-05-31",
+                                                            "status":  "ok"
+                                                        },
                                "Sathya Movie House Palakkad":  {
                                                                    "last_backup":  "2026-05-31",
                                                                    "status":  "ok"
@@ -2544,5 +2548,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-31 15:00:03"
+    "started_at":  "2026-05-31 16:00:03"
 }
