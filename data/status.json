@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-05-31 09:33:55",
+    "generated_at":  "2026-05-31 10:15:08",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -1034,6 +1034,10 @@
                                                                          "last_backup":  "2026-05-31",
                                                                          "status":  "ok"
                                                                      },
+                               "Anu Cinemax Nellimoodu":  {
+                                                              "last_backup":  "2026-05-31",
+                                                              "status":  "ok"
+                                                          },
                                "Gavi Galaxy cinemas Seethathodu":  {
                                                                        "last_backup":  "2026-05-31",
                                                                        "status":  "ok"
@@ -1847,8 +1851,8 @@
                                                                                "status":  "ok"
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "last_backup":  "2026-05-30",
-                                                                                   "status":  "missing"
+                                                                                   "last_backup":  "2026-05-31",
+                                                                                   "status":  "ok"
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
                                                                       "last_backup":  "2026-05-31",
@@ -2496,5 +2500,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-05-31 09:00:03"
+    "started_at":  "2026-05-31 10:00:03"
 }
