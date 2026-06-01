@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-01 16:15:54",
+    "generated_at":  "2026-06-01 17:16:31",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -674,7 +674,7 @@
                                                                 "last_backup":  "2026-06-01",
                                                                 "status":  "ok"
                                                             },
-                               "Moviemax Circle Kasaragod":  {
+                               "Four Star Movies Manjapra":  {
                                                                  "last_backup":  "2026-06-01",
                                                                  "status":  "ok"
                                                              },
@@ -698,6 +698,10 @@
                                                                 "last_backup":  "2026-06-01",
                                                                 "status":  "ok"
                                                             },
+                               "J MAX Gejo Theatre Pattimattom":  {
+                                                                      "last_backup":  "2026-06-01",
+                                                                      "status":  "ok"
+                                                                  },
                                "MLal Aashirvad Cineplexx Haripad":  {
                                                                         "last_backup":  "2026-06-01",
                                                                         "status":  "ok"
@@ -750,6 +754,10 @@
                                                              "last_backup":  "2026-06-01",
                                                              "status":  "ok"
                                                          },
+                               "GMax Utsav Kollam":  {
+                                                         "last_backup":  "2026-06-01",
+                                                         "status":  "ok"
+                                                     },
                                "Shenoys Kochi":  {
                                                      "last_backup":  "2026-06-01",
                                                      "status":  "ok"
@@ -1094,6 +1102,10 @@
                                                                          "last_backup":  "2026-06-01",
                                                                          "status":  "ok"
                                                                      },
+                               "Moviemax Circle Kasaragod":  {
+                                                                 "last_backup":  "2026-06-01",
+                                                                 "status":  "ok"
+                                                             },
                                "Anu Cinemax Nellimoodu":  {
                                                               "last_backup":  "2026-06-01",
                                                               "status":  "ok"
@@ -2383,8 +2395,8 @@
                                                         "status":  "ok"
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "last_backup":  "2026-06-01",
-                                                                                "status":  "ok"
+                                                                                "last_backup":  "2026-05-04",
+                                                                                "status":  "missing"
                                                                             },
                                "SV Talkies - Nindra":  {
                                                            "last_backup":  "2026-06-01",
@@ -2584,5 +2596,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-01 16:00:03"
+    "started_at":  "2026-06-01 17:00:03"
 }
