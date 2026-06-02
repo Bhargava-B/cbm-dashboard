@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-02 10:19:16",
+    "generated_at":  "2026-06-02 11:21:14",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -257,8 +257,8 @@
                               },
                     "TG":  {
                                "Radhika Theater":  {
-                                                       "last_backup":  "2026-06-01",
-                                                       "status":  "missing"
+                                                       "last_backup":  "2026-06-02",
+                                                       "status":  "ok"
                                                    },
                                "Sri Balaji Theater":  {
                                                           "last_backup":  "2026-06-02",
@@ -453,8 +453,8 @@
                                                                     "status":  "missing"
                                                                 },
                                "Parameswara 70MM - Shadnagar":  {
-                                                                    "last_backup":  "2026-06-01",
-                                                                    "status":  "missing"
+                                                                    "last_backup":  "2026-06-02",
+                                                                    "status":  "ok"
                                                                 },
                                "Sai Baba Theatre - Shankarpally":  {
                                                                        "last_backup":  null,
@@ -810,10 +810,10 @@
                                                         "last_backup":  "2026-06-02",
                                                         "status":  "ok"
                                                     },
-                               "Dhanya Remya Changanassery":  {
-                                                                  "last_backup":  "2026-06-02",
-                                                                  "status":  "ok"
-                                                              },
+                               "Krishna Theatre Karunagapally":  {
+                                                                     "last_backup":  "2026-06-02",
+                                                                     "status":  "ok"
+                                                                 },
                                "Aashirvad Cineplexx Thodupuzha":  {
                                                                       "last_backup":  "2026-06-02",
                                                                       "status":  "ok"
@@ -982,6 +982,10 @@
                                                                 "last_backup":  "2026-06-02",
                                                                 "status":  "ok"
                                                             },
+                               "Dhanya Remya Changanassery":  {
+                                                                  "last_backup":  "2026-06-02",
+                                                                  "status":  "ok"
+                                                              },
                                "EVM Latha Theatre Muvattupuzha":  {
                                                                       "last_backup":  "2026-06-02",
                                                                       "status":  "ok"
@@ -1063,8 +1067,8 @@
                                                                 "status":  "ok"
                                                             },
                                "Silver Hills Cinema Thodupuzha":  {
-                                                                      "last_backup":  "2026-06-01",
-                                                                      "status":  "missing"
+                                                                      "last_backup":  "2026-06-02",
+                                                                      "status":  "ok"
                                                                   },
                                "Dhanya Remya Pathanamthitta":  {
                                                                    "last_backup":  "2026-06-02",
@@ -1091,8 +1095,8 @@
                                                                    "status":  "ok"
                                                                },
                                "AK Cinepalace Cherupuzha":  {
-                                                                "last_backup":  "2026-06-01",
-                                                                "status":  "missing"
+                                                                "last_backup":  "2026-06-02",
+                                                                "status":  "ok"
                                                             },
                                "Santhosh Cinema Kattappana":  {
                                                                   "last_backup":  "2026-06-02",
@@ -1265,8 +1269,8 @@
                                                                                         "status":  "ok"
                                                                                     },
                                "Chandrodaya Digital 2K Cinema - Vidyapeeta Circle":  {
-                                                                                         "last_backup":  "2026-05-31",
-                                                                                         "status":  "missing"
+                                                                                         "last_backup":  "2026-06-02",
+                                                                                         "status":  "ok"
                                                                                      },
                                "Veeresh Cinemas - Magadi Road":  {
                                                                      "last_backup":  null,
@@ -2355,8 +2359,8 @@
                                                                   "status":  "ok"
                                                               },
                                "Sri Ramchandra Talkies - Kodumur":  {
-                                                                        "last_backup":  "2026-06-01",
-                                                                        "status":  "missing"
+                                                                        "last_backup":  "2026-06-02",
+                                                                        "status":  "ok"
                                                                     },
                                "Sri Ramulamma Theatre - Thagarapuvalasa Vizag":  {
                                                                                      "last_backup":  "2026-05-09",
@@ -2399,8 +2403,8 @@
                                                                 "status":  "ok"
                                                             },
                                "Adabala Theatres":  {
-                                                        "last_backup":  "2026-06-01",
-                                                        "status":  "missing"
+                                                        "last_backup":  "2026-06-02",
+                                                        "status":  "ok"
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
                                                                                 "last_backup":  "2026-06-02",
@@ -2604,5 +2608,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-02 10:00:03"
+    "started_at":  "2026-06-02 11:00:03"
 }
