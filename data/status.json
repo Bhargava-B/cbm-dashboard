@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-03 13:17:06",
+    "generated_at":  "2026-06-03 14:16:48",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -578,6 +578,10 @@
                                                              "last_backup":  "2026-06-03",
                                                              "status":  "ok"
                                                          },
+                               "VGM Multiplex Theatre Kahangad":  {
+                                                                      "last_backup":  "2026-06-03",
+                                                                      "status":  "ok"
+                                                                  },
                                "Sagara Theatre Kattappana":  {
                                                                  "last_backup":  "2026-06-03",
                                                                  "status":  "ok"
@@ -591,8 +595,8 @@
                                                                  "status":  "ok"
                                                              },
                                "Sreekaleeswary Cinema Kodungallur":  {
-                                                                         "last_backup":  "2026-06-02",
-                                                                         "status":  "missing"
+                                                                         "last_backup":  "2026-06-03",
+                                                                         "status":  "ok"
                                                                      },
                                "Ariesplex SL Cinemas Trivandrum":  {
                                                                        "last_backup":  "2026-06-03",
@@ -875,8 +879,8 @@
                                                               "status":  "ok"
                                                           },
                                "Aura Cinemas Mattanur":  {
-                                                             "last_backup":  "2026-06-02",
-                                                             "status":  "missing"
+                                                             "last_backup":  "2026-06-03",
+                                                             "status":  "ok"
                                                          },
                                "SA Multiplex Pulluvila":  {
                                                               "last_backup":  "2026-06-03",
@@ -1059,8 +1063,8 @@
                                                                  "status":  "ok"
                                                              },
                                "Lakshmi Cinemas 4K RGB Kodungallur":  {
-                                                                          "last_backup":  "2026-06-02",
-                                                                          "status":  "missing"
+                                                                          "last_backup":  "2026-06-03",
+                                                                          "status":  "ok"
                                                                       },
                                "Avishkar Cinemas Kottayi":  {
                                                                 "last_backup":  "2026-06-03",
@@ -1329,8 +1333,8 @@
                                                                        "status":  "ok"
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
-                                                                          "last_backup":  null,
-                                                                          "status":  "missing"
+                                                                          "last_backup":  "2026-06-03",
+                                                                          "status":  "ok"
                                                                       },
                                "Sampige Digital 2k Cinema - Malleshwaram":  {
                                                                                 "last_backup":  "2026-06-03",
@@ -1537,8 +1541,8 @@
                                                                                           "status":  "ok"
                                                                                       },
                                "Balaji Theatre - Siruguppa":  {
-                                                                  "last_backup":  null,
-                                                                  "status":  "missing"
+                                                                  "last_backup":  "2026-06-03",
+                                                                  "status":  "ok"
                                                               },
                                "Apsara \u0026 Sudha Cinemas - Hubli":  {
                                                                            "last_backup":  "2026-06-03",
@@ -1609,8 +1613,8 @@
                                                                   "status":  "ok"
                                                               },
                                "Venkateshwhara Theater Gollarahatti":  {
-                                                                           "last_backup":  null,
-                                                                           "status":  "missing"
+                                                                           "last_backup":  "2026-06-03",
+                                                                           "status":  "ok"
                                                                        },
                                "Sri Vinayaka Cinemas 4K Dolby 7.1 (AC) - Varthur":  {
                                                                                         "last_backup":  null,
@@ -2620,5 +2624,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-03 13:00:03"
+    "started_at":  "2026-06-03 14:00:03"
 }
