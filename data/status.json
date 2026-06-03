@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-03 15:16:38",
+    "generated_at":  "2026-06-03 16:17:15",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -607,8 +607,8 @@
                                                                          "status":  "ok"
                                                                      },
                                "Bala cinemas Kalladikode":  {
-                                                                "last_backup":  null,
-                                                                "status":  "missing"
+                                                                "last_backup":  "2026-06-03",
+                                                                "status":  "ok"
                                                             },
                                "UGM Cinemas 4K Ettumanoor":  {
                                                                  "last_backup":  "2026-06-03",
@@ -1126,6 +1126,10 @@
                                                                        "last_backup":  "2026-06-03",
                                                                        "status":  "ok"
                                                                    },
+                               "One2One Plus Film City Vadakara":  {
+                                                                       "last_backup":  "2026-06-03",
+                                                                       "status":  "ok"
+                                                                   },
                                "Moviemax Circle Kasaragod":  {
                                                                  "last_backup":  "2026-06-03",
                                                                  "status":  "ok"
@@ -1257,8 +1261,8 @@
                                                                                "status":  "ok"
                                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
-                                                                                           "last_backup":  null,
-                                                                                           "status":  "missing"
+                                                                                           "last_backup":  "2026-06-03",
+                                                                                           "status":  "ok"
                                                                                        },
                                "Sri Lakshmi A╬ô├¬ΓîÉ╬ô├▓┬ÑΓö£├áC 4k Dolby 7.1: Gottigere":  {
                                                                                                 "last_backup":  null,
@@ -1589,8 +1593,8 @@
                                                                      "status":  "missing"
                                                                  },
                                "Srinivasa Theater - Kadugudi 4K Dolby Atmos":  {
-                                                                                   "last_backup":  null,
-                                                                                   "status":  "missing"
+                                                                                   "last_backup":  "2026-06-03",
+                                                                                   "status":  "ok"
                                                                                },
                                "Veeresh Cinemas: Magadi Road":  {
                                                                     "last_backup":  "2026-06-03",
@@ -2636,5 +2640,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-03 15:00:03"
+    "started_at":  "2026-06-03 16:00:03"
 }
