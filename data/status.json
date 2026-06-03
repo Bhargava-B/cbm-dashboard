@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-03 12:19:45",
+    "generated_at":  "2026-06-03 13:17:06",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -1321,20 +1321,20 @@
                                                                                   "status":  "ok"
                                                                               },
                                "Prasanna Digital 4K Cinema - Magadi Road":  {
-                                                                                "last_backup":  null,
-                                                                                "status":  "missing"
+                                                                                "last_backup":  "2026-06-03",
+                                                                                "status":  "ok"
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "last_backup":  null,
-                                                                       "status":  "missing"
+                                                                       "last_backup":  "2026-06-03",
+                                                                       "status":  "ok"
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
                                                                           "last_backup":  null,
                                                                           "status":  "missing"
                                                                       },
                                "Sampige Digital 2k Cinema - Malleshwaram":  {
-                                                                                "last_backup":  null,
-                                                                                "status":  "missing"
+                                                                                "last_backup":  "2026-06-03",
+                                                                                "status":  "ok"
                                                                             },
                                "Anjan Digital 4K AC Cinema - Magadi Road":  {
                                                                                 "last_backup":  "2026-06-03",
@@ -1440,6 +1440,10 @@
                                                                 "last_backup":  null,
                                                                 "status":  "missing"
                                                             },
+                               "Vaibhavi \u0026 Vaishnavi Cinemas - Uttarahalli":  {
+                                                                                       "last_backup":  null,
+                                                                                       "status":  "missing"
+                                                                                   },
                                "Benaka CInemas, Malur":  {
                                                              "last_backup":  null,
                                                              "status":  "missing"
@@ -1748,10 +1752,10 @@
                                                                "last_backup":  "2026-06-02",
                                                                "status":  "missing"
                                                            },
-                               "Vaibhavi \u0026 Vaishnavi Cinemas - Uttarahalli":  {
-                                                                                       "last_backup":  null,
-                                                                                       "status":  "missing"
-                                                                                   },
+                               "VR Cinemas 2K A╬ô├¬ΓîÉ╬ô├▓┬ÑΓö£├áC 7.1 Dolby Atmos: Mallathalli":  {
+                                                                                                       "last_backup":  null,
+                                                                                                       "status":  "missing"
+                                                                                                   },
                                "Laxmi Theatre Tavararekere Bangalore":  {
                                                                             "last_backup":  null,
                                                                             "status":  "missing"
@@ -2616,5 +2620,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-03 12:00:03"
+    "started_at":  "2026-06-03 13:00:03"
 }
