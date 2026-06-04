@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-04 18:50:33",
+    "generated_at":  "2026-06-04 19:50:51",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -710,6 +710,11 @@
                                                            "last_backup":  "2026-06-04",
                                                            "db_size_bytes":  1939464341
                                                        },
+                               "Shanthi Cinemas Payyanur":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-04",
+                                                                "db_size_bytes":  1689490060
+                                                            },
                                "Ramraj Movies Punalur":  {
                                                              "status":  "ok",
                                                              "last_backup":  "2026-06-04",
@@ -784,6 +789,11 @@
                                                               "status":  "ok",
                                                               "last_backup":  "2026-06-04",
                                                               "db_size_bytes":  146465836
+                                                          },
+                               "Vimala Theatre Varkala":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-04",
+                                                              "db_size_bytes":  489482099
                                                           },
                                "EVM Cinemas Kumily":  {
                                                           "status":  "ok",
@@ -3471,5 +3481,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-04 18:00:03"
+    "started_at":  "2026-06-04 19:00:03"
 }
