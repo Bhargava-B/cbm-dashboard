@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-04 21:51:07",
+    "generated_at":  "2026-06-04 22:48:23",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -1320,6 +1320,11 @@
                                                                     "last_backup":  "2026-06-04",
                                                                     "db_size_bytes":  2584327696
                                                                 },
+                               "Veena Varna Theatre Mananthavady":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-04",
+                                                                        "db_size_bytes":  330637784
+                                                                    },
                                "VINAYAKA THEATRE COMPLEX Kanhangad":  {
                                                                           "status":  "ok",
                                                                           "last_backup":  "2026-06-04",
@@ -3496,5 +3501,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-04 21:00:03"
+    "started_at":  "2026-06-04 22:00:03"
 }
