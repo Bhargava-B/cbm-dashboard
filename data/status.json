@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-04 16:49:16",
+    "generated_at":  "2026-06-04 17:48:26",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -755,6 +755,11 @@
                                                                           "last_backup":  "2026-06-04",
                                                                           "db_size_bytes":  1451961319
                                                                       },
+                               "EVM Matha Theatre Adimali":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-04",
+                                                                 "db_size_bytes":  906267230
+                                                             },
                                "Bala cinemas Kalladikode":  {
                                                                 "status":  "ok",
                                                                 "last_backup":  "2026-06-04",
@@ -1435,6 +1440,11 @@
                                                                     "last_backup":  "2026-06-04",
                                                                     "db_size_bytes":  1173259059
                                                                 },
+                               "SR Cinema Varkkala":  {
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-06-04",
+                                                          "db_size_bytes":  116081444
+                                                      },
                                "Jass theatre ottapalam":  {
                                                               "status":  "ok",
                                                               "last_backup":  "2026-06-04",
@@ -1463,7 +1473,7 @@
                                "Alinkeel Cinemas Taliparamba":  {
                                                                     "status":  "ok",
                                                                     "last_backup":  "2026-06-04",
-                                                                    "db_size_bytes":  1112053585
+                                                                    "db_size_bytes":  1058991175
                                                                 },
                                "Thalam Theatre Wadakkancherry":  {
                                                                      "status":  "ok",
@@ -1525,11 +1535,11 @@
                                                               "last_backup":  "2026-06-04",
                                                               "db_size_bytes":  268114333
                                                           },
-                               "EVM Matha Theatre Adimali":  {
-                                                                 "status":  "ok",
-                                                                 "last_backup":  "2026-06-04",
-                                                                 "db_size_bytes":  906267230
-                                                             },
+                               "G Cinemas Fort Kochi":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-06-04",
+                                                            "db_size_bytes":  1607933699
+                                                        },
                                "Santhosh Cinema Kattappana":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-06-04",
@@ -1595,6 +1605,11 @@
                                                                  "last_backup":  "2026-06-04",
                                                                  "db_size_bytes":  218382956
                                                              },
+                               "VB Cinemas Ambalappuzha":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-06-04",
+                                                               "db_size_bytes":  36767527
+                                                           },
                                "Mars Cinemas Changaramkulam":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-06-04",
@@ -3456,5 +3471,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-04 16:00:03"
+    "started_at":  "2026-06-04 17:00:03"
 }
