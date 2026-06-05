@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-05 11:02:03",
+    "generated_at":  "2026-06-05 12:57:37",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -2328,9 +2328,9 @@
                                                                      "db_size_bytes":  225514372
                                                                  },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-04",
-                                                                         "db_size_bytes":  653226693
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-05",
+                                                                         "db_size_bytes":  654801391
                                                                      },
                                "Movietime Bangalore YGR MALL(4 screens)":  {
                                                                                "status":  "missing",
@@ -3150,9 +3150,9 @@
                                                                      "db_size_bytes":  186362963
                                                                  },
                                "Mini Srinivasa - Yemmiganur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-04",
-                                                                   "db_size_bytes":  226558046
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-05",
+                                                                   "db_size_bytes":  226083094
                                                                },
                                "KS Talkies":  {
                                                   "status":  "ok",
@@ -3501,5 +3501,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-05 10:00:03"
+    "started_at":  "2026-06-05 12:00:03"
 }
