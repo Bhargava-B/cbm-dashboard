@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-05 05:50:29",
+    "generated_at":  "2026-06-05 06:52:40",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -1696,9 +1696,9 @@
                                                                "db_size_bytes":  166958526
                                                            },
                                "Ragam Theatre Thrissur":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-04",
-                                                              "db_size_bytes":  4965455725
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-05",
+                                                              "db_size_bytes":  4979188532
                                                           },
                                "Dhanalakshmi Cinemas Nenmara":  {
                                                                     "status":  "missing",
@@ -3501,5 +3501,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-05 05:00:03"
+    "started_at":  "2026-06-05 06:00:02"
 }
