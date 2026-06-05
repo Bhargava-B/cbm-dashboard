@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-05 09:58:40",
+    "generated_at":  "2026-06-05 11:02:03",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -232,9 +232,9 @@
                                                                     "db_size_bytes":  499144317
                                                                 },
                                   "Asian Srinivasa - Mancherial":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-04",
-                                                                       "db_size_bytes":  2097811376
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-05",
+                                                                       "db_size_bytes":  2103425071
                                                                    },
                                   "Asian Radhika Multiplex - ECIL":  {
                                                                          "status":  "ok",
@@ -681,9 +681,9 @@
                                                                              "db_size_bytes":  278261789
                                                                          },
                                "Aashirvad Cineplexx Kadappra":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-04",
-                                                                    "db_size_bytes":  1589348116
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-05",
+                                                                    "db_size_bytes":  1593968145
                                                                 },
                                "Devaki Cinemas Guruvayoor":  {
                                                                  "status":  "ok",
@@ -861,9 +861,9 @@
                                                               "db_size_bytes":  855436201
                                                           },
                                "Deva Cinemas Peringottukara":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-04",
-                                                                   "db_size_bytes":  1298106184
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-05",
+                                                                   "db_size_bytes":  1299987226
                                                                },
                                "Dreambig Jawahar Cinema Kalady":  {
                                                                       "status":  "missing",
@@ -1211,9 +1211,9 @@
                                                                          "db_size_bytes":  1656476023
                                                                      },
                                "M Cinema Varapuzha":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-06-04",
-                                                          "db_size_bytes":  1846527102
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-06-05",
+                                                          "db_size_bytes":  1848089078
                                                       },
                                "Aroma Theatre Palakkad":  {
                                                               "status":  "ok",
@@ -1251,9 +1251,9 @@
                                                               "db_size_bytes":  1176348176
                                                           },
                                "S Cinemas Konni":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-06-04",
-                                                       "db_size_bytes":  366244120
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-06-05",
+                                                       "db_size_bytes":  367409267
                                                    },
                                "GMAX Cinema Kollam":  {
                                                           "status":  "ok",
@@ -2690,9 +2690,9 @@
                                                                                "db_size_bytes":  315307037
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-06-04",
-                                                                                   "db_size_bytes":  1026577864
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-06-05",
+                                                                                   "db_size_bytes":  1028046541
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
                                                                       "status":  "ok",
@@ -2910,9 +2910,9 @@
                                                                              "db_size_bytes":  114275167
                                                                          },
                                "Sudharshan AC DTS - Kanigiri":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-04",
-                                                                    "db_size_bytes":  146721998
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-05",
+                                                                    "db_size_bytes":  152040928
                                                                 },
                                "Satyam AC 4K Dolby Atmos - Ongole":  {
                                                                          "status":  "ok",
@@ -3300,9 +3300,9 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Basaveswara Theater - Repalle":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-04",
-                                                                         "db_size_bytes":  213075883
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-05",
+                                                                         "db_size_bytes":  216006370
                                                                      },
                                "Ananya Cinemas - Kovvur":  {
                                                                "status":  "ok",
@@ -3501,5 +3501,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-05 09:00:03"
+    "started_at":  "2026-06-05 10:00:03"
 }
