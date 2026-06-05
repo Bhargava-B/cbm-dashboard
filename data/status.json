@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-05 20:51:39",
+    "generated_at":  "2026-06-05 21:49:51",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -790,6 +790,11 @@
                                                               "last_backup":  "2026-06-05",
                                                               "db_size_bytes":  147324773
                                                           },
+                               "Archana Cineplex Payannur":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-05",
+                                                                 "db_size_bytes":  1923634096
+                                                             },
                                "Vimala Theatre Varkala":  {
                                                               "status":  "ok",
                                                               "last_backup":  "2026-06-05",
@@ -875,11 +880,11 @@
                                                                     "last_backup":  "2026-06-05",
                                                                     "db_size_bytes":  306400991
                                                                 },
-                               "Mridhanga Cineplex Poovar":  {
-                                                                 "status":  "ok",
-                                                                 "last_backup":  "2026-06-05",
-                                                                 "db_size_bytes":  388192354
-                                                             },
+                               "Dreambig KAM Movies Vadakkenchery":  {
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-05",
+                                                                         "db_size_bytes":  281358979
+                                                                     },
                                "Rani Talkies Nedumangadu":  {
                                                                 "status":  "ok",
                                                                 "last_backup":  "2026-06-05",
@@ -935,11 +940,6 @@
                                                                "last_backup":  "2026-06-05",
                                                                "db_size_bytes":  1776738281
                                                            },
-                               "Dreambig KAM Movies Vadakkenchery":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-06-05",
-                                                                         "db_size_bytes":  281358979
-                                                                     },
                                "Karthika Fun Movies Thalikulam":  {
                                                                       "status":  "ok",
                                                                       "last_backup":  "2026-06-05",
@@ -1465,6 +1465,11 @@
                                                           "last_backup":  "2026-06-05",
                                                           "db_size_bytes":  116419380
                                                       },
+                               "Mridhanga Cineplex Poovar":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-05",
+                                                                 "db_size_bytes":  388192354
+                                                             },
                                "Jass theatre ottapalam":  {
                                                               "status":  "ok",
                                                               "last_backup":  "2026-06-05",
@@ -3501,5 +3506,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-05 20:00:03"
+    "started_at":  "2026-06-05 21:00:03"
 }
