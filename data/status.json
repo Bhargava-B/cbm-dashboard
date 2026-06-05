@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-05 08:57:54",
+    "generated_at":  "2026-06-05 09:58:40",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -716,9 +716,9 @@
                                                              "db_size_bytes":  992522181
                                                          },
                                "Ashok CNC 4K Dolby Vadakara":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-04",
-                                                                   "db_size_bytes":  1609023293
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-05",
+                                                                   "db_size_bytes":  1609990318
                                                                },
                                "Varsha Theatre Anchal":  {
                                                              "status":  "ok",
@@ -1291,9 +1291,9 @@
                                                                   "db_size_bytes":  520170756
                                                               },
                                "Goodwill cinemas Kallara":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-04",
-                                                                "db_size_bytes":  879234674
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-05",
+                                                                "db_size_bytes":  894567337
                                                             },
                                "Rockys moviemax Kilimanoor":  {
                                                                   "status":  "ok",
@@ -1556,9 +1556,9 @@
                                                               "db_size_bytes":  269205140
                                                           },
                                "G Cinemas Fort Kochi":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-06-04",
-                                                            "db_size_bytes":  1607933699
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-06-05",
+                                                            "db_size_bytes":  1609415388
                                                         },
                                "Santhosh Cinema Kattappana":  {
                                                                   "status":  "ok",
@@ -1576,9 +1576,9 @@
                                                                        "db_size_bytes":  1298044205
                                                                    },
                                "One2One Plus Film City Vadakara":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-04",
-                                                                       "db_size_bytes":  651797756
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-05",
+                                                                       "db_size_bytes":  655831357
                                                                    },
                                "Moviemax Circle Kasaragod":  {
                                                                  "status":  "ok",
@@ -2233,14 +2233,14 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Laxmi pride cinemas -Hubli":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-04",
-                                                                  "db_size_bytes":  2539552764
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-05",
+                                                                  "db_size_bytes":  2547293876
                                                               },
                                "Venkateshwhara Theater Gollarahatti":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-06-04",
-                                                                           "db_size_bytes":  88224902
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-06-05",
+                                                                           "db_size_bytes":  89139511
                                                                        },
                                "Sri Vinayaka Cinemas 4K Dolby 7.1 (AC) - Varthur":  {
                                                                                         "status":  "missing",
@@ -3501,5 +3501,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-05 08:00:03"
+    "started_at":  "2026-06-05 09:00:03"
 }
