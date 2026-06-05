@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-05 21:49:51",
+    "generated_at":  "2026-06-05 22:46:07",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -634,6 +634,11 @@
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-06-05",
                                                                   "db_size_bytes":  433157936
+                                                              },
+                               "Blue Moon Theatre Pulpally":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-05",
+                                                                  "db_size_bytes":  651600428
                                                               },
                                "Magic Frames Mehboob Kasaragod":  {
                                                                       "status":  "ok",
@@ -3506,5 +3511,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-05 21:00:03"
+    "started_at":  "2026-06-05 22:00:03"
 }
