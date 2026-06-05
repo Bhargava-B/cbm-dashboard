@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-05 12:57:37",
+    "generated_at":  "2026-06-05 13:52:04",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -866,9 +866,9 @@
                                                                    "db_size_bytes":  1299987226
                                                                },
                                "Dreambig Jawahar Cinema Kalady":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-04",
-                                                                      "db_size_bytes":  158451329
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-05",
+                                                                      "db_size_bytes":  159720805
                                                                   },
                                "City Cinema Shivdam Kodakara":  {
                                                                     "status":  "ok",
@@ -3501,5 +3501,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-05 12:00:03"
+    "started_at":  "2026-06-05 13:00:03"
 }
