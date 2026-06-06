@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-06 11:45:38",
+    "generated_at":  "2026-06-06 12:48:16",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -3145,9 +3145,9 @@
                                                                            "db_size_bytes":  522487657
                                                                        },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-06-05",
-                                                                                   "db_size_bytes":  581270126
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-06-06",
+                                                                                   "db_size_bytes":  580954937
                                                                                },
                                "Srinivasa Cine Complex":  {
                                                               "status":  "ok",
@@ -3511,5 +3511,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-06 11:00:03"
+    "started_at":  "2026-06-06 12:00:03"
 }
