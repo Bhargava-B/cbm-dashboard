@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-06 19:45:00",
+    "generated_at":  "2026-06-06 20:44:45",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -1355,6 +1355,11 @@
                                                                     "last_backup":  "2026-06-06",
                                                                     "db_size_bytes":  718379642
                                                                 },
+                               "KRV Movies Kottayi":  {
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-06-06",
+                                                          "db_size_bytes":  404092424
+                                                      },
                                "RD Cinema Mundakayam":  {
                                                             "status":  "ok",
                                                             "last_backup":  "2026-06-06",
@@ -1893,9 +1898,9 @@
                                                                                 "db_size_bytes":  1287931894
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-05",
-                                                                       "db_size_bytes":  612707928
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-06",
+                                                                       "db_size_bytes":  613703471
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
                                                                           "status":  "ok",
@@ -3511,5 +3516,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-06 19:00:10"
+    "started_at":  "2026-06-06 20:00:02"
 }
