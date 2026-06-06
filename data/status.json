@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-06 15:44:10",
+    "generated_at":  "2026-06-06 16:45:04",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -796,9 +796,9 @@
                                                               "db_size_bytes":  148816714
                                                           },
                                "Archana Cineplex Payannur":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-05",
-                                                                 "db_size_bytes":  1923634096
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-06",
+                                                                 "db_size_bytes":  1929330749
                                                              },
                                "Vimala Theatre Varkala":  {
                                                               "status":  "ok",
@@ -1241,9 +1241,9 @@
                                                                     "db_size_bytes":  1087755698
                                                                 },
                                "Surya Theatre Erattupetta":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-05",
-                                                                 "db_size_bytes":  1114676934
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-06",
+                                                                 "db_size_bytes":  1115483090
                                                              },
                                "SP Cinemas Peyad":  {
                                                         "status":  "ok",
@@ -1431,9 +1431,9 @@
                                                                  "db_size_bytes":  1194361862
                                                              },
                                "Sneha Cinema Alathur":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-06-05",
-                                                            "db_size_bytes":  706998571
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-06-06",
+                                                            "db_size_bytes":  709581676
                                                         },
                                "Kaveri Cinemas Karmamthody":  {
                                                                   "status":  "ok",
@@ -1491,9 +1491,9 @@
                                                            "db_size_bytes":  1145337707
                                                        },
                                "Baby Cinemas Kuthuparamba":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-05",
-                                                                 "db_size_bytes":  1959785533
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-06",
+                                                                 "db_size_bytes":  1956084816
                                                              },
                                "Lakshmi Cinemas 4K RGB Kodungallur":  {
                                                                           "status":  "ok",
@@ -3260,9 +3260,9 @@
                                                         "db_size_bytes":  1696409597
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-06-06",
-                                                                                "db_size_bytes":  1885651442
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
+                                                                                "db_size_bytes":  1515047486
                                                                             },
                                "SV Talkies - Nindra":  {
                                                            "status":  "missing",
@@ -3511,5 +3511,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-06 15:00:03"
+    "started_at":  "2026-06-06 16:00:03"
 }
