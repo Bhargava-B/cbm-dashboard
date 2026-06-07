@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-07 20:45:37",
+    "generated_at":  "2026-06-07 21:45:30",
     "regions":  {
                     "TN":  {
                                "A Square Cinemas Annapoorani Erode":  {
@@ -12,6 +12,11 @@
                                                                    "last_backup":  "2026-06-07",
                                                                    "db_size_bytes":  6817589322
                                                                },
+                               "Vijay Park Multiplex Chennai":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-07",
+                                                                    "db_size_bytes":  7759743764
+                                                                },
                                "Jeeva Rukmini Theatre Pondicherry":  {
                                                                          "status":  "missing",
                                                                          "last_backup":  "2026-06-06",
@@ -22,21 +27,21 @@
                                                                     "last_backup":  "2026-06-07",
                                                                     "db_size_bytes":  3298248532
                                                                 },
-                               "Kasi Talkies Chennai":  {
+                               "Aanoor Theatre Erode":  {
                                                             "status":  "ok",
                                                             "last_backup":  "2026-06-07",
-                                                            "db_size_bytes":  6943163860
+                                                            "db_size_bytes":  3397921112
                                                         },
                                "SPR Cine Castle Salem":  {
                                                              "status":  "ok",
                                                              "last_backup":  "2026-06-07",
                                                              "db_size_bytes":  9633610983
                                                          },
-                               "Vijay Park Multiplex Chennai":  {
-                                                                    "status":  "ok",
-                                                                    "last_backup":  "2026-06-07",
-                                                                    "db_size_bytes":  7759743764
-                                                                },
+                               "Kasi Talkies Chennai":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-06-07",
+                                                            "db_size_bytes":  6943163860
+                                                        },
                                "Kaveri Cinema Coimbatore":  {
                                                                 "status":  "ok",
                                                                 "last_backup":  "2026-06-07",
@@ -3536,5 +3541,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-07 20:00:03"
+    "started_at":  "2026-06-07 21:00:03"
 }
