@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-07 19:45:59",
+    "generated_at":  "2026-06-07 20:45:37",
     "regions":  {
                     "TN":  {
                                "A Square Cinemas Annapoorani Erode":  {
@@ -1918,9 +1918,9 @@
                                                                                 "db_size_bytes":  2608490106
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-06",
-                                                                       "db_size_bytes":  1242018929
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-07",
+                                                                       "db_size_bytes":  1242809982
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
                                                                           "status":  "ok",
@@ -3536,5 +3536,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-07 19:00:03"
+    "started_at":  "2026-06-07 20:00:03"
 }
