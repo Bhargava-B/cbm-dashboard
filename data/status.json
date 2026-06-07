@@ -1,7 +1,22 @@
 ﻿{
-    "generated_at":  "2026-06-07 15:44:07",
+    "generated_at":  "2026-06-07 16:43:53",
     "regions":  {
                     "TN":  {
+                               "Karpagam Theatre Coimbatore":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-07",
+                                                                   "db_size_bytes":  3368691194
+                                                               },
+                               "Jeeva Rukmini Theatre Pondicherry":  {
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-06-06",
+                                                                         "db_size_bytes":  4714547746
+                                                                     },
+                               "Rohini Silver Screen Chennai":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-07",
+                                                                    "db_size_bytes":  1629722804
+                                                                },
                                "Kasi Talkies Chennai":  {
                                                             "status":  "ok",
                                                             "last_backup":  "2026-06-07",
@@ -12,21 +27,16 @@
                                                                     "last_backup":  "2026-06-07",
                                                                     "db_size_bytes":  3834226330
                                                                 },
+                               "Kaveri Cinema Coimbatore":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-07",
+                                                                "db_size_bytes":  1135962551
+                                                            },
                                "RamMuthuram Theatre Tirunelveli":  {
                                                                        "status":  "missing",
                                                                        "last_backup":  null,
                                                                        "db_size_bytes":  null
-                                                                   },
-                               "Jeeva Rukmini Theatre Pondicherry":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-06",
-                                                                         "db_size_bytes":  4714547746
-                                                                     },
-                               "Rohini Silver Screen Chennai":  {
-                                                                    "status":  "ok",
-                                                                    "last_backup":  "2026-06-07",
-                                                                    "db_size_bytes":  1629722804
-                                                                }
+                                                                   }
                            },
                     "OR":  {
                                "Rukmini Cineplex - Bargarh":  {
@@ -3265,9 +3275,9 @@
                                                         "db_size_bytes":  1699296278
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-06-07",
-                                                                                "db_size_bytes":  1889314749
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
+                                                                                "db_size_bytes":  1515047486
                                                                             },
                                "SV Talkies - Nindra":  {
                                                            "status":  "ok",
@@ -3516,5 +3526,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-07 15:00:03"
+    "started_at":  "2026-06-07 16:00:03"
 }
