@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-07 16:43:53",
+    "generated_at":  "2026-06-07 17:44:53",
     "regions":  {
                     "TN":  {
                                "Karpagam Theatre Coimbatore":  {
@@ -22,6 +22,11 @@
                                                             "last_backup":  "2026-06-07",
                                                             "db_size_bytes":  3430739789
                                                         },
+                               "SPR Cine Castle Salem":  {
+                                                             "status":  "missing",
+                                                             "last_backup":  null,
+                                                             "db_size_bytes":  null
+                                                         },
                                "Vijay Park Multiplex Chennai":  {
                                                                     "status":  "ok",
                                                                     "last_backup":  "2026-06-07",
@@ -3526,5 +3531,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-07 16:00:03"
+    "started_at":  "2026-06-07 17:00:03"
 }
