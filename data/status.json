@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-07 21:45:30",
+    "generated_at":  "2026-06-07 22:44:41",
     "regions":  {
                     "TN":  {
                                "A Square Cinemas Annapoorani Erode":  {
@@ -32,6 +32,11 @@
                                                             "last_backup":  "2026-06-07",
                                                             "db_size_bytes":  3397921112
                                                         },
+                               "Varanashi Multiplex Tirupur":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-07",
+                                                                   "db_size_bytes":  5507243432
+                                                               },
                                "SPR Cine Castle Salem":  {
                                                              "status":  "ok",
                                                              "last_backup":  "2026-06-07",
@@ -3541,5 +3546,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-07 21:00:03"
+    "started_at":  "2026-06-07 22:00:04"
 }
