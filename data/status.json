@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-07 08:44:29",
+    "generated_at":  "2026-06-07 10:02:53",
     "regions":  {
                     "TN":  {
                                "Kasi Talkies Chennai":  {
@@ -621,9 +621,9 @@
                                                                  "db_size_bytes":  2529416417
                                                              },
                                "Jos Theatre Thrissur":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-06-06",
-                                                            "db_size_bytes":  1077124461
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-06-07",
+                                                            "db_size_bytes":  1083740377
                                                         },
                                "Padma Cinemas Kochi":  {
                                                            "status":  "ok",
@@ -796,9 +796,9 @@
                                                               "db_size_bytes":  149838583
                                                           },
                                "Archana Cineplex Payannur":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-06",
-                                                                 "db_size_bytes":  1929330749
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-07",
+                                                                 "db_size_bytes":  1934074010
                                                              },
                                "Vimala Theatre Varkala":  {
                                                               "status":  "ok",
@@ -961,9 +961,9 @@
                                                                "db_size_bytes":  1004237384
                                                            },
                                "Sree Sailom Cine House Kadakkal":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-06",
-                                                                       "db_size_bytes":  654097756
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-07",
+                                                                       "db_size_bytes":  655410021
                                                                    },
                                "New Theatre Trivandrum":  {
                                                               "status":  "ok",
@@ -2423,9 +2423,9 @@
                                                                                   "db_size_bytes":  917602489
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-06-06",
-                                                                                          "db_size_bytes":  6829432088
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-06-07",
+                                                                                          "db_size_bytes":  6892975631
                                                                                       },
                                "Ganga Theatre - Bellary":  {
                                                                "status":  "ok",
@@ -3516,5 +3516,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-07 08:00:03"
+    "started_at":  "2026-06-07 09:00:03"
 }
