@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-08 08:58:24",
+    "generated_at":  "2026-06-08 09:52:15",
     "regions":  {
                     "TN":  {
                                "A Square Cinemas Annapoorani Erode":  {
@@ -2515,9 +2515,9 @@
                                                                            "db_size_bytes":  379870117
                                                                        },
                                "Sudha Theater AC UFO 2K Dolby - Proddatur":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-06-07",
-                                                                                 "db_size_bytes":  246919764
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-06-08",
+                                                                                 "db_size_bytes":  250514448
                                                                              },
                                "Abhiram - Nandyal":  {
                                                          "status":  "ok",
@@ -2600,9 +2600,9 @@
                                                                      "db_size_bytes":  366917350
                                                                  },
                                "Apsara Cinema House - Vijayawada":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-07",
-                                                                        "db_size_bytes":  2445636566
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-08",
+                                                                        "db_size_bytes":  2447463914
                                                                     },
                                "Lalitha Talkies 2K AC DTS - Rampachodavaram":  {
                                                                                    "status":  "ok",
@@ -3065,9 +3065,9 @@
                                                                    "db_size_bytes":  2507276102
                                                                },
                                "Jamuna Complex - Podalakur":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-07",
-                                                                  "db_size_bytes":  2315847992
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-08",
+                                                                  "db_size_bytes":  2321066890
                                                               },
                                "SLN Multiplex - Adda Road":  {
                                                                  "status":  "ok",
@@ -3455,9 +3455,9 @@
                                                                                         "db_size_bytes":  1890912168
                                                                                     },
                                "Sri Rama Complex - Nandyal":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-07",
-                                                                  "db_size_bytes":  879048393
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-08",
+                                                                  "db_size_bytes":  885074026
                                                               },
                                "Sri Srinivasa Mahal SS Max - Sompeta":  {
                                                                             "status":  "ok",
@@ -3546,5 +3546,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-08 08:00:03"
+    "started_at":  "2026-06-08 09:00:03"
 }
