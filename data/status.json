@@ -1,67 +1,77 @@
 ﻿{
-    "generated_at":  "2026-06-08 11:00:12",
+    "generated_at":  "2026-06-08 12:53:53",
     "regions":  {
                     "TN":  {
-                               "A Square Cinemas Annapoorani Erode":  {
-                                                                          "status":  "ok",
-                                                                          "last_backup":  "2026-06-08",
-                                                                          "db_size_bytes":  2222936362
-                                                                      },
+                               "RamMuthuram Theatre Tirunelveli":  {
+                                                                       "status":  "missing",
+                                                                       "last_backup":  null,
+                                                                       "db_size_bytes":  null
+                                                                   },
+                               "Anna Theatre AC Erode":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-06-08",
+                                                             "db_size_bytes":  4492539348
+                                                         },
                                "Karpagam Theatre Coimbatore":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-07",
-                                                                   "db_size_bytes":  6817589322
-                                                               },
-                               "Vijay Park Multiplex Chennai":  {
-                                                                    "status":  "ok",
-                                                                    "last_backup":  "2026-06-08",
-                                                                    "db_size_bytes":  7757075138
-                                                                },
-                               "Jeeva Rukmini Theatre Pondicherry":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-06",
-                                                                         "db_size_bytes":  9541346628
-                                                                     },
-                               "Rohini Silver Screen Chennai":  {
-                                                                    "status":  "ok",
-                                                                    "last_backup":  "2026-06-08",
-                                                                    "db_size_bytes":  3308532614
-                                                                },
-                               "KALAIVANI CINEMAS TIRUPUR":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  null,
-                                                                 "db_size_bytes":  null
-                                                             },
-                               "Aanoor Theatre Erode":  {
-                                                            "status":  "ok",
-                                                            "last_backup":  "2026-06-08",
-                                                            "db_size_bytes":  3409544378
-                                                        },
-                               "Varanashi Multiplex Tirupur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-07",
-                                                                   "db_size_bytes":  5507243432
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-08",
+                                                                   "db_size_bytes":  6851851071
                                                                },
                                "SPR Cine Castle Salem":  {
                                                              "status":  "ok",
                                                              "last_backup":  "2026-06-08",
                                                              "db_size_bytes":  9744787456
                                                          },
+                               "Jeeva Rukmini Theatre Pondicherry":  {
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-06-06",
+                                                                         "db_size_bytes":  9541346628
+                                                                     },
+                               "Vijay Park Multiplex Chennai":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-08",
+                                                                    "db_size_bytes":  7757075138
+                                                                },
                                "Kasi Talkies Chennai":  {
                                                             "status":  "ok",
                                                             "last_backup":  "2026-06-08",
                                                             "db_size_bytes":  6954792327
                                                         },
+                               "KALAIVANI CINEMAS TIRUPUR":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-08",
+                                                                 "db_size_bytes":  1251474380
+                                                             },
+                               "Rohini Silver Screen Chennai":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-08",
+                                                                    "db_size_bytes":  3308532614
+                                                                },
                                "Kaveri Cinema Coimbatore":  {
                                                                 "status":  "ok",
                                                                 "last_backup":  "2026-06-08",
                                                                 "db_size_bytes":  2293595842
                                                             },
-                               "RamMuthuram Theatre Tirunelveli":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  null,
-                                                                       "db_size_bytes":  null
-                                                                   }
+                               "Sri Murugan theatre Ammapettai":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-08",
+                                                                      "db_size_bytes":  904108034
+                                                                  },
+                               "A Square Cinemas Annapoorani Erode":  {
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-06-08",
+                                                                          "db_size_bytes":  2222936362
+                                                                      },
+                               "Aanoor Theatre Erode":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-06-08",
+                                                            "db_size_bytes":  3409544378
+                                                        },
+                               "Varanashi Multiplex Tirupur":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-08",
+                                                                   "db_size_bytes":  5516983284
+                                                               }
                            },
                     "OR":  {
                                "Rukmini Cineplex - Bargarh":  {
@@ -187,9 +197,9 @@
                                                                         "db_size_bytes":  4360901072
                                                                     },
                                   "Asian Srinivasa Deluxe - Siddipet":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-06-07",
-                                                                            "db_size_bytes":  1574217094
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-06-08",
+                                                                            "db_size_bytes":  1576522990
                                                                         },
                                   "Asian Raj Lakshmi - Uppal":  {
                                                                     "status":  "ok",
@@ -354,9 +364,9 @@
                               },
                     "TG":  {
                                "Radhika Theater":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-06-05",
-                                                       "db_size_bytes":  1055046784
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-06-08",
+                                                       "db_size_bytes":  1077204856
                                                    },
                                "Sri Balaji Theater":  {
                                                           "status":  "ok",
@@ -706,9 +716,9 @@
                                                             "db_size_bytes":  4503343588
                                                         },
                                "MAR Basil EVM Theatre Rajakumari":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-07",
-                                                                        "db_size_bytes":  686858259
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-08",
+                                                                        "db_size_bytes":  692009828
                                                                     },
                                "Dream Cinemas Thodupuzha":  {
                                                                 "status":  "ok",
@@ -1291,9 +1301,9 @@
                                                               "db_size_bytes":  187
                                                           },
                                "S Cinemas Konni":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-06-07",
-                                                       "db_size_bytes":  749211539
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-06-08",
+                                                       "db_size_bytes":  752229490
                                                    },
                                "GMAX Cinema Kollam":  {
                                                           "status":  "ok",
@@ -2378,9 +2388,9 @@
                                                                      "db_size_bytes":  456398133
                                                                  },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-07",
-                                                                         "db_size_bytes":  1327717774
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-08",
+                                                                         "db_size_bytes":  1328803002
                                                                      },
                                "Movietime Bangalore YGR MALL(4 screens)":  {
                                                                                "status":  "missing",
@@ -2565,9 +2575,9 @@
                                                    "db_size_bytes":  1049851362
                                                },
                                "Surya Cinemax - Draksharamam":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-07",
-                                                                    "db_size_bytes":  535790445
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-08",
+                                                                    "db_size_bytes":  530525103
                                                                 },
                                "Sri Anu Deluxe - Agiripalli":  {
                                                                    "status":  "missing",
@@ -3140,9 +3150,9 @@
                                                                                     "db_size_bytes":  898666903
                                                                                 },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-07",
-                                                                        "db_size_bytes":  638219321
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-08",
+                                                                        "db_size_bytes":  642272300
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
                                                                              "status":  "ok",
@@ -3180,9 +3190,9 @@
                                                                         "db_size_bytes":  845508778
                                                                     },
                                "Dr PV Rao Cineplex - Kanchikacherla":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-06-07",
-                                                                           "db_size_bytes":  1063036052
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-06-08",
+                                                                           "db_size_bytes":  1063828873
                                                                        },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "status":  "ok",
@@ -3210,9 +3220,9 @@
                                                   "db_size_bytes":  284082146
                                               },
                                "Aswani Deluxe AC - Piduguralla":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-07",
-                                                                      "db_size_bytes":  398878896
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-08",
+                                                                      "db_size_bytes":  401186850
                                                                   },
                                "Bommarillu Cinemas":  {
                                                           "status":  "ok",
@@ -3380,9 +3390,9 @@
                                                                             "db_size_bytes":  1284931120
                                                                         },
                                "G2V Theaters Ravi Priya Mall - Ongole":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-06-07",
-                                                                             "db_size_bytes":  2228428604
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-06-08",
+                                                                             "db_size_bytes":  2228807890
                                                                          },
                                "Laxmi AC DTS 2K - Kakinada":  {
                                                                   "status":  "ok",
@@ -3551,5 +3561,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-08 10:00:03"
+    "started_at":  "2026-06-08 12:00:03"
 }
