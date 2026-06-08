@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-08 05:51:08",
+    "generated_at":  "2026-06-08 06:50:17",
     "regions":  {
                     "TN":  {
                                "A Square Cinemas Annapoorani Erode":  {
@@ -1741,9 +1741,9 @@
                                                                "db_size_bytes":  343846794
                                                            },
                                "Ragam Theatre Thrissur":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-07",
-                                                              "db_size_bytes":  10125213209
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-08",
+                                                              "db_size_bytes":  10112982686
                                                           },
                                "Dhanalakshmi Cinemas Nenmara":  {
                                                                     "status":  "missing",
@@ -3546,5 +3546,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-08 05:00:03"
+    "started_at":  "2026-06-08 06:00:02"
 }
