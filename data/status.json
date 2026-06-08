@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-08 21:51:21",
+    "generated_at":  "2026-06-08 22:49:22",
     "regions":  {
                     "TN":  {
                                "Kaveri Cinema Coimbatore":  {
@@ -27,6 +27,11 @@
                                                                     "last_backup":  "2026-06-08",
                                                                     "db_size_bytes":  null
                                                                 },
+                               "Sri Bhagavathi 4K Atmos Poonamallee":  {
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-06-08",
+                                                                           "db_size_bytes":  6991630336
+                                                                       },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
                                                                        "last_backup":  "2026-06-08",
@@ -38,9 +43,9 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Jeeva Rukmani Cinema Pondicherry":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  null,
-                                                                        "db_size_bytes":  null
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-08",
+                                                                        "db_size_bytes":  9234808832
                                                                     },
                                "Sangeetha Multiplex Somanur":  {
                                                                    "status":  "ok",
@@ -3646,5 +3651,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-08 21:00:02"
+    "started_at":  "2026-06-08 22:00:02"
 }
