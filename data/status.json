@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-08 18:49:39",
+    "generated_at":  "2026-06-08 19:50:15",
     "regions":  {
                     "TN":  {
                                "RamMuthuram Theatre Tirunelveli":  {
@@ -32,6 +32,11 @@
                                                              "last_backup":  "2026-06-08",
                                                              "db_size_bytes":  null
                                                          },
+                               "Sangeetha Multiplex Somanur":  {
+                                                                   "status":  "missing",
+                                                                   "last_backup":  null,
+                                                                   "db_size_bytes":  null
+                                                               },
                                "Jeeva Rukmini Theatre Pondicherry":  {
                                                                          "status":  "missing",
                                                                          "last_backup":  "2026-06-06",
@@ -57,6 +62,11 @@
                                                                     "last_backup":  "2026-06-08",
                                                                     "db_size_bytes":  8664412160
                                                                 },
+                               "Kovai Shanti Complex Coimbatore":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-08",
+                                                                       "db_size_bytes":  4225433600
+                                                                   },
                                "Ganapathyram Cinema":  {
                                                            "status":  "ok",
                                                            "last_backup":  "2026-06-08",
@@ -67,11 +77,16 @@
                                                               "last_backup":  "2026-06-08",
                                                               "db_size_bytes":  null
                                                           },
-                               "Kovai Shanti Complex Coimbatore":  {
-                                                                       "status":  "ok",
-                                                                       "last_backup":  "2026-06-08",
-                                                                       "db_size_bytes":  4225433600
-                                                                   },
+                               "Jayanthi Cinemas":  {
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-06-08",
+                                                        "db_size_bytes":  1328926720
+                                                    },
+                               "Sree Meenambika Cinema Somanur":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-08",
+                                                                      "db_size_bytes":  1617354752
+                                                                  },
                                "Rohini Silver Screen Chennai":  {
                                                                     "status":  "ok",
                                                                     "last_backup":  "2026-06-08",
@@ -3601,5 +3616,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-08 18:00:02"
+    "started_at":  "2026-06-08 19:00:02"
 }
