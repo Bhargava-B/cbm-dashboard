@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-08 17:49:19",
+    "generated_at":  "2026-06-08 18:49:39",
     "regions":  {
                     "TN":  {
                                "RamMuthuram Theatre Tirunelveli":  {
@@ -7,6 +7,11 @@
                                                                        "last_backup":  null,
                                                                        "db_size_bytes":  null
                                                                    },
+                               "Rajeswari Cinema Arni":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-06-08",
+                                                             "db_size_bytes":  null
+                                                         },
                                "KALAIVANI CINEMAS TIRUPUR":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-06-08",
@@ -17,11 +22,11 @@
                                                                    "last_backup":  "2026-06-08",
                                                                    "db_size_bytes":  null
                                                                },
-                               "Rajeswari Cinema Arni":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-06-08",
-                                                             "db_size_bytes":  null
-                                                         },
+                               "Cosmos Cinemas Coimbatore":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-08",
+                                                                 "db_size_bytes":  1984581632
+                                                             },
                                "SPR Cine Castle Salem":  {
                                                              "status":  "ok",
                                                              "last_backup":  "2026-06-08",
@@ -62,6 +67,11 @@
                                                               "last_backup":  "2026-06-08",
                                                               "db_size_bytes":  null
                                                           },
+                               "Kovai Shanti Complex Coimbatore":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-08",
+                                                                       "db_size_bytes":  4225433600
+                                                                   },
                                "Rohini Silver Screen Chennai":  {
                                                                     "status":  "ok",
                                                                     "last_backup":  "2026-06-08",
@@ -96,7 +106,12 @@
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-06-08",
                                                                    "db_size_bytes":  null
-                                                               }
+                                                               },
+                               "Cosmo Cinemas Narasimhanaicken":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-08",
+                                                                      "db_size_bytes":  850690048
+                                                                  }
                            },
                     "OR":  {
                                "Rukmini Cineplex - Bargarh":  {
@@ -801,8 +816,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Manu DMAX Cinemas PUTHENVELIKKARA":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-07",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-08",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sagara Theatre Kattappana":  {
@@ -3586,5 +3601,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-08 17:00:10"
+    "started_at":  "2026-06-08 18:00:02"
 }
