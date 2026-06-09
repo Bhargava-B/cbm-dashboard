@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-09 09:54:51",
+    "generated_at":  "2026-06-09 11:05:17",
     "regions":  {
                     "TN":  {
                                "Kaveri Cinema Coimbatore":  {
@@ -133,8 +133,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Anna Theatre AC Erode":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-06-08",
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-06-09",
                                                              "db_size_bytes":  null
                                                          },
                                "Kasi Talkies Chennai":  {
@@ -1478,7 +1478,7 @@
                                "Abhilash Aasha Ananth Kottayam":  {
                                                                       "status":  "ok",
                                                                       "last_backup":  "2026-06-09",
-                                                                      "db_size_bytes":  null
+                                                                      "db_size_bytes":  9596051456
                                                                   },
                                "Velvet View Cinema Kumarakom":  {
                                                                     "status":  "ok",
@@ -1526,8 +1526,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "SA Multiplex Pulluvila":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-08",
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-09",
                                                               "db_size_bytes":  null
                                                           },
                                "JK Cinemas Thriprayar":  {
@@ -2463,8 +2463,8 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "Jai Bharath Theatre -Tumkur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-08",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-09",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Vinayaka Cinemas DJ Halli":  {
@@ -2670,8 +2670,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "JVR Cinemas - Jaggampeta":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-08",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-09",
                                                                 "db_size_bytes":  null
                                                             },
                                "Pratap Group Theaters AC 4K Dolby Atmos - Tirupati":  {
@@ -2835,8 +2835,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-06-08",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-06-09",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3125,8 +3125,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "G3 Srichandra Ramachandra Theaters - Kankipadu":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-06-08",
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-06-09",
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Padmaja Picture Palace 2K AC DTS - Malikipuram":  {
@@ -3646,5 +3646,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-09 09:00:03"
+    "started_at":  "2026-06-09 10:00:03"
 }
