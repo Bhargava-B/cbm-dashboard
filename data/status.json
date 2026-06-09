@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-09 08:51:26",
+    "generated_at":  "2026-06-09 09:54:51",
     "regions":  {
                     "TN":  {
                                "Kaveri Cinema Coimbatore":  {
@@ -18,8 +18,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Karpagam Theatre Coimbatore":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-08",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-09",
                                                                    "db_size_bytes":  null
                                                                },
                                "Vijay Park Multiplex Chennai":  {
@@ -103,8 +103,8 @@
                                                            "db_size_bytes":  null
                                                        },
                                "SPR Cine Castle Salem":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-06-08",
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-06-09",
                                                              "db_size_bytes":  null
                                                          },
                                "Janas Cinemas Villupuram":  {
@@ -143,8 +143,8 @@
                                                             "db_size_bytes":  null
                                                         },
                                "Aanoor Theatre Erode":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-06-08",
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-06-09",
                                                             "db_size_bytes":  null
                                                         },
                                "Cosmo Cinemas Narasimhanaicken":  {
@@ -153,9 +153,9 @@
                                                                       "db_size_bytes":  851935232
                                                                   },
                                "Sri Murugan theatre Ammapettai":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-08",
-                                                                      "db_size_bytes":  null
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-09",
+                                                                      "db_size_bytes":  921092096
                                                                   }
                            },
                     "OR":  {
@@ -801,8 +801,8 @@
                                                             "db_size_bytes":  null
                                                         },
                                "MAR Basil EVM Theatre Rajakumari":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-08",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-09",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Dream Cinemas Thodupuzha":  {
@@ -1883,7 +1883,7 @@
                                "Sathya Movie House Palakkad":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-06-09",
-                                                                   "db_size_bytes":  null
+                                                                   "db_size_bytes":  2482356224
                                                                },
                                "Thapasya Cine House Attingal":  {
                                                                     "status":  "ok",
@@ -3646,5 +3646,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-09 08:00:03"
+    "started_at":  "2026-06-09 09:00:03"
 }
