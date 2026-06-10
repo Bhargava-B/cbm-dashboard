@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-10 19:03:21",
+    "generated_at":  "2026-06-10 21:02:59",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -994,9 +994,9 @@
                                                         "db_size_bytes":  null
                                                     },
                                "Sri Prema - Thukkuguda":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  null,
-                                                              "db_size_bytes":  null
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-10",
+                                                              "db_size_bytes":  664838144
                                                           },
                                "Vishnuram Cinemas - Kodad":  {
                                                                  "status":  "missing",
@@ -1009,9 +1009,9 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sandhya 70MM 4K Dolby Atmos - RTC X Roads":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  null,
-                                                                                 "db_size_bytes":  null
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-06-10",
+                                                                                 "db_size_bytes":  5320916992
                                                                              },
                                "Srinivasa Theater - Choutuppal":  {
                                                                       "status":  "missing",
@@ -1019,9 +1019,9 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "SREE RAMANA - Amberpet":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  null,
-                                                              "db_size_bytes":  null
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-10",
+                                                              "db_size_bytes":  207208448
                                                           },
                                "Aradhana Theatre - Hyderabad":  {
                                                                     "status":  "missing",
@@ -1029,9 +1029,9 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Vijetha 70MM 4k Atmos - Borabanda":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  null,
-                                                                         "db_size_bytes":  null
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-10",
+                                                                         "db_size_bytes":  3401809920
                                                                      },
                                "Sri Manikanta 70mm Theatres":  {
                                                                    "status":  "missing",
@@ -1039,14 +1039,14 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  null,
-                                                                        "db_size_bytes":  null
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-10",
+                                                                        "db_size_bytes":  659013632
                                                                     },
                                "Seetarama Cinemas - Manuguru":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  null,
-                                                                    "db_size_bytes":  null
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-10",
+                                                                    "db_size_bytes":  107724800
                                                                 },
                                "Parameswara 70MM - Shadnagar":  {
                                                                     "status":  "ok",
@@ -1059,9 +1059,9 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sai Ranga - Miyapur":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  null,
-                                                           "db_size_bytes":  null
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-06-10",
+                                                           "db_size_bytes":  919674880
                                                        },
                                "Laxmi AC Deluxe Theatre - Korutla":  {
                                                                          "status":  "ok",
@@ -2056,9 +2056,9 @@
                                                               "db_size_bytes":  396353536
                                                           },
                                "G Cinemas Fort Kochi":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-06-09",
-                                                            "db_size_bytes":  null
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-06-10",
+                                                            "db_size_bytes":  3231756288
                                                         },
                                "Santhosh Cinema Kattappana":  {
                                                                   "status":  "ok",
@@ -2395,8 +2395,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-09",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-10",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
@@ -3993,5 +3993,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-10 18:00:02"
+    "started_at":  "2026-06-10 20:00:02"
 }
