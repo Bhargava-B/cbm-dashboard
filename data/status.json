@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-10 21:02:59",
+    "generated_at":  "2026-06-10 22:59:49",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -197,6 +197,11 @@
                                                                          "last_backup":  "2026-06-10",
                                                                          "db_size_bytes":  4490059776
                                                                      },
+                               "Arasan Cinema AC Coimbatore":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-10",
+                                                                   "db_size_bytes":  3344760832
+                                                               },
                                "Sri Murugan theatre Ammapettai":  {
                                                                       "status":  "ok",
                                                                       "last_backup":  "2026-06-10",
@@ -480,7 +485,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-06-10",
-                                                                  "db_size_bytes":  859496448
+                                                                  "db_size_bytes":  861528064
                                                               },
                                "Balaji Theatre 70mm Pondicherry":  {
                                                                        "status":  "ok",
@@ -3322,8 +3327,8 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-09",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-10",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
@@ -3993,5 +3998,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-10 20:00:02"
+    "started_at":  "2026-06-10 22:00:02"
 }
