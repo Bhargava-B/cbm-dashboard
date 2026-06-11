@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-11 04:57:58",
+    "generated_at":  "2026-06-11 07:07:58",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -23,8 +23,8 @@
                                                                                     "db_size_bytes":  2565308416
                                                                                 },
                                "Kasi Talkies Chennai":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-06-10",
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-06-11",
                                                             "db_size_bytes":  null
                                                         },
                                "Kumaran Theatre Madipakkam":  {
@@ -48,8 +48,8 @@
                                                          "db_size_bytes":  506567168
                                                      },
                                "Kaveri Cinema Coimbatore":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-10",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-11",
                                                                 "db_size_bytes":  null
                                                             },
                                "Frame Cinemas Thanjavur":  {
@@ -123,8 +123,8 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "Vijay Park Multiplex Chennai":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-10",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-11",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Dhivyam Cinemax Salem":  {
@@ -178,8 +178,8 @@
                                                                "db_size_bytes":  6081568768
                                                            },
                                "A Square Cinemas Annapoorani Erode":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-06-10",
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-06-11",
                                                                           "db_size_bytes":  null
                                                                       },
                                "National Theatre 4K Dolby Atmos Tambaram":  {
@@ -2201,9 +2201,9 @@
                                                                "db_size_bytes":  null
                                                            },
                                "Ragam Theatre Thrissur":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-10",
-                                                              "db_size_bytes":  8303067136
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-11",
+                                                              "db_size_bytes":  8307458048
                                                           },
                                "Dhanalakshmi Cinemas Nenmara":  {
                                                                     "status":  "missing",
@@ -2263,9 +2263,9 @@
                            },
                     "SL":  {
                                "Majestic Cineplex JAFFNA":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-10",
-                                                                "db_size_bytes":  null
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-11",
+                                                                "db_size_bytes":  7341260800
                                                             },
                                "Seran Cinemas Kilinochchi":  {
                                                                  "status":  "missing",
@@ -2600,8 +2600,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "VISION Cinemas -Mysore":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-10",
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-11",
                                                               "db_size_bytes":  null
                                                           },
                                "Sri Gowrishankar Theatre - Vijayapura":  {
@@ -3998,5 +3998,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-11 04:00:02"
+    "started_at":  "2026-06-11 06:00:02"
 }
