@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-11 17:09:20",
+    "generated_at":  "2026-06-11 19:10:00",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -515,7 +515,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-06-11",
-                                                                  "db_size_bytes":  863821824
+                                                                  "db_size_bytes":  836038656
                                                               },
                                "Srinivasa Theatre Thirukoilur":  {
                                                                      "status":  "ok",
@@ -899,9 +899,9 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Srinivasa Theatre - Jagtial":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-06",
-                                                                   "db_size_bytes":  null
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-11",
+                                                                   "db_size_bytes":  1610369536
                                                                },
                                "BR Hitech 70mm - Madhapur":  {
                                                                  "status":  "ok",
@@ -1044,9 +1044,9 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "VLS Sridevi 2K AC Dts - Chilakalguda":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  null,
-                                                                            "db_size_bytes":  null
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-06-11",
+                                                                            "db_size_bytes":  3114455040
                                                                         },
                                "Sandhya 70MM 4K Dolby Atmos - RTC X Roads":  {
                                                                                  "status":  "ok",
@@ -1064,9 +1064,9 @@
                                                               "db_size_bytes":  208846848
                                                           },
                                "Aradhana Theatre - Hyderabad":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  null,
-                                                                    "db_size_bytes":  null
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-11",
+                                                                    "db_size_bytes":  915656704
                                                                 },
                                "Vijetha 70MM 4k Atmos - Borabanda":  {
                                                                          "status":  "ok",
@@ -1084,9 +1084,9 @@
                                                                         "db_size_bytes":  659800064
                                                                     },
                                "Seetarama Cinemas - Manuguru":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-10",
-                                                                    "db_size_bytes":  107724800
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-11",
+                                                                    "db_size_bytes":  108445696
                                                                 },
                                "Parameswara 70MM - Shadnagar":  {
                                                                     "status":  "ok",
@@ -1473,7 +1473,7 @@
                                "Karthika Fun Movies Thalikulam":  {
                                                                       "status":  "ok",
                                                                       "last_backup":  "2026-06-11",
-                                                                      "db_size_bytes":  null
+                                                                      "db_size_bytes":  511295488
                                                                   },
                                "Harisree Theatre Kazhakuttom":  {
                                                                     "status":  "ok",
@@ -1781,8 +1781,8 @@
                                                               "db_size_bytes":  2243350528
                                                           },
                                "S Cinemas Konni":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-06-10",
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-06-11",
                                                        "db_size_bytes":  null
                                                    },
                                "GMAX Cinema Kollam":  {
@@ -2096,9 +2096,9 @@
                                                               "db_size_bytes":  398319616
                                                           },
                                "G Cinemas Fort Kochi":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-06-10",
-                                                            "db_size_bytes":  3231756288
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-06-11",
+                                                            "db_size_bytes":  3232616448
                                                         },
                                "Santhosh Cinema Kattappana":  {
                                                                   "status":  "ok",
@@ -2216,8 +2216,8 @@
                                                                    "db_size_bytes":  130203648
                                                                },
                                "Usha AC Cinema Kollam":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-06-10",
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-06-11",
                                                              "db_size_bytes":  null
                                                          },
                                "Kairali Sree Theatre Thrissur":  {
@@ -4043,5 +4043,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-11 16:00:03"
+    "started_at":  "2026-06-11 18:00:03"
 }
