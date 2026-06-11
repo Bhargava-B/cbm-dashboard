@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-11 19:10:00",
+    "generated_at":  "2026-06-11 21:05:36",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -298,8 +298,8 @@
                                                                         "db_size_bytes":  1354489856
                                                                     },
                                "Ganapathyram Cinema":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-06-10",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-06-11",
                                                            "db_size_bytes":  null
                                                        },
                                "Viswalakshmi Cinemas Peralam":  {
@@ -2445,8 +2445,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-10",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-11",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
@@ -3587,8 +3587,8 @@
                                                                            "db_size_bytes":  null
                                                                        },
                                "Sri Padma Theater AC 2K Dolby - Jangareddy Gudem":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-06-10",
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-06-11",
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Swarna Multiplex - Vijayawada":  {
@@ -4043,5 +4043,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-11 18:00:03"
+    "started_at":  "2026-06-11 20:00:03"
 }
