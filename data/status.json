@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-12 04:59:03",
+    "generated_at":  "2026-06-12 07:01:16",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -133,8 +133,8 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "Vijay Park Multiplex Chennai":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-11",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-12",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Dhivyam Cinemax Salem":  {
@@ -2236,9 +2236,9 @@
                                                                "db_size_bytes":  null
                                                            },
                                "Ragam Theatre Thrissur":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-11",
-                                                              "db_size_bytes":  8307458048
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-12",
+                                                              "db_size_bytes":  8310009856
                                                           },
                                "Dhanalakshmi Cinemas Nenmara":  {
                                                                     "status":  "missing",
@@ -2302,10 +2302,15 @@
                                                                  "last_backup":  null,
                                                                  "db_size_bytes":  null
                                                              },
+                               "Regal Cinema Bandarawela":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-12",
+                                                                "db_size_bytes":  1397342208
+                                                            },
                                "Majestic Cineplex Colombo":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-11",
-                                                                 "db_size_bytes":  3621568512
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-12",
+                                                                 "db_size_bytes":  3623993344
                                                              },
                                "Seran Cinemas Kilinochchi":  {
                                                                  "status":  "missing",
@@ -2313,9 +2318,9 @@
                                                                  "db_size_bytes":  166248448
                                                              },
                                "Majestic Cineplex JAFFNA":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-11",
-                                                                "db_size_bytes":  7341260800
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-12",
+                                                                "db_size_bytes":  7337328640
                                                             }
                            },
                     "KA":  {
@@ -4043,5 +4048,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-12 04:00:03"
+    "started_at":  "2026-06-12 06:00:02"
 }
