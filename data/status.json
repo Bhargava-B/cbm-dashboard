@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-12 11:11:09",
+    "generated_at":  "2026-06-12 13:25:36",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -642,9 +642,9 @@
                                                                        "db_size_bytes":  1186058240
                                                                    },
                                   "Raghava Theater - Miryalaguda":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-11",
-                                                                        "db_size_bytes":  3259793408
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-12",
+                                                                        "db_size_bytes":  3254308864
                                                                     },
                                   "Asian Priya Cineplex - Kamareddy":  {
                                                                            "status":  "ok",
@@ -702,9 +702,9 @@
                                                                     "db_size_bytes":  5577814016
                                                                 },
                                   "Asian Srinivasa - Kodad":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-11",
-                                                                  "db_size_bytes":  3053912064
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-12",
+                                                                  "db_size_bytes":  3053113344
                                                               },
                                   "Asian Maheshwari 70MM A -C DTS - Zaheerabad":  {
                                                                                       "status":  "ok",
@@ -894,9 +894,9 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Santhi Theatre - Madhira":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-11",
-                                                                "db_size_bytes":  484818944
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-12",
+                                                                "db_size_bytes":  486006784
                                                             },
                                "Sai Balaji Theatre - Sathupally":  {
                                                                        "status":  "ok",
@@ -969,8 +969,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Acchi Reddy Theater AC Dolby DTS - Haliya":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-06-11",
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-06-12",
                                                                                  "db_size_bytes":  null
                                                                              },
                                "cinemax - Medak":  {
@@ -1778,7 +1778,7 @@
                                "SP Cinemas Peyad":  {
                                                         "status":  "ok",
                                                         "last_backup":  "2026-06-12",
-                                                        "db_size_bytes":  1582428160
+                                                        "db_size_bytes":  1583538176
                                                     },
                                "Anurag Cinema Shoranur":  {
                                                               "status":  "ok",
@@ -2880,8 +2880,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-11",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-12",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Movietime Bangalore YGR MALL(4 screens)":  {
@@ -3276,6 +3276,11 @@
                                                                    "last_backup":  "2026-06-12",
                                                                    "db_size_bytes":  null
                                                                },
+                               "Rajarathna Cinemax - MandapetaΓÉë":  {
+                                                                         "status":  "missing",
+                                                                         "last_backup":  null,
+                                                                         "db_size_bytes":  null
+                                                                     },
                                "Sri Melody HDR Dolby Atmos - Vizag":  {
                                                                           "status":  "missing",
                                                                           "last_backup":  "2026-06-11",
@@ -3742,8 +3747,8 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Sri Ramchandra Talkies - Kodumur":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-11",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-12",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Sri Ramulamma Theatre - Thagarapuvalasa Vizag":  {
@@ -3962,8 +3967,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Rama Complex - Nandyal":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-11",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-12",
                                                                   "db_size_bytes":  null
                                                               },
                                "Sri Srinivasa Mahal SS Max - Sompeta":  {
@@ -4053,5 +4058,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-12 10:00:03"
+    "started_at":  "2026-06-12 12:00:03"
 }
