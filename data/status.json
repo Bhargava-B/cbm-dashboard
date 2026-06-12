@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-12 15:14:24",
+    "generated_at":  "2026-06-12 17:11:12",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -849,8 +849,8 @@
                               },
                     "TG":  {
                                "Radhika Theater":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-06-11",
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-06-12",
                                                        "db_size_bytes":  null
                                                    },
                                "Sri Balaji Theater":  {
@@ -3807,8 +3807,8 @@
                                                         "db_size_bytes":  null
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-06-12",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3600343040
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4058,5 +4058,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-12 14:00:03"
+    "started_at":  "2026-06-12 16:00:03"
 }
