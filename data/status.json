@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-13 13:12:15",
+    "generated_at":  "2026-06-13 15:05:33",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -1756,9 +1756,9 @@
                                                               "db_size_bytes":  5170212864
                                                           },
                                "Jos Theatre  Pala":  {
-                                                         "status":  "missing",
-                                                         "last_backup":  "2026-06-12",
-                                                         "db_size_bytes":  2153500672
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-06-13",
+                                                         "db_size_bytes":  2154614784
                                                      },
                                "Paradise Cinema Cherthala":  {
                                                                  "status":  "ok",
@@ -4058,5 +4058,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-13 12:00:03"
+    "started_at":  "2026-06-13 14:00:03"
 }
