@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-13 16:59:03",
+    "generated_at":  "2026-06-13 18:59:32",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -919,8 +919,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Cinemax - Vikarabad":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-06-12",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-06-13",
                                                            "db_size_bytes":  null
                                                        },
                                "Maheshwari Theater":  {
@@ -4058,5 +4058,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-13 16:00:03"
+    "started_at":  "2026-06-13 18:00:03"
 }
