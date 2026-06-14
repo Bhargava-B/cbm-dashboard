@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-14 20:59:58",
+    "generated_at":  "2026-06-14 22:58:07",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -1721,8 +1721,8 @@
                                                                           "db_size_bytes":  4054585344
                                                                       },
                                "TMAX Cineplex Goolikkadavu":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-12",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-14",
                                                                   "db_size_bytes":  null
                                                               },
                                "Kripa Movies Kurumassery":  {
@@ -4058,5 +4058,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-14 20:00:03"
+    "started_at":  "2026-06-14 22:00:03"
 }
