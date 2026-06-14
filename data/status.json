@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-14 16:59:09",
+    "generated_at":  "2026-06-14 18:59:41",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -208,9 +208,9 @@
                                                                          "db_size_bytes":  4476755968
                                                                      },
                                "Arasan Cinema AC Coimbatore":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-12",
-                                                                   "db_size_bytes":  3347120128
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-14",
+                                                                   "db_size_bytes":  3357368320
                                                                },
                                "Sri Murugan theatre Ammapettai":  {
                                                                       "status":  "missing",
@@ -4058,5 +4058,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-14 16:00:03"
+    "started_at":  "2026-06-14 18:00:03"
 }
