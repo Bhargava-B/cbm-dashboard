@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-14 11:17:20",
+    "generated_at":  "2026-06-14 13:07:55",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -657,9 +657,9 @@
                                                                                       "db_size_bytes":  2066014208
                                                                                   },
                                   "Asian Sha Shahensha - Chintal":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-13",
-                                                                        "db_size_bytes":  5378277376
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-14",
+                                                                        "db_size_bytes":  5382537216
                                                                     },
                                   "Asian Sailaja - Vikarabad":  {
                                                                     "status":  "ok",
@@ -762,9 +762,9 @@
                                                                     "db_size_bytes":  930205696
                                                                 },
                                   "Asian Srinivasa - Mancherial":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-13",
-                                                                       "db_size_bytes":  4341526528
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-14",
+                                                                       "db_size_bytes":  4340305920
                                                                    },
                                   "Asian Radhika Multiplex - ECIL":  {
                                                                          "status":  "ok",
@@ -849,8 +849,8 @@
                               },
                     "TG":  {
                                "Radhika Theater":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-06-13",
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-06-14",
                                                        "db_size_bytes":  null
                                                    },
                                "Sri Balaji Theater":  {
@@ -894,9 +894,9 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Santhi Theatre - Madhira":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-13",
-                                                                "db_size_bytes":  486391808
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-14",
+                                                                "db_size_bytes":  486653952
                                                             },
                                "Sai Balaji Theatre - Sathupally":  {
                                                                        "status":  "ok",
@@ -919,8 +919,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Cinemax - Vikarabad":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-06-13",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-06-14",
                                                            "db_size_bytes":  null
                                                        },
                                "Maheshwari Theater":  {
@@ -994,9 +994,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Sri Sai Baba - Shadnagar":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-13",
-                                                                "db_size_bytes":  789299200
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-14",
+                                                                "db_size_bytes":  790675456
                                                             },
                                "AMR Vijay Bhaskar - Bhadrachalam":  {
                                                                         "status":  "ok",
@@ -2560,8 +2560,8 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Rajashree Theatre - Nipani":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-13",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-14",
                                                                   "db_size_bytes":  null
                                                               },
                                "Globe Cinemas - Belagavi":  {
@@ -3692,8 +3692,8 @@
                                                                            "db_size_bytes":  null
                                                                        },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-06-13",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-06-14",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Srinivasa Cine Complex":  {
@@ -3857,8 +3857,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Basaveswara Theater - Repalle":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-12",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Ananya Cinemas - Kovvur":  {
@@ -4058,5 +4058,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-14 10:00:03"
+    "started_at":  "2026-06-14 12:00:03"
 }
