@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-15 05:01:21",
+    "generated_at":  "2026-06-15 07:07:51",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -28,8 +28,8 @@
                                                                                     "db_size_bytes":  2555392000
                                                                                 },
                                "Kasi Talkies Chennai":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-06-14",
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-06-15",
                                                             "db_size_bytes":  null
                                                         },
                                "Kumaran Theatre Madipakkam":  {
@@ -53,8 +53,8 @@
                                                          "db_size_bytes":  526541312
                                                      },
                                "Kaveri Cinema Coimbatore":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-14",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-15",
                                                                 "db_size_bytes":  null
                                                             },
                                "Frame Cinemas Thanjavur":  {
@@ -133,8 +133,8 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "Vijay Park Multiplex Chennai":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-14",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-15",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Dhivyam Cinemax Salem":  {
@@ -2241,9 +2241,9 @@
                                                                "db_size_bytes":  null
                                                            },
                                "Ragam Theatre Thrissur":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-14",
-                                                              "db_size_bytes":  8318992384
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-15",
+                                                              "db_size_bytes":  8322396160
                                                           },
                                "Dhanalakshmi Cinemas Nenmara":  {
                                                                     "status":  "missing",
@@ -2303,19 +2303,19 @@
                            },
                     "SL":  {
                                "Regal Cinema Nuwara Eliya":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-14",
-                                                                 "db_size_bytes":  2663301120
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-15",
+                                                                 "db_size_bytes":  2665140224
                                                              },
                                "Regal Cinema Bandarawela":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-14",
-                                                                "db_size_bytes":  1400815616
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-15",
+                                                                "db_size_bytes":  1402191872
                                                             },
                                "Majestic Cineplex Colombo":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-14",
-                                                                 "db_size_bytes":  3632451584
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-15",
+                                                                 "db_size_bytes":  3632447488
                                                              },
                                "Seran Cinemas Kilinochchi":  {
                                                                  "status":  "missing",
@@ -4058,5 +4058,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-15 04:00:03"
+    "started_at":  "2026-06-15 06:00:02"
 }
