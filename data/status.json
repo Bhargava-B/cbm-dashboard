@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-15 13:14:10",
+    "generated_at":  "2026-06-15 15:14:54",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -1266,9 +1266,9 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sagara Theatre Kattappana":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-14",
-                                                                 "db_size_bytes":  1985396736
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-15",
+                                                                 "db_size_bytes":  1989607424
                                                              },
                                "Casino Talkies AC 2K 3D Aluva":  {
                                                                      "status":  "ok",
@@ -1976,8 +1976,8 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Penta Cinemas Pulpally":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-14",
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-15",
                                                               "db_size_bytes":  null
                                                           },
                                "E Max Cinemas RGB Laser Calicut":  {
@@ -3988,5 +3988,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-15 12:00:03"
+    "started_at":  "2026-06-15 14:00:03"
 }
