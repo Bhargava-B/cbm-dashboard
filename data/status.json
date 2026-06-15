@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-15 19:54:05",
+    "generated_at":  "2026-06-15 21:03:26",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -2445,8 +2445,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-14",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-15",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
@@ -3988,5 +3988,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-15 18:00:03"
+    "started_at":  "2026-06-15 20:00:03"
 }
