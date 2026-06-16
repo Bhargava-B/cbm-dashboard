@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-16 15:14:14",
+    "generated_at":  "2026-06-16 17:07:25",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -1471,9 +1471,9 @@
                                                                         "db_size_bytes":  2759938048
                                                                     },
                                "Swathy Screens Nooranad":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-06-15",
-                                                               "db_size_bytes":  null
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-06-16",
+                                                               "db_size_bytes":  2753871872
                                                            },
                                "Karthika Fun Movies Thalikulam":  {
                                                                       "status":  "ok",
@@ -2101,9 +2101,9 @@
                                                               "db_size_bytes":  404684800
                                                           },
                                "G Cinemas Fort Kochi":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-06-15",
-                                                            "db_size_bytes":  3218456576
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-06-16",
+                                                            "db_size_bytes":  3224092672
                                                         },
                                "Santhosh Cinema Kattappana":  {
                                                                   "status":  "ok",
@@ -2181,9 +2181,9 @@
                                                                "db_size_bytes":  59621376
                                                            },
                                "Mars Cinemas Changaramkulam":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-15",
-                                                                   "db_size_bytes":  3787530240
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-16",
+                                                                   "db_size_bytes":  3792113664
                                                                },
                                "Dhanya Remya Changanassery":  {
                                                                   "status":  "ok",
@@ -2256,8 +2256,8 @@
                                                            "db_size_bytes":  null
                                                        },
                                "B Cinemas Vylathoor":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-06-15",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-06-16",
                                                            "db_size_bytes":  null
                                                        },
                                "Devi Cinemas Perumpuzha":  {
@@ -3737,8 +3737,8 @@
                                                         "db_size_bytes":  null
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-06-16",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3565826048
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -3988,5 +3988,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-16 14:00:03"
+    "started_at":  "2026-06-16 16:00:03"
 }
