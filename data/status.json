@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-16 11:20:18",
+    "generated_at":  "2026-06-16 13:17:40",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -762,9 +762,9 @@
                                                                     "db_size_bytes":  926601216
                                                                 },
                                   "Asian Srinivasa - Mancherial":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-15",
-                                                                       "db_size_bytes":  4322152448
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-16",
+                                                                       "db_size_bytes":  4322676736
                                                                    },
                                   "Asian Radhika Multiplex - ECIL":  {
                                                                          "status":  "ok",
@@ -1084,9 +1084,9 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-15",
-                                                                        "db_size_bytes":  670089216
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-16",
+                                                                        "db_size_bytes":  656457728
                                                                     },
                                "Seetarama Cinemas - Manuguru":  {
                                                                     "status":  "missing",
@@ -2051,9 +2051,9 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "Silver Hills Cinema Thodupuzha":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-15",
-                                                                      "db_size_bytes":  2803359744
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-16",
+                                                                      "db_size_bytes":  2755002368
                                                                   },
                                "Ashoka Theatre Vadanapally":  {
                                                                   "status":  "ok",
@@ -2997,8 +2997,8 @@
                                                    "db_size_bytes":  null
                                                },
                                "Surya Cinemax - Draksharamam":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-15",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-16",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Sri Anu Deluxe - Agiripalli":  {
@@ -3677,8 +3677,8 @@
                                                                   "db_size_bytes":  466481152
                                                               },
                                "Sri Ramchandra Talkies - Kodumur":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-15",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-16",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Sri Ramulamma Theatre - Thagarapuvalasa Vizag":  {
@@ -3988,5 +3988,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-16 10:00:03"
+    "started_at":  "2026-06-16 12:00:03"
 }
