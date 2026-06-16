@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-16 19:04:32",
+    "generated_at":  "2026-06-16 21:07:10",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -1406,9 +1406,9 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Dreambig Jawahar Cinema Kalady":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-15",
-                                                                      "db_size_bytes":  273399808
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-16",
+                                                                      "db_size_bytes":  273989632
                                                                   },
                                "City Cinema Shivdam Kodakara":  {
                                                                     "status":  "ok",
@@ -2445,8 +2445,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-15",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-16",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
@@ -3988,5 +3988,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-16 18:00:03"
+    "started_at":  "2026-06-16 20:00:03"
 }
