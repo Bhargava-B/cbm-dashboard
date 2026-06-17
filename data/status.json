@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-17 19:02:35",
+    "generated_at":  "2026-06-17 21:03:12",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -2445,8 +2445,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-16",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-17",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
@@ -3342,9 +3342,9 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Sudarshan Theatre - Rotary Nagar Tekkali":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-06-15",
-                                                                                "db_size_bytes":  308854784
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-06-17",
+                                                                                "db_size_bytes":  305840128
                                                                             },
                                "Raja Cinemax AC 2K Dolby - Kothavalasa":  {
                                                                               "status":  "ok",
@@ -3988,5 +3988,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-17 18:00:02"
+    "started_at":  "2026-06-17 20:00:02"
 }
