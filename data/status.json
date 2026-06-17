@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-17 21:03:12",
+    "generated_at":  "2026-06-17 23:01:08",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -1049,9 +1049,9 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "VLS Sridevi 2K AC Dts - Chilakalguda":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-06-16",
-                                                                            "db_size_bytes":  3092041728
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-06-17",
+                                                                            "db_size_bytes":  3099906048
                                                                         },
                                "Sandhya 70MM 4K Dolby Atmos - RTC X Roads":  {
                                                                                  "status":  "ok",
@@ -3988,5 +3988,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-17 20:00:02"
+    "started_at":  "2026-06-17 22:00:02"
 }
