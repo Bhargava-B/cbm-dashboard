@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-17 11:12:48",
+    "generated_at":  "2026-06-17 13:18:14",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -428,9 +428,9 @@
                                                              "db_size_bytes":  184012800
                                                          },
                                "DevaSuki Cinemas":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-06-16",
-                                                        "db_size_bytes":  363003904
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-06-17",
+                                                        "db_size_bytes":  363204608
                                                     },
                                "ARRS Multiplex Salem":  {
                                                             "status":  "missing",
@@ -712,9 +712,9 @@
                                                                                       "db_size_bytes":  2649731072
                                                                                   },
                                   "Asian Srinivasa - Mahbubnagar":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-16",
-                                                                        "db_size_bytes":  2788081664
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-17",
+                                                                        "db_size_bytes":  2789195776
                                                                     },
                                   "Asian Sridevi Multiplex - Hanumakonda":  {
                                                                                 "status":  "ok",
@@ -894,9 +894,9 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Santhi Theatre - Madhira":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-16",
-                                                                "db_size_bytes":  484954112
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-17",
+                                                                "db_size_bytes":  485867520
                                                             },
                                "Sai Balaji Theatre - Sathupally":  {
                                                                        "status":  "ok",
@@ -1261,8 +1261,8 @@
                                                              "db_size_bytes":  3700084736
                                                          },
                                "Manu DMAX Cinemas PUTHENVELIKKARA":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-15",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-17",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sagara Theatre Kattappana":  {
@@ -1301,8 +1301,8 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "Bala cinemas Kalladikode":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-16",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-17",
                                                                 "db_size_bytes":  null
                                                             },
                                "VGM Multiplex Theatre Kahangad":  {
@@ -1756,9 +1756,9 @@
                                                               "db_size_bytes":  5207658496
                                                           },
                                "Jos Theatre  Pala":  {
-                                                         "status":  "missing",
-                                                         "last_backup":  "2026-06-13",
-                                                         "db_size_bytes":  2154614784
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-06-17",
+                                                         "db_size_bytes":  2149105664
                                                      },
                                "Paradise Cinema Cherthala":  {
                                                                  "status":  "ok",
@@ -2096,9 +2096,9 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "MT Cineplex Pothancode":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-16",
-                                                              "db_size_bytes":  404684800
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-17",
+                                                              "db_size_bytes":  399953920
                                                           },
                                "G Cinemas Fort Kochi":  {
                                                             "status":  "ok",
@@ -3732,8 +3732,8 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "Adabala Theatres":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-06-16",
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-06-17",
                                                         "db_size_bytes":  null
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
@@ -3988,5 +3988,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-17 10:00:03"
+    "started_at":  "2026-06-17 12:00:03"
 }
