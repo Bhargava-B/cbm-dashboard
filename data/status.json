@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-17 13:18:14",
+    "generated_at":  "2026-06-17 17:01:46",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -418,9 +418,9 @@
                                                                     "db_size_bytes":  2506088448
                                                                 },
                                "Anna Theatre AC Erode":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-06-14",
-                                                             "db_size_bytes":  4124381184
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-06-17",
+                                                             "db_size_bytes":  4131196928
                                                          },
                                "Rakki Meenakshi Avadi":  {
                                                              "status":  "ok",
@@ -478,9 +478,9 @@
                                                                        "db_size_bytes":  303648768
                                                                    },
                                "Prakash Cinema Salem":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-06-16",
-                                                            "db_size_bytes":  327741440
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-06-17",
+                                                            "db_size_bytes":  328134656
                                                         },
                                "Vetrivel Theatre 2K":  {
                                                            "status":  "ok",
@@ -622,9 +622,9 @@
                                                                                      "db_size_bytes":  1782534656
                                                                                  },
                                   "Asian M Cube Mall - Attapur":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-16",
-                                                                      "db_size_bytes":  4721659904
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-17",
+                                                                      "db_size_bytes":  4706918400
                                                                   },
                                   "Seetarama Cinemas - Manuguru":  {
                                                                        "status":  "missing",
@@ -667,9 +667,9 @@
                                                                     "db_size_bytes":  2991374336
                                                                 },
                                   "Asian Manoj - Devarakonda":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-15",
-                                                                    "db_size_bytes":  1485094912
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-17",
+                                                                    "db_size_bytes":  1482342400
                                                                 },
                                   "Asian Mukund - Mahabubabad":  {
                                                                      "status":  "ok",
@@ -702,9 +702,9 @@
                                                                     "db_size_bytes":  5572608000
                                                                 },
                                   "Asian Srinivasa - Kodad":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-16",
-                                                                  "db_size_bytes":  3044442112
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-17",
+                                                                  "db_size_bytes":  3046031360
                                                               },
                                   "Asian Maheshwari 70MM A -C DTS - Zaheerabad":  {
                                                                                       "status":  "ok",
@@ -1079,9 +1079,9 @@
                                                                          "db_size_bytes":  3395526656
                                                                      },
                                "Sri Manikanta 70mm Theatres":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  null,
-                                                                   "db_size_bytes":  null
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-17",
+                                                                   "db_size_bytes":  370196480
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
                                                                         "status":  "ok",
@@ -1406,9 +1406,9 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Dreambig Jawahar Cinema Kalady":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-16",
-                                                                      "db_size_bytes":  273989632
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-17",
+                                                                      "db_size_bytes":  271892480
                                                                   },
                                "City Cinema Shivdam Kodakara":  {
                                                                     "status":  "ok",
@@ -3382,8 +3382,8 @@
                                                      "db_size_bytes":  null
                                                  },
                                "J and J Cinemas AC Dolby Atmos - Pathapatnam":  {
-                                                                                    "status":  "missing",
-                                                                                    "last_backup":  "2026-06-15",
+                                                                                    "status":  "ok",
+                                                                                    "last_backup":  "2026-06-17",
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Suryapalace 2K Dolby Atmos - Rajahmundry":  {
@@ -3737,8 +3737,8 @@
                                                         "db_size_bytes":  null
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-06-17",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3576168448
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -3988,5 +3988,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-17 12:00:03"
+    "started_at":  "2026-06-17 16:00:03"
 }
