@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-17 17:01:46",
+    "generated_at":  "2026-06-17 19:02:35",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -383,9 +383,9 @@
                                                                       "db_size_bytes":  1623052288
                                                                   },
                                "Murukalaya Vishal Cinema Pollachi":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-14",
-                                                                         "db_size_bytes":  489345024
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-17",
+                                                                         "db_size_bytes":  490459136
                                                                      },
                                "Rohini Silver Screen Chennai":  {
                                                                     "status":  "ok",
@@ -520,7 +520,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-06-17",
-                                                                  "db_size_bytes":  861790208
+                                                                  "db_size_bytes":  864088064
                                                               },
                                "Srinivasa Theatre Thirukoilur":  {
                                                                      "status":  "ok",
@@ -1901,8 +1901,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Greenfield Moviemax Trivandrum":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-16",
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-17",
                                                                       "db_size_bytes":  null
                                                                   },
                                "Deepthi Cinemas Kanhangad":  {
@@ -1976,8 +1976,8 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Penta Cinemas Pulpally":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-16",
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-17",
                                                               "db_size_bytes":  null
                                                           },
                                "E Max Cinemas RGB Laser Calicut":  {
@@ -2136,9 +2136,9 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Anu Cinemax Nellimoodu":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-16",
-                                                              "db_size_bytes":  577769472
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-17",
+                                                              "db_size_bytes":  568643584
                                                           },
                                "Gavi Galaxy cinemas Seethathodu":  {
                                                                        "status":  "missing",
@@ -3988,5 +3988,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-17 16:00:03"
+    "started_at":  "2026-06-17 18:00:02"
 }
