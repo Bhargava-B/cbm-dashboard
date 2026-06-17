@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-17 05:01:47",
+    "generated_at":  "2026-06-17 07:06:55",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -28,8 +28,8 @@
                                                                                     "db_size_bytes":  2561486848
                                                                                 },
                                "Kasi Talkies Chennai":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-06-16",
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-06-17",
                                                             "db_size_bytes":  null
                                                         },
                                "Kumaran Theatre Madipakkam":  {
@@ -53,8 +53,8 @@
                                                          "db_size_bytes":  547840512
                                                      },
                                "Kaveri Cinema Coimbatore":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-16",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-17",
                                                                 "db_size_bytes":  null
                                                             },
                                "Frame Cinemas Thanjavur":  {
@@ -133,8 +133,8 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "Vijay Park Multiplex Chennai":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-16",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-17",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Dhivyam Cinemax Salem":  {
@@ -2241,9 +2241,9 @@
                                                                "db_size_bytes":  null
                                                            },
                                "Ragam Theatre Thrissur":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-16",
-                                                              "db_size_bytes":  8306638848
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-17",
+                                                              "db_size_bytes":  8311160832
                                                           },
                                "Dhanalakshmi Cinemas Nenmara":  {
                                                                     "status":  "missing",
@@ -2313,9 +2313,9 @@
                                                                 "db_size_bytes":  1400619008
                                                             },
                                "Majestic Cineplex Colombo":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-16",
-                                                                 "db_size_bytes":  3628646400
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-17",
+                                                                 "db_size_bytes":  3631529984
                                                              },
                                "Seran Cinemas Kilinochchi":  {
                                                                  "status":  "missing",
@@ -2323,9 +2323,9 @@
                                                                  "db_size_bytes":  159563776
                                                              },
                                "Majestic Cineplex JAFFNA":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-16",
-                                                                "db_size_bytes":  7337852928
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-17",
+                                                                "db_size_bytes":  7338639360
                                                             }
                            },
                     "KA":  {
@@ -3988,5 +3988,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-17 04:00:03"
+    "started_at":  "2026-06-17 06:00:02"
 }
