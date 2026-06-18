@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-18 05:01:58",
+    "generated_at":  "2026-06-18 07:06:01",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -2241,9 +2241,9 @@
                                                                "db_size_bytes":  null
                                                            },
                                "Ragam Theatre Thrissur":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-17",
-                                                              "db_size_bytes":  8311160832
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-18",
+                                                              "db_size_bytes":  8313192448
                                                           },
                                "Dhanalakshmi Cinemas Nenmara":  {
                                                                     "status":  "missing",
@@ -2303,19 +2303,19 @@
                            },
                     "SL":  {
                                "Regal Cinema Nuwara Eliya":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-17",
-                                                                 "db_size_bytes":  2666577920
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-18",
+                                                                 "db_size_bytes":  2667364352
                                                              },
                                "Regal Cinema Bandarawela":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-17",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-18",
                                                                 "db_size_bytes":  1400684544
                                                             },
                                "Majestic Cineplex Colombo":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-17",
-                                                                 "db_size_bytes":  3631529984
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-18",
+                                                                 "db_size_bytes":  3633299456
                                                              },
                                "Seran Cinemas Kilinochchi":  {
                                                                  "status":  "missing",
@@ -2323,9 +2323,9 @@
                                                                  "db_size_bytes":  159563776
                                                              },
                                "Majestic Cineplex JAFFNA":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-17",
-                                                                "db_size_bytes":  7338639360
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-18",
+                                                                "db_size_bytes":  7339622400
                                                             }
                            },
                     "KA":  {
@@ -3988,5 +3988,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-18 04:00:02"
+    "started_at":  "2026-06-18 06:00:02"
 }
