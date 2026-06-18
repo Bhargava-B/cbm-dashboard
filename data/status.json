@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-18 15:12:18",
+    "generated_at":  "2026-06-18 17:09:06",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -1266,8 +1266,8 @@
                                                              "db_size_bytes":  3700551680
                                                          },
                                "Manu DMAX Cinemas PUTHENVELIKKARA":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-17",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-18",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sagara Theatre Kattappana":  {
@@ -3502,9 +3502,9 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Vijaya Mahal Theater AC DTS - Mandapeta":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-06-15",
-                                                                               "db_size_bytes":  403161088
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-06-18",
+                                                                               "db_size_bytes":  400998400
                                                                            },
                                "Maruthi Theatre - Palakollu":  {
                                                                    "status":  "ok",
@@ -3742,8 +3742,8 @@
                                                         "db_size_bytes":  3386924544
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-06-18",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3574665216
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -3993,5 +3993,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-18 14:00:03"
+    "started_at":  "2026-06-18 16:00:03"
 }
