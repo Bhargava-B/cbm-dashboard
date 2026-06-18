@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-18 13:15:15",
+    "generated_at":  "2026-06-18 15:12:18",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -79,7 +79,7 @@
                                                                  },
                                "Sakthi Cinemas Madurai":  {
                                                               "status":  "missing",
-                                                              "last_backup":  "2026-06-09",
+                                                              "last_backup":  null,
                                                               "db_size_bytes":  null
                                                           },
                                "Aanoor Theatre Erode":  {
@@ -307,6 +307,11 @@
                                                                     "last_backup":  "2026-06-18",
                                                                     "db_size_bytes":  1181011968
                                                                 },
+                               "Ritzy SHA Cinemas Madurai":  {
+                                                                 "status":  "missing",
+                                                                 "last_backup":  null,
+                                                                 "db_size_bytes":  null
+                                                             },
                                "Jothi Theatre 4K St Thomas Mount":  {
                                                                         "status":  "ok",
                                                                         "last_backup":  "2026-06-18",
@@ -702,9 +707,9 @@
                                                                     "db_size_bytes":  5581078528
                                                                 },
                                   "Asian Srinivasa - Kodad":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-17",
-                                                                  "db_size_bytes":  3046031360
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-18",
+                                                                  "db_size_bytes":  3056898048
                                                               },
                                   "Asian Maheshwari 70MM A -C DTS - Zaheerabad":  {
                                                                                       "status":  "ok",
@@ -1079,9 +1084,9 @@
                                                                          "db_size_bytes":  3395436544
                                                                      },
                                "Sri Manikanta 70mm Theatres":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-17",
-                                                                   "db_size_bytes":  370196480
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-18",
+                                                                   "db_size_bytes":  369999872
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
                                                                         "status":  "ok",
@@ -3887,8 +3892,8 @@
                                                                                  "db_size_bytes":  655212544
                                                                              },
                                "Swarna Cinemax - Ibrahimpatnam":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-16",
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-18",
                                                                       "db_size_bytes":  null
                                                                   },
                                "KVR Cinemas AC 2K 5WAY Dolby 7.1 Sound - Ponduru":  {
@@ -3988,5 +3993,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-18 12:00:03"
+    "started_at":  "2026-06-18 14:00:03"
 }
