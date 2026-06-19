@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-19 13:17:23",
+    "generated_at":  "2026-06-19 15:12:25",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -142,6 +142,11 @@
                                                                     "last_backup":  "2026-06-19",
                                                                     "db_size_bytes":  null
                                                                 },
+                               "Thangaregal Cinemas Madurai":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-19",
+                                                                   "db_size_bytes":  1361326080
+                                                               },
                                "Dhivyam Cinemax Salem":  {
                                                              "status":  "ok",
                                                              "last_backup":  "2026-06-19",
@@ -467,11 +472,6 @@
                                                                  "last_backup":  "2026-06-19",
                                                                  "db_size_bytes":  13694908928
                                                              },
-                               "Sakthi Cinema - Madurai":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-06-18",
-                                                               "db_size_bytes":  214708224
-                                                           },
                                "Vela Cinemas Thirunindravur":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-06-19",
@@ -682,9 +682,9 @@
                                                                     "db_size_bytes":  2993803264
                                                                 },
                                   "Asian Manoj - Devarakonda":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-18",
-                                                                    "db_size_bytes":  1482670080
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-19",
+                                                                    "db_size_bytes":  1483460608
                                                                 },
                                   "Asian Mukund - Mahabubabad":  {
                                                                      "status":  "ok",
@@ -3022,9 +3022,9 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "JVR Cinemas - Jaggampeta":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-17",
-                                                                "db_size_bytes":  1420480512
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-19",
+                                                                "db_size_bytes":  1421131776
                                                             },
                                "Pratap Group Theaters AC 4K Dolby Atmos - Tirupati":  {
                                                                                           "status":  "ok",
@@ -4003,5 +4003,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-19 12:00:03"
+    "started_at":  "2026-06-19 14:00:03"
 }
