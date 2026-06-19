@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-19 17:02:08",
+    "generated_at":  "2026-06-19 19:01:31",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -3647,9 +3647,9 @@
                                                               "db_size_bytes":  null
                                                           },
                                "Shree Cinemas - Parvathipuram":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-06-07",
-                                                                     "db_size_bytes":  null
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-06-19",
+                                                                     "db_size_bytes":  367710208
                                                                  },
                                "Mini Srinivasa - Yemmiganur":  {
                                                                    "status":  "ok",
@@ -4003,5 +4003,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-19 16:00:03"
+    "started_at":  "2026-06-19 18:00:03"
 }
