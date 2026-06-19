@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-19 05:03:07",
+    "generated_at":  "2026-06-19 07:07:43",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -53,8 +53,8 @@
                                                          "db_size_bytes":  555900416
                                                      },
                                "Kaveri Cinema Coimbatore":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-18",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-19",
                                                                 "db_size_bytes":  null
                                                             },
                                "Frame Cinemas Thanjavur":  {
@@ -2256,9 +2256,9 @@
                                                                "db_size_bytes":  null
                                                            },
                                "Ragam Theatre Thrissur":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-18",
-                                                              "db_size_bytes":  8313192448
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-19",
+                                                              "db_size_bytes":  8317849600
                                                           },
                                "Dhanalakshmi Cinemas Nenmara":  {
                                                                     "status":  "missing",
@@ -2318,19 +2318,19 @@
                            },
                     "SL":  {
                                "Regal Cinema Nuwara Eliya":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-18",
-                                                                 "db_size_bytes":  2667364352
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-19",
+                                                                 "db_size_bytes":  2668675072
                                                              },
                                "Regal Cinema Bandarawela":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-18",
-                                                                "db_size_bytes":  1400684544
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-19",
+                                                                "db_size_bytes":  1401208832
                                                             },
                                "Majestic Cineplex Colombo":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-18",
-                                                                 "db_size_bytes":  3633299456
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-19",
+                                                                 "db_size_bytes":  3632316416
                                                              },
                                "Seran Cinemas Kilinochchi":  {
                                                                  "status":  "missing",
@@ -2338,9 +2338,9 @@
                                                                  "db_size_bytes":  169394176
                                                              },
                                "Majestic Cineplex JAFFNA":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-18",
-                                                                "db_size_bytes":  7339622400
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-19",
+                                                                "db_size_bytes":  7340802048
                                                             }
                            },
                     "KA":  {
@@ -4003,5 +4003,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-19 04:00:03"
+    "started_at":  "2026-06-19 06:00:03"
 }
