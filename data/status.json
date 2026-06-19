@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-19 11:17:12",
+    "generated_at":  "2026-06-19 13:17:23",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -123,9 +123,9 @@
                                                                        "db_size_bytes":  1011339264
                                                                    },
                                "VR Cinemas Pattabiram":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-06-18",
-                                                             "db_size_bytes":  729202688
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-06-19",
+                                                             "db_size_bytes":  726777856
                                                          },
                                "Apsara Theatre Vellore":  {
                                                               "status":  "ok",
@@ -870,7 +870,7 @@
                                                    },
                                "Sri Balaji Theater":  {
                                                           "status":  "missing",
-                                                          "last_backup":  "2026-06-14",
+                                                          "last_backup":  "2026-06-18",
                                                           "db_size_bytes":  null
                                                       },
                                "Tivoli Cinemas - Secunderabad":  {
@@ -929,8 +929,8 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "Talluri Theatres - Kushaiguda":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-06-18",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-06-19",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Cinemax - Vikarabad":  {
@@ -2216,9 +2216,9 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Ganga Complex Attingal":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-18",
-                                                              "db_size_bytes":  1926512640
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-19",
+                                                              "db_size_bytes":  1950608896
                                                           },
                                "Thai Lakshmi Cinema Punalur":  {
                                                                    "status":  "ok",
@@ -2940,8 +2940,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-18",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-19",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3037,8 +3037,8 @@
                                                            "db_size_bytes":  null
                                                        },
                                "SLV Theater - Koilkuntla":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-18",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-19",
                                                                 "db_size_bytes":  null
                                                             },
                                "Sree Devi Picture Palace - Narasannapeta":  {
@@ -3412,8 +3412,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Sudharshan AC DTS - Kanigiri":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-18",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-19",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Satyam AC 4K Dolby Atmos - Ongole":  {
@@ -3592,8 +3592,8 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-18",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-19",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
@@ -3692,8 +3692,8 @@
                                                                   "db_size_bytes":  474034176
                                                               },
                                "Sri Ramchandra Talkies - Kodumur":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-18",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-19",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Sri Ramulamma Theatre - Thagarapuvalasa Vizag":  {
@@ -4003,5 +4003,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-19 10:00:03"
+    "started_at":  "2026-06-19 12:00:03"
 }
