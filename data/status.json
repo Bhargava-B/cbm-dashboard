@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-19 15:12:25",
+    "generated_at":  "2026-06-19 17:02:08",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -263,9 +263,9 @@
                                                                 "db_size_bytes":  273596416
                                                             },
                                "Venkateswara Cinemas Kundrathur":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-18",
-                                                                       "db_size_bytes":  2108669952
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-19",
+                                                                       "db_size_bytes":  2111295488
                                                                    },
                                "Krithika Cinemas 2K 3D AC Coimbatore":  {
                                                                             "status":  "ok",
@@ -3752,8 +3752,8 @@
                                                         "db_size_bytes":  3390722560
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-06-19",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3596525568
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4003,5 +4003,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-19 14:00:03"
+    "started_at":  "2026-06-19 16:00:03"
 }
