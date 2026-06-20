@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-20 15:18:05",
+    "generated_at":  "2026-06-20 17:05:25",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -1606,9 +1606,9 @@
                                                               "db_size_bytes":  3153190912
                                                           },
                                "HighStreet Cinemas Muvattupuzha":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-19",
-                                                                       "db_size_bytes":  210026496
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-20",
+                                                                       "db_size_bytes":  211406848
                                                                    },
                                "SN Theatre Haripad":  {
                                                           "status":  "ok",
@@ -2630,8 +2630,8 @@
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Prabha Theatre - Mysuru":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-06-19",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-06-20",
                                                                "db_size_bytes":  null
                                                            },
                                "Swagath ShankarNag (ONYX) LED Cinema - MG Road":  {
@@ -3757,8 +3757,8 @@
                                                         "db_size_bytes":  3392817664
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-06-20",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3615727616
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4008,5 +4008,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-20 14:00:03"
+    "started_at":  "2026-06-20 16:00:03"
 }
