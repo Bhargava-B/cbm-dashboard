@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-20 09:02:18",
+    "generated_at":  "2026-06-20 11:08:39",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -1641,9 +1641,9 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Shivadam Cinemas Urakam":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-06-19",
-                                                               "db_size_bytes":  3959746560
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-06-20",
+                                                               "db_size_bytes":  3964534784
                                                            },
                                "Magic Frames Downtown Thalasseri":  {
                                                                         "status":  "ok",
@@ -2415,8 +2415,8 @@
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "Sri Venkateshwara Theatre - Sidlaghatta":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-06-19",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-06-20",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Pushpanjali 2K Digital AC Theater B N Pura":  {
@@ -2585,8 +2585,8 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Roopa Cinema Nelamangala":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-19",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-20",
                                                                 "db_size_bytes":  null
                                                             },
                                "Brundha 4K Dolby Atmos - Hongasandra DMart":  {
@@ -2650,8 +2650,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Gowrishankar Theatre - Vijayapura":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-06-19",
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-06-20",
                                                                              "db_size_bytes":  null
                                                                          },
                                "Vinayaka Cinemas 4K Dolby 11.5 AC 3D - Harinagar":  {
@@ -2715,8 +2715,8 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Navrang Theatre - Rajaji Nagar":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-19",
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-20",
                                                                       "db_size_bytes":  null
                                                                   },
                                "Sri Balaji Dommasandra":  {
@@ -2920,8 +2920,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-06-19",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-06-20",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3162,8 +3162,8 @@
                                                                                     "db_size_bytes":  2626215936
                                                                                 },
                                "Sri Lakshmi Multiplex Nova Cinemaz - Nallajerla":  {
-                                                                                       "status":  "missing",
-                                                                                       "last_backup":  "2026-06-19",
+                                                                                       "status":  "ok",
+                                                                                       "last_backup":  "2026-06-20",
                                                                                        "db_size_bytes":  null
                                                                                    },
                                "Sun Cinemax Venkata Gouri AC DTS - Palakonda":  {
@@ -3192,8 +3192,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-06-19",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-06-20",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3522,9 +3522,9 @@
                                                                                "db_size_bytes":  404209664
                                                                            },
                                "Maruthi Theatre - Palakollu":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-19",
-                                                                   "db_size_bytes":  2427707392
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-20",
+                                                                   "db_size_bytes":  2420625408
                                                                },
                                "Jamuna Complex - Podalakur":  {
                                                                   "status":  "ok",
@@ -3703,7 +3703,7 @@
                                                                     },
                                "Sri Ramulamma Theatre - Thagarapuvalasa Vizag":  {
                                                                                      "status":  "missing",
-                                                                                     "last_backup":  "2026-06-18",
+                                                                                     "last_backup":  "2026-06-19",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Surya Mahal AC Dolby Atmos - Srikakulam":  {
@@ -4008,5 +4008,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-20 08:00:03"
+    "started_at":  "2026-06-20 10:00:03"
 }
