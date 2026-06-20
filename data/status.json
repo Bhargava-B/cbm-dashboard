@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-20 13:16:40",
+    "generated_at":  "2026-06-20 15:18:05",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -48,8 +48,8 @@
                                                                "db_size_bytes":  538935296
                                                            },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-06-20",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  551314944
                                                      },
                                "Kaveri Cinema Coimbatore":  {
@@ -874,8 +874,8 @@
                                                        "db_size_bytes":  null
                                                    },
                                "Sri Balaji Theater":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-06-18",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-06-20",
                                                           "db_size_bytes":  null
                                                       },
                                "Tivoli Cinemas - Secunderabad":  {
@@ -919,8 +919,8 @@
                                                                 "db_size_bytes":  491737088
                                                             },
                                "Sai Balaji Theatre - Sathupally":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-17",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-20",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Srinivasa Theatre - Jagtial":  {
@@ -4008,5 +4008,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-20 12:00:03"
+    "started_at":  "2026-06-20 14:00:03"
 }
