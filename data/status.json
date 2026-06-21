@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-21 11:11:55",
+    "generated_at":  "2026-06-21 13:14:09",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -223,9 +223,9 @@
                                                                    "db_size_bytes":  3428904960
                                                                },
                                "Sri Murugan theatre Ammapettai":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-19",
-                                                                      "db_size_bytes":  922472448
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-21",
+                                                                      "db_size_bytes":  925814784
                                                                   },
                                "Sri Ramchandra Cinema Pernambut":  {
                                                                        "status":  "ok",
@@ -687,9 +687,9 @@
                                                                     "db_size_bytes":  3014004736
                                                                 },
                                   "Asian Manoj - Devarakonda":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-20",
-                                                                    "db_size_bytes":  1494007808
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-21",
+                                                                    "db_size_bytes":  1491914752
                                                                 },
                                   "Asian Mukund - Mahabubabad":  {
                                                                      "status":  "ok",
@@ -939,8 +939,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Cinemax - Vikarabad":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-06-20",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-06-21",
                                                            "db_size_bytes":  null
                                                        },
                                "Maheshwari Theater":  {
@@ -2555,8 +2555,8 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Rajashree Theatre - Nipani":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-20",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-21",
                                                                   "db_size_bytes":  null
                                                               },
                                "Globe Cinemas - Belagavi":  {
@@ -2945,8 +2945,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-20",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-21",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -2967,8 +2967,8 @@
                            },
                     "AP":  {
                                "Chandra Guptha and Chanukya Theater":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-06-20",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-06-21",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Sudha Theater AC UFO 2K Dolby - Proddatur":  {
@@ -3002,8 +3002,8 @@
                                                                   "db_size_bytes":  399228928
                                                               },
                                "V Max AC 2K Dolby - Eluru":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-20",
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-21",
                                                                  "db_size_bytes":  null
                                                              },
                                "Pratap \u0026 Mini Pratap Picture Palace AC 4K DTS - Nandyal":  {
@@ -3703,7 +3703,7 @@
                                                                     },
                                "Sri Ramulamma Theatre - Thagarapuvalasa Vizag":  {
                                                                                      "status":  "missing",
-                                                                                     "last_backup":  "2026-06-19",
+                                                                                     "last_backup":  "2026-06-20",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Surya Mahal AC Dolby Atmos - Srikakulam":  {
@@ -3832,9 +3832,9 @@
                                                                                          "db_size_bytes":  1499287552
                                                                                      },
                                "Ganesh AC 2K Dolby - Thagarapuvalasa":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-06-20",
-                                                                            "db_size_bytes":  1266917888
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-06-21",
+                                                                            "db_size_bytes":  1271683584
                                                                         },
                                "G2V Theaters Ravi Priya Mall - Ongole":  {
                                                                              "status":  "missing",
@@ -4008,5 +4008,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-21 10:00:03"
+    "started_at":  "2026-06-21 12:00:03"
 }
