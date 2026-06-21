@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-21 17:05:50",
+    "generated_at":  "2026-06-21 18:59:39",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -253,9 +253,9 @@
                                                                     "db_size_bytes":  598994944
                                                                 },
                                "Srinivasa Cinemas SAP Tirupur":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-06-20",
-                                                                     "db_size_bytes":  1596871168
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-06-21",
+                                                                     "db_size_bytes":  1597458944
                                                                  },
                                "Divya Theatre Puducherry":  {
                                                                 "status":  "ok",
@@ -2986,6 +2986,11 @@
                                                                               "last_backup":  "2026-06-21",
                                                                               "db_size_bytes":  null
                                                                           },
+                               "Rajarathna Cinemax - Mandapeta":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-21",
+                                                                      "db_size_bytes":  2141179904
+                                                                  },
                                "MS Tata Picture Palace AC DTS - Thagarapuvalasa":  {
                                                                                        "status":  "ok",
                                                                                        "last_backup":  "2026-06-21",
@@ -3012,9 +3017,9 @@
                                                    "db_size_bytes":  null
                                                },
                                "Surya Cinemax - Draksharamam":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-20",
-                                                                    "db_size_bytes":  null
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-21",
+                                                                    "db_size_bytes":  517718016
                                                                 },
                                "Sri Anu Deluxe - Agiripalli":  {
                                                                    "status":  "missing",
@@ -3087,9 +3092,9 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateshwara Mahal AC Dolby Atmos 2K - Punganur":  {
-                                                                                            "status":  "missing",
-                                                                                            "last_backup":  "2026-05-10",
-                                                                                            "db_size_bytes":  null
+                                                                                            "status":  "ok",
+                                                                                            "last_backup":  "2026-06-21",
+                                                                                            "db_size_bytes":  212127744
                                                                                         },
                                "Sri Venkateswara Theatres Dolby 7.1 2K and 4K - Vizag":  {
                                                                                              "status":  "ok",
@@ -3097,9 +3102,9 @@
                                                                                              "db_size_bytes":  3799932928
                                                                                          },
                                "Sri Sai Rajeswari Complex Cine Hub":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-05-10",
-                                                                          "db_size_bytes":  null
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-06-21",
+                                                                          "db_size_bytes":  785711104
                                                                       },
                                "Sri Sivajyothi 2K Cinema 7.1 Dolby - Rajahmundry":  {
                                                                                         "status":  "ok",
@@ -3998,5 +4003,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-21 16:00:03"
+    "started_at":  "2026-06-21 18:00:03"
 }
