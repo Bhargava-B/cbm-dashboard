@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-21 13:14:09",
+    "generated_at":  "2026-06-21 15:10:15",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -48,8 +48,8 @@
                                                                "db_size_bytes":  539656192
                                                            },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-06-21",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  569074176
                                                      },
                                "Kaveri Cinema Coimbatore":  {
@@ -1741,8 +1741,8 @@
                                                                           "db_size_bytes":  4064120832
                                                                       },
                                "TMAX Cineplex Goolikkadavu":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-19",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-21",
                                                                   "db_size_bytes":  null
                                                               },
                                "Kripa Movies Kurumassery":  {
@@ -3202,8 +3202,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Srinivasa Mahal - Kanchikacherla":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  null,
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-21",
                                                                         "db_size_bytes":  null
                                                                     },
                                "VN Palace Veeranarayana - Tanuku":  {
@@ -3827,8 +3827,8 @@
                                                             "db_size_bytes":  null
                                                         },
                                "Sree Krishna Cinema 4K Dolby Atmos - Vizianagaram":  {
-                                                                                         "status":  "missing",
-                                                                                         "last_backup":  "2026-06-15",
+                                                                                         "status":  "ok",
+                                                                                         "last_backup":  "2026-06-21",
                                                                                          "db_size_bytes":  1499287552
                                                                                      },
                                "Ganesh AC 2K Dolby - Thagarapuvalasa":  {
@@ -4008,5 +4008,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-21 12:00:03"
+    "started_at":  "2026-06-21 14:00:05"
 }
