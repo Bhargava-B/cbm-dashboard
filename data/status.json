@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-21 15:10:15",
+    "generated_at":  "2026-06-21 17:05:50",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -1436,9 +1436,9 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Dreambig KAM Movies Vadakkenchery":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-20",
-                                                                         "db_size_bytes":  null
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-21",
+                                                                         "db_size_bytes":  559726592
                                                                      },
                                "Rani Talkies Nedumangadu":  {
                                                                 "status":  "ok",
@@ -2986,11 +2986,6 @@
                                                                               "last_backup":  "2026-06-21",
                                                                               "db_size_bytes":  null
                                                                           },
-                               "Rajarathna Cinemax - Mandapeta":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-11",
-                                                                      "db_size_bytes":  null
-                                                                  },
                                "MS Tata Picture Palace AC DTS - Thagarapuvalasa":  {
                                                                                        "status":  "ok",
                                                                                        "last_backup":  "2026-06-21",
@@ -3226,11 +3221,6 @@
                                                                    "last_backup":  "2026-06-21",
                                                                    "db_size_bytes":  null
                                                                },
-                               "Rajarathna Cinemax - MandapetaΓÉë":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  null,
-                                                                         "db_size_bytes":  null
-                                                                     },
                                "Sri Melody HDR Dolby Atmos - Vizag":  {
                                                                           "status":  "ok",
                                                                           "last_backup":  "2026-06-21",
@@ -3757,8 +3747,8 @@
                                                         "db_size_bytes":  3396753920
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-06-21",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3630166016
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -3907,8 +3897,8 @@
                                                                                  "db_size_bytes":  675807232
                                                                              },
                                "Swarna Cinemax - Ibrahimpatnam":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-20",
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-21",
                                                                       "db_size_bytes":  null
                                                                   },
                                "KVR Cinemas AC 2K 5WAY Dolby 7.1 Sound - Ponduru":  {
@@ -4008,5 +3998,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-21 14:00:05"
+    "started_at":  "2026-06-21 16:00:03"
 }
