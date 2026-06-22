@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-22 15:17:14",
+    "generated_at":  "2026-06-22 17:05:14",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -1281,8 +1281,8 @@
                                                              "db_size_bytes":  3702509568
                                                          },
                                "Manu DMAX Cinemas PUTHENVELIKKARA":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-19",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-22",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sagara Theatre Kattappana":  {
@@ -3752,8 +3752,8 @@
                                                         "db_size_bytes":  3402793472
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-06-22",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3627425792
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4003,5 +4003,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-22 14:00:03"
+    "started_at":  "2026-06-22 16:00:04"
 }
