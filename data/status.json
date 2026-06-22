@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-22 13:18:21",
+    "generated_at":  "2026-06-22 15:17:14",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -48,8 +48,8 @@
                                                                "db_size_bytes":  540311552
                                                            },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-06-22",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  580477440
                                                      },
                                "Kaveri Cinema Coimbatore":  {
@@ -1736,14 +1736,14 @@
                                                               "db_size_bytes":  426102784
                                                           },
                                "New Central Talkies Thripunnithura":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-06-21",
-                                                                          "db_size_bytes":  4064120832
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-06-22",
+                                                                          "db_size_bytes":  4070805504
                                                                       },
                                "TMAX Cineplex Goolikkadavu":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-21",
-                                                                  "db_size_bytes":  null
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-22",
+                                                                  "db_size_bytes":  651411456
                                                               },
                                "Kripa Movies Kurumassery":  {
                                                                 "status":  "ok",
@@ -1906,8 +1906,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "KRV Movies Kottayi":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-06-21",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-06-22",
                                                           "db_size_bytes":  null
                                                       },
                                "RD Cinema Mundakayam":  {
@@ -2156,9 +2156,9 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Anu Cinemax Nellimoodu":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-21",
-                                                              "db_size_bytes":  581357568
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-22",
+                                                              "db_size_bytes":  583929856
                                                           },
                                "Gavi Galaxy cinemas Seethathodu":  {
                                                                        "status":  "ok",
@@ -4003,5 +4003,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-22 12:00:03"
+    "started_at":  "2026-06-22 14:00:03"
 }
