@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-22 17:05:14",
+    "generated_at":  "2026-06-22 19:03:31",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -253,9 +253,9 @@
                                                                     "db_size_bytes":  602206208
                                                                 },
                                "Srinivasa Cinemas SAP Tirupur":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-06-21",
-                                                                     "db_size_bytes":  1597458944
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-06-22",
+                                                                     "db_size_bytes":  1597984256
                                                                  },
                                "Divya Theatre Puducherry":  {
                                                                 "status":  "ok",
@@ -4003,5 +4003,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-22 16:00:04"
+    "started_at":  "2026-06-22 18:00:03"
 }
