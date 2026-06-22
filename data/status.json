@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-22 19:03:31",
+    "generated_at":  "2026-06-22 21:03:29",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -48,9 +48,9 @@
                                                                "db_size_bytes":  540311552
                                                            },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "missing",
-                                                         "last_backup":  "2026-06-19",
-                                                         "db_size_bytes":  580477440
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-06-22",
+                                                         "db_size_bytes":  581591552
                                                      },
                                "Kaveri Cinema Coimbatore":  {
                                                                 "status":  "ok",
@@ -2465,8 +2465,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-21",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-22",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
@@ -3332,8 +3332,8 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-21",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-22",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
@@ -4003,5 +4003,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-22 18:00:03"
+    "started_at":  "2026-06-22 20:00:03"
 }
