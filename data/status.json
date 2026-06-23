@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-23 09:12:02",
+    "generated_at":  "2026-06-23 11:12:08",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -78,9 +78,9 @@
                                                                      "db_size_bytes":  751095808
                                                                  },
                                "Sakthi Cinemas Madurai":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-22",
-                                                              "db_size_bytes":  217853952
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-23",
+                                                              "db_size_bytes":  218578944
                                                           },
                                "Aanoor Theatre Erode":  {
                                                             "status":  "missing",
@@ -478,9 +478,9 @@
                                                                  "db_size_bytes":  13812349440
                                                              },
                                "Vela Cinemas Thirunindravur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-22",
-                                                                   "db_size_bytes":  1138933760
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-23",
+                                                                   "db_size_bytes":  1139785728
                                                                },
                                "Janas Cinemas Villupuram":  {
                                                                 "status":  "ok",
@@ -1099,9 +1099,9 @@
                                                                          "db_size_bytes":  3412074496
                                                                      },
                                "Sri Manikanta 70mm Theatres":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-22",
-                                                                   "db_size_bytes":  380751872
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-23",
+                                                                   "db_size_bytes":  373997568
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
                                                                         "status":  "missing",
@@ -2840,8 +2840,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Jai Bharath Theatre -Tumkur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-22",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-23",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Vinayaka Cinemas DJ Halli":  {
@@ -2920,8 +2920,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-06-22",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-06-23",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3192,8 +3192,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-06-22",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-06-23",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -4003,5 +4003,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-23 08:00:03"
+    "started_at":  "2026-06-23 10:00:03"
 }
