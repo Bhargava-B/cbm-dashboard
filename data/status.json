@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-24 17:03:51",
+    "generated_at":  "2026-06-24 19:09:13",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -433,8 +433,8 @@
                                                                        "db_size_bytes":  408145920
                                                                    },
                                "Karpagam Theatre Coimbatore":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-14",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-24",
                                                                    "db_size_bytes":  null
                                                                },
                                "Arul Muruga Thiruporur":  {
@@ -4108,5 +4108,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-24 16:00:03"
+    "started_at":  "2026-06-24 18:00:03"
 }
