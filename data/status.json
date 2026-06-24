@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-24 13:24:18",
+    "generated_at":  "2026-06-24 15:19:19",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -58,8 +58,8 @@
                                                                "db_size_bytes":  541229056
                                                            },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-06-24",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  588013056
                                                      },
                                "Medavakkam Kumaran Cinemas RGB Laser":  {
@@ -117,6 +117,11 @@
                                                                  "last_backup":  "2026-06-24",
                                                                  "db_size_bytes":  508030976
                                                              },
+                               "CR Palace Theatre Jayakondam":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-24",
+                                                                    "db_size_bytes":  1002557440
+                                                                },
                                "VELS THEATRES":  {
                                                      "status":  "ok",
                                                      "last_backup":  "2026-06-24",
@@ -137,11 +142,11 @@
                                                                   "last_backup":  "2026-06-24",
                                                                   "db_size_bytes":  3059912704
                                                               },
-                               "GK Cinemas 2K Dolby Atmos Porur":  {
-                                                                       "status":  "ok",
-                                                                       "last_backup":  "2026-06-24",
-                                                                       "db_size_bytes":  1020706816
-                                                                   },
+                               "Rohini Silver Screen Chennai":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-24",
+                                                                    "db_size_bytes":  null
+                                                                },
                                "VR Cinemas Pattabiram":  {
                                                              "status":  "ok",
                                                              "last_backup":  "2026-06-24",
@@ -177,11 +182,11 @@
                                                              "last_backup":  "2026-06-24",
                                                              "db_size_bytes":  635285504
                                                          },
-                               "Mariyappa Theatre Chidambaram":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-06-23",
-                                                                     "db_size_bytes":  2262777856
-                                                                 },
+                               "GK Cinemas 2K Dolby Atmos Porur":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-24",
+                                                                       "db_size_bytes":  1020706816
+                                                                   },
                                "Sree Raja Sabari Salem":  {
                                                               "status":  "ok",
                                                               "last_backup":  "2026-06-24",
@@ -262,6 +267,11 @@
                                                                       "last_backup":  "2026-06-22",
                                                                       "db_size_bytes":  922861568
                                                                   },
+                               "Mariyappa Theatre Chidambaram":  {
+                                                                     "status":  "missing",
+                                                                     "last_backup":  "2026-06-23",
+                                                                     "db_size_bytes":  2262777856
+                                                                 },
                                "Sri Ramchandra Cinema Pernambut":  {
                                                                        "status":  "ok",
                                                                        "last_backup":  "2026-06-24",
@@ -477,11 +487,6 @@
                                                                          "last_backup":  "2026-06-17",
                                                                          "db_size_bytes":  490459136
                                                                      },
-                               "Rohini Silver Screen Chennai":  {
-                                                                    "status":  "ok",
-                                                                    "last_backup":  "2026-06-24",
-                                                                    "db_size_bytes":  null
-                                                                },
                                "Thangaregal Cinemas Madurai":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-06-24",
@@ -4098,5 +4103,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-24 12:00:03"
+    "started_at":  "2026-06-24 14:00:03"
 }
