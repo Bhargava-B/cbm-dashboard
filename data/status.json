@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-24 09:09:13",
+    "generated_at":  "2026-06-24 11:25:47",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -58,9 +58,9 @@
                                                          "db_size_bytes":  588013056
                                                      },
                                "Makkal Cinemas Aravakurichi":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-23",
-                                                                   "db_size_bytes":  950517760
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-24",
+                                                                   "db_size_bytes":  952684544
                                                                },
                                "Kasi Talkies Chennai":  {
                                                             "status":  "ok",
@@ -213,9 +213,9 @@
                                                                    "db_size_bytes":  22184859136
                                                                },
                                "Hari Theatre Pattabiram Chennai":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-23",
-                                                                       "db_size_bytes":  156745728
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-24",
+                                                                       "db_size_bytes":  157995008
                                                                    },
                                "Aascars Multiplex Salem":  {
                                                                "status":  "ok",
@@ -293,9 +293,9 @@
                                                                 "db_size_bytes":  284413952
                                                             },
                                "Venkateswara Cinemas Kundrathur":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-23",
-                                                                       "db_size_bytes":  2128531456
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-24",
+                                                                       "db_size_bytes":  2133250048
                                                                    },
                                "Srinivasa Theatre Thirukoilur":  {
                                                                      "status":  "ok",
@@ -847,9 +847,9 @@
                                                                     "db_size_bytes":  947965952
                                                                 },
                                   "Asian Srinivasa - Mancherial":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-22",
-                                                                       "db_size_bytes":  4346961920
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-24",
+                                                                       "db_size_bytes":  4348702720
                                                                    },
                                   "Asian Radhika Multiplex - ECIL":  {
                                                                          "status":  "ok",
@@ -1164,9 +1164,9 @@
                                                                          "db_size_bytes":  3411632128
                                                                      },
                                "Sri Manikanta 70mm Theatres":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-23",
-                                                                   "db_size_bytes":  373997568
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-24",
+                                                                   "db_size_bytes":  378589184
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
                                                                         "status":  "missing",
@@ -2705,8 +2705,8 @@
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Prabha Theatre - Mysuru":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-06-23",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-06-24",
                                                                "db_size_bytes":  null
                                                            },
                                "Swagath ShankarNag (ONYX) LED Cinema - MG Road":  {
@@ -2725,8 +2725,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Gowrishankar Theatre - Vijayapura":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-06-23",
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-06-24",
                                                                              "db_size_bytes":  null
                                                                          },
                                "Vinayaka Cinemas 4K Dolby 11.5 AC 3D - Harinagar":  {
@@ -2915,8 +2915,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Jai Bharath Theatre -Tumkur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-23",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-24",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Vinayaka Cinemas DJ Halli":  {
@@ -2940,8 +2940,8 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "Woodlands Theatre -Mysore":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-23",
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-24",
                                                                  "db_size_bytes":  null
                                                              },
                                "Kamakya Cinema - Banashankari":  {
@@ -2995,8 +2995,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-06-23",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-06-24",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3237,8 +3237,8 @@
                                                                                     "db_size_bytes":  2619199488
                                                                                 },
                                "Sri Lakshmi Multiplex Nova Cinemaz - Nallajerla":  {
-                                                                                       "status":  "missing",
-                                                                                       "last_backup":  "2026-06-23",
+                                                                                       "status":  "ok",
+                                                                                       "last_backup":  "2026-06-24",
                                                                                        "db_size_bytes":  null
                                                                                    },
                                "Sun Cinemax Venkata Gouri AC DTS - Palakonda":  {
@@ -3267,8 +3267,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-06-23",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-06-24",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3597,8 +3597,8 @@
                                                                    "db_size_bytes":  2413416448
                                                                },
                                "Jamuna Complex - Podalakur":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-23",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-24",
                                                                   "db_size_bytes":  null
                                                               },
                                "SLN Multiplex - Adda Road":  {
@@ -4078,5 +4078,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-24 08:00:03"
+    "started_at":  "2026-06-24 10:00:03"
 }
