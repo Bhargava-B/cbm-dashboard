@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-24 19:09:13",
+    "generated_at":  "2026-06-24 21:10:57",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -1886,9 +1886,9 @@
                                                                  "db_size_bytes":  2139078656
                                                              },
                                "SP Cinemas Peyad":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-06-20",
-                                                        "db_size_bytes":  1572716544
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-06-24",
+                                                        "db_size_bytes":  1628463104
                                                     },
                                "Anurag Cinema Shoranur":  {
                                                               "status":  "ok",
@@ -2570,8 +2570,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-23",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-24",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
@@ -3462,9 +3462,9 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Sudarshan Theatre - Rotary Nagar Tekkali":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-06-22",
-                                                                                "db_size_bytes":  309248000
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-06-24",
+                                                                                "db_size_bytes":  307675136
                                                                             },
                                "Raja Cinemax AC 2K Dolby - Kothavalasa":  {
                                                                               "status":  "ok",
@@ -4108,5 +4108,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-24 18:00:03"
+    "started_at":  "2026-06-24 20:00:03"
 }
