@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-24 15:19:19",
+    "generated_at":  "2026-06-24 17:03:51",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -58,9 +58,9 @@
                                                                "db_size_bytes":  541229056
                                                            },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "missing",
-                                                         "last_backup":  "2026-06-19",
-                                                         "db_size_bytes":  588013056
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-06-24",
+                                                         "db_size_bytes":  584867328
                                                      },
                                "Medavakkam Kumaran Cinemas RGB Laser":  {
                                                                             "status":  "ok",
@@ -87,6 +87,11 @@
                                                                    "last_backup":  "2026-06-24",
                                                                    "db_size_bytes":  702922752
                                                                },
+                               "Anna Theatre AC Erode":  {
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-06-23",
+                                                             "db_size_bytes":  4133822464
+                                                         },
                                "Lathaa Cinemas Chengalpattu":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-06-24",
@@ -407,10 +412,10 @@
                                                                  "last_backup":  "2026-06-24",
                                                                  "db_size_bytes":  667389952
                                                              },
-                               "Mariyam Cinemas Trichy":  {
+                               "Aascars Cinema Katpadi":  {
                                                               "status":  "ok",
                                                               "last_backup":  "2026-06-24",
-                                                              "db_size_bytes":  1238822912
+                                                              "db_size_bytes":  526799360
                                                           },
                                "ASHOK THEATRE PONDICHERRY":  {
                                                                  "status":  "ok",
@@ -477,11 +482,6 @@
                                                                       "last_backup":  "2026-06-24",
                                                                       "db_size_bytes":  1627185152
                                                                   },
-                               "Aascars Cinema Katpadi":  {
-                                                              "status":  "ok",
-                                                              "last_backup":  "2026-06-24",
-                                                              "db_size_bytes":  526799360
-                                                          },
                                "Murukalaya Vishal Cinema Pollachi":  {
                                                                          "status":  "missing",
                                                                          "last_backup":  "2026-06-17",
@@ -512,11 +512,11 @@
                                                                     "last_backup":  "2026-06-24",
                                                                     "db_size_bytes":  2514358272
                                                                 },
-                               "Anna Theatre AC Erode":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-06-23",
-                                                             "db_size_bytes":  4133822464
-                                                         },
+                               "A Moorthys Drive In Theatre":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-24",
+                                                                   "db_size_bytes":  256503808
+                                                               },
                                "Rakki Meenakshi Avadi":  {
                                                              "status":  "ok",
                                                              "last_backup":  "2026-06-24",
@@ -557,6 +557,11 @@
                                                                  "last_backup":  "2026-06-24",
                                                                  "db_size_bytes":  13827883520
                                                              },
+                               "Mariyam Cinemas Trichy":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-24",
+                                                              "db_size_bytes":  1238822912
+                                                          },
                                "Shanthi Cinemas Thiruverumbur":  {
                                                                      "status":  "ok",
                                                                      "last_backup":  "2026-06-24",
@@ -3067,8 +3072,8 @@
                            },
                     "AP":  {
                                "Chandra Guptha and Chanukya Theater":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-06-23",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-06-24",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Sudha Theater AC UFO 2K Dolby - Proddatur":  {
@@ -3852,8 +3857,8 @@
                                                         "db_size_bytes":  3389610496
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-06-24",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3599216640
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4103,5 +4108,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-24 14:00:03"
+    "started_at":  "2026-06-24 16:00:03"
 }
