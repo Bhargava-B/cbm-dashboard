@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-25 17:05:10",
+    "generated_at":  "2026-06-25 19:06:38",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -230,7 +230,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-06-25",
-                                                                  "db_size_bytes":  871030784
+                                                                  "db_size_bytes":  845799424
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -305,7 +305,7 @@
                                "Cosmos Cinemas Coimbatore":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-06-25",
-                                                                 "db_size_bytes":  1994579968
+                                                                 "db_size_bytes":  1982578688
                                                              },
                                "Rakki Meenakshi Avadi":  {
                                                              "status":  "ok",
@@ -1356,8 +1356,8 @@
                                                             "db_size_bytes":  4059496448
                                                         },
                                "MAR Basil EVM Theatre Rajakumari":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-24",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-25",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Dream Cinemas Thodupuzha":  {
@@ -4153,5 +4153,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-25 16:00:02"
+    "started_at":  "2026-06-25 18:00:02"
 }
