@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-25 13:32:46",
+    "generated_at":  "2026-06-25 15:19:23",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -58,8 +58,8 @@
                                                                "db_size_bytes":  541622272
                                                            },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-06-25",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  588799488
                                                      },
                                "Medavakkam Kumaran Cinemas RGB Laser":  {
@@ -108,9 +108,9 @@
                                                             "db_size_bytes":  null
                                                         },
                                "Sri Vigneshwara Theatre DOLBY ATMOS":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-06-22",
-                                                                           "db_size_bytes":  3003961344
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-06-25",
+                                                                           "db_size_bytes":  3003965440
                                                                        },
                                "LA Ram CInemas Perambalur":  {
                                                                  "status":  "ok",
@@ -173,8 +173,8 @@
                                                                      "db_size_bytes":  1648893952
                                                                  },
                                "Vijay Park Multiplex Chennai":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-23",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-25",
                                                                     "db_size_bytes":  null
                                                                 },
                                "LA Cinemas Shanthi Mannargudi":  {
@@ -242,6 +242,11 @@
                                                                        "last_backup":  "2026-06-25",
                                                                        "db_size_bytes":  158253056
                                                                    },
+                               "Sri Rajan Cinemas Chetpet":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-25",
+                                                                 "db_size_bytes":  442286080
+                                                             },
                                "PSS Multiplex Tirunelveli":  {
                                                                  "status":  "missing",
                                                                  "last_backup":  "2026-06-24",
@@ -693,9 +698,9 @@
                                                                        "db_size_bytes":  549982208
                                                                    },
                                "Krishnaveni Cinema T Nagar":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-24",
-                                                                  "db_size_bytes":  5360214016
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-25",
+                                                                  "db_size_bytes":  5359149056
                                                               }
                            },
                     "OR":  {
@@ -1189,9 +1194,9 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "VLS Sridevi 2K AC Dts - Chilakalguda":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-06-22",
-                                                                            "db_size_bytes":  3152072704
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-06-25",
+                                                                            "db_size_bytes":  3117862912
                                                                         },
                                "Sandhya 70MM 4K Dolby Atmos - RTC X Roads":  {
                                                                                  "status":  "ok",
@@ -2196,8 +2201,8 @@
                                                                       "db_size_bytes":  2755252224
                                                                   },
                                "Ashoka Theatre Vadanapally":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-24",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-25",
                                                                   "db_size_bytes":  null
                                                               },
                                "Sreedevi S Cinemas Kodaly":  {
@@ -4138,5 +4143,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-25 12:00:02"
+    "started_at":  "2026-06-25 14:00:02"
 }
