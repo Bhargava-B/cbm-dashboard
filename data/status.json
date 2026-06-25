@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-25 11:24:37",
+    "generated_at":  "2026-06-25 13:32:46",
     "regions":  {
                     "TN":  {
                                "Sakthi Cinemas Tirupur":  {
@@ -17,11 +17,11 @@
                                                                        "last_backup":  "2026-06-25",
                                                                        "db_size_bytes":  5059706880
                                                                    },
-                               "Raja Talkies Pondicherry":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-06-25",
-                                                                "db_size_bytes":  121180160
-                                                            },
+                               "Mani Talkies 2K RGB Laser Minjur":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-25",
+                                                                        "db_size_bytes":  4472827904
+                                                                    },
                                "Sathya Cinemas 2K Dolby Atmos":  {
                                                                      "status":  "ok",
                                                                      "last_backup":  "2026-06-25",
@@ -37,11 +37,11 @@
                                                        "last_backup":  "2026-06-25",
                                                        "db_size_bytes":  3221934080
                                                    },
-                               "Kovai Shanti Complex Coimbatore":  {
-                                                                       "status":  "ok",
-                                                                       "last_backup":  "2026-06-25",
-                                                                       "db_size_bytes":  4247080960
-                                                                   },
+                               "Kasi Talkies Chennai":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-06-25",
+                                                            "db_size_bytes":  null
+                                                        },
                                "Kumaran Theatre Madipakkam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-06-25",
@@ -63,20 +63,15 @@
                                                          "db_size_bytes":  588799488
                                                      },
                                "Medavakkam Kumaran Cinemas RGB Laser":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-06-24",
-                                                                            "db_size_bytes":  2623000576
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-06-25",
+                                                                            "db_size_bytes":  2612121600
                                                                         },
                                "Kaveri Cinema Coimbatore":  {
                                                                 "status":  "ok",
                                                                 "last_backup":  "2026-06-25",
                                                                 "db_size_bytes":  null
                                                             },
-                               "Kasi Talkies Chennai":  {
-                                                            "status":  "ok",
-                                                            "last_backup":  "2026-06-25",
-                                                            "db_size_bytes":  null
-                                                        },
                                "Frame Cinemas Thanjavur":  {
                                                                "status":  "ok",
                                                                "last_backup":  "2026-06-25",
@@ -92,10 +87,10 @@
                                                              "last_backup":  "2026-06-23",
                                                              "db_size_bytes":  4133822464
                                                          },
-                               "Lathaa Cinemas Chengalpattu":  {
+                               "Arasan Cinema AC Coimbatore":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-06-25",
-                                                                   "db_size_bytes":  1681252352
+                                                                   "db_size_bytes":  3348815872
                                                                },
                                "Sri Ganesh Theatre Uthangarai":  {
                                                                      "status":  "ok",
@@ -132,6 +127,11 @@
                                                      "last_backup":  "2026-06-25",
                                                      "db_size_bytes":  1825016320
                                                  },
+                               "Lathaa Cinemas Chengalpattu":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-25",
+                                                                   "db_size_bytes":  1681252352
+                                                               },
                                "LA Cinemas Thuraiyur":  {
                                                             "status":  "ok",
                                                             "last_backup":  "2026-06-25",
@@ -147,11 +147,11 @@
                                                                   "last_backup":  "2026-06-25",
                                                                   "db_size_bytes":  3061551104
                                                               },
-                               "Rohini Silver Screen Chennai":  {
-                                                                    "status":  "ok",
-                                                                    "last_backup":  "2026-06-25",
-                                                                    "db_size_bytes":  null
-                                                                },
+                               "GK Cinemas 2K Dolby Atmos Porur":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-25",
+                                                                       "db_size_bytes":  1023328256
+                                                                   },
                                "VR Cinemas Pattabiram":  {
                                                              "status":  "ok",
                                                              "last_backup":  "2026-06-25",
@@ -187,11 +187,11 @@
                                                              "last_backup":  "2026-06-25",
                                                              "db_size_bytes":  635678720
                                                          },
-                               "GK Cinemas 2K Dolby Atmos Porur":  {
-                                                                       "status":  "ok",
-                                                                       "last_backup":  "2026-06-25",
-                                                                       "db_size_bytes":  1023328256
-                                                                   },
+                               "LA Cinemas Gomathi":  {
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-06-25",
+                                                          "db_size_bytes":  311803904
+                                                      },
                                "Sree Raja Sabari Salem":  {
                                                               "status":  "ok",
                                                               "last_backup":  "2026-06-25",
@@ -213,18 +213,23 @@
                                                                 "db_size_bytes":  1002369024
                                                             },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-24",
-                                                                "db_size_bytes":  279342592
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-25",
+                                                                "db_size_bytes":  276386304
                                                             },
                                "Janatha Theatre Pallavaram":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-06-25",
                                                                   "db_size_bytes":  2243284992
                                                               },
+                               "Shanmuga Cinemas Puducherry":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-25",
+                                                                   "db_size_bytes":  1280405504
+                                                               },
                                "SPR Cine Castle Salem":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-06-23",
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-06-25",
                                                              "db_size_bytes":  null
                                                          },
                                "DMAX DNC Theatre Dharmapuri":  {
@@ -237,6 +242,11 @@
                                                                        "last_backup":  "2026-06-25",
                                                                        "db_size_bytes":  158253056
                                                                    },
+                               "PSS Multiplex Tirunelveli":  {
+                                                                 "status":  "missing",
+                                                                 "last_backup":  "2026-06-24",
+                                                                 "db_size_bytes":  13827883520
+                                                             },
                                "Aascars Multiplex Salem":  {
                                                                "status":  "ok",
                                                                "last_backup":  "2026-06-25",
@@ -277,11 +287,11 @@
                                                                      "last_backup":  "2026-06-25",
                                                                      "db_size_bytes":  2259406848
                                                                  },
-                               "Sri Ramchandra Cinema Pernambut":  {
-                                                                       "status":  "ok",
-                                                                       "last_backup":  "2026-06-25",
-                                                                       "db_size_bytes":  384548864
-                                                                   },
+                               "Shreepathy Cinemas Thanjavur":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-25",
+                                                                    "db_size_bytes":  605290496
+                                                                },
                                "ARK Ram Muthuram Cinemas Tirunelveli":  {
                                                                             "status":  "ok",
                                                                             "last_backup":  "2026-06-25",
@@ -297,11 +307,11 @@
                                                                         "last_backup":  "2026-06-25",
                                                                         "db_size_bytes":  8100446208
                                                                     },
-                               "Shreepathy Cinemas Thanjavur":  {
-                                                                    "status":  "ok",
-                                                                    "last_backup":  "2026-06-25",
-                                                                    "db_size_bytes":  605290496
-                                                                },
+                               "Maala Cinemas":  {
+                                                     "status":  "ok",
+                                                     "last_backup":  "2026-06-25",
+                                                     "db_size_bytes":  170573824
+                                                 },
                                "Srinivasa Cinemas SAP Tirupur":  {
                                                                      "status":  "ok",
                                                                      "last_backup":  "2026-06-25",
@@ -337,10 +347,10 @@
                                                                "last_backup":  "2026-06-25",
                                                                "db_size_bytes":  3307039232
                                                            },
-                               "Makkal Cinemas Aravakurichi":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-06-25",
-                                                                   "db_size_bytes":  954322944
+                               "Karpagam Theatre Coimbatore":  {
+                                                                   "status":  "missing",
+                                                                   "last_backup":  "2026-06-24",
+                                                                   "db_size_bytes":  null
                                                                },
                                "Sri Bhagavathi 4K Atmos Poonamallee":  {
                                                                            "status":  "ok",
@@ -422,21 +432,21 @@
                                                                  "last_backup":  "2026-06-25",
                                                                  "db_size_bytes":  147701760
                                                              },
-                               "Shanmuga Cinemas Puducherry":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-06-25",
-                                                                   "db_size_bytes":  1280405504
+                               "Ashoka Cinema - Kalwakurthy":  {
+                                                                   "status":  "missing",
+                                                                   "last_backup":  null,
+                                                                   "db_size_bytes":  null
                                                                },
                                "Karthikeyan Cinemas Kanchipuram":  {
                                                                        "status":  "ok",
                                                                        "last_backup":  "2026-06-25",
                                                                        "db_size_bytes":  408993792
                                                                    },
-                               "Karpagam Theatre Coimbatore":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-24",
-                                                                   "db_size_bytes":  null
-                                                               },
+                               "LA Cinemas Thiruverumbur":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-25",
+                                                                "db_size_bytes":  414276096
+                                                            },
                                "Arul Muruga Thiruporur":  {
                                                               "status":  "missing",
                                                               "last_backup":  "2026-06-13",
@@ -447,11 +457,16 @@
                                                                              "last_backup":  "2026-06-25",
                                                                              "db_size_bytes":  2260410368
                                                                          },
-                               "Assembly Rooms Ooty":  {
-                                                           "status":  "ok",
-                                                           "last_backup":  "2026-06-25",
-                                                           "db_size_bytes":  678215680
-                                                       },
+                               "Sri Ramchandra Cinema Pernambut":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-25",
+                                                                       "db_size_bytes":  384548864
+                                                                   },
+                               "Kovai Shanti Complex Coimbatore":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-25",
+                                                                       "db_size_bytes":  4247080960
+                                                                   },
                                "Sri Jayalakshmi Cinema Uthiramerur":  {
                                                                           "status":  "ok",
                                                                           "last_backup":  "2026-06-25",
@@ -478,15 +493,30 @@
                                                                   "db_size_bytes":  6444838912
                                                               },
                                "Sree Meenambika Cinema Somanur":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-24",
-                                                                      "db_size_bytes":  1627185152
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-25",
+                                                                      "db_size_bytes":  1629155328
                                                                   },
-                               "Murukalaya Vishal Cinema Pollachi":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-17",
-                                                                         "db_size_bytes":  490459136
-                                                                     },
+                               "Makkal Cinemas Aravakurichi":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-25",
+                                                                   "db_size_bytes":  954322944
+                                                               },
+                               "Rohini Silver Screen Chennai":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-25",
+                                                                    "db_size_bytes":  null
+                                                                },
+                               "Jothi Theatre Viralimalai Trichy":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-25",
+                                                                        "db_size_bytes":  578424832
+                                                                    },
+                               "Assembly Rooms Ooty":  {
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-06-25",
+                                                           "db_size_bytes":  678215680
+                                                       },
                                "Thangaregal Cinemas Madurai":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-06-25",
@@ -497,11 +527,11 @@
                                                                    "last_backup":  "2026-06-25",
                                                                    "db_size_bytes":  null
                                                                },
-                               "Arasan Cinema AC Coimbatore":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-06-25",
-                                                                   "db_size_bytes":  3348815872
-                                                               },
+                               "Raja Talkies Pondicherry":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-25",
+                                                                "db_size_bytes":  121180160
+                                                            },
                                "Sri Venkatesa Cinemas Trichy":  {
                                                                     "status":  "ok",
                                                                     "last_backup":  "2026-06-25",
@@ -552,11 +582,11 @@
                                                                         "last_backup":  "2026-06-25",
                                                                         "db_size_bytes":  320724992
                                                                     },
-                               "PSS Multiplex Tirunelveli":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-24",
-                                                                 "db_size_bytes":  13827883520
-                                                             },
+                               "Murukalaya Vishal Cinema Pollachi":  {
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-06-17",
+                                                                         "db_size_bytes":  490459136
+                                                                     },
                                "Mariyam Cinemas Trichy":  {
                                                               "status":  "ok",
                                                               "last_backup":  "2026-06-25",
@@ -612,11 +642,11 @@
                                                                                "last_backup":  "2026-06-25",
                                                                                "db_size_bytes":  216907776
                                                                            },
-                               "Mani Talkies 2K RGB Laser Minjur":  {
-                                                                        "status":  "ok",
-                                                                        "last_backup":  "2026-06-25",
-                                                                        "db_size_bytes":  4472827904
-                                                                    },
+                               "Broadway Cinemas Tirupur":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-25",
+                                                                "db_size_bytes":  1933699584
+                                                            },
                                "Vetri Cinemas Maattuthavani Madurai":  {
                                                                            "status":  "ok",
                                                                            "last_backup":  "2026-06-25",
@@ -742,9 +772,9 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                   "Asian Darshan - Kamareddy":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-24",
-                                                                    "db_size_bytes":  2291712000
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-25",
+                                                                    "db_size_bytes":  2292432896
                                                                 },
                                   "Asian Sri Mohan - Zaheerabad":  {
                                                                        "status":  "ok",
@@ -777,9 +807,9 @@
                                                                     "db_size_bytes":  3004616704
                                                                 },
                                   "Asian Manoj - Devarakonda":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-24",
-                                                                    "db_size_bytes":  1490341888
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-25",
+                                                                    "db_size_bytes":  1492893696
                                                                 },
                                   "Asian Mukund - Mahabubabad":  {
                                                                      "status":  "ok",
@@ -832,9 +862,9 @@
                                                                                 "db_size_bytes":  7546404864
                                                                             },
                                   "Asian Srinivasa Theater - Miryalaguda":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-06-24",
-                                                                                "db_size_bytes":  930734080
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-06-25",
+                                                                                "db_size_bytes":  934666240
                                                                             },
                                   "Asian Srinivasa - Khammam":  {
                                                                     "status":  "ok",
@@ -1004,9 +1034,9 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Santhi Theatre - Madhira":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-24",
-                                                                "db_size_bytes":  490717184
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-25",
+                                                                "db_size_bytes":  491175936
                                                             },
                                "Sai Balaji Theatre - Sathupally":  {
                                                                        "status":  "ok",
@@ -1194,9 +1224,9 @@
                                                                    "db_size_bytes":  379310080
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-22",
-                                                                        "db_size_bytes":  670154752
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-25",
+                                                                        "db_size_bytes":  667860992
                                                                     },
                                "Seetarama Cinemas - Manuguru":  {
                                                                     "status":  "missing",
@@ -1841,9 +1871,9 @@
                                                                 "db_size_bytes":  182697984
                                                             },
                                "IMP Big Screen 2K 3D Parassala":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-11",
-                                                                      "db_size_bytes":  728420352
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-25",
+                                                                      "db_size_bytes":  729661440
                                                                   },
                                "Capitol Upasana Theatre Ranni":  {
                                                                      "status":  "ok",
@@ -2860,8 +2890,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Geetanjali -Davanagere":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-24",
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-25",
                                                               "db_size_bytes":  null
                                                           },
                                "Ramakrishna Picture Palace - Siruguppa":  {
@@ -3050,8 +3080,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-23",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-25",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3122,9 +3152,9 @@
                                                    "db_size_bytes":  null
                                                },
                                "Surya Cinemax - Draksharamam":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-24",
-                                                                    "db_size_bytes":  511688704
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-25",
+                                                                    "db_size_bytes":  513064960
                                                                 },
                                "Sri Anu Deluxe - Agiripalli":  {
                                                                    "status":  "missing",
@@ -3162,8 +3192,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Apsara Cinema House - Vijayawada":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-24",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-25",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Lalitha Talkies 2K AC DTS - Rampachodavaram":  {
@@ -3347,8 +3377,8 @@
                                                                 "db_size_bytes":  1638961152
                                                             },
                                "Suresh Mahal AC 4K Padmakar Films - Vinukonda":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-06-24",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-06-25",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
@@ -4108,5 +4138,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-25 10:00:02"
+    "started_at":  "2026-06-25 12:00:02"
 }
