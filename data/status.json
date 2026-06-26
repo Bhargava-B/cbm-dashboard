@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-26 11:23:08",
+    "generated_at":  "2026-06-26 13:21:36",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -503,9 +503,9 @@
                                                                      "db_size_bytes":  1634062336
                                                                  },
                                "Divya Theatre Puducherry":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-25",
-                                                                "db_size_bytes":  284676096
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-26",
+                                                                "db_size_bytes":  276549632
                                                             },
                                "Raja Cinemas Perambalur":  {
                                                                "status":  "ok",
@@ -543,9 +543,9 @@
                                                             "db_size_bytes":  null
                                                         },
                                "Srinivasa Cinemas SAP Tirupur":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-06-25",
-                                                                     "db_size_bytes":  1600998912
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-06-26",
+                                                                     "db_size_bytes":  1601194496
                                                                  },
                                "Rohini Silver Screen Chennai":  {
                                                                     "status":  "ok",
@@ -1124,8 +1124,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Acchi Reddy Theater AC Dolby DTS - Haliya":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-06-24",
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-06-26",
                                                                                  "db_size_bytes":  null
                                                                              },
                                "cinemax - Medak":  {
@@ -3095,8 +3095,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-25",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-26",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3105,8 +3105,8 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Vainidhi Digital 4K Dolby 7.1 (AC) - Singapura":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-06-25",
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-06-26",
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "V CINEMA RAMMURTHY NAGAR(4 screens)":  {
@@ -3347,8 +3347,8 @@
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-25",
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-26",
                                                                       "db_size_bytes":  null
                                                                   },
                                "Srinivasa Mahal - Kanchikacherla":  {
@@ -3392,8 +3392,8 @@
                                                                 "db_size_bytes":  1638670336
                                                             },
                                "Suresh Mahal AC 4K Padmakar Films - Vinukonda":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-06-25",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-06-26",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
@@ -4153,5 +4153,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-26 10:00:02"
+    "started_at":  "2026-06-26 12:00:02"
 }
