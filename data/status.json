@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-26 09:11:01",
+    "generated_at":  "2026-06-26 11:23:08",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -807,9 +807,9 @@
                                                                            "db_size_bytes":  4149108736
                                                                        },
                                   "Asian Natraj Deluxe Theatre A -c - Sircilla":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-06-25",
-                                                                                      "db_size_bytes":  2084831232
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-06-26",
+                                                                                      "db_size_bytes":  2084212736
                                                                                   },
                                   "Asian Sha Shahensha - Chintal":  {
                                                                         "status":  "ok",
@@ -1049,9 +1049,9 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Santhi Theatre - Madhira":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-25",
-                                                                "db_size_bytes":  491175936
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-26",
+                                                                "db_size_bytes":  494272512
                                                             },
                                "Sai Balaji Theatre - Sathupally":  {
                                                                        "status":  "ok",
@@ -2925,8 +2925,8 @@
                                                                                              "db_size_bytes":  null
                                                                                          },
                                "Laxmi pride cinemas -Hubli":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-25",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-26",
                                                                   "db_size_bytes":  null
                                                               },
                                "Venkateshwhara Theater Gollarahatti":  {
@@ -2990,8 +2990,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Jai Bharath Theatre -Tumkur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-25",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-26",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Vinayaka Cinemas DJ Halli":  {
@@ -3070,8 +3070,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-06-25",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-06-26",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3337,13 +3337,13 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Sowmya Theatre Chittinagar - Vijayawada":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-06-25",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-06-26",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-06-25",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-06-26",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3622,9 +3622,9 @@
                                                                                            "db_size_bytes":  null
                                                                                        },
                                "Sri Devi Mahal - Amadalavalasa":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-25",
-                                                                      "db_size_bytes":  294830080
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-26",
+                                                                      "db_size_bytes":  297476096
                                                                   },
                                "Srinivasa Theater AC 2K Dolby - Markapur":  {
                                                                                 "status":  "ok",
@@ -4153,5 +4153,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-26 08:00:02"
+    "started_at":  "2026-06-26 10:00:02"
 }
