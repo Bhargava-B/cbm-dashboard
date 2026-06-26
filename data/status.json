@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-26 19:05:03",
+    "generated_at":  "2026-06-26 21:05:57",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -2615,8 +2615,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-25",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-06-26",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
@@ -3922,8 +3922,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Ravindra Cinemas - Vijayawada":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-06-23",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-06-26",
                                                                      "db_size_bytes":  null
                                                                  },
                                "VPC 4K Dolby Atmos - Amalapuram":  {
@@ -4153,5 +4153,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-26 18:00:02"
+    "started_at":  "2026-06-26 20:00:02"
 }
