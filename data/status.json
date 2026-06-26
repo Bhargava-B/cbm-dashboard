@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-26 15:17:04",
+    "generated_at":  "2026-06-26 17:09:23",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -558,9 +558,9 @@
                                                                    "db_size_bytes":  22346324480
                                                                },
                                "Sri Rajan Cinemas Chetpet":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-06-25",
-                                                                 "db_size_bytes":  442286080
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-06-26",
+                                                                 "db_size_bytes":  443412480
                                                              },
                                "Kavitha Cinemas K G Chavadi":  {
                                                                    "status":  "ok",
@@ -658,8 +658,8 @@
                                                                "db_size_bytes":  6055993344
                                                            },
                                "Karpagam Theatre Coimbatore":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-24",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-06-26",
                                                                    "db_size_bytes":  null
                                                                },
                                "Revathi Theatre Tirupur":  {
@@ -3902,8 +3902,8 @@
                                                         "db_size_bytes":  3396618752
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-06-26",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3610320896
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4153,5 +4153,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-26 14:00:02"
+    "started_at":  "2026-06-26 16:00:02"
 }
