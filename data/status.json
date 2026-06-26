@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-26 13:21:36",
+    "generated_at":  "2026-06-26 15:17:04",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -23,8 +23,8 @@
                                                                     "db_size_bytes":  1188941824
                                                                 },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-06-26",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  585719296
                                                      },
                                "Thangaregal Cinemas Madurai":  {
@@ -822,9 +822,9 @@
                                                                     "db_size_bytes":  3009994752
                                                                 },
                                   "Asian Manoj - Devarakonda":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-25",
-                                                                    "db_size_bytes":  1492893696
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-06-26",
+                                                                    "db_size_bytes":  1496236032
                                                                 },
                                   "Asian Mukund - Mahabubabad":  {
                                                                      "status":  "ok",
@@ -2196,9 +2196,9 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Thalam Theatre Wadakkancherry":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-06-25",
-                                                                     "db_size_bytes":  null
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-06-26",
+                                                                     "db_size_bytes":  1871593472
                                                                  },
                                "Avishkar Cinemas Kottayi":  {
                                                                 "status":  "ok",
@@ -4153,5 +4153,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-26 12:00:02"
+    "started_at":  "2026-06-26 14:00:02"
 }
