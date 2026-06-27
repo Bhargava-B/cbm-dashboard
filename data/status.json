@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-27 15:20:15",
+    "generated_at":  "2026-06-27 17:08:26",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -2133,7 +2133,7 @@
                                "Penta Cinemas Pulpally":  {
                                                               "status":  "ok",
                                                               "last_backup":  "2026-06-27",
-                                                              "db_size_bytes":  null
+                                                              "db_size_bytes":  1946882048
                                                           },
                                "E Max Cinemas RGB Laser Calicut":  {
                                                                        "status":  "ok",
@@ -3902,8 +3902,8 @@
                                                         "db_size_bytes":  3401015808
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-06-27",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3623485440
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4153,5 +4153,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-27 14:00:02"
+    "started_at":  "2026-06-27 16:00:02"
 }
