@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-28 13:25:28",
+    "generated_at":  "2026-06-28 15:19:53",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -23,8 +23,8 @@
                                                                     "db_size_bytes":  1192218624
                                                                 },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-06-28",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  608723456
                                                      },
                                "Thangaregal Cinemas Madurai":  {
@@ -2016,9 +2016,9 @@
                                                                         "db_size_bytes":  794542080
                                                                     },
                                "VINAYAKA THEATRE COMPLEX Kanhangad":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-06-27",
-                                                                          "db_size_bytes":  1169080320
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-06-28",
+                                                                          "db_size_bytes":  1168752640
                                                                       },
                                "D Cinema Kodungallur":  {
                                                             "status":  "ok",
@@ -2071,9 +2071,9 @@
                                                                       "db_size_bytes":  2748305408
                                                                   },
                                "JK Cinemas Irinjalakuda":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-06-27",
-                                                               "db_size_bytes":  2155667456
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-06-28",
+                                                               "db_size_bytes":  2157568000
                                                            },
                                "Thangaraj Theatre Kollengode":  {
                                                                     "status":  "ok",
@@ -2565,8 +2565,8 @@
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "Sri Venkateshwara Theatre - Sidlaghatta":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-06-27",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-06-28",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Pushpanjali 2K Digital AC Theater B N Pura":  {
@@ -4153,5 +4153,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-28 12:00:02"
+    "started_at":  "2026-06-28 14:00:02"
 }
