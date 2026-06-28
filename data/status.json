@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-28 17:11:50",
+    "generated_at":  "2026-06-28 19:04:06",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -328,9 +328,9 @@
                                                         "db_size_bytes":  1332019200
                                                     },
                                "Sri Murugan theatre Ammapettai":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-22",
-                                                                      "db_size_bytes":  922861568
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-28",
+                                                                      "db_size_bytes":  930746368
                                                                   },
                                "GK Poonga Theatre Manampathi":  {
                                                                     "status":  "ok",
@@ -1316,9 +1316,9 @@
                                                            "db_size_bytes":  5416136704
                                                        },
                                "GTracks Screen2 Trivandrum":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-27",
-                                                                  "db_size_bytes":  790941696
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-28",
+                                                                  "db_size_bytes":  791203840
                                                               },
                                "Blue Moon Theatre Pulpally":  {
                                                                   "status":  "ok",
@@ -3242,9 +3242,9 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateshwara Mahal AC Dolby Atmos 2K - Punganur":  {
-                                                                                            "status":  "missing",
-                                                                                            "last_backup":  "2026-06-27",
-                                                                                            "db_size_bytes":  215339008
+                                                                                            "status":  "ok",
+                                                                                            "last_backup":  "2026-06-28",
+                                                                                            "db_size_bytes":  218157056
                                                                                         },
                                "Sri Venkateswara Theatres Dolby 7.1 2K and 4K - Vizag":  {
                                                                                              "status":  "ok",
@@ -4153,5 +4153,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-28 16:00:02"
+    "started_at":  "2026-06-28 18:00:02"
 }
