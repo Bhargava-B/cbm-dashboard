@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-29 13:29:33",
+    "generated_at":  "2026-06-29 15:23:10",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -23,8 +23,8 @@
                                                                     "db_size_bytes":  1193656320
                                                                 },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-06-29",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  614883840
                                                      },
                                "Thangaregal Cinemas Madurai":  {
@@ -2765,8 +2765,8 @@
                                                                                                            "db_size_bytes":  null
                                                                                                        },
                                "LAXMI Picture palace - hospet":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-06-28",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-06-29",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Sri Srinivasa 4K Dolby Atmos AC - Padmanabanagara":  {
@@ -4153,5 +4153,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-29 12:00:02"
+    "started_at":  "2026-06-29 14:00:02"
 }
