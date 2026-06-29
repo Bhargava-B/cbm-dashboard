@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-29 11:23:54",
+    "generated_at":  "2026-06-29 13:29:33",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -133,9 +133,9 @@
                                                                        "db_size_bytes":  2126434304
                                                                    },
                                "Cauvery Theatre":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-06-23",
-                                                       "db_size_bytes":  1031720960
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-06-29",
+                                                       "db_size_bytes":  1035649024
                                                    },
                                "Mariyappa Theatre Chidambaram":  {
                                                                      "status":  "ok",
@@ -2905,8 +2905,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Geetanjali -Davanagere":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-06-28",
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-06-29",
                                                               "db_size_bytes":  null
                                                           },
                                "Ramakrishna Picture Palace - Siruguppa":  {
@@ -3095,8 +3095,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-28",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-06-29",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3177,9 +3177,9 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "JVR Cinemas - Jaggampeta":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-28",
-                                                                "db_size_bytes":  1438351360
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-06-29",
+                                                                "db_size_bytes":  1442177024
                                                             },
                                "Pratap Group Theaters AC 4K Dolby Atmos - Tirupati":  {
                                                                                           "status":  "ok",
@@ -3252,9 +3252,9 @@
                                                                                              "db_size_bytes":  3811864576
                                                                                          },
                                "Sri Sai Rajeswari Complex Cine Hub":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-06-28",
-                                                                          "db_size_bytes":  777699328
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-06-29",
+                                                                          "db_size_bytes":  782864384
                                                                       },
                                "Sri Sivajyothi 2K Cinema 7.1 Dolby - Rajahmundry":  {
                                                                                         "status":  "ok",
@@ -3382,8 +3382,8 @@
                                                                           "db_size_bytes":  4522627072
                                                                       },
                                "Anusri Sai Krishna Theater":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-06-27",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-06-29",
                                                                   "db_size_bytes":  null
                                                               },
                                "Lakshmi Complex - Tanuku":  {
@@ -3682,8 +3682,8 @@
                                                                  "db_size_bytes":  190107648
                                                              },
                                "Jameel Theater - Buchireddypalem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-23",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-06-29",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Chalapathi Mini Theater - Tadepalligudem":  {
@@ -3782,8 +3782,8 @@
                                                                         "db_size_bytes":  875937792
                                                                     },
                                "Dr PV Rao Cineplex - Kanchikacherla":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-06-28",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-06-29",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
@@ -4027,9 +4027,9 @@
                                                                                    "db_size_bytes":  1197481984
                                                                                },
                                "Sree Leela Mahal 4K Dolby Atmos - Vizag":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-06-28",
-                                                                               "db_size_bytes":  724557824
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-06-29",
+                                                                               "db_size_bytes":  722583552
                                                                            },
                                "Palani Picture Palace - Tirupati":  {
                                                                         "status":  "ok",
@@ -4153,5 +4153,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-29 10:00:02"
+    "started_at":  "2026-06-29 12:00:02"
 }
