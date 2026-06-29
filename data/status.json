@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-06-29 17:19:36",
+    "generated_at":  "2026-06-29 19:15:02",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -1461,9 +1461,9 @@
                                                                 "db_size_bytes":  2632445952
                                                             },
                                "VGM Multiplex Theatre Kahangad":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-28",
-                                                                      "db_size_bytes":  3112177664
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-06-29",
+                                                                      "db_size_bytes":  3115782144
                                                                   },
                                "UGM Cinemas 4K Ettumanoor":  {
                                                                  "status":  "ok",
@@ -2266,9 +2266,9 @@
                                                                   "db_size_bytes":  427384320
                                                               },
                                "Swaram Layam Cinema Kattakada":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-06-26",
-                                                                     "db_size_bytes":  1899945984
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-06-29",
+                                                                     "db_size_bytes":  1890836480
                                                                  },
                                "Ariesplex SL Cinemas Trivandrum":  {
                                                                        "status":  "ok",
@@ -4153,5 +4153,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-06-29 16:00:03"
+    "started_at":  "2026-06-29 18:00:02"
 }
