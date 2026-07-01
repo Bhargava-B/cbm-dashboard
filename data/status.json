@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-01 15:29:04",
+    "generated_at":  "2026-07-01 17:21:42",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -1304,9 +1304,9 @@
                                                                         "db_size_bytes":  667598848
                                                                     },
                                "Seetarama Cinemas - Manuguru":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-11",
-                                                                    "db_size_bytes":  108445696
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-01",
+                                                                    "db_size_bytes":  121749504
                                                                 },
                                "Parameswara 70MM - Shadnagar":  {
                                                                     "status":  "ok",
@@ -1416,9 +1416,9 @@
                                                             "db_size_bytes":  4065005568
                                                         },
                                "MAR Basil EVM Theatre Rajakumari":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-30",
-                                                                        "db_size_bytes":  780517376
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-01",
+                                                                        "db_size_bytes":  783138816
                                                                     },
                                "Dream Cinemas Thodupuzha":  {
                                                                 "status":  "missing",
@@ -1621,9 +1621,9 @@
                                                                    "db_size_bytes":  2544750592
                                                                },
                                "Dreambig Jawahar Cinema Kalady":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-30",
-                                                                      "db_size_bytes":  278904832
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-01",
+                                                                      "db_size_bytes":  275824640
                                                                   },
                                "City Cinema Shivdam Kodakara":  {
                                                                     "status":  "ok",
@@ -2286,9 +2286,9 @@
                                                                   "db_size_bytes":  529981440
                                                               },
                                "G Cinemax Multiplex Nedumkandam":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-30",
-                                                                       "db_size_bytes":  1983107072
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-01",
+                                                                       "db_size_bytes":  1984090112
                                                                    },
                                "Lenin Cinemas KSFDC  Trivandrum":  {
                                                                        "status":  "ok",
@@ -2476,9 +2476,9 @@
                                                                "db_size_bytes":  160546816
                                                            },
                                "Ashok cine house Paravur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-30",
-                                                                "db_size_bytes":  1332400128
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-01",
+                                                                "db_size_bytes":  1332924416
                                                             },
                                "Dreambig Mayukh Vadakkenchery":  {
                                                                      "status":  "ok",
@@ -3927,9 +3927,9 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Surya Cinemax - Ramachandrapuram":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-30",
-                                                                        "db_size_bytes":  608878592
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-01",
+                                                                        "db_size_bytes":  609599488
                                                                     },
                                "ABR Cinemas - Gudivada":  {
                                                               "status":  "missing",
@@ -4208,5 +4208,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-01 14:00:02"
+    "started_at":  "2026-07-01 16:00:02"
 }
