@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-01 17:21:42",
+    "generated_at":  "2026-07-01 19:35:21",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -3431,6 +3431,11 @@
                                                                    "last_backup":  "2026-07-01",
                                                                    "db_size_bytes":  null
                                                                },
+                               "Sri Rangamahal Theatre - Tadepalligudem":  {
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-07-01",
+                                                                               "db_size_bytes":  587448320
+                                                                           },
                                "Sri Melody HDR Dolby Atmos - Vizag":  {
                                                                           "status":  "ok",
                                                                           "last_backup":  "2026-07-01",
@@ -3452,9 +3457,9 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  null,
-                                                                "db_size_bytes":  null
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-01",
+                                                                "db_size_bytes":  672514048
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
                                                                                    "status":  "ok",
@@ -3811,11 +3816,11 @@
                                                                            "last_backup":  "2026-07-01",
                                                                            "db_size_bytes":  null
                                                                        },
-                               "Sri Rangamahal Theatre - Tadepalligudem":  {
-                                                                               "status":  "ok",
-                                                                               "last_backup":  "2026-07-01",
-                                                                               "db_size_bytes":  587448320
-                                                                           },
+                               "Cineverse Multiplex - Uppal":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-01",
+                                                                   "db_size_bytes":  442718720
+                                                               },
                                "Asha Cinemas":  {
                                                     "status":  "ok",
                                                     "last_backup":  "2026-07-01",
@@ -4208,5 +4213,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-01 16:00:02"
+    "started_at":  "2026-07-01 18:00:02"
 }
