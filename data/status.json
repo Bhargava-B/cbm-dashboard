@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-01 11:29:21",
+    "generated_at":  "2026-07-01 13:35:28",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -18,9 +18,9 @@
                                                                     "db_size_bytes":  1193525248
                                                                 },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "missing",
-                                                         "last_backup":  "2026-06-19",
-                                                         "db_size_bytes":  617242112
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-07-01",
+                                                         "db_size_bytes":  619994624
                                                      },
                                "Thangaregal Cinemas Madurai":  {
                                                                    "status":  "ok",
@@ -33,9 +33,9 @@
                                                               "db_size_bytes":  3197825024
                                                           },
                                "Gopalakrishna Karanodai Redhills":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-30",
-                                                                        "db_size_bytes":  269271040
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-01",
+                                                                        "db_size_bytes":  270843904
                                                                     },
                                "Janas Cinemas Villupuram":  {
                                                                 "status":  "ok",
@@ -243,9 +243,9 @@
                                                                      "db_size_bytes":  343531520
                                                                  },
                                "Mahalakshmi Theatre Kallakurichi":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-06-30",
-                                                                        "db_size_bytes":  343040000
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-01",
+                                                                        "db_size_bytes":  117559808
                                                                     },
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
@@ -937,9 +937,9 @@
                                                                                 "db_size_bytes":  7547887616
                                                                             },
                                   "Asian Srinivasa Theater - Miryalaguda":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-06-30",
-                                                                                "db_size_bytes":  930664448
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-07-01",
+                                                                                "db_size_bytes":  933941248
                                                                             },
                                   "Asian Srinivasa - Khammam":  {
                                                                     "status":  "ok",
@@ -2060,11 +2060,11 @@
                                                              "last_backup":  "2026-07-01",
                                                              "db_size_bytes":  3151810560
                                                          },
-                               "Magic Frames Sahina Cinemas Mattannur":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-06-29",
-                                                                             "db_size_bytes":  null
-                                                                         },
+                               "SA Multiplex Pulluvila":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-07-01",
+                                                              "db_size_bytes":  883277824
+                                                          },
                                "Central Talkies Tripunithura":  {
                                                                     "status":  "ok",
                                                                     "last_backup":  "2026-07-01",
@@ -2140,11 +2140,6 @@
                                                                     "last_backup":  "2026-07-01",
                                                                     "db_size_bytes":  192593920
                                                                 },
-                               "SA Multiplex Pulluvila":  {
-                                                              "status":  "ok",
-                                                              "last_backup":  "2026-07-01",
-                                                              "db_size_bytes":  883277824
-                                                          },
                                "JK Cinemas Thriprayar":  {
                                                              "status":  "ok",
                                                              "last_backup":  "2026-07-01",
@@ -3237,9 +3232,9 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "JVR Cinemas - Jaggampeta":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-30",
-                                                                "db_size_bytes":  1428865024
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-01",
+                                                                "db_size_bytes":  1432903680
                                                             },
                                "Pratap Group Theaters AC 4K Dolby Atmos - Tirupati":  {
                                                                                           "status":  "ok",
@@ -3372,8 +3367,8 @@
                                                                                     "db_size_bytes":  2619260928
                                                                                 },
                                "Sri Lakshmi Multiplex Nova Cinemaz - Nallajerla":  {
-                                                                                       "status":  "missing",
-                                                                                       "last_backup":  "2026-06-30",
+                                                                                       "status":  "ok",
+                                                                                       "last_backup":  "2026-07-01",
                                                                                        "db_size_bytes":  null
                                                                                    },
                                "Sun Cinemax Venkata Gouri AC DTS - Palakonda":  {
@@ -3962,8 +3957,8 @@
                                                         "db_size_bytes":  3392031232
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-01",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3600183296
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4213,5 +4208,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-01 10:00:10"
+    "started_at":  "2026-07-01 12:00:02"
 }
