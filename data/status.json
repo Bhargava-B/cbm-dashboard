@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-01 13:35:28",
+    "generated_at":  "2026-07-01 15:29:04",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -18,8 +18,8 @@
                                                                     "db_size_bytes":  1193525248
                                                                 },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-07-01",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  619994624
                                                      },
                                "Thangaregal Cinemas Madurai":  {
@@ -3577,8 +3577,8 @@
                                                                                        "db_size_bytes":  946585600
                                                                                    },
                                "Balaji Cine Villa - Poranki":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-30",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-01",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Raja Rajeswari - Jangareddy Gudem":  {
@@ -4208,5 +4208,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-01 12:00:02"
+    "started_at":  "2026-07-01 14:00:02"
 }
