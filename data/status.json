@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-02 11:24:17",
+    "generated_at":  "2026-07-02 13:29:45",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -33,9 +33,9 @@
                                                               "db_size_bytes":  3199000576
                                                           },
                                "Gopalakrishna Karanodai Redhills":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-01",
-                                                                        "db_size_bytes":  270843904
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-02",
+                                                                        "db_size_bytes":  263442432
                                                                     },
                                "Janas Cinemas Villupuram":  {
                                                                 "status":  "ok",
@@ -423,9 +423,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "ARK Ram Muthuram Cinemas Tirunelveli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-07-01",
-                                                                            "db_size_bytes":  273137664
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-07-02",
+                                                                            "db_size_bytes":  273268736
                                                                         },
                                "Sangeetha Multiplex Somanur":  {
                                                                    "status":  "ok",
@@ -1109,8 +1109,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Santhi Theatre - Madhira":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-07-01",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-02",
                                                                 "db_size_bytes":  492486656
                                                             },
                                "Sai Balaji Theatre - Sathupally":  {
@@ -3045,8 +3045,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Jai Bharath Theatre -Tumkur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-01",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-02",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Vinayaka Cinemas DJ Halli":  {
@@ -3150,8 +3150,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-30",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-02",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3307,9 +3307,9 @@
                                                                                              "db_size_bytes":  3802447872
                                                                                          },
                                "Sri Sai Rajeswari Complex Cine Hub":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-07-01",
-                                                                          "db_size_bytes":  773779456
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-07-02",
+                                                                          "db_size_bytes":  774557696
                                                                       },
                                "Sri Sivajyothi 2K Cinema 7.1 Dolby - Rajahmundry":  {
                                                                                         "status":  "ok",
@@ -3582,8 +3582,8 @@
                                                                                        "db_size_bytes":  951902208
                                                                                    },
                                "Balaji Cine Villa - Poranki":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-01",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-02",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Raja Rajeswari - Jangareddy Gudem":  {
@@ -3692,8 +3692,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "G3 Srichandra Ramachandra Theaters - Kankipadu":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-07-01",
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-07-02",
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Padmaja Picture Palace 2K AC DTS - Malikipuram":  {
@@ -3787,8 +3787,8 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Jayram Theatre - Vijayawada":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-30",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-02",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Krishna AC 4K Dolby Atmos - Madanapalle":  {
@@ -3987,8 +3987,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "VPC 4K Dolby Atmos - Amalapuram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  null,
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-02",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Balaji Picture Palace - Cherukupalli":  {
@@ -4213,5 +4213,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-02 10:00:03"
+    "started_at":  "2026-07-02 12:00:03"
 }
