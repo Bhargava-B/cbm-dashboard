@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-02 15:34:41",
+    "generated_at":  "2026-07-02 17:15:28",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -22,11 +22,11 @@
                                                          "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  632053248
                                                      },
-                               "Thangaregal Cinemas Madurai":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-07-02",
-                                                                   "db_size_bytes":  1355218944
-                                                               },
+                               "Karthikeyan Cinemas Kanchipuram":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-02",
+                                                                       "db_size_bytes":  412336128
+                                                                   },
                                "Megastar Cinema Trichy":  {
                                                               "status":  "ok",
                                                               "last_backup":  "2026-07-02",
@@ -67,11 +67,6 @@
                                                                   "last_backup":  "2026-07-02",
                                                                   "db_size_bytes":  3074265088
                                                               },
-                               "Karthikeyan Cinemas Kanchipuram":  {
-                                                                       "status":  "ok",
-                                                                       "last_backup":  "2026-07-02",
-                                                                       "db_size_bytes":  412336128
-                                                                   },
                                "Aascars Cinema Katpadi":  {
                                                               "status":  "missing",
                                                               "last_backup":  "2026-07-01",
@@ -123,9 +118,9 @@
                                                               "db_size_bytes":  917606400
                                                           },
                                "V Cinema Sholavandhan":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-07-01",
-                                                             "db_size_bytes":  1380442112
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-07-02",
+                                                             "db_size_bytes":  1369698304
                                                          },
                                "Vetrivel Theatre 2K":  {
                                                            "status":  "ok",
@@ -462,6 +457,11 @@
                                                                    "last_backup":  "2026-07-02",
                                                                    "db_size_bytes":  1686237184
                                                                },
+                               "Thangaregal Cinemas Madurai":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-02",
+                                                                   "db_size_bytes":  1355218944
+                                                               },
                                "KG Cinemas Coimbatore":  {
                                                              "status":  "ok",
                                                              "last_backup":  "2026-07-02",
@@ -580,7 +580,7 @@
                                "Krishnaveni Cinema T Nagar":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-07-02",
-                                                                  "db_size_bytes":  5370306560
+                                                                  "db_size_bytes":  5368340480
                                                               },
                                "Aanoor Theatre Erode":  {
                                                             "status":  "missing",
@@ -702,6 +702,11 @@
                                                             "last_backup":  "2026-07-02",
                                                             "db_size_bytes":  4780052480
                                                         },
+                               "Sivam Cinema":  {
+                                                    "status":  "ok",
+                                                    "last_backup":  "2026-07-02",
+                                                    "db_size_bytes":  216408064
+                                                },
                                "Krithika Cinemas 2K 3D AC Coimbatore":  {
                                                                             "status":  "ok",
                                                                             "last_backup":  "2026-07-02",
@@ -3407,8 +3412,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Srinivasa Mahal - Kanchikacherla":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-01",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-02",
                                                                         "db_size_bytes":  null
                                                                     },
                                "VN Palace Veeranarayana - Tanuku":  {
@@ -3962,8 +3967,8 @@
                                                         "db_size_bytes":  3397143040
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-02",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3607654400
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4213,5 +4218,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-02 14:00:03"
+    "started_at":  "2026-07-02 16:00:03"
 }
