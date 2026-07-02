@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-02 13:29:45",
+    "generated_at":  "2026-07-02 15:34:41",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -18,8 +18,8 @@
                                                                     "db_size_bytes":  1194377216
                                                                 },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-07-02",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  632053248
                                                      },
                                "Thangaregal Cinemas Madurai":  {
@@ -1189,8 +1189,8 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "cinemax - Medak":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-06-29",
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-07-02",
                                                        "db_size_bytes":  null
                                                    },
                                "Sri Krishna - Uppal":  {
@@ -4213,5 +4213,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-02 12:00:03"
+    "started_at":  "2026-07-02 14:00:03"
 }
