@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-02 17:15:28",
+    "generated_at":  "2026-07-02 19:12:45",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -272,6 +272,11 @@
                                                                   "last_backup":  "2026-07-02",
                                                                   "db_size_bytes":  2246164480
                                                               },
+                               "Vela Cinemas Thirunindravur":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-02",
+                                                                   "db_size_bytes":  1145683968
+                                                               },
                                "A Moorthys Drive In Theatre":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-07-02",
@@ -307,20 +312,20 @@
                                                                 "last_backup":  "2026-07-02",
                                                                 "db_size_bytes":  null
                                                             },
-                               "Mani Talkies 2K RGB Laser Minjur":  {
-                                                                        "status":  "ok",
-                                                                        "last_backup":  "2026-07-02",
-                                                                        "db_size_bytes":  4478717952
-                                                                    },
+                               "New Bombay Cinemas":  {
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-07-02",
+                                                          "db_size_bytes":  134549504
+                                                      },
                                "Sri Balasubramaniar Cinemas Kanchipuram":  {
                                                                                "status":  "ok",
                                                                                "last_backup":  "2026-07-02",
                                                                                "db_size_bytes":  223526912
                                                                            },
-                               "Tamil Jaya Cinema Madurai":  {
+                               "Cosmos Cinemas Coimbatore":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-07-02",
-                                                                 "db_size_bytes":  4174311424
+                                                                 "db_size_bytes":  2000609280
                                                              },
                                "Rakki Meenakshi Avadi":  {
                                                              "status":  "ok",
@@ -447,6 +452,11 @@
                                                               "last_backup":  "2026-07-02",
                                                               "db_size_bytes":  2562453504
                                                           },
+                               "The Galaxy Cinemas Karpagam Theatre":  {
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-07-02",
+                                                                           "db_size_bytes":  141230080
+                                                                       },
                                "Makkal Cinemas Aravakurichi":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-07-02",
@@ -482,11 +492,11 @@
                                                                         "last_backup":  "2026-07-02",
                                                                         "db_size_bytes":  582750208
                                                                     },
-                               "Vela Cinemas Thirunindravur":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-07-02",
-                                                                   "db_size_bytes":  1145683968
-                                                               },
+                               "Tamil Jaya Cinema Madurai":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-02",
+                                                                 "db_size_bytes":  4174311424
+                                                             },
                                "Prakash Cinema Salem":  {
                                                             "status":  "ok",
                                                             "last_backup":  "2026-07-02",
@@ -652,11 +662,6 @@
                                                                 "last_backup":  "2026-07-02",
                                                                 "db_size_bytes":  2002905600
                                                             },
-                               "Cosmos Cinemas Coimbatore":  {
-                                                                 "status":  "ok",
-                                                                 "last_backup":  "2026-07-02",
-                                                                 "db_size_bytes":  2000609280
-                                                             },
                                "AVM Cinemas":  {
                                                    "status":  "ok",
                                                    "last_backup":  "2026-07-02",
@@ -717,6 +722,11 @@
                                                                "last_backup":  "2026-07-02",
                                                                "db_size_bytes":  6058233856
                                                            },
+                               "Mani Talkies 2K RGB Laser Minjur":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-02",
+                                                                        "db_size_bytes":  4478717952
+                                                                    },
                                "Karpagam Theatre Coimbatore":  {
                                                                    "status":  "missing",
                                                                    "last_backup":  "2026-06-26",
@@ -2945,8 +2955,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Apsara \u0026 Sudha Cinemas - Hubli":  {
-                                                                           "status":  "ok",
-                                                                           "last_backup":  "2026-07-02",
+                                                                           "status":  "missing",
+                                                                           "last_backup":  "2026-07-01",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Milan Theatre - Chickmagaluru":  {
@@ -4218,5 +4228,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-02 16:00:03"
+    "started_at":  "2026-07-02 18:00:03"
 }
