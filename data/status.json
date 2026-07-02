@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-02 21:16:14",
+    "generated_at":  "2026-07-02 23:10:55",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -3857,8 +3857,8 @@
                                                                         "db_size_bytes":  878559232
                                                                     },
                                "Dr PV Rao Cineplex - Kanchikacherla":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-07-01",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-07-02",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
@@ -4228,5 +4228,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-02 20:00:03"
+    "started_at":  "2026-07-02 22:00:03"
 }
