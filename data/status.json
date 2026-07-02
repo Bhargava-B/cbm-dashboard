@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-02 19:12:45",
+    "generated_at":  "2026-07-02 21:16:14",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -613,9 +613,9 @@
                                                                    "db_size_bytes":  22286565888
                                                                },
                                "Sri Rajan Cinemas Chetpet":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-07-01",
-                                                                 "db_size_bytes":  445562880
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-02",
+                                                                 "db_size_bytes":  444317696
                                                              },
                                "Kavitha Cinemas K G Chavadi":  {
                                                                    "status":  "ok",
@@ -992,9 +992,9 @@
                                                                     "db_size_bytes":  949342208
                                                                 },
                                   "Asian Srinivasa - Mancherial":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-06-30",
-                                                                       "db_size_bytes":  4343189504
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-02",
+                                                                       "db_size_bytes":  4347895808
                                                                    },
                                   "Asian Radhika Multiplex - ECIL":  {
                                                                          "status":  "ok",
@@ -2685,8 +2685,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-01",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-02",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
@@ -3947,9 +3947,9 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Surya Cinemax - Ramachandrapuram":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-01",
-                                                                        "db_size_bytes":  609599488
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-02",
+                                                                        "db_size_bytes":  609927168
                                                                     },
                                "ABR Cinemas - Gudivada":  {
                                                               "status":  "missing",
@@ -4228,5 +4228,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-02 18:00:03"
+    "started_at":  "2026-07-02 20:00:03"
 }
