@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-03 17:25:45",
+    "generated_at":  "2026-07-03 19:13:48",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -1601,9 +1601,9 @@
                                                              "db_size_bytes":  2874019840
                                                          },
                                "Aura Cinemas Mattanur":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-07-02",
-                                                             "db_size_bytes":  1618935808
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-07-03",
+                                                             "db_size_bytes":  1604055040
                                                          },
                                "CNC V Cinemas Palakkad":  {
                                                               "status":  "ok",
@@ -4228,5 +4228,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-03 16:00:03"
+    "started_at":  "2026-07-03 18:00:03"
 }
