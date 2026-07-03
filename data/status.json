@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-03 13:25:29",
+    "generated_at":  "2026-07-03 15:32:17",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -18,8 +18,8 @@
                                                                     "db_size_bytes":  1195163648
                                                                 },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-07-03",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  623271424
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -1436,9 +1436,9 @@
                                                                         "db_size_bytes":  776257536
                                                                     },
                                "Dream Cinemas Thodupuzha":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-06-28",
-                                                                "db_size_bytes":  831115264
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-03",
+                                                                "db_size_bytes":  840421376
                                                             },
                                "Dreambig Pratibha Theatre Mavelikkara":  {
                                                                              "status":  "ok",
@@ -4228,5 +4228,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-03 12:00:03"
+    "started_at":  "2026-07-03 14:00:04"
 }
