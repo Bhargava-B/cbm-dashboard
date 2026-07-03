@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-03 15:32:17",
+    "generated_at":  "2026-07-03 17:25:45",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -1496,9 +1496,9 @@
                                                                          "db_size_bytes":  414240768
                                                                      },
                                "Sagara Theatre Kattappana":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-07-01",
-                                                                 "db_size_bytes":  1967779840
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-03",
+                                                                 "db_size_bytes":  1964560384
                                                              },
                                "Casino Talkies AC 2K 3D Aluva":  {
                                                                      "status":  "ok",
@@ -2975,8 +2975,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Geetanjali -Davanagere":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-07-02",
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-07-03",
                                                               "db_size_bytes":  null
                                                           },
                                "Ramakrishna Picture Palace - Siruguppa":  {
@@ -3977,8 +3977,8 @@
                                                         "db_size_bytes":  3401468416
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-03",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3612659712
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4228,5 +4228,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-03 14:00:04"
+    "started_at":  "2026-07-03 16:00:03"
 }
