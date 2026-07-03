@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-03 11:25:46",
+    "generated_at":  "2026-07-03 13:25:29",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -992,9 +992,9 @@
                                                                     "db_size_bytes":  958124032
                                                                 },
                                   "Asian Srinivasa - Mancherial":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-02",
-                                                                       "db_size_bytes":  4347895808
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-03",
+                                                                       "db_size_bytes":  4350111744
                                                                    },
                                   "Asian Radhika Multiplex - ECIL":  {
                                                                          "status":  "ok",
@@ -3165,8 +3165,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-02",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-03",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3237,9 +3237,9 @@
                                                    "db_size_bytes":  null
                                                },
                                "Surya Cinemax - Draksharamam":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-01",
-                                                                    "db_size_bytes":  513982464
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-03",
+                                                                    "db_size_bytes":  517193728
                                                                 },
                                "Sri Anu Deluxe - Agiripalli":  {
                                                                    "status":  "missing",
@@ -3597,8 +3597,8 @@
                                                                                        "db_size_bytes":  954064896
                                                                                    },
                                "Balaji Cine Villa - Poranki":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-02",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-03",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Raja Rajeswari - Jangareddy Gudem":  {
@@ -3617,8 +3617,8 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Balaji Iconia":  {
-                                                     "status":  "missing",
-                                                     "last_backup":  "2026-07-02",
+                                                     "status":  "ok",
+                                                     "last_backup":  "2026-07-03",
                                                      "db_size_bytes":  null
                                                  },
                                "J and J Cinemas AC Dolby Atmos - Pathapatnam":  {
@@ -3737,9 +3737,9 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Vijaya Mahal Theater AC DTS - Mandapeta":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-07-02",
-                                                                               "db_size_bytes":  406634496
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-07-03",
+                                                                               "db_size_bytes":  408076288
                                                                            },
                                "Maruthi Theatre - Palakollu":  {
                                                                    "status":  "ok",
@@ -3972,9 +3972,9 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "Adabala Theatres":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-07-02",
-                                                        "db_size_bytes":  3397143040
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-07-03",
+                                                        "db_size_bytes":  3401468416
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
                                                                                 "status":  "ok",
@@ -4228,5 +4228,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-03 10:00:03"
+    "started_at":  "2026-07-03 12:00:03"
 }
