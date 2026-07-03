@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-03 19:13:48",
+    "generated_at":  "2026-07-03 21:13:03",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -2685,8 +2685,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-02",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-03",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
@@ -4228,5 +4228,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-03 18:00:03"
+    "started_at":  "2026-07-03 20:00:03"
 }
