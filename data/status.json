@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-03 21:13:03",
+    "generated_at":  "2026-07-03 23:12:42",
     "regions":  {
                     "TN":  {
                                "VR Cinemas Pattabiram":  {
@@ -2075,11 +2075,11 @@
                                                              "last_backup":  "2026-07-03",
                                                              "db_size_bytes":  3154632704
                                                          },
-                               "SA Multiplex Pulluvila":  {
-                                                              "status":  "ok",
-                                                              "last_backup":  "2026-07-03",
-                                                              "db_size_bytes":  886030336
-                                                          },
+                               "Magic Frames Sahina Cinemas Mattannur":  {
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-07-03",
+                                                                             "db_size_bytes":  null
+                                                                         },
                                "Central Talkies Tripunithura":  {
                                                                     "status":  "ok",
                                                                     "last_backup":  "2026-07-03",
@@ -2155,6 +2155,11 @@
                                                                     "last_backup":  "2026-07-03",
                                                                     "db_size_bytes":  194035712
                                                                 },
+                               "SA Multiplex Pulluvila":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-07-03",
+                                                              "db_size_bytes":  886030336
+                                                          },
                                "JK Cinemas Thriprayar":  {
                                                              "status":  "ok",
                                                              "last_backup":  "2026-07-03",
@@ -4228,5 +4233,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-03 20:00:03"
+    "started_at":  "2026-07-03 22:00:03"
 }
