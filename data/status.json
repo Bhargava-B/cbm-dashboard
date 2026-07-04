@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-04 21:13:39",
+    "generated_at":  "2026-07-04 23:12:37",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -213,9 +213,9 @@
                                                        "db_size_bytes":  3272097792
                                                    },
                                "Sree Meenambika Cinema Somanur":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-03",
-                                                                      "db_size_bytes":  1625477120
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-04",
+                                                                      "db_size_bytes":  1628430336
                                                                   },
                                "Jeeva Rukmani Cinema Pondicherry":  {
                                                                         "status":  "ok",
@@ -587,6 +587,11 @@
                                                                         "last_backup":  "2026-07-04",
                                                                         "db_size_bytes":  1366675456
                                                                     },
+                               "Sri Lakshmi Theatre Thirupparankundram":  {
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-07-04",
+                                                                              "db_size_bytes":  844652544
+                                                                          },
                                "Arasan Cinema AC Coimbatore":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-07-04",
@@ -642,6 +647,11 @@
                                                                     "last_backup":  "2026-07-04",
                                                                     "db_size_bytes":  3816501248
                                                                 },
+                               "Amirtharaj Theatre Virudhunagar":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-04",
+                                                                       "db_size_bytes":  460980224
+                                                                   },
                                "Meenakshi Theatre Rajapalayam":  {
                                                                      "status":  "ok",
                                                                      "last_backup":  "2026-07-04",
@@ -4343,5 +4353,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-04 20:00:03"
+    "started_at":  "2026-07-04 22:00:03"
 }
