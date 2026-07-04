@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-04 19:13:08",
+    "generated_at":  "2026-07-04 21:13:39",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -270,7 +270,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-07-04",
-                                                                  "db_size_bytes":  854900736
+                                                                  "db_size_bytes":  857128960
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -2800,8 +2800,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-03",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-04",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
@@ -4207,8 +4207,8 @@
                                                                                "db_size_bytes":  4623015936
                                                                            },
                                "NMC Movie Land - Nagari":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-07-02",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-07-04",
                                                                "db_size_bytes":  null
                                                            },
                                "VPC Sri Kishore 2K Dolby - Ramachandrapuram":  {
@@ -4343,5 +4343,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-04 18:00:03"
+    "started_at":  "2026-07-04 20:00:03"
 }
