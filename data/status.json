@@ -1,11 +1,16 @@
 ﻿{
-    "generated_at":  "2026-07-04 15:15:52",
+    "generated_at":  "2026-07-04 17:11:04",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
                                                                      "status":  "ok",
                                                                      "last_backup":  "2026-07-04",
                                                                      "db_size_bytes":  3011215360
+                                                                 },
+                               "Sri Ganesh Theatre Uthangarai":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-07-04",
+                                                                     "db_size_bytes":  760598528
                                                                  },
                                "Udhayam Theatre Manapparai":  {
                                                                   "status":  "ok",
@@ -227,6 +232,11 @@
                                                                     "last_backup":  "2026-07-03",
                                                                     "db_size_bytes":  1004523520
                                                                 },
+                               "Rohini Jayanthy Cheyyur":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-07-04",
+                                                               "db_size_bytes":  665960448
+                                                           },
                                "Anna Theatre Mount Road":  {
                                                                "status":  "missing",
                                                                "last_backup":  "2026-06-12",
@@ -382,6 +392,11 @@
                                                              "last_backup":  "2026-07-04",
                                                              "db_size_bytes":  4462309376
                                                          },
+                               "Aarthi Grand Cineplex Dindigul":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-04",
+                                                                      "db_size_bytes":  13214757376
+                                                                  },
                                "GK Poonga Theatre Manampathi":  {
                                                                     "status":  "ok",
                                                                     "last_backup":  "2026-07-04",
@@ -392,11 +407,11 @@
                                                                  "last_backup":  "2026-07-04",
                                                                  "db_size_bytes":  521596928
                                                              },
-                               "Sri Vigneshwara Theatre DOLBY ATMOS":  {
-                                                                           "status":  "ok",
-                                                                           "last_backup":  "2026-07-04",
-                                                                           "db_size_bytes":  3011964928
-                                                                       },
+                               "Midlaand Cinemas Madurai":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-04",
+                                                                "db_size_bytes":  1821052928
+                                                            },
                                "Ritzy SHA Cinemas Madurai":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-07-04",
@@ -412,11 +427,6 @@
                                                                            "last_backup":  "2026-07-04",
                                                                            "db_size_bytes":  7007174656
                                                                        },
-                               "Cosmo Cinemas Narasimhanaicken":  {
-                                                                      "status":  "ok",
-                                                                      "last_backup":  "2026-07-04",
-                                                                      "db_size_bytes":  873103360
-                                                                  },
                                "Vijay Park Multiplex Chennai":  {
                                                                     "status":  "ok",
                                                                     "last_backup":  "2026-07-04",
@@ -557,11 +567,11 @@
                                                                      "last_backup":  "2026-07-04",
                                                                      "db_size_bytes":  1835094528
                                                                  },
-                               "Sri Ganesh Theatre Uthangarai":  {
-                                                                     "status":  "ok",
-                                                                     "last_backup":  "2026-07-04",
-                                                                     "db_size_bytes":  760598528
-                                                                 },
+                               "Cosmo Cinemas Narasimhanaicken":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-04",
+                                                                      "db_size_bytes":  873103360
+                                                                  },
                                "Sri Jayalakshmi Cinema Uthiramerur":  {
                                                                           "status":  "ok",
                                                                           "last_backup":  "2026-07-04",
@@ -637,6 +647,11 @@
                                                                   "last_backup":  "2026-07-04",
                                                                   "db_size_bytes":  5380075520
                                                               },
+                               "Yazhini Cinemas Sivagangai":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-04",
+                                                                  "db_size_bytes":  167714816
+                                                              },
                                "Aanoor Theatre Erode":  {
                                                             "status":  "missing",
                                                             "last_backup":  "2026-06-23",
@@ -702,6 +717,11 @@
                                                                     "last_backup":  "2026-07-04",
                                                                     "db_size_bytes":  2368651264
                                                                 },
+                               "Sri Vigneshwara Theatre DOLBY ATMOS":  {
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-07-04",
+                                                                           "db_size_bytes":  3011964928
+                                                                       },
                                "Broadway Cinemas Tirupur":  {
                                                                 "status":  "ok",
                                                                 "last_backup":  "2026-07-04",
@@ -4052,8 +4072,8 @@
                                                         "db_size_bytes":  3408168448
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-04",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3625574400
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4303,5 +4323,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-04 14:00:04"
+    "started_at":  "2026-07-04 16:00:03"
 }
