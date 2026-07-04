@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-04 17:11:04",
+    "generated_at":  "2026-07-04 19:13:08",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -312,6 +312,11 @@
                                                                  "last_backup":  "2026-07-04",
                                                                  "db_size_bytes":  13822508544
                                                              },
+                               "Samundi Theatre Rasipuram":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-04",
+                                                                 "db_size_bytes":  7341527040
+                                                             },
                                "Rajeswari Cinema Arni":  {
                                                              "status":  "ok",
                                                              "last_backup":  "2026-07-04",
@@ -597,6 +602,11 @@
                                                                      "last_backup":  "2026-07-04",
                                                                      "db_size_bytes":  1659498496
                                                                  },
+                               "Vetri Cinemas Theni":  {
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-07-04",
+                                                           "db_size_bytes":  8067923456
+                                                       },
                                "Divya Theatre Puducherry":  {
                                                                 "status":  "ok",
                                                                 "last_backup":  "2026-07-04",
@@ -607,6 +617,11 @@
                                                                "last_backup":  "2026-07-04",
                                                                "db_size_bytes":  3310052864
                                                            },
+                               "Rajalakshmi Theatre Virudhunagar":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-04",
+                                                                        "db_size_bytes":  1575587840
+                                                                    },
                                "Jai Sai Krishna Cinemas Virudhachalam":  {
                                                                              "status":  "ok",
                                                                              "last_backup":  "2026-07-04",
@@ -653,8 +668,8 @@
                                                                   "db_size_bytes":  167714816
                                                               },
                                "Aanoor Theatre Erode":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-06-23",
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-07-04",
                                                             "db_size_bytes":  null
                                                         },
                                "Srinivasa Cinemas SAP Tirupur":  {
@@ -787,11 +802,11 @@
                                                                "last_backup":  "2026-07-04",
                                                                "db_size_bytes":  6067335168
                                                            },
-                               "Vetri Cinemas Theni":  {
-                                                           "status":  "ok",
-                                                           "last_backup":  "2026-07-04",
-                                                           "db_size_bytes":  8067923456
-                                                       },
+                               "D Cinema Ramanathapuram":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-07-04",
+                                                               "db_size_bytes":  2222444544
+                                                           },
                                "Mani Talkies 2K RGB Laser Minjur":  {
                                                                         "status":  "ok",
                                                                         "last_backup":  "2026-07-04",
@@ -822,6 +837,11 @@
                                                                       "last_backup":  "2026-07-04",
                                                                       "db_size_bytes":  3442728960
                                                                   },
+                               "Ramakrishna Theatre Watrab":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-04",
+                                                                  "db_size_bytes":  517328896
+                                                              },
                                "Shanmuga Cinemas Puducherry":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-07-04",
@@ -4323,5 +4343,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-04 16:00:03"
+    "started_at":  "2026-07-04 18:00:03"
 }
