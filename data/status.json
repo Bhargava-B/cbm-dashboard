@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-05 13:26:30",
+    "generated_at":  "2026-07-05 15:23:40",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -23,8 +23,8 @@
                                                                     "db_size_bytes":  1200078848
                                                                 },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-07-05",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  663642624
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -3517,9 +3517,9 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Sri Leela Mahal AC DTS - Vizianagaram":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-07-04",
-                                                                             "db_size_bytes":  1931673600
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-07-05",
+                                                                             "db_size_bytes":  1927192576
                                                                          },
                                "Sri Rama \u0026 Sri Krishna Cinemas - Nandikotkur":  {
                                                                                          "status":  "missing",
@@ -4353,5 +4353,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-05 12:00:04"
+    "started_at":  "2026-07-05 14:00:04"
 }
