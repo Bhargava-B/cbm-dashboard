@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-05 11:21:33",
+    "generated_at":  "2026-07-05 13:26:30",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -638,9 +638,9 @@
                                                                             "db_size_bytes":  2630668288
                                                                         },
                                "Murukalaya Vishal Cinema Pollachi":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-06-17",
-                                                                         "db_size_bytes":  490459136
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-05",
+                                                                         "db_size_bytes":  498384896
                                                                      },
                                "Ganesh Cinemas Melur Madurai":  {
                                                                     "status":  "ok",
@@ -823,9 +823,9 @@
                                                                         "db_size_bytes":  4486488064
                                                                     },
                                "Karpagam Theatre Coimbatore":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-06-26",
-                                                                   "db_size_bytes":  null
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-05",
+                                                                   "db_size_bytes":  6302634496
                                                                },
                                "Revathi Theatre Tirupur":  {
                                                                "status":  "ok",
@@ -962,9 +962,9 @@
                                                                                  "db_size_bytes":  5358346240
                                                                              },
                                   "Ashoka Cinema - Kalwakurthy":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-04",
-                                                                      "db_size_bytes":  1754435584
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-05",
+                                                                      "db_size_bytes":  1751830528
                                                                   },
                                   "Asian Jyothi - RC Puram":  {
                                                                   "status":  "ok",
@@ -1274,8 +1274,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Cinemax - Vikarabad":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-07-04",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-07-05",
                                                            "db_size_bytes":  null
                                                        },
                                "Maheshwari Theater":  {
@@ -1531,8 +1531,8 @@
                                                                       "db_size_bytes":  3043540992
                                                                   },
                                "Sania Cinemas Eramallur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-07-03",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-07-05",
                                                                "db_size_bytes":  1832452096
                                                            },
                                "SreeDhanya Cinemax Kadakkal":  {
@@ -3322,8 +3322,8 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Abhiram - Nandyal":  {
-                                                         "status":  "missing",
-                                                         "last_backup":  "2026-07-04",
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-07-05",
                                                          "db_size_bytes":  null
                                                      },
                                "VS Mahal 4K Dolby Atmos 3D - Namavaram":  {
@@ -3722,8 +3722,8 @@
                                                                                        "db_size_bytes":  961798144
                                                                                    },
                                "Balaji Cine Villa - Poranki":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-04",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-05",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Raja Rajeswari - Jangareddy Gudem":  {
@@ -4097,9 +4097,9 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "Adabala Theatres":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-07-04",
-                                                        "db_size_bytes":  3408168448
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-07-05",
+                                                        "db_size_bytes":  3416363520
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
                                                                                 "status":  "ok",
@@ -4353,5 +4353,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-05 10:00:03"
+    "started_at":  "2026-07-05 12:00:04"
 }
