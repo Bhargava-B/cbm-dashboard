@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-05 19:14:52",
+    "generated_at":  "2026-07-05 21:12:24",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -17,11 +17,11 @@
                                                                   "last_backup":  "2026-07-05",
                                                                   "db_size_bytes":  1070800896
                                                               },
-                               "Viswalakshmi Cinemas Peralam":  {
-                                                                    "status":  "ok",
-                                                                    "last_backup":  "2026-07-05",
-                                                                    "db_size_bytes":  1200078848
-                                                                },
+                               "Pavalam Theatre Periyakulam":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-05",
+                                                                   "db_size_bytes":  1099808768
+                                                               },
                                "Rakki Cinemas OMR":  {
                                                          "status":  "missing",
                                                          "last_backup":  "2026-06-19",
@@ -97,6 +97,11 @@
                                                                    "last_backup":  "2026-07-05",
                                                                    "db_size_bytes":  2877616128
                                                                },
+                               "Eshwari Thiraiarangam 4K Tirukoilur":  {
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-07-05",
+                                                                           "db_size_bytes":  2096877568
+                                                                       },
                                "Usha Cinemas Tirupur":  {
                                                             "status":  "ok",
                                                             "last_backup":  "2026-07-05",
@@ -122,6 +127,11 @@
                                                                        "last_backup":  "2026-07-05",
                                                                        "db_size_bytes":  310599680
                                                                    },
+                               "Vijay Theatre DTS Dindigul":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-05",
+                                                                  "db_size_bytes":  1183965184
+                                                              },
                                "Varanashi Multiplex Tirupur":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-07-05",
@@ -707,6 +717,11 @@
                                                                    "last_backup":  "2026-07-05",
                                                                    "db_size_bytes":  2185469952
                                                                },
+                               "Viswalakshmi Cinemas Peralam":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-05",
+                                                                    "db_size_bytes":  1200078848
+                                                                },
                                "Shree Radha Movie Park Redhills":  {
                                                                        "status":  "ok",
                                                                        "last_backup":  "2026-07-05",
@@ -1516,9 +1531,9 @@
                                                            "db_size_bytes":  5413363712
                                                        },
                                "GTracks Screen2 Trivandrum":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-07-04",
-                                                                  "db_size_bytes":  793104384
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-05",
+                                                                  "db_size_bytes":  793235456
                                                               },
                                "Blue Moon Theatre Pulpally":  {
                                                                   "status":  "ok",
@@ -1621,9 +1636,9 @@
                                                                          "db_size_bytes":  415481856
                                                                      },
                                "Sagara Theatre Kattappana":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-07-04",
-                                                                 "db_size_bytes":  1965281280
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-05",
+                                                                 "db_size_bytes":  1966395392
                                                              },
                                "Casino Talkies AC 2K 3D Aluva":  {
                                                                      "status":  "ok",
@@ -2411,9 +2426,9 @@
                                                                   "db_size_bytes":  570871808
                                                               },
                                "Sreedevi S Cinemas Kodaly":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-07-04",
-                                                                 "db_size_bytes":  1180356608
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-05",
+                                                                 "db_size_bytes":  1184612352
                                                              },
                                "Dhanya Remya Pathanamthitta":  {
                                                                    "status":  "ok",
@@ -2496,9 +2511,9 @@
                                                                        "db_size_bytes":  112050176
                                                                    },
                                "NVP Cinema Oyoor":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-07-04",
-                                                        "db_size_bytes":  1448067072
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-07-05",
+                                                        "db_size_bytes":  1450360832
                                                     },
                                "SJ G Cinemas Ulikkal":  {
                                                             "status":  "ok",
@@ -2810,8 +2825,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-04",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-05",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
@@ -4353,5 +4368,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-05 18:00:03"
+    "started_at":  "2026-07-05 20:00:03"
 }
