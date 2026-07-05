@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-05 15:23:40",
+    "generated_at":  "2026-07-05 17:20:31",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -270,7 +270,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-07-05",
-                                                                  "db_size_bytes":  859947008
+                                                                  "db_size_bytes":  861716480
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -950,8 +950,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Shiva Multiplex - Jharsuguda":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-06-29",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-05",
                                                                     "db_size_bytes":  null
                                                                 }
                            },
@@ -1616,9 +1616,9 @@
                                                              "db_size_bytes":  3711238144
                                                          },
                                "Manu DMAX Cinemas PUTHENVELIKKARA":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-03",
-                                                                         "db_size_bytes":  414240768
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-05",
+                                                                         "db_size_bytes":  415481856
                                                                      },
                                "Sagara Theatre Kattappana":  {
                                                                  "status":  "missing",
@@ -3597,9 +3597,9 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-07-01",
-                                                                "db_size_bytes":  672514048
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-05",
+                                                                "db_size_bytes":  676642816
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
                                                                                    "status":  "ok",
@@ -4102,8 +4102,8 @@
                                                         "db_size_bytes":  3416363520
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-05",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3627261952
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4353,5 +4353,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-05 14:00:04"
+    "started_at":  "2026-07-05 16:00:03"
 }
