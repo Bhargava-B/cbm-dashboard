@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-05 21:12:24",
+    "generated_at":  "2026-07-05 23:12:14",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -7,6 +7,11 @@
                                                                      "last_backup":  "2026-07-05",
                                                                      "db_size_bytes":  3010957312
                                                                  },
+                               "Amirtharaj Theatre Virudhunagar":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-05",
+                                                                       "db_size_bytes":  461303808
+                                                                   },
                                "Sri Ganesh Theatre Uthangarai":  {
                                                                      "status":  "ok",
                                                                      "last_backup":  "2026-07-05",
@@ -63,9 +68,9 @@
                                                                     "db_size_bytes":  2698047488
                                                                 },
                                "Anna Theatre AC Erode":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-06-23",
-                                                             "db_size_bytes":  4133822464
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-07-05",
+                                                             "db_size_bytes":  4148502528
                                                          },
                                "Ritzy Banu Cinemas Thirumangalam":  {
                                                                         "status":  "ok",
@@ -87,6 +92,11 @@
                                                                              "last_backup":  "2026-07-05",
                                                                              "db_size_bytes":  769974272
                                                                          },
+                               "Jivan Theatre Bodi":  {
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-07-05",
+                                                          "db_size_bytes":  1874251776
+                                                      },
                                "Mariyam Cinemas Trichy":  {
                                                               "status":  "ok",
                                                               "last_backup":  "2026-07-05",
@@ -657,11 +667,11 @@
                                                                     "last_backup":  "2026-07-05",
                                                                     "db_size_bytes":  3834916864
                                                                 },
-                               "Amirtharaj Theatre Virudhunagar":  {
-                                                                       "status":  "ok",
-                                                                       "last_backup":  "2026-07-05",
-                                                                       "db_size_bytes":  461303808
-                                                                   },
+                               "AGS Cinemas Royal Villivakkam":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-07-05",
+                                                                     "db_size_bytes":  39499859456
+                                                                 },
                                "Meenakshi Theatre Rajapalayam":  {
                                                                      "status":  "ok",
                                                                      "last_backup":  "2026-07-05",
@@ -707,6 +717,11 @@
                                                                    "last_backup":  "2026-07-05",
                                                                    "db_size_bytes":  22488743424
                                                                },
+                               "Alankar Theatre Poonamaravathy":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-05",
+                                                                      "db_size_bytes":  993771520
+                                                                  },
                                "Sri Rajan Cinemas Chetpet":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-07-05",
@@ -2206,9 +2221,9 @@
                                                                   "db_size_bytes":  264224768
                                                               },
                                "Aashirvad Cineplexx Kottiyam":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-04",
-                                                                    "db_size_bytes":  2451574784
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-05",
+                                                                    "db_size_bytes":  2458128384
                                                                 },
                                "Zeenath Theatre Aluva":  {
                                                              "status":  "ok",
@@ -2466,9 +2481,9 @@
                                                               "db_size_bytes":  419024896
                                                           },
                                "G Cinemas Fort Kochi":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-07-04",
-                                                            "db_size_bytes":  3248218112
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-07-05",
+                                                            "db_size_bytes":  3254054912
                                                         },
                                "Santhosh Cinema Kattappana":  {
                                                                   "status":  "ok",
@@ -4368,5 +4383,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-05 20:00:03"
+    "started_at":  "2026-07-05 22:00:03"
 }
