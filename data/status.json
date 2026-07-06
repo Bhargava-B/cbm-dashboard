@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-06 15:29:21",
+    "generated_at":  "2026-07-06 17:24:06",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -337,6 +337,11 @@
                                                                    "last_backup":  "2026-07-06",
                                                                    "db_size_bytes":  257028096
                                                                },
+                               "Shanthi theatre":  {
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-07-06",
+                                                       "db_size_bytes":  119603200
+                                                   },
                                "PSS Multiplex Tirunelveli":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-07-06",
@@ -662,6 +667,11 @@
                                                            "last_backup":  "2026-07-06",
                                                            "db_size_bytes":  8149712384
                                                        },
+                               "LA Cinema Shamina":  {
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-07-06",
+                                                         "db_size_bytes":  437955072
+                                                     },
                                "Divya Theatre Puducherry":  {
                                                                 "status":  "ok",
                                                                 "last_backup":  "2026-07-06",
@@ -922,6 +932,11 @@
                                                                    "last_backup":  "2026-07-06",
                                                                    "db_size_bytes":  1294811136
                                                                },
+                               "LA Cinemas Maris Trichy":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-07-06",
+                                                               "db_size_bytes":  1303030272
+                                                           },
                                "Anbu Cinema Lalgudi Road":  {
                                                                 "status":  "ok",
                                                                 "last_backup":  "2026-07-06",
@@ -4177,8 +4192,8 @@
                                                         "db_size_bytes":  3421676032
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-06",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3628756992
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4428,5 +4443,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-06 14:00:04"
+    "started_at":  "2026-07-06 16:00:03"
 }
