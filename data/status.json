@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-06 21:18:32",
+    "generated_at":  "2026-07-06 23:15:52",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1554,8 +1554,8 @@
                                                            "db_size_bytes":  983437312
                                                        },
                                "Laxmi AC Deluxe Theatre - Korutla":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-05",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-06",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Gokul 70MM - Erragadda":  {
@@ -2166,9 +2166,9 @@
                                                                           "db_size_bytes":  4083879936
                                                                       },
                                "TMAX Cineplex Goolikkadavu":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-07-05",
-                                                                  "db_size_bytes":  660979712
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-06",
+                                                                  "db_size_bytes":  662749184
                                                               },
                                "Kripa Movies Kurumassery":  {
                                                                 "status":  "ok",
@@ -4448,5 +4448,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-06 20:00:03"
+    "started_at":  "2026-07-06 22:00:03"
 }
