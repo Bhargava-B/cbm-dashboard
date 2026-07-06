@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-06 17:24:06",
+    "generated_at":  "2026-07-06 19:18:58",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -127,11 +127,11 @@
                                                                        "last_backup":  "2026-07-06",
                                                                        "db_size_bytes":  310792192
                                                                    },
-                               "Vijay Theatre DTS Dindigul":  {
-                                                                  "status":  "ok",
-                                                                  "last_backup":  "2026-07-06",
-                                                                  "db_size_bytes":  1185402880
-                                                              },
+                               "LA Cinema Sonamina":  {
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-07-06",
+                                                          "db_size_bytes":  680497664
+                                                      },
                                "Varanashi Multiplex Tirupur":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-07-06",
@@ -182,6 +182,11 @@
                                                        "last_backup":  "2026-07-06",
                                                        "db_size_bytes":  1039388672
                                                    },
+                               "Vijay Theatre DTS Dindigul":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-06",
+                                                                  "db_size_bytes":  1185402880
+                                                              },
                                "Mariyappa Theatre Chidambaram":  {
                                                                      "status":  "ok",
                                                                      "last_backup":  "2026-07-06",
@@ -3497,9 +3502,9 @@
                                                                         "db_size_bytes":  null
                                                                     },
                                "Lalitha Talkies 2K AC DTS - Rampachodavaram":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-07-03",
-                                                                                   "db_size_bytes":  742768640
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-07-06",
+                                                                                   "db_size_bytes":  745127936
                                                                                },
                                "Parameswari AC DTS - Yellamanchili":  {
                                                                           "status":  "ok",
@@ -4443,5 +4448,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-06 16:00:03"
+    "started_at":  "2026-07-06 18:00:03"
 }
