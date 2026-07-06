@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-06 13:30:06",
+    "generated_at":  "2026-07-06 15:29:21",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -28,8 +28,8 @@
                                                                    "db_size_bytes":  1099808768
                                                                },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-07-06",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  680550912
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -77,11 +77,6 @@
                                                                         "last_backup":  "2026-07-06",
                                                                         "db_size_bytes":  1360388096
                                                                     },
-                               "Rathna Theatre Pondicherry":  {
-                                                                  "status":  "ok",
-                                                                  "last_backup":  "2026-07-06",
-                                                                  "db_size_bytes":  3088220160
-                                                              },
                                "Aascars Cinema Katpadi":  {
                                                               "status":  "ok",
                                                               "last_backup":  "2026-07-06",
@@ -257,6 +252,11 @@
                                                                     "last_backup":  "2026-07-06",
                                                                     "db_size_bytes":  1016713216
                                                                 },
+                               "Lucky Cinemas Periyakulam":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-06",
+                                                                 "db_size_bytes":  804691968
+                                                             },
                                "Rohini Jayanthy Cheyyur":  {
                                                                "status":  "ok",
                                                                "last_backup":  "2026-07-06",
@@ -502,6 +502,11 @@
                                                                             "last_backup":  "2026-07-06",
                                                                             "db_size_bytes":  282378240
                                                                         },
+                               "Priya Complex Dolby Atmos Madurai":  {
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-06",
+                                                                         "db_size_bytes":  691666944
+                                                                     },
                                "Sangeetha Multiplex Somanur":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-07-06",
@@ -542,11 +547,11 @@
                                                                            "last_backup":  "2026-07-06",
                                                                            "db_size_bytes":  143982592
                                                                        },
-                               "Makkal Cinemas Aravakurichi":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-07-06",
-                                                                   "db_size_bytes":  971558912
-                                                               },
+                               "Rathna Theatre Pondicherry":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-06",
+                                                                  "db_size_bytes":  3088220160
+                                                              },
                                "Lathaa Cinemas Chengalpattu":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-07-06",
@@ -567,6 +572,11 @@
                                                                        "last_backup":  "2026-07-06",
                                                                        "db_size_bytes":  159436800
                                                                    },
+                               "LA Cinemas Thuraiyur":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-07-06",
+                                                            "db_size_bytes":  341499904
+                                                        },
                                "Balaji Theatre 70mm Pondicherry":  {
                                                                        "status":  "ok",
                                                                        "last_backup":  "2026-07-06",
@@ -745,7 +755,7 @@
                                "Sri Rajan Cinemas Chetpet":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-07-06",
-                                                                 "db_size_bytes":  447401984
+                                                                 "db_size_bytes":  447467520
                                                              },
                                "Kavitha Cinemas K G Chavadi":  {
                                                                    "status":  "ok",
@@ -772,11 +782,11 @@
                                                              "last_backup":  "2026-07-04",
                                                              "db_size_bytes":  null
                                                          },
-                               "LA Cinemas Thuraiyur":  {
-                                                            "status":  "ok",
-                                                            "last_backup":  "2026-07-06",
-                                                            "db_size_bytes":  341499904
-                                                        },
+                               "Ritzy Sriram Cinemas Virudhanagar":  {
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-06",
+                                                                         "db_size_bytes":  691236864
+                                                                     },
                                "ASHOK THEATRE PONDICHERRY":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-07-06",
@@ -952,6 +962,11 @@
                                                                        "last_backup":  "2026-07-06",
                                                                        "db_size_bytes":  1829228544
                                                                    },
+                               "Makkal Cinemas Aravakurichi":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-06",
+                                                                   "db_size_bytes":  971558912
+                                                               },
                                "Ramdass Cinemas Sunguvarchatram":  {
                                                                        "status":  "ok",
                                                                        "last_backup":  "2026-07-06",
@@ -2934,11 +2949,11 @@
                                                                                   "last_backup":  null,
                                                                                   "db_size_bytes":  null
                                                                               },
-                               "Suchitra Prabhat Cinemas - Christie 4K RGB Laser":  {
-                                                                                        "status":  "ok",
-                                                                                        "last_backup":  "2026-07-06",
-                                                                                        "db_size_bytes":  null
-                                                                                    },
+                               "DRC Cinemas Kushalnagar":  {
+                                                               "status":  "missing",
+                                                               "last_backup":  null,
+                                                               "db_size_bytes":  null
+                                                           },
                                "Gayathri Talkies -Mysuru":  {
                                                                 "status":  "ok",
                                                                 "last_backup":  "2026-07-06",
@@ -3214,6 +3229,11 @@
                                                                      "last_backup":  "2026-07-06",
                                                                      "db_size_bytes":  null
                                                                  },
+                               "Suchitra Prabhat Cinemas - Christie 4K RGB Laser":  {
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-07-06",
+                                                                                        "db_size_bytes":  null
+                                                                                    },
                                "Trinethra Digital 4K Atmos Cinema - Davanagere":  {
                                                                                       "status":  "missing",
                                                                                       "last_backup":  null,
@@ -4408,5 +4428,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-06 12:00:04"
+    "started_at":  "2026-07-06 14:00:04"
 }
