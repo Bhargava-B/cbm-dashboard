@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-07 13:38:14",
+    "generated_at":  "2026-07-07 15:34:49",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -27,9 +27,14 @@
                                                                    "last_backup":  "2026-07-07",
                                                                    "db_size_bytes":  1100267520
                                                                },
+                               "Venkateswara Cinemas Kundrathur":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-07",
+                                                                       "db_size_bytes":  2161119232
+                                                                   },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-07-07",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  688611840
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -52,11 +57,6 @@
                                                                 "last_backup":  "2026-07-07",
                                                                 "db_size_bytes":  12082860544
                                                             },
-                               "SRI SHANMUGAM THEATRE":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-07-07",
-                                                             "db_size_bytes":  378064896
-                                                         },
                                "SR Anand Theatre Madhuranthagam":  {
                                                                        "status":  "ok",
                                                                        "last_backup":  "2026-07-07",
@@ -127,11 +127,11 @@
                                                                  "last_backup":  "2026-07-07",
                                                                  "db_size_bytes":  null
                                                              },
-                               "Abirami Vishal Cinemas Pollachi":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-06",
-                                                                       "db_size_bytes":  310792192
-                                                                   },
+                               "Sri Venkatesa Cinemas Trichy":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-07",
+                                                                    "db_size_bytes":  2378809344
+                                                                },
                                "LA Cinema Sonamina":  {
                                                           "status":  "ok",
                                                           "last_backup":  "2026-07-07",
@@ -157,11 +157,6 @@
                                                            "last_backup":  "2026-07-07",
                                                            "db_size_bytes":  848236544
                                                        },
-                               "Sree Raja Sabari Salem":  {
-                                                              "status":  "ok",
-                                                              "last_backup":  "2026-07-07",
-                                                              "db_size_bytes":  2268123136
-                                                          },
                                "Parvathy Cinema Periyakulam":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-07-07",
@@ -177,11 +172,11 @@
                                                             "last_backup":  "2026-07-07",
                                                             "db_size_bytes":  7435452416
                                                         },
-                               "Venkateswara Cinemas Kundrathur":  {
-                                                                       "status":  "ok",
-                                                                       "last_backup":  "2026-07-07",
-                                                                       "db_size_bytes":  2161119232
-                                                                   },
+                               "Ramesh Theatre Ramanathapuram":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-07-07",
+                                                                     "db_size_bytes":  1619251200
+                                                                 },
                                "Cauvery Theatre":  {
                                                        "status":  "missing",
                                                        "last_backup":  "2026-07-06",
@@ -207,11 +202,11 @@
                                                                        "last_backup":  "2026-07-07",
                                                                        "db_size_bytes":  375373824
                                                                    },
-                               "Hari Theatre Pattabiram Chennai":  {
-                                                                       "status":  "ok",
-                                                                       "last_backup":  "2026-07-07",
-                                                                       "db_size_bytes":  160223232
-                                                                   },
+                               "SRI SHANMUGAM THEATRE":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-07-07",
+                                                             "db_size_bytes":  378064896
+                                                         },
                                "Sri Balaji Theatre Acharapakkam":  {
                                                                        "status":  "ok",
                                                                        "last_backup":  "2026-07-07",
@@ -293,9 +288,9 @@
                                                             "db_size_bytes":  null
                                                         },
                                "Kovai Shanti Complex Coimbatore":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-06",
-                                                                       "db_size_bytes":  4257869824
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-07",
+                                                                       "db_size_bytes":  4274683904
                                                                    },
                                "LA Cinemas Shanthi Mannargudi":  {
                                                                      "status":  "ok",
@@ -587,11 +582,11 @@
                                                              "last_backup":  "2026-07-07",
                                                              "db_size_bytes":  41908003328
                                                          },
-                               "Krishnaveni Cinema T Nagar":  {
-                                                                  "status":  "ok",
-                                                                  "last_backup":  "2026-07-07",
-                                                                  "db_size_bytes":  5390688256
-                                                              },
+                               "Hari Theatre Pattabiram Chennai":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-07",
+                                                                       "db_size_bytes":  160223232
+                                                                   },
                                "LA Cinemas Thuraiyur":  {
                                                             "status":  "ok",
                                                             "last_backup":  "2026-07-07",
@@ -712,11 +707,11 @@
                                                                             "last_backup":  "2026-07-07",
                                                                             "db_size_bytes":  2642006016
                                                                         },
-                               "Murukalaya Vishal Cinema Pollachi":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-05",
-                                                                         "db_size_bytes":  498384896
-                                                                     },
+                               "Sree Raja Sabari Salem":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-07-07",
+                                                              "db_size_bytes":  2268123136
+                                                          },
                                "Ganesh Cinemas Melur Madurai":  {
                                                                     "status":  "ok",
                                                                     "last_backup":  "2026-07-07",
@@ -742,6 +737,11 @@
                                                              "last_backup":  "2026-07-07",
                                                              "db_size_bytes":  655798272
                                                          },
+                               "Krishnaveni Cinema T Nagar":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-07",
+                                                                  "db_size_bytes":  5390688256
+                                                              },
                                "Udhayam Theatre Manapparai":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-07-07",
@@ -808,9 +808,9 @@
                                                                           "db_size_bytes":  948092928
                                                                       },
                                "SPR Cine Castle Salem":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-07-04",
-                                                             "db_size_bytes":  null
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-07-07",
+                                                             "db_size_bytes":  8088735232
                                                          },
                                "Ritzy Sriram Cinemas Virudhanagar":  {
                                                                          "status":  "ok",
@@ -827,11 +827,6 @@
                                                               "last_backup":  "2026-07-07",
                                                               "db_size_bytes":  827834368
                                                           },
-                               "Sri Venkatesa Cinemas Trichy":  {
-                                                                    "status":  "ok",
-                                                                    "last_backup":  "2026-07-07",
-                                                                    "db_size_bytes":  2378809344
-                                                                },
                                "Sri Vigneshwara Theatre DOLBY ATMOS":  {
                                                                            "status":  "ok",
                                                                            "last_backup":  "2026-07-07",
@@ -2221,9 +2216,9 @@
                                                               "db_size_bytes":  5266087936
                                                           },
                                "Jos Theatre  Pala":  {
-                                                         "status":  "missing",
-                                                         "last_backup":  "2026-07-01",
-                                                         "db_size_bytes":  2175844352
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-07-07",
+                                                         "db_size_bytes":  2190983168
                                                      },
                                "Paradise Cinema Cherthala":  {
                                                                  "status":  "ok",
@@ -2396,8 +2391,8 @@
                                                              "db_size_bytes":  4128301056
                                                          },
                                "Dreamax E cinemas mayannur":  {
-                                                                  "status":  "ok",
-                                                                  "last_backup":  "2026-07-07",
+                                                                  "status":  "missing",
+                                                                  "last_backup":  "2026-07-06",
                                                                   "db_size_bytes":  113688576
                                                               },
                                "Shadow Cinema Pazhayannur":  {
@@ -4468,5 +4463,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-07 12:00:03"
+    "started_at":  "2026-07-07 14:00:04"
 }
