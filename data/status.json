@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-07 17:28:56",
+    "generated_at":  "2026-07-07 19:19:48",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -227,6 +227,11 @@
                                                                           "last_backup":  "2026-07-07",
                                                                           "db_size_bytes":  2014560256
                                                                       },
+                               "Apsara Theatre Virudhunagar":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-07",
+                                                                   "db_size_bytes":  1018617856
+                                                               },
                                "Indira Cinemas 4K DTS Manapparai":  {
                                                                         "status":  "ok",
                                                                         "last_backup":  "2026-07-07",
@@ -352,6 +357,11 @@
                                                                    "last_backup":  "2026-07-07",
                                                                    "db_size_bytes":  256700416
                                                                },
+                               "Om Sri Lakshmi J Cinemas Chinnalapatti":  {
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-07-07",
+                                                                              "db_size_bytes":  620871680
+                                                                          },
                                "Shanthi theatre":  {
                                                        "status":  "ok",
                                                        "last_backup":  "2026-07-07",
@@ -448,9 +458,9 @@
                                                         "db_size_bytes":  1359007744
                                                     },
                                "Sri Murugan theatre Ammapettai":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-02",
-                                                                      "db_size_bytes":  928628736
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-07",
+                                                                      "db_size_bytes":  929742848
                                                                   },
                                "Lakshmi Cinemas Hosur":  {
                                                              "status":  "ok",
@@ -507,6 +517,11 @@
                                                                          "last_backup":  "2026-07-07",
                                                                          "db_size_bytes":  4523728896
                                                                      },
+                               "Annamalai Cinemas Madurai":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-07",
+                                                                 "db_size_bytes":  1821503488
+                                                             },
                                "Ponnusamy Theatre Chinnamanur":  {
                                                                      "status":  "ok",
                                                                      "last_backup":  "2026-07-07",
@@ -572,6 +587,11 @@
                                                                            "last_backup":  "2026-07-07",
                                                                            "db_size_bytes":  144637952
                                                                        },
+                               "Palani Arumuga Theatre Madurai":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-07",
+                                                                      "db_size_bytes":  869322752
+                                                                  },
                                "Rathna Theatre Pondicherry":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-07-07",
@@ -982,6 +1002,11 @@
                                                                 "last_backup":  "2026-07-07",
                                                                 "db_size_bytes":  null
                                                             },
+                               "Thambis theatre Cumbum":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-07-07",
+                                                              "db_size_bytes":  1000034304
+                                                          },
                                "SDC Cinemas Ganesh Sony 4K Madurai":  {
                                                                           "status":  "ok",
                                                                           "last_backup":  "2026-07-07",
@@ -2251,9 +2276,9 @@
                                                                  "db_size_bytes":  2139996160
                                                              },
                                "SP Cinemas Peyad":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-06-27",
-                                                        "db_size_bytes":  1558036480
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-07-07",
+                                                        "db_size_bytes":  1566232576
                                                     },
                                "Anurag Cinema Shoranur":  {
                                                               "status":  "ok",
@@ -4478,5 +4503,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-07 16:00:03"
+    "started_at":  "2026-07-07 18:00:03"
 }
