@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-07 19:19:48",
+    "generated_at":  "2026-07-07 21:21:10",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -112,6 +112,11 @@
                                                                    "last_backup":  "2026-07-07",
                                                                    "db_size_bytes":  2878353408
                                                                },
+                               "Ritzy Sriram Cinemas Virudhanagar":  {
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-07",
+                                                                         "db_size_bytes":  691302400
+                                                                     },
                                "Usha Cinemas Tirupur":  {
                                                             "status":  "ok",
                                                             "last_backup":  "2026-07-07",
@@ -142,6 +147,11 @@
                                                           "last_backup":  "2026-07-07",
                                                           "db_size_bytes":  682988032
                                                       },
+                               "Maruthu Modern Theatre Sholavandan":  {
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-07-07",
+                                                                          "db_size_bytes":  624119808
+                                                                      },
                                "Varanashi Multiplex Tirupur":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-07-07",
@@ -332,6 +342,11 @@
                                                                       "last_backup":  "2026-07-07",
                                                                       "db_size_bytes":  620675072
                                                                   },
+                               "Meenakshi Theatre Thirumangalam":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-07",
+                                                                       "db_size_bytes":  506732544
+                                                                   },
                                "Shreepathy Cinemas Thanjavur":  {
                                                                     "status":  "ok",
                                                                     "last_backup":  "2026-07-07",
@@ -487,11 +502,11 @@
                                                                 "last_backup":  "2026-07-07",
                                                                 "db_size_bytes":  1827213312
                                                             },
-                               "Ritzy SHA Cinemas Madurai":  {
-                                                                 "status":  "ok",
-                                                                 "last_backup":  "2026-07-07",
-                                                                 "db_size_bytes":  626249728
-                                                             },
+                               "D Cinema Ramanathapuram":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-07-07",
+                                                               "db_size_bytes":  2229194752
+                                                           },
                                "Ganapathyram Cinema":  {
                                                            "status":  "missing",
                                                            "last_backup":  "2026-07-06",
@@ -617,11 +632,6 @@
                                                                   "last_backup":  "2026-07-07",
                                                                   "db_size_bytes":  5390688256
                                                               },
-                               "LA Cinemas Thuraiyur":  {
-                                                            "status":  "ok",
-                                                            "last_backup":  "2026-07-07",
-                                                            "db_size_bytes":  343531520
-                                                        },
                                "Balaji Theatre 70mm Pondicherry":  {
                                                                        "status":  "ok",
                                                                        "last_backup":  "2026-07-07",
@@ -642,6 +652,11 @@
                                                             "last_backup":  "2026-07-07",
                                                             "db_size_bytes":  341241856
                                                         },
+                               "MSP Theatre Andipatti":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-07-07",
+                                                             "db_size_bytes":  708513792
+                                                         },
                                "Ayya theatre":  {
                                                     "status":  "ok",
                                                     "last_backup":  "2026-07-07",
@@ -697,16 +712,16 @@
                                                              "last_backup":  "2026-07-07",
                                                              "db_size_bytes":  1955917824
                                                          },
+                               "Ritzy SHA Cinemas Madurai":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-07",
+                                                                 "db_size_bytes":  626249728
+                                                             },
                                "Sathyabama Cinemas Kovilpatti":  {
                                                                      "status":  "ok",
                                                                      "last_backup":  "2026-07-07",
                                                                      "db_size_bytes":  1691095040
                                                                  },
-                               "Vetri Cinemas Theni":  {
-                                                           "status":  "ok",
-                                                           "last_backup":  "2026-07-07",
-                                                           "db_size_bytes":  8162231808
-                                                       },
                                "LA Cinema Shamina":  {
                                                          "status":  "ok",
                                                          "last_backup":  "2026-07-07",
@@ -837,11 +852,11 @@
                                                              "last_backup":  "2026-07-07",
                                                              "db_size_bytes":  8088735232
                                                          },
-                               "Ritzy Sriram Cinemas Virudhanagar":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-07-07",
-                                                                         "db_size_bytes":  691302400
-                                                                     },
+                               "LA Cinemas Thuraiyur":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-07-07",
+                                                            "db_size_bytes":  343531520
+                                                        },
                                "ASHOK THEATRE PONDICHERRY":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-07-07",
@@ -937,11 +952,11 @@
                                                                "last_backup":  "2026-07-07",
                                                                "db_size_bytes":  6111248384
                                                            },
-                               "D Cinema Ramanathapuram":  {
-                                                               "status":  "ok",
-                                                               "last_backup":  "2026-07-07",
-                                                               "db_size_bytes":  2229194752
-                                                           },
+                               "Vetri Cinemas Theni":  {
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-07-07",
+                                                           "db_size_bytes":  8162231808
+                                                       },
                                "Mani Talkies 2K RGB Laser Minjur":  {
                                                                         "status":  "ok",
                                                                         "last_backup":  "2026-07-07",
@@ -2955,8 +2970,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-06",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-07",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
@@ -4503,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-07 18:00:03"
+    "started_at":  "2026-07-07 20:00:03"
 }
