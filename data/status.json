@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-08 17:33:23",
+    "generated_at":  "2026-07-08 19:24:42",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1122,9 +1122,9 @@
                                                                                  "db_size_bytes":  5295808512
                                                                              },
                                   "Ashoka Cinema - Kalwakurthy":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-07",
-                                                                      "db_size_bytes":  1747439616
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-08",
+                                                                      "db_size_bytes":  1749536768
                                                                   },
                                   "Asian Jyothi - RC Puram":  {
                                                                   "status":  "ok",
@@ -3627,8 +3627,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Raja Theater Anusri":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-07-07",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-07-08",
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Srinivasa Theater - Dhone":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-08 16:00:03"
+    "started_at":  "2026-07-08 18:00:03"
 }
