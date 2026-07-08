@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-08 21:20:36",
+    "generated_at":  "2026-07-08 23:18:47",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -948,9 +948,9 @@
                                                                             "db_size_bytes":  4573458432
                                                                         },
                                "Aascars Multiplex Salem":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-07-07",
-                                                               "db_size_bytes":  6111248384
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-07-08",
+                                                               "db_size_bytes":  6116167680
                                                            },
                                "Vetri Cinemas Theni":  {
                                                            "status":  "ok",
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-08 20:00:03"
+    "started_at":  "2026-07-08 22:00:03"
 }
