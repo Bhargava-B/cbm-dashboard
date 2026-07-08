@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-08 13:43:02",
+    "generated_at":  "2026-07-08 15:36:00",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2157383680
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-07-08",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  691691008
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -2446,8 +2446,8 @@
                                                              "db_size_bytes":  4130066432
                                                          },
                                "Dreamax E cinemas mayannur":  {
-                                                                  "status":  "ok",
-                                                                  "last_backup":  "2026-07-08",
+                                                                  "status":  "missing",
+                                                                  "last_backup":  "2026-07-06",
                                                                   "db_size_bytes":  112640000
                                                               },
                                "Shadow Cinema Pazhayannur":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-08 12:00:03"
+    "started_at":  "2026-07-08 14:00:03"
 }
