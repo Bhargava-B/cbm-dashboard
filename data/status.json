@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-08 15:36:00",
+    "generated_at":  "2026-07-08 17:33:23",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -845,7 +845,7 @@
                                "Sangeetha Cinemas Mangalam Tirupur":  {
                                                                           "status":  "ok",
                                                                           "last_backup":  "2026-07-08",
-                                                                          "db_size_bytes":  948748288
+                                                                          "db_size_bytes":  951640064
                                                                       },
                                "SPR Cine Castle Salem":  {
                                                              "status":  "missing",
@@ -2561,9 +2561,9 @@
                                                                 "db_size_bytes":  2043133952
                                                             },
                                "Silver Hills Cinema Thodupuzha":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-06-29",
-                                                                      "db_size_bytes":  2759061504
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-08",
+                                                                      "db_size_bytes":  2758213632
                                                                   },
                                "Ashoka Theatre Vadanapally":  {
                                                                   "status":  "ok",
@@ -2611,9 +2611,9 @@
                                                               "db_size_bytes":  415285248
                                                           },
                                "G Cinemas Fort Kochi":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-07-07",
-                                                            "db_size_bytes":  3255508992
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-07-08",
+                                                            "db_size_bytes":  3258916864
                                                         },
                                "Santhosh Cinema Kattappana":  {
                                                                   "status":  "ok",
@@ -2801,9 +2801,9 @@
                                                                     "db_size_bytes":  1304018944
                                                                 },
                                "Abhinaya Anu Theatre Kottayam":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-07-07",
-                                                                     "db_size_bytes":  7971946496
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-07-08",
+                                                                     "db_size_bytes":  7986163712
                                                                  },
                                "Sindhu Cinema Venjarammoodu":  {
                                                                    "status":  "ok",
@@ -4267,8 +4267,8 @@
                                                         "db_size_bytes":  3405281792
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-08",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3600474112
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-08 14:00:03"
+    "started_at":  "2026-07-08 16:00:03"
 }
