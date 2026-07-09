@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-09 13:34:01",
+    "generated_at":  "2026-07-09 15:29:09",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2141175808
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-07-09",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  702374400
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-09 12:00:02"
+    "started_at":  "2026-07-09 14:00:02"
 }
