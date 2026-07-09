@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-09 19:18:39",
+    "generated_at":  "2026-07-09 21:20:43",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2970,8 +2970,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-08",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-09",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-09 18:00:02"
+    "started_at":  "2026-07-09 20:00:02"
 }
