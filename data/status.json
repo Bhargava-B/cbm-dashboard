@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-09 15:29:09",
+    "generated_at":  "2026-07-09 17:26:07",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1434,8 +1434,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Cinemax - Vikarabad":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-07-07",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-07-09",
                                                            "db_size_bytes":  null
                                                        },
                                "Maheshwari Theater":  {
@@ -1721,9 +1721,9 @@
                                                                         "db_size_bytes":  787988480
                                                                     },
                                "Dream Cinemas Thodupuzha":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-07-06",
-                                                                "db_size_bytes":  824164352
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-09",
+                                                                "db_size_bytes":  860082176
                                                             },
                                "Dreambig Pratibha Theatre Mavelikkara":  {
                                                                              "status":  "ok",
@@ -2446,8 +2446,8 @@
                                                              "db_size_bytes":  4132098048
                                                          },
                                "Dreamax E cinemas mayannur":  {
-                                                                  "status":  "ok",
-                                                                  "last_backup":  "2026-07-09",
+                                                                  "status":  "missing",
+                                                                  "last_backup":  "2026-07-06",
                                                                   "db_size_bytes":  113950720
                                                               },
                                "Shadow Cinema Pazhayannur":  {
@@ -3637,9 +3637,9 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Sri Ratna Theatre Complex - Chintalapudi":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-06-29",
-                                                                                "db_size_bytes":  null
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-07-09",
+                                                                                "db_size_bytes":  956284928
                                                                             },
                                "Alankar AC 4K Dolby Surround - Vijayawada":  {
                                                                                  "status":  "ok",
@@ -3667,9 +3667,9 @@
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Satyagouri AC 2K Digital Dolby EX - Kakinada":  {
-                                                                                    "status":  "missing",
-                                                                                    "last_backup":  "2026-07-08",
-                                                                                    "db_size_bytes":  2629685248
+                                                                                    "status":  "ok",
+                                                                                    "last_backup":  "2026-07-09",
+                                                                                    "db_size_bytes":  2633027584
                                                                                 },
                                "Sri Lakshmi Multiplex Nova Cinemaz - Nallajerla":  {
                                                                                        "status":  "ok",
@@ -3682,9 +3682,9 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Sri Leela Mahal AC DTS - Vizianagaram":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-07-08",
-                                                                             "db_size_bytes":  1926352896
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-07-09",
+                                                                             "db_size_bytes":  1928392704
                                                                          },
                                "Sri Rama \u0026 Sri Krishna Cinemas - Nandikotkur":  {
                                                                                          "status":  "missing",
@@ -4267,8 +4267,8 @@
                                                         "db_size_bytes":  3407895040
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-09",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3600723968
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-09 14:00:02"
+    "started_at":  "2026-07-09 16:00:02"
 }
