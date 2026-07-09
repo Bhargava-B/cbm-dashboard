@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-09 17:26:07",
+    "generated_at":  "2026-07-09 19:18:39",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -803,9 +803,9 @@
                                                             "db_size_bytes":  2983395328
                                                         },
                                "Srinivasa Cinemas SAP Tirupur":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-07-08",
-                                                                     "db_size_bytes":  1610960384
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-07-09",
+                                                                     "db_size_bytes":  1611746816
                                                                  },
                                "Rohini Silver Screen Chennai":  {
                                                                     "status":  "ok",
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-09 16:00:02"
+    "started_at":  "2026-07-09 18:00:02"
 }
