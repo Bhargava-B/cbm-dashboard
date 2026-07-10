@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-10 11:32:31",
+    "generated_at":  "2026-07-10 13:37:01",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1347,9 +1347,9 @@
                                                                                 "db_size_bytes":  5143805952
                                                                             },
                                   "Asian Venkateshwara - Siddipet":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-08",
-                                                                         "db_size_bytes":  3215577088
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-10",
+                                                                         "db_size_bytes":  3216297984
                                                                      },
                                   "AAA Cinemas - Ameerpet":  {
                                                                  "status":  "missing",
@@ -2271,9 +2271,9 @@
                                                               "db_size_bytes":  5184692224
                                                           },
                                "Jos Theatre  Pala":  {
-                                                         "status":  "missing",
-                                                         "last_backup":  "2026-07-07",
-                                                         "db_size_bytes":  2190983168
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-07-10",
+                                                         "db_size_bytes":  2191646720
                                                      },
                                "Paradise Cinema Cherthala":  {
                                                                  "status":  "ok",
@@ -3065,8 +3065,8 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Globe Cinemas - Belagavi":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-07-08",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-10",
                                                                 "db_size_bytes":  null
                                                             },
                                "SIDDESHWARA Digital 2K 7.1 Cinema - J.P.Nagar":  {
@@ -3455,8 +3455,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-09",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-10",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3697,8 +3697,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Sowmya Theatre Chittinagar - Vijayawada":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-07-09",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-07-10",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
@@ -3757,8 +3757,8 @@
                                                                 "db_size_bytes":  1642520576
                                                             },
                                "Suresh Mahal AC 4K Padmakar Films - Vinukonda":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-07-09",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-07-10",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
@@ -4207,8 +4207,8 @@
                                                                   "db_size_bytes":  474398720
                                                               },
                                "Sri Ramchandra Talkies - Kodumur":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-09",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-10",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Sri Ramulamma Theatre - Thagarapuvalasa Vizag":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-10 10:00:02"
+    "started_at":  "2026-07-10 12:00:02"
 }
