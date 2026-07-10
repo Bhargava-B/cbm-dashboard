@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-10 19:22:49",
+    "generated_at":  "2026-07-10 21:19:54",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -138,9 +138,9 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "Abirami Vishal Cinemas Pollachi":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-09",
-                                                                       "db_size_bytes":  311447552
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-10",
+                                                                       "db_size_bytes":  311713792
                                                                    },
                                "LA Cinema Sonamina":  {
                                                           "status":  "ok",
@@ -2970,8 +2970,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-09",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-10",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-10 18:00:02"
+    "started_at":  "2026-07-10 20:00:02"
 }
