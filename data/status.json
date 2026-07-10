@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-10 15:39:18",
+    "generated_at":  "2026-07-10 17:24:13",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -325,7 +325,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-07-10",
-                                                                  "db_size_bytes":  859045888
+                                                                  "db_size_bytes":  861339648
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -4267,8 +4267,8 @@
                                                         "db_size_bytes":  3412154880
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-10",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3602440192
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-10 14:00:02"
+    "started_at":  "2026-07-10 16:00:02"
 }
