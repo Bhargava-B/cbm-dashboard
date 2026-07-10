@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-10 13:37:01",
+    "generated_at":  "2026-07-10 15:39:18",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2150907904
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-07-10",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  687433216
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -2446,8 +2446,8 @@
                                                              "db_size_bytes":  4135112704
                                                          },
                                "Dreamax E cinemas mayannur":  {
-                                                                  "status":  "ok",
-                                                                  "last_backup":  "2026-07-10",
+                                                                  "status":  "missing",
+                                                                  "last_backup":  "2026-07-06",
                                                                   "db_size_bytes":  115130368
                                                               },
                                "Shadow Cinema Pazhayannur":  {
@@ -4167,8 +4167,8 @@
                                                                      "db_size_bytes":  389926912
                                                                  },
                                "Mini Srinivasa - Yemmiganur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-09",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-10",
                                                                    "db_size_bytes":  null
                                                                },
                                "KS Talkies":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-10 12:00:02"
+    "started_at":  "2026-07-10 14:00:02"
 }
