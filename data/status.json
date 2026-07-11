@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-11 09:20:02",
+    "generated_at":  "2026-07-11 11:26:55",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -423,9 +423,9 @@
                                                           "db_size_bytes":  340783104
                                                       },
                                "New Bombay Cinemas":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-07-10",
-                                                          "db_size_bytes":  138416128
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-07-11",
+                                                          "db_size_bytes":  139071488
                                                       },
                                "Radiance Cinemas Madurai":  {
                                                                 "status":  "ok",
@@ -518,8 +518,8 @@
                                                                            "db_size_bytes":  7045496832
                                                                        },
                                "Vijay Park Multiplex Chennai":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-10",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-11",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Ramba AC Dolby Atmos Trichy":  {
@@ -888,9 +888,9 @@
                                                                 "db_size_bytes":  2083633664
                                                             },
                                "AVM Cinemas":  {
-                                                   "status":  "missing",
-                                                   "last_backup":  "2026-07-09",
-                                                   "db_size_bytes":  161280000
+                                                   "status":  "ok",
+                                                   "last_backup":  "2026-07-11",
+                                                   "db_size_bytes":  157990912
                                                },
                                "Sathya Cinemas 2K Dolby Atmos":  {
                                                                      "status":  "ok",
@@ -3430,8 +3430,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-07-10",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-07-11",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3702,8 +3702,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-07-10",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-07-11",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3987,9 +3987,9 @@
                                                                                            "db_size_bytes":  null
                                                                                        },
                                "Sri Devi Mahal - Amadalavalasa":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-10",
-                                                                      "db_size_bytes":  302129152
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-11",
+                                                                      "db_size_bytes":  307871744
                                                                   },
                                "Srinivasa Theater AC 2K Dolby - Markapur":  {
                                                                                 "status":  "ok",
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-11 08:00:02"
+    "started_at":  "2026-07-11 10:00:02"
 }
