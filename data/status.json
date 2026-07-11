@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-11 11:26:55",
+    "generated_at":  "2026-07-11 13:33:10",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -218,9 +218,9 @@
                                                                        "db_size_bytes":  378785792
                                                                    },
                                "Hari Theatre Pattabiram Chennai":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-10",
-                                                                       "db_size_bytes":  159502336
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-11",
+                                                                       "db_size_bytes":  160288768
                                                                    },
                                "Sri Balaji Theatre Acharapakkam":  {
                                                                        "status":  "ok",
@@ -728,9 +728,9 @@
                                                          "db_size_bytes":  447526400
                                                      },
                                "Divya Theatre Puducherry":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-07-10",
-                                                                "db_size_bytes":  284803072
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-11",
+                                                                "db_size_bytes":  288616448
                                                             },
                                "Raja Cinemas Perambalur":  {
                                                                "status":  "ok",
@@ -1509,9 +1509,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Sri Sai Baba - Shadnagar":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-07-10",
-                                                                "db_size_bytes":  822984704
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-11",
+                                                                "db_size_bytes":  824688640
                                                             },
                                "AMR Vijay Bhaskar - Bhadrachalam":  {
                                                                         "status":  "ok",
@@ -2246,8 +2246,8 @@
                                                                 "db_size_bytes":  192987136
                                                             },
                                "IMP Big Screen 2K 3D Parassala":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-07",
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-11",
                                                                       "db_size_bytes":  732086272
                                                                   },
                                "Capitol Upasana Theatre Ranni":  {
@@ -3455,8 +3455,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-10",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-11",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3527,9 +3527,9 @@
                                                    "db_size_bytes":  null
                                                },
                                "Surya Cinemax - Draksharamam":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-10",
-                                                                    "db_size_bytes":  520601600
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-11",
+                                                                    "db_size_bytes":  521060352
                                                                 },
                                "Sri Anu Deluxe - Agiripalli":  {
                                                                    "status":  "missing",
@@ -3707,8 +3707,8 @@
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-09",
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-11",
                                                                       "db_size_bytes":  null
                                                                   },
                                "Srinivasa Mahal - Kanchikacherla":  {
@@ -3767,8 +3767,8 @@
                                                                 "db_size_bytes":  681398272
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-07-10",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-07-11",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Kameswari and Kinnera AC Laser 4K - Maddilapalem":  {
@@ -3997,8 +3997,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "G3 Srichandra Ramachandra Theaters - Kankipadu":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-07-10",
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-07-11",
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Padmaja Picture Palace 2K AC DTS - Malikipuram":  {
@@ -4107,8 +4107,8 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-10",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-11",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-11 10:00:02"
+    "started_at":  "2026-07-11 12:00:03"
 }
