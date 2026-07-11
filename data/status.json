@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-11 13:33:10",
+    "generated_at":  "2026-07-11 15:35:38",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2154360832
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-07-11",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  709845504
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -78,9 +78,9 @@
                                                                     "db_size_bytes":  2708471808
                                                                 },
                                "Anna Theatre AC Erode":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-07-07",
-                                                             "db_size_bytes":  4153872384
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-07-11",
+                                                             "db_size_bytes":  4152168448
                                                          },
                                "Ritzy Banu Cinemas Thirumangalam":  {
                                                                         "status":  "ok",
@@ -703,9 +703,9 @@
                                                                               "db_size_bytes":  846942208
                                                                           },
                                "Arasan Cinema AC Coimbatore":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-10",
-                                                                   "db_size_bytes":  3364548608
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-11",
+                                                                   "db_size_bytes":  3366985728
                                                                },
                                "MPS 3D Cinema Tirupur":  {
                                                              "status":  "ok",
@@ -848,9 +848,9 @@
                                                                           "db_size_bytes":  948224000
                                                                       },
                                "SPR Cine Castle Salem":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-07-07",
-                                                             "db_size_bytes":  8088735232
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-07-11",
+                                                             "db_size_bytes":  8112922112
                                                          },
                                "LA Cinemas Thuraiyur":  {
                                                             "status":  "ok",
@@ -2373,7 +2373,7 @@
                                "Veena Varna Theatre Mananthavady":  {
                                                                         "status":  "ok",
                                                                         "last_backup":  "2026-07-11",
-                                                                        "db_size_bytes":  798212096
+                                                                        "db_size_bytes":  798408704
                                                                     },
                                "VINAYAKA THEATRE COMPLEX Kanhangad":  {
                                                                           "status":  "missing",
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-11 12:00:03"
+    "started_at":  "2026-07-11 14:00:02"
 }
