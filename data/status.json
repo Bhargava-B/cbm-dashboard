@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-11 15:35:38",
+    "generated_at":  "2026-07-11 17:23:48",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -468,14 +468,14 @@
                                                                   "db_size_bytes":  1185665024
                                                               },
                                "Jayanthi Cinemas":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-07-10",
-                                                        "db_size_bytes":  1347543040
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-07-11",
+                                                        "db_size_bytes":  1351278592
                                                     },
                                "Sri Murugan theatre Ammapettai":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-07",
-                                                                      "db_size_bytes":  929742848
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-11",
+                                                                      "db_size_bytes":  935579648
                                                                   },
                                "Lakshmi Cinemas Hosur":  {
                                                              "status":  "ok",
@@ -2446,8 +2446,8 @@
                                                              "db_size_bytes":  4123770880
                                                          },
                                "Dreamax E cinemas mayannur":  {
-                                                                  "status":  "ok",
-                                                                  "last_backup":  "2026-07-11",
+                                                                  "status":  "missing",
+                                                                  "last_backup":  "2026-07-06",
                                                                   "db_size_bytes":  115720192
                                                               },
                                "Shadow Cinema Pazhayannur":  {
@@ -4267,8 +4267,8 @@
                                                         "db_size_bytes":  3416285696
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-11",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3607535616
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-11 14:00:02"
+    "started_at":  "2026-07-11 16:00:02"
 }
