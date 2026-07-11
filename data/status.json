@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-11 17:23:48",
+    "generated_at":  "2026-07-11 19:16:26",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1716,9 +1716,9 @@
                                                             "db_size_bytes":  4074815488
                                                         },
                                "MAR Basil EVM Theatre Rajakumari":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-10",
-                                                                        "db_size_bytes":  777371648
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-11",
+                                                                        "db_size_bytes":  779730944
                                                                     },
                                "Dream Cinemas Thodupuzha":  {
                                                                 "status":  "missing",
@@ -2271,9 +2271,9 @@
                                                               "db_size_bytes":  5199568896
                                                           },
                                "Jos Theatre  Pala":  {
-                                                         "status":  "missing",
-                                                         "last_backup":  "2026-07-10",
-                                                         "db_size_bytes":  2191646720
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-07-11",
+                                                         "db_size_bytes":  2192498688
                                                      },
                                "Paradise Cinema Cherthala":  {
                                                                  "status":  "ok",
@@ -4062,9 +4062,9 @@
                                                                            "db_size_bytes":  null
                                                                        },
                                "Sri Padma Theater AC 2K Dolby - Jangareddy Gudem":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-07-10",
-                                                                                        "db_size_bytes":  1120395264
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-07-11",
+                                                                                        "db_size_bytes":  1123344384
                                                                                     },
                                "Swarna Multiplex - Vijayawada":  {
                                                                      "status":  "ok",
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-11 16:00:02"
+    "started_at":  "2026-07-11 18:00:02"
 }
