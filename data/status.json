@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-12 19:14:25",
+    "generated_at":  "2026-07-12 21:14:12",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2965,8 +2965,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-11",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-12",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Saraswathi Picture Palace - Hospet":  {
@@ -3120,8 +3120,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Sri Srinivasa 4K Dolby Atmos AC - Padmanabanagara":  {
-                                                                                         "status":  "missing",
-                                                                                         "last_backup":  "2026-06-24",
+                                                                                         "status":  "ok",
+                                                                                         "last_backup":  "2026-07-12",
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "Aruna Theatre AC 4K 7.1 Dolby 3D - Srirampuram":  {
@@ -4513,5 +4513,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-12 18:00:02"
+    "started_at":  "2026-07-12 20:00:02"
 }
