@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-12 11:26:50",
+    "generated_at":  "2026-07-12 13:31:36",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1851,9 +1851,9 @@
                                                           "db_size_bytes":  910016512
                                                       },
                                "Dreambig Thankam vadakkancehri":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-11",
-                                                                      "db_size_bytes":  448617984
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-12",
+                                                                      "db_size_bytes":  450455040
                                                                   },
                                "Seethas Theatre Alappuzha":  {
                                                                  "status":  "ok",
@@ -3450,8 +3450,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-11",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-12",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -4267,8 +4267,8 @@
                                                                                 "db_size_bytes":  3610226688
                                                                             },
                                "SV Talkies - Nindra":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-07-11",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-07-12",
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Srinivasa Theater AC DTS - Nallajerla":  {
@@ -4513,5 +4513,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-12 10:00:02"
+    "started_at":  "2026-07-12 12:00:03"
 }
