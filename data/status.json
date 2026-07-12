@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-12 13:31:36",
+    "generated_at":  "2026-07-12 15:34:46",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2161565696
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-07-12",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  738157056
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -1786,9 +1786,9 @@
                                                                      "db_size_bytes":  2915553280
                                                                  },
                                "Aswathy Cineplus Peringamala":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-11",
-                                                                    "db_size_bytes":  1267654656
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-12",
+                                                                    "db_size_bytes":  1268961280
                                                                 },
                                "Sreekaleeswary Cinema Kodungallur":  {
                                                                          "status":  "ok",
@@ -1826,9 +1826,9 @@
                                                                  "db_size_bytes":  6261321728
                                                              },
                                "Syndicate Cinemas Koppam":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-07-11",
-                                                                "db_size_bytes":  6602248192
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-12",
+                                                                "db_size_bytes":  6603825152
                                                             },
                                "Chellam Cinemas puthur":  {
                                                               "status":  "ok",
@@ -2421,9 +2421,9 @@
                                                                  "db_size_bytes":  2056278016
                                                              },
                                "EVM Latha Theatre Muvattupuzha":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-11",
-                                                                      "db_size_bytes":  2758131712
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-12",
+                                                                      "db_size_bytes":  2770325504
                                                                   },
                                "JK Cinemas Irinjalakuda":  {
                                                                "status":  "ok",
@@ -2441,8 +2441,8 @@
                                                              "db_size_bytes":  4127772672
                                                          },
                                "Dreamax E cinemas mayannur":  {
-                                                                  "status":  "ok",
-                                                                  "last_backup":  "2026-07-12",
+                                                                  "status":  "missing",
+                                                                  "last_backup":  "2026-07-06",
                                                                   "db_size_bytes":  116244480
                                                               },
                                "Shadow Cinema Pazhayannur":  {
@@ -4513,5 +4513,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-12 12:00:03"
+    "started_at":  "2026-07-12 14:00:02"
 }
