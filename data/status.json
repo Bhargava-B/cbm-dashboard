@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-12 15:34:46",
+    "generated_at":  "2026-07-12 17:27:49",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -4262,8 +4262,8 @@
                                                         "db_size_bytes":  3423102464
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-12",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3610226688
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4513,5 +4513,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-12 14:00:02"
+    "started_at":  "2026-07-12 16:00:02"
 }
