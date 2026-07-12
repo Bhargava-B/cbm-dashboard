@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-12 09:19:45",
+    "generated_at":  "2026-07-12 11:26:50",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -423,9 +423,9 @@
                                                           "db_size_bytes":  344965120
                                                       },
                                "New Bombay Cinemas":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-07-11",
-                                                          "db_size_bytes":  139071488
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-07-12",
+                                                          "db_size_bytes":  139857920
                                                       },
                                "Radiance Cinemas Madurai":  {
                                                                 "status":  "ok",
@@ -583,9 +583,9 @@
                                                                                 "db_size_bytes":  1648197632
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-07-10",
-                                                                              "db_size_bytes":  466534400
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-07-12",
+                                                                              "db_size_bytes":  467517440
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -883,9 +883,9 @@
                                                                 "db_size_bytes":  2125576704
                                                             },
                                "AVM Cinemas":  {
-                                                   "status":  "missing",
-                                                   "last_backup":  "2026-07-11",
-                                                   "db_size_bytes":  157990912
+                                                   "status":  "ok",
+                                                   "last_backup":  "2026-07-12",
+                                                   "db_size_bytes":  160874496
                                                },
                                "Sathya Cinemas 2K Dolby Atmos":  {
                                                                      "status":  "ok",
@@ -2686,9 +2686,9 @@
                                                                "db_size_bytes":  91934720
                                                            },
                                "Mars Cinemas Changaramkulam":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-11",
-                                                                   "db_size_bytes":  3801931776
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-12",
+                                                                   "db_size_bytes":  3807830016
                                                                },
                                "Dhanya Remya Changanassery":  {
                                                                   "status":  "ok",
@@ -2741,9 +2741,9 @@
                                                                    "db_size_bytes":  266522624
                                                                },
                                "Veechee Cinema Edacheri":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-07-11",
-                                                               "db_size_bytes":  307675136
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-07-12",
+                                                               "db_size_bytes":  307937280
                                                            },
                                "Ragam Theatre Thrissur":  {
                                                               "status":  "ok",
@@ -3697,8 +3697,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-07-11",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-07-12",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3937,9 +3937,9 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Raja Picture Palace - Anakapalle":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-11",
-                                                                        "db_size_bytes":  2245410816
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-12",
+                                                                        "db_size_bytes":  2239086592
                                                                     },
                                "Surya Cinemax - Kakinada":  {
                                                                 "status":  "ok",
@@ -3982,9 +3982,9 @@
                                                                                            "db_size_bytes":  null
                                                                                        },
                                "Sri Devi Mahal - Amadalavalasa":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-11",
-                                                                      "db_size_bytes":  307871744
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-12",
+                                                                      "db_size_bytes":  307638272
                                                                   },
                                "Srinivasa Theater AC 2K Dolby - Markapur":  {
                                                                                 "status":  "ok",
@@ -4513,5 +4513,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-12 08:00:02"
+    "started_at":  "2026-07-12 10:00:02"
 }
