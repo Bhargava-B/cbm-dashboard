@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-12 21:14:12",
+    "generated_at":  "2026-07-12 23:13:25",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -823,9 +823,9 @@
                                                                       "db_size_bytes":  996261888
                                                                   },
                                "Sri Rajan Cinemas Chetpet":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-07-10",
-                                                                 "db_size_bytes":  451530752
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-12",
+                                                                 "db_size_bytes":  452907008
                                                              },
                                "Kavitha Cinemas K G Chavadi":  {
                                                                    "status":  "ok",
@@ -4513,5 +4513,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-12 20:00:02"
+    "started_at":  "2026-07-12 22:00:02"
 }
