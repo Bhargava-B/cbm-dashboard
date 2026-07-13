@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-13 17:25:10",
+    "generated_at":  "2026-07-13 19:22:08",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -233,9 +233,9 @@
                                                               "db_size_bytes":  2256670720
                                                           },
                                "Sri Palaniandavar Theatre Sivakasi":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-07-10",
-                                                                          "db_size_bytes":  2002173952
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-07-13",
+                                                                          "db_size_bytes":  2004795392
                                                                       },
                                "Apsara Theatre Virudhunagar":  {
                                                                    "status":  "ok",
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-13 16:00:02"
+    "started_at":  "2026-07-13 18:00:02"
 }
