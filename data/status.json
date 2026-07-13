@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-13 09:24:25",
+    "generated_at":  "2026-07-13 11:31:36",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -825,7 +825,7 @@
                                "Sri Rajan Cinemas Chetpet":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-07-13",
-                                                                 "db_size_bytes":  453038080
+                                                                 "db_size_bytes":  454348800
                                                              },
                                "Kavitha Cinemas K G Chavadi":  {
                                                                    "status":  "ok",
@@ -1589,9 +1589,9 @@
                                                                          "db_size_bytes":  3465867264
                                                                      },
                                "Sri Manikanta 70mm Theatres":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-12",
-                                                                   "db_size_bytes":  400035840
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-13",
+                                                                   "db_size_bytes":  401334272
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
                                                                         "status":  "ok",
@@ -3005,8 +3005,8 @@
                                                                            "db_size_bytes":  null
                                                                        },
                                "Ravi Digital 2K Dolby 7.1 HD Screen - Ejipura":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-07-12",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-07-13",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Vinayaka Cinemas 4K Dolby 11.5 A":  {
@@ -3420,13 +3420,13 @@
                                                               "db_size_bytes":  null
                                                           },
                                "Vaibhav Digital 4k Dolby 7.1 - Sanjaynagar":  {
-                                                                                  "status":  "missing",
-                                                                                  "last_backup":  "2026-07-12",
+                                                                                  "status":  "ok",
+                                                                                  "last_backup":  "2026-07-13",
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-07-11",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-07-13",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3697,8 +3697,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-07-12",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-07-13",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3982,9 +3982,9 @@
                                                                                            "db_size_bytes":  null
                                                                                        },
                                "Sri Devi Mahal - Amadalavalasa":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-12",
-                                                                      "db_size_bytes":  307638272
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-13",
+                                                                      "db_size_bytes":  316157952
                                                                   },
                                "Srinivasa Theater AC 2K Dolby - Markapur":  {
                                                                                 "status":  "ok",
@@ -4027,9 +4027,9 @@
                                                                                "db_size_bytes":  418631680
                                                                            },
                                "Maruthi Theatre - Palakollu":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-12",
-                                                                   "db_size_bytes":  2447302656
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-13",
+                                                                   "db_size_bytes":  2459947008
                                                                },
                                "Jamuna Complex - Podalakur":  {
                                                                   "status":  "ok",
@@ -4367,9 +4367,9 @@
                                                                          "db_size_bytes":  258916352
                                                                      },
                                "Sri Satyanarayana Cinemas - Eluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-11",
-                                                                         "db_size_bytes":  3244277760
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-13",
+                                                                         "db_size_bytes":  3227303936
                                                                      },
                                "Sarat Theater AC 4K Dolby Atmos - Vizag":  {
                                                                                "status":  "ok",
@@ -4513,5 +4513,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-13 08:00:02"
+    "started_at":  "2026-07-13 10:00:02"
 }
