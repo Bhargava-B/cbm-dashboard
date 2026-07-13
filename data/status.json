@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-13 15:30:16",
+    "generated_at":  "2026-07-13 17:25:10",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2441,8 +2441,8 @@
                                                              "db_size_bytes":  4130328576
                                                          },
                                "Dreamax E cinemas mayannur":  {
-                                                                  "status":  "ok",
-                                                                  "last_backup":  "2026-07-13",
+                                                                  "status":  "missing",
+                                                                  "last_backup":  "2026-07-06",
                                                                   "db_size_bytes":  116899840
                                                               },
                                "Shadow Cinema Pazhayannur":  {
@@ -4267,8 +4267,8 @@
                                                         "db_size_bytes":  3426438656
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-13",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3611529216
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-13 14:00:03"
+    "started_at":  "2026-07-13 16:00:02"
 }
