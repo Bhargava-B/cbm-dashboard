@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-13 13:31:52",
+    "generated_at":  "2026-07-13 15:30:16",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2167398400
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-07-13",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  759521792
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -2879,11 +2879,11 @@
                                                                                            "last_backup":  "2026-07-13",
                                                                                            "db_size_bytes":  null
                                                                                        },
-                               "Sri Lakshmi A╬ô├¬ΓîÉ╬ô├▓┬ÑΓö£├áC 4k Dolby 7.1: Gottigere":  {
-                                                                                                "status":  "missing",
-                                                                                                "last_backup":  null,
-                                                                                                "db_size_bytes":  null
-                                                                                            },
+                               "Sri Lakshmi AC 4k Dolby 7.1 Gottigere":  {
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-07-13",
+                                                                             "db_size_bytes":  null
+                                                                         },
                                "Sangam Digital - Mysuru":  {
                                                                "status":  "ok",
                                                                "last_backup":  "2026-07-13",
@@ -3274,6 +3274,11 @@
                                                                                              "last_backup":  "2026-06-09",
                                                                                              "db_size_bytes":  null
                                                                                          },
+                               "Sri Lakshmi A∩╝ÅC 4k Dolby 7.1: Gottigere":  {
+                                                                                 "status":  "missing",
+                                                                                 "last_backup":  null,
+                                                                                 "db_size_bytes":  null
+                                                                             },
                                "Laxmi pride cinemas -Hubli":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-07-13",
@@ -4513,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-13 12:00:03"
+    "started_at":  "2026-07-13 14:00:03"
 }
