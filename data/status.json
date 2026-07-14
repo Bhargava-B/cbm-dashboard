@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-14 09:22:51",
+    "generated_at":  "2026-07-14 11:32:35",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -883,9 +883,9 @@
                                                                 "db_size_bytes":  2171714048
                                                             },
                                "AVM Cinemas":  {
-                                                   "status":  "missing",
-                                                   "last_backup":  "2026-07-13",
-                                                   "db_size_bytes":  167804928
+                                                   "status":  "ok",
+                                                   "last_backup":  "2026-07-14",
+                                                   "db_size_bytes":  167387136
                                                },
                                "Sathya Cinemas 2K Dolby Atmos":  {
                                                                      "status":  "ok",
@@ -1579,9 +1579,9 @@
                                                               "db_size_bytes":  233488384
                                                           },
                                "Aradhana Theatre - Hyderabad":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-13",
-                                                                    "db_size_bytes":  934432768
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-14",
+                                                                    "db_size_bytes":  925679616
                                                                 },
                                "Vijetha 70MM 4k Atmos - Borabanda":  {
                                                                          "status":  "ok",
@@ -1916,9 +1916,9 @@
                                                                    "db_size_bytes":  2545926144
                                                                },
                                "Dreambig Jawahar Cinema Kalady":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-13",
-                                                                      "db_size_bytes":  286838784
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-14",
+                                                                      "db_size_bytes":  287690752
                                                                   },
                                "City Cinema Shivdam Kodakara":  {
                                                                     "status":  "ok",
@@ -2511,9 +2511,9 @@
                                                           "db_size_bytes":  213192704
                                                       },
                                "Mridhanga Cineplex Poovar":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-07-13",
-                                                                 "db_size_bytes":  729206784
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-14",
+                                                                 "db_size_bytes":  731635712
                                                              },
                                "Jass theatre ottapalam":  {
                                                               "status":  "missing",
@@ -3150,8 +3150,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Gowrishankar Theatre - Vijayapura":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-07-13",
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-07-14",
                                                                              "db_size_bytes":  null
                                                                          },
                                "Vinayaka Cinemas 4K Dolby 11.5 AC 3D - Harinagar":  {
@@ -3350,8 +3350,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Jai Bharath Theatre -Tumkur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-13",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-14",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Vinayaka Cinemas DJ Halli":  {
@@ -3430,8 +3430,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-07-13",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-07-14",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3702,8 +3702,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-07-13",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-07-14",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-14 08:00:02"
+    "started_at":  "2026-07-14 10:00:02"
 }
