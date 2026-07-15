@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-15 17:28:41",
+    "generated_at":  "2026-07-15 19:39:38",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1691,9 +1691,9 @@
                                                                       "db_size_bytes":  3051864064
                                                                   },
                                "Sania Cinemas Eramallur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-07-14",
-                                                               "db_size_bytes":  1832452096
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-07-15",
+                                                               "db_size_bytes":  1724706816
                                                            },
                                "SreeDhanya Cinemax Kadakkal":  {
                                                                    "status":  "ok",
@@ -4528,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-15 16:00:02"
+    "started_at":  "2026-07-15 18:00:02"
 }
