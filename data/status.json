@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-16 11:26:48",
+    "generated_at":  "2026-07-16 13:30:13",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -8,9 +8,9 @@
                                                                      "db_size_bytes":  3031371776
                                                                  },
                                "Amirtharaj Theatre Virudhunagar":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-15",
-                                                                       "db_size_bytes":  464449536
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-16",
+                                                                       "db_size_bytes":  465371136
                                                                    },
                                "Sri Ganesh Theatre Uthangarai":  {
                                                                      "status":  "ok",
@@ -88,9 +88,9 @@
                                                                         "db_size_bytes":  1370607616
                                                                     },
                                "Aascars Cinema Katpadi":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-07-08",
-                                                              "db_size_bytes":  529878528
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-07-16",
+                                                              "db_size_bytes":  530870784
                                                           },
                                "Janaghar Theatre Jayamkondacholapuram":  {
                                                                              "status":  "ok",
@@ -343,9 +343,9 @@
                                                                       "db_size_bytes":  625524736
                                                                   },
                                "Meenakshi Theatre Thirumangalam":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-11",
-                                                                       "db_size_bytes":  507719680
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-16",
+                                                                       "db_size_bytes":  508309504
                                                                    },
                                "Shreepathy Cinemas Thanjavur":  {
                                                                     "status":  "ok",
@@ -728,9 +728,9 @@
                                                          "db_size_bytes":  459132416
                                                      },
                                "Divya Theatre Puducherry":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-07-15",
-                                                                "db_size_bytes":  298115072
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-16",
+                                                                "db_size_bytes":  286507008
                                                             },
                                "Raja Cinemas Perambalur":  {
                                                                "status":  "ok",
@@ -2371,9 +2371,9 @@
                                                                     "db_size_bytes":  5040422912
                                                                 },
                                "Veena Varna Theatre Mananthavady":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-15",
-                                                                        "db_size_bytes":  807321600
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-16",
+                                                                        "db_size_bytes":  810082304
                                                                     },
                                "VINAYAKA THEATRE COMPLEX Kanhangad":  {
                                                                           "status":  "missing",
@@ -3460,8 +3460,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-15",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-16",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3537,9 +3537,9 @@
                                                    "db_size_bytes":  null
                                                },
                                "Surya Cinemax - Draksharamam":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-15",
-                                                                    "db_size_bytes":  518901760
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-16",
+                                                                    "db_size_bytes":  518766592
                                                                 },
                                "Sri Anu Deluxe - Agiripalli":  {
                                                                    "status":  "missing",
@@ -3647,13 +3647,13 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Sri Ratna Theatre Complex - Chintalapudi":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-07-15",
-                                                                                "db_size_bytes":  969056256
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-07-16",
+                                                                                "db_size_bytes":  970620928
                                                                             },
                                "Alankar AC 4K Dolby Surround - Vijayawada":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-07-15",
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-07-16",
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Sivaram - Banaganapalle":  {
@@ -3722,8 +3722,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Srinivasa Mahal - Kanchikacherla":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-10",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-16",
                                                                         "db_size_bytes":  null
                                                                     },
                                "VN Palace Veeranarayana - Tanuku":  {
@@ -4528,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-16 10:00:03"
+    "started_at":  "2026-07-16 12:00:03"
 }
