@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-17 11:40:40",
+    "generated_at":  "2026-07-17 13:47:59",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -423,9 +423,9 @@
                                                           "db_size_bytes":  351789056
                                                       },
                                "New Bombay Cinemas":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-07-16",
-                                                          "db_size_bytes":  141889536
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-07-17",
+                                                          "db_size_bytes":  142348288
                                                       },
                                "Radiance Cinemas Madurai":  {
                                                                 "status":  "ok",
@@ -1347,9 +1347,9 @@
                                                                                 "db_size_bytes":  5164376064
                                                                             },
                                   "Asian Venkateshwara - Siddipet":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-16",
-                                                                         "db_size_bytes":  3248607232
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-17",
+                                                                         "db_size_bytes":  3260010496
                                                                      },
                                   "AAA Cinemas - Ameerpet":  {
                                                                  "status":  "missing",
@@ -1599,9 +1599,9 @@
                                                                    "db_size_bytes":  396152832
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-16",
-                                                                        "db_size_bytes":  678809600
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-17",
+                                                                        "db_size_bytes":  678739968
                                                                     },
                                "Seetarama Cinemas - Manuguru":  {
                                                                     "status":  "missing",
@@ -3460,8 +3460,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-16",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-17",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -4102,8 +4102,8 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Jayram Theatre - Vijayawada":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-16",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-17",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Krishna AC 4K Dolby Atmos - Madanapalle":  {
@@ -4177,8 +4177,8 @@
                                                                      "db_size_bytes":  408801280
                                                                  },
                                "Mini Srinivasa - Yemmiganur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-16",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-17",
                                                                    "db_size_bytes":  null
                                                                },
                                "KS Talkies":  {
@@ -4432,9 +4432,9 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "KVR Cinemas AC 2K 5WAY Dolby 7.1 Sound - Ponduru":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-07-07",
-                                                                                        "db_size_bytes":  2039368192
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-07-17",
+                                                                                        "db_size_bytes":  2057653760
                                                                                     },
                                "Sri Rama Complex - Nandyal":  {
                                                                   "status":  "ok",
@@ -4528,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-17 10:00:03"
+    "started_at":  "2026-07-17 12:00:03"
 }
