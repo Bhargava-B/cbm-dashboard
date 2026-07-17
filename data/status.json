@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-17 19:18:50",
+    "generated_at":  "2026-07-17 21:18:56",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2446,8 +2446,8 @@
                                                              "db_size_bytes":  4140552192
                                                          },
                                "Dreamax E cinemas mayannur":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-07-06",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-17",
                                                                   "db_size_bytes":  117821440
                                                               },
                                "Shadow Cinema Pazhayannur":  {
@@ -3095,8 +3095,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-16",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-17",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -4528,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-17 18:00:03"
+    "started_at":  "2026-07-17 20:00:03"
 }
