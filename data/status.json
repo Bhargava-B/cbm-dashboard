@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-17 15:37:51",
+    "generated_at":  "2026-07-17 17:25:13",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3572,8 +3572,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Bhaskara Rama AC DTS - Palasa":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-07-14",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-07-17",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Apsara Cinema House - Vijayawada":  {
@@ -4277,8 +4277,8 @@
                                                         "db_size_bytes":  3415431680
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-17",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3603292160
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4528,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-17 14:00:04"
+    "started_at":  "2026-07-17 16:00:03"
 }
