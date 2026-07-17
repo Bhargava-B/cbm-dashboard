@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-17 09:24:34",
+    "generated_at":  "2026-07-17 11:40:40",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -8,9 +8,9 @@
                                                                      "db_size_bytes":  3032424448
                                                                  },
                                "Amirtharaj Theatre Virudhunagar":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-16",
-                                                                       "db_size_bytes":  465371136
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-17",
+                                                                       "db_size_bytes":  464711680
                                                                    },
                                "Sri Ganesh Theatre Uthangarai":  {
                                                                      "status":  "ok",
@@ -218,9 +218,9 @@
                                                                        "db_size_bytes":  380485632
                                                                    },
                                "Hari Theatre Pattabiram Chennai":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-16",
-                                                                       "db_size_bytes":  164089856
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-17",
+                                                                       "db_size_bytes":  162971648
                                                                    },
                                "Sri Balaji Theatre Acharapakkam":  {
                                                                        "status":  "ok",
@@ -583,9 +583,9 @@
                                                                                 "db_size_bytes":  1641803776
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-07-15",
-                                                                              "db_size_bytes":  468107264
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-07-17",
+                                                                              "db_size_bytes":  469037056
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -648,9 +648,9 @@
                                                                  "db_size_bytes":  4187357184
                                                              },
                                "Prakash Cinema Salem":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-07-16",
-                                                            "db_size_bytes":  346746880
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-07-17",
+                                                            "db_size_bytes":  348057600
                                                         },
                                "MSP Theatre Andipatti":  {
                                                              "status":  "missing",
@@ -888,9 +888,9 @@
                                                                 "db_size_bytes":  2178006528
                                                             },
                                "AVM Cinemas":  {
-                                                   "status":  "missing",
-                                                   "last_backup":  "2026-07-16",
-                                                   "db_size_bytes":  168882176
+                                                   "status":  "ok",
+                                                   "last_backup":  "2026-07-17",
+                                                   "db_size_bytes":  161738752
                                                },
                                "Sathya Cinemas 2K Dolby Atmos":  {
                                                                      "status":  "ok",
@@ -2421,9 +2421,9 @@
                                                                       "db_size_bytes":  2352414720
                                                                   },
                                "Deepthi Cinemas Kanhangad":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-07-16",
-                                                                 "db_size_bytes":  2063814656
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-17",
+                                                                 "db_size_bytes":  2050613248
                                                              },
                                "EVM Latha Theatre Muvattupuzha":  {
                                                                       "status":  "ok",
@@ -2855,8 +2855,8 @@
                            },
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-16",
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-17",
                                                                       "db_size_bytes":  null
                                                                   },
                                "Pushpanjali AC Digital 2K Dolby Atmos-Sultanpalya":  {
@@ -3435,8 +3435,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-07-16",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-07-17",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3677,13 +3677,13 @@
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Satyagouri AC 2K Digital Dolby EX - Kakinada":  {
-                                                                                    "status":  "missing",
-                                                                                    "last_backup":  "2026-07-16",
-                                                                                    "db_size_bytes":  2674343936
+                                                                                    "status":  "ok",
+                                                                                    "last_backup":  "2026-07-17",
+                                                                                    "db_size_bytes":  2675433472
                                                                                 },
                                "Sri Lakshmi Multiplex Nova Cinemaz - Nallajerla":  {
-                                                                                       "status":  "missing",
-                                                                                       "last_backup":  "2026-07-16",
+                                                                                       "status":  "ok",
+                                                                                       "last_backup":  "2026-07-17",
                                                                                        "db_size_bytes":  null
                                                                                    },
                                "Sun Cinemax Venkata Gouri AC DTS - Palakonda":  {
@@ -3712,8 +3712,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-07-16",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-07-17",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3997,9 +3997,9 @@
                                                                                            "db_size_bytes":  null
                                                                                        },
                                "Sri Devi Mahal - Amadalavalasa":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-16",
-                                                                      "db_size_bytes":  308531200
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-17",
+                                                                      "db_size_bytes":  310910976
                                                                   },
                                "Srinivasa Theater AC 2K Dolby - Markapur":  {
                                                                                 "status":  "ok",
@@ -4528,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-17 08:00:03"
+    "started_at":  "2026-07-17 10:00:03"
 }
