@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-18 17:14:21",
+    "generated_at":  "2026-07-18 19:14:26",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2251,9 +2251,9 @@
                                                                       "db_size_bytes":  734711808
                                                                   },
                                "Capitol Upasana Theatre Ranni":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-07-12",
-                                                                     "db_size_bytes":  1008320512
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-07-18",
+                                                                     "db_size_bytes":  1008328704
                                                                  },
                                "Simla Brahmakulam Theatre Kanjany":  {
                                                                          "status":  "ok",
@@ -2446,8 +2446,8 @@
                                                              "db_size_bytes":  4130983936
                                                          },
                                "Dreamax E cinemas mayannur":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-07-06",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-18",
                                                                   "db_size_bytes":  119394304
                                                               },
                                "Shadow Cinema Pazhayannur":  {
@@ -4528,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-18 16:00:03"
+    "started_at":  "2026-07-18 18:00:03"
 }
