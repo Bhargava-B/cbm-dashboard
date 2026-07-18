@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-18 15:33:23",
+    "generated_at":  "2026-07-18 17:14:21",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2447,7 +2447,7 @@
                                                          },
                                "Dreamax E cinemas mayannur":  {
                                                                   "status":  "missing",
-                                                                  "last_backup":  "2026-07-17",
+                                                                  "last_backup":  "2026-07-06",
                                                                   "db_size_bytes":  119394304
                                                               },
                                "Shadow Cinema Pazhayannur":  {
@@ -4277,8 +4277,8 @@
                                                         "db_size_bytes":  3420485120
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-18",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3602022400
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4528,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-18 14:00:04"
+    "started_at":  "2026-07-18 16:00:03"
 }
