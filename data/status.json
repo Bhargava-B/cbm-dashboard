@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-19 19:13:52",
+    "generated_at":  "2026-07-19 21:14:38",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -325,7 +325,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-07-19",
-                                                                  "db_size_bytes":  872468480
+                                                                  "db_size_bytes":  873385984
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -378,9 +378,9 @@
                                                                               "db_size_bytes":  622379008
                                                                           },
                                "Shanthi theatre":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-07-18",
-                                                       "db_size_bytes":  123731968
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-07-19",
+                                                       "db_size_bytes":  169279488
                                                    },
                                "PSS Multiplex Tirunelveli":  {
                                                                  "status":  "ok",
@@ -3095,8 +3095,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-18",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-19",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -4528,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-19 18:00:03"
+    "started_at":  "2026-07-19 20:00:03"
 }
