@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-19 09:30:56",
+    "generated_at":  "2026-07-19 11:25:11",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -583,9 +583,9 @@
                                                                                 "db_size_bytes":  1653637120
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-07-18",
-                                                                              "db_size_bytes":  468766720
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-07-19",
+                                                                              "db_size_bytes":  469024768
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -1409,9 +1409,9 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Santhi Theatre - Madhira":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-07-18",
-                                                                "db_size_bytes":  495566848
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-19",
+                                                                "db_size_bytes":  495960064
                                                             },
                                "Sai Balaji Theatre - Sathupally":  {
                                                                        "status":  "ok",
@@ -1976,9 +1976,9 @@
                                                                       "db_size_bytes":  2078203904
                                                                   },
                                "MLal Aashirvad Cineplexx Haripad":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-18",
-                                                                        "db_size_bytes":  2809802752
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-19",
+                                                                        "db_size_bytes":  2840317952
                                                                     },
                                "Swathy Screens Nooranad":  {
                                                                "status":  "ok",
@@ -2061,9 +2061,9 @@
                                                             "db_size_bytes":  2306621440
                                                         },
                                "Sai Cineplexx Oachira":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-07-18",
-                                                             "db_size_bytes":  545020416
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-07-19",
+                                                             "db_size_bytes":  550006272
                                                          },
                                "GMax Utsav Kollam":  {
                                                          "status":  "ok",
@@ -2336,9 +2336,9 @@
                                                                         "db_size_bytes":  2316525056
                                                                     },
                                "Liberty Cinema Thalasherry":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-07-18",
-                                                                  "db_size_bytes":  991350784
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-19",
+                                                                  "db_size_bytes":  993710080
                                                               },
                                "Goodwill cinemas Kallara":  {
                                                                 "status":  "ok",
@@ -2611,14 +2611,14 @@
                                                               "db_size_bytes":  426561536
                                                           },
                                "G Cinemas Fort Kochi":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-07-18",
-                                                            "db_size_bytes":  3265331200
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-07-19",
+                                                            "db_size_bytes":  3274309632
                                                         },
                                "Santhosh Cinema Kattappana":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-07-18",
-                                                                  "db_size_bytes":  438134272
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-19",
+                                                                  "db_size_bytes":  439117312
                                                               },
                                "Swaram Layam Cinema Kattakada":  {
                                                                      "status":  "ok",
@@ -2691,9 +2691,9 @@
                                                                "db_size_bytes":  99405824
                                                            },
                                "Mars Cinemas Changaramkulam":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-18",
-                                                                   "db_size_bytes":  3800363008
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-19",
+                                                                   "db_size_bytes":  3808227328
                                                                },
                                "Dhanya Remya Changanassery":  {
                                                                   "status":  "ok",
@@ -2855,8 +2855,8 @@
                            },
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-18",
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-19",
                                                                       "db_size_bytes":  null
                                                                   },
                                "Pushpanjali AC Digital 2K Dolby Atmos-Sultanpalya":  {
@@ -3145,8 +3145,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Gowrishankar Theatre - Vijayapura":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-07-18",
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-07-19",
                                                                              "db_size_bytes":  null
                                                                          },
                                "Swagath ShankarNag (ONYX) LED Cinema - MG Road":  {
@@ -3435,8 +3435,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-07-18",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-07-19",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3537,9 +3537,9 @@
                                                    "db_size_bytes":  null
                                                },
                                "Surya Cinemax - Draksharamam":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-18",
-                                                                    "db_size_bytes":  521715712
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-19",
+                                                                    "db_size_bytes":  522567680
                                                                 },
                                "Sri Anu Deluxe - Agiripalli":  {
                                                                    "status":  "missing",
@@ -3712,8 +3712,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-07-18",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-07-19",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3997,9 +3997,9 @@
                                                                                            "db_size_bytes":  null
                                                                                        },
                                "Sri Devi Mahal - Amadalavalasa":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-18",
-                                                                      "db_size_bytes":  312221696
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-19",
+                                                                      "db_size_bytes":  311410688
                                                                   },
                                "Srinivasa Theater AC 2K Dolby - Markapur":  {
                                                                                 "status":  "ok",
@@ -4047,8 +4047,8 @@
                                                                    "db_size_bytes":  2466172928
                                                                },
                                "Jamuna Complex - Podalakur":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-07-18",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-19",
                                                                   "db_size_bytes":  null
                                                               },
                                "SLN Multiplex - Adda Road":  {
@@ -4528,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-19 08:00:03"
+    "started_at":  "2026-07-19 10:00:03"
 }
