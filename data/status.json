@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-20 11:30:16",
+    "generated_at":  "2026-07-20 13:32:34",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -583,9 +583,9 @@
                                                                                 "db_size_bytes":  1653207040
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-07-19",
-                                                                              "db_size_bytes":  469024768
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-07-20",
+                                                                              "db_size_bytes":  469549056
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -1237,9 +1237,9 @@
                                                                                 "db_size_bytes":  7825219584
                                                                             },
                                   "Asian Srinivasa Theater - Miryalaguda":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-07-19",
-                                                                                "db_size_bytes":  957009920
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-07-20",
+                                                                                "db_size_bytes":  957464576
                                                                             },
                                   "Asian Srinivasa - Khammam":  {
                                                                     "status":  "ok",
@@ -1277,9 +1277,9 @@
                                                                     "db_size_bytes":  986173440
                                                                 },
                                   "Asian Srinivasa - Mancherial":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-19",
-                                                                       "db_size_bytes":  4373966848
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-20",
+                                                                       "db_size_bytes":  4353216512
                                                                    },
                                   "Asian Radhika Multiplex - ECIL":  {
                                                                          "status":  "ok",
@@ -3460,8 +3460,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-19",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-20",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -4528,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-20 10:00:03"
+    "started_at":  "2026-07-20 12:00:03"
 }
