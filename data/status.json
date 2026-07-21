@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-21 11:30:19",
+    "generated_at":  "2026-07-21 13:31:37",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1110,8 +1110,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Shiva Multiplex - Jharsuguda":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-20",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-21",
                                                                     "db_size_bytes":  null
                                                                 }
                            },
@@ -1599,9 +1599,9 @@
                                                                    "db_size_bytes":  396214272
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-20",
-                                                                        "db_size_bytes":  684441600
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-21",
+                                                                        "db_size_bytes":  675987456
                                                                     },
                                "Seetarama Cinemas - Manuguru":  {
                                                                     "status":  "missing",
@@ -1634,8 +1634,8 @@
                                                               "db_size_bytes":  null
                                                           },
                                "Sri Venkateshwara":  {
-                                                         "status":  "missing",
-                                                         "last_backup":  "2026-07-20",
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-07-21",
                                                          "db_size_bytes":  null
                                                      },
                                "Sri Satya Bhaskara Picture Palace - Manuguru":  {
@@ -2975,8 +2975,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Anjan Digital 4K AC Cinema - Magadi Road":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-07-20",
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-07-21",
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Victory Cinema Barco-4K RGB-Laser - Kamakshipalya":  {
@@ -3847,9 +3847,9 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "SRK Chitra Mandir 4K Dolby Atmos - Payakaraopeta":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-07-20",
-                                                                                        "db_size_bytes":  1574871040
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-07-21",
+                                                                                        "db_size_bytes":  1548140544
                                                                                     },
                                "Satyanarayana Kalamandir - Addanki":  {
                                                                           "status":  "ok",
@@ -4102,8 +4102,8 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Jayram Theatre - Vijayawada":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-20",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-21",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Krishna AC 4K Dolby Atmos - Madanapalle":  {
@@ -4237,9 +4237,9 @@
                                                                      "db_size_bytes":  1920671744
                                                                  },
                                "AVR Saptagiri 2K - Chittivalasa":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-20",
-                                                                       "db_size_bytes":  935714816
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-21",
+                                                                       "db_size_bytes":  915922944
                                                                    },
                                "Ramesh Theatre AC 4K Dolby Atmos - Kadapa":  {
                                                                                  "status":  "ok",
@@ -4528,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-21 10:00:03"
+    "started_at":  "2026-07-21 12:00:05"
 }
