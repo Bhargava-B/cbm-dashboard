@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-21 17:17:59",
+    "generated_at":  "2026-07-21 19:16:56",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -235,7 +235,7 @@
                                "Sri Palaniandavar Theatre Sivakasi":  {
                                                                           "status":  "ok",
                                                                           "last_backup":  "2026-07-21",
-                                                                          "db_size_bytes":  2014822400
+                                                                          "db_size_bytes":  2015543296
                                                                       },
                                "Apsara Theatre Virudhunagar":  {
                                                                    "status":  "ok",
@@ -1948,7 +1948,7 @@
                                "New Ragam Theatre Wadakkancherry":  {
                                                                         "status":  "ok",
                                                                         "last_backup":  "2026-07-21",
-                                                                        "db_size_bytes":  null
+                                                                        "db_size_bytes":  1222623232
                                                                     },
                                "Sarita Cinema Kochi":  {
                                                            "status":  "ok",
@@ -4528,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-21 16:00:03"
+    "started_at":  "2026-07-21 18:00:03"
 }
