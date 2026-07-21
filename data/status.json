@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-21 15:30:32",
+    "generated_at":  "2026-07-21 17:17:59",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1347,9 +1347,9 @@
                                                                                 "db_size_bytes":  5138997248
                                                                             },
                                   "Asian Venkateshwara - Siddipet":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-20",
-                                                                         "db_size_bytes":  3235827712
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-21",
+                                                                         "db_size_bytes":  3239104512
                                                                      },
                                   "AAA Cinemas - Ameerpet":  {
                                                                  "status":  "missing",
@@ -2416,9 +2416,9 @@
                                                              "db_size_bytes":  1864298496
                                                          },
                                "Greenfield Moviemax Trivandrum":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-20",
-                                                                      "db_size_bytes":  2365390848
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-21",
+                                                                      "db_size_bytes":  2366504960
                                                                   },
                                "Deepthi Cinemas Kanhangad":  {
                                                                  "status":  "ok",
@@ -2446,8 +2446,8 @@
                                                              "db_size_bytes":  4141142016
                                                          },
                                "Dreamax E cinemas mayannur":  {
-                                                                  "status":  "ok",
-                                                                  "last_backup":  "2026-07-21",
+                                                                  "status":  "missing",
+                                                                  "last_backup":  "2026-07-06",
                                                                   "db_size_bytes":  122933248
                                                               },
                                "Shadow Cinema Pazhayannur":  {
@@ -2551,9 +2551,9 @@
                                                                     "db_size_bytes":  2098388992
                                                                 },
                                "Thalam Theatre Wadakkancherry":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-07-20",
-                                                                     "db_size_bytes":  1883262976
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-07-21",
+                                                                     "db_size_bytes":  1883459584
                                                                  },
                                "Avishkar Cinemas Kottayi":  {
                                                                 "status":  "ok",
@@ -4277,8 +4277,8 @@
                                                         "db_size_bytes":  3406714368
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-21",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3595509760
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4528,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-21 14:00:04"
+    "started_at":  "2026-07-21 16:00:03"
 }
