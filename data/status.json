@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-22 19:19:39",
+    "generated_at":  "2026-07-22 21:19:37",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2451,9 +2451,9 @@
                                                              "db_size_bytes":  4142714880
                                                          },
                                "Dreamax E cinemas mayannur":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  null,
-                                                                  "db_size_bytes":  null
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-22",
+                                                                  "db_size_bytes":  120176640
                                                               },
                                "Shadow Cinema Pazhayannur":  {
                                                                  "status":  "ok",
@@ -2541,8 +2541,8 @@
                                                            "db_size_bytes":  2361913344
                                                        },
                                "Baby Cinemas Kuthuparamba":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-07-21",
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-22",
                                                                  "db_size_bytes":  3110469632
                                                              },
                                "Lakshmi Cinemas 4K RGB Kodungallur":  {
@@ -2566,9 +2566,9 @@
                                                                 "db_size_bytes":  2056183808
                                                             },
                                "Silver Hills Cinema Thodupuzha":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  null,
-                                                                      "db_size_bytes":  null
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-22",
+                                                                      "db_size_bytes":  2783825920
                                                                   },
                                "Ashoka Theatre Vadanapally":  {
                                                                   "status":  "ok",
@@ -2616,9 +2616,9 @@
                                                               "db_size_bytes":  424988672
                                                           },
                                "G Cinemas Fort Kochi":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  null,
-                                                            "db_size_bytes":  null
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-07-22",
+                                                            "db_size_bytes":  3290193920
                                                         },
                                "Santhosh Cinema Kattappana":  {
                                                                   "status":  "ok",
@@ -2776,8 +2776,8 @@
                                                            "db_size_bytes":  1003999232
                                                        },
                                "Devi Cinemas Perumpuzha":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-07-21",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-07-22",
                                                                "db_size_bytes":  168280064
                                                            },
                                "Ashok cine house Paravur":  {
@@ -3100,8 +3100,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-21",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-22",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -4217,9 +4217,9 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "BMR CINEMAX - Veeraghattam":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-07-19",
-                                                                  "db_size_bytes":  483905536
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-22",
+                                                                  "db_size_bytes":  483770368
                                                               },
                                "Sri Ramchandra Talkies - Kodumur":  {
                                                                         "status":  "ok",
@@ -4533,5 +4533,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-22 18:00:03"
+    "started_at":  "2026-07-22 20:00:03"
 }
