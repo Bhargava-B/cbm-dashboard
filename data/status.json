@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-23 15:29:51",
+    "generated_at":  "2026-07-23 17:17:52",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2636,9 +2636,9 @@
                                                                        "db_size_bytes":  2432134656
                                                                    },
                                "One2One Plus Film City Vadakara":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-22",
-                                                                       "db_size_bytes":  1317400576
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-23",
+                                                                       "db_size_bytes":  1317593088
                                                                    },
                                "Moviemax Circle Kasaragod":  {
                                                                  "status":  "ok",
@@ -2696,9 +2696,9 @@
                                                                "db_size_bytes":  99667968
                                                            },
                                "Mars Cinemas Changaramkulam":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-22",
-                                                                   "db_size_bytes":  3798073344
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-23",
+                                                                   "db_size_bytes":  3831496704
                                                                },
                                "Dhanya Remya Changanassery":  {
                                                                   "status":  "ok",
@@ -4282,8 +4282,8 @@
                                                         "db_size_bytes":  3414118912
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-23",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3612643328
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4533,5 +4533,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-23 14:00:03"
+    "started_at":  "2026-07-23 16:00:03"
 }
