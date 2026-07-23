@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-23 13:33:07",
+    "generated_at":  "2026-07-23 15:29:51",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2171457536
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-07-23",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  907311616
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -443,8 +443,8 @@
                                                                  "db_size_bytes":  2069626880
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-07-23",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  271966208
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -1033,8 +1033,8 @@
                                                              "db_size_bytes":  762302464
                                                          },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-07-23",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  394229248
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -1771,14 +1771,14 @@
                                                              "db_size_bytes":  3716538368
                                                          },
                                "Manu DMAX Cinemas PUTHENVELIKKARA":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-22",
-                                                                         "db_size_bytes":  420663296
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-23",
+                                                                         "db_size_bytes":  422567936
                                                                      },
                                "Sagara Theatre Kattappana":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-07-22",
-                                                                 "db_size_bytes":  1987074560
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-23",
+                                                                 "db_size_bytes":  1986743808
                                                              },
                                "Casino Talkies AC 2K 3D Aluva":  {
                                                                      "status":  "ok",
@@ -2456,9 +2456,9 @@
                                                                   "db_size_bytes":  122408960
                                                               },
                                "Shadow Cinema Pazhayannur":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-07-22",
-                                                                 "db_size_bytes":  2911858688
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-23",
+                                                                 "db_size_bytes":  2907193344
                                                              },
                                "Revathy Cinemax Paripally":  {
                                                                  "status":  "ok",
@@ -4533,5 +4533,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-23 12:00:03"
+    "started_at":  "2026-07-23 14:00:03"
 }
