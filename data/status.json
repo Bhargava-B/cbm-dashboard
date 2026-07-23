@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-23 11:32:08",
+    "generated_at":  "2026-07-23 13:33:07",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1509,9 +1509,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Sri Sai Baba - Shadnagar":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-07-22",
-                                                                "db_size_bytes":  814137344
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-23",
+                                                                "db_size_bytes":  815382528
                                                             },
                                "AMR Vijay Bhaskar - Bhadrachalam":  {
                                                                         "status":  "ok",
@@ -3792,8 +3792,8 @@
                                                                                         "db_size_bytes":  763023360
                                                                                     },
                                "Chand Picture Palace AC DTS - Proddatur":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-07-22",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-07-23",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Gowtham Cinemas - Rayachoti":  {
@@ -4002,9 +4002,9 @@
                                                                                            "db_size_bytes":  null
                                                                                        },
                                "Sri Devi Mahal - Amadalavalasa":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-07-22",
-                                                                      "db_size_bytes":  311902208
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-07-23",
+                                                                      "db_size_bytes":  311885824
                                                                   },
                                "Srinivasa Theater AC 2K Dolby - Markapur":  {
                                                                                 "status":  "ok",
@@ -4533,5 +4533,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-23 10:00:03"
+    "started_at":  "2026-07-23 12:00:03"
 }
