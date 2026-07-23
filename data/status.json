@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-23 09:29:59",
+    "generated_at":  "2026-07-23 11:32:08",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1110,8 +1110,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Shiva Multiplex - Jharsuguda":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-22",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-23",
                                                                     "db_size_bytes":  null
                                                                 }
                            },
@@ -1599,9 +1599,9 @@
                                                                    "db_size_bytes":  394248192
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-22",
-                                                                        "db_size_bytes":  678477824
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-23",
+                                                                        "db_size_bytes":  681164800
                                                                     },
                                "Seetarama Cinemas - Manuguru":  {
                                                                     "status":  "missing",
@@ -3465,8 +3465,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-22",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-23",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3542,9 +3542,9 @@
                                                    "db_size_bytes":  null
                                                },
                                "Surya Cinemax - Draksharamam":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-22",
-                                                                    "db_size_bytes":  520994816
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-23",
+                                                                    "db_size_bytes":  521453568
                                                                 },
                                "Sri Anu Deluxe - Agiripalli":  {
                                                                    "status":  "missing",
@@ -3717,8 +3717,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-07-22",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-07-23",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3942,8 +3942,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Sudharshan AC DTS - Kanigiri":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-22",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-23",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Satyam AC 4K Dolby Atmos - Ongole":  {
@@ -4533,5 +4533,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-23 08:00:03"
+    "started_at":  "2026-07-23 10:00:03"
 }
