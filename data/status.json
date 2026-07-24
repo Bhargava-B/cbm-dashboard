@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-24 19:18:40",
+    "generated_at":  "2026-07-24 21:18:47",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3100,8 +3100,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-23",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-24",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -4533,5 +4533,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-24 18:00:03"
+    "started_at":  "2026-07-24 20:00:03"
 }
