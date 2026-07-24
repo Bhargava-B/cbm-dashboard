@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-24 11:34:20",
+    "generated_at":  "2026-07-24 13:33:26",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1110,8 +1110,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Shiva Multiplex - Jharsuguda":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-23",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-24",
                                                                     "db_size_bytes":  null
                                                                 }
                            },
@@ -1439,8 +1439,8 @@
                                                            "db_size_bytes":  null
                                                        },
                                "Maheshwari Theater":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-07-23",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-07-24",
                                                           "db_size_bytes":  null
                                                       },
                                "SR CINEMAS MANTHANI":  {
@@ -1509,9 +1509,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Sri Sai Baba - Shadnagar":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-07-23",
-                                                                "db_size_bytes":  815382528
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-24",
+                                                                "db_size_bytes":  816824320
                                                             },
                                "AMR Vijay Bhaskar - Bhadrachalam":  {
                                                                         "status":  "ok",
@@ -1599,9 +1599,9 @@
                                                                    "db_size_bytes":  396804096
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-23",
-                                                                        "db_size_bytes":  681164800
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-24",
+                                                                        "db_size_bytes":  684507136
                                                                     },
                                "Seetarama Cinemas - Manuguru":  {
                                                                     "status":  "missing",
@@ -4533,5 +4533,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-24 10:00:03"
+    "started_at":  "2026-07-24 12:00:03"
 }
