@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-25 11:20:41",
+    "generated_at":  "2026-07-25 13:32:42",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -728,9 +728,9 @@
                                                          "db_size_bytes":  490393088
                                                      },
                                "Divya Theatre Puducherry":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-07-24",
-                                                                "db_size_bytes":  292483072
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-25",
+                                                                "db_size_bytes":  300466176
                                                             },
                                "Raja Cinemas Perambalur":  {
                                                                "status":  "ok",
@@ -1584,9 +1584,9 @@
                                                               "db_size_bytes":  242008064
                                                           },
                                "Aradhana Theatre - Hyderabad":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-24",
-                                                                    "db_size_bytes":  935120896
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-25",
+                                                                    "db_size_bytes":  942084096
                                                                 },
                                "Vijetha 70MM 4k Atmos - Borabanda":  {
                                                                          "status":  "ok",
@@ -1831,9 +1831,9 @@
                                                                 "db_size_bytes":  6657495040
                                                             },
                                "Chellam Cinemas puthur":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-07-24",
-                                                              "db_size_bytes":  268095488
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-07-25",
+                                                              "db_size_bytes":  269799424
                                                           },
                                "Archana Cineplex Payannur":  {
                                                                  "status":  "ok",
@@ -2031,9 +2031,9 @@
                                                                         "db_size_bytes":  1253228544
                                                                     },
                                "Kalabhavan Theater Trivandrum":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-07-24",
-                                                                     "db_size_bytes":  2083401728
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-07-25",
+                                                                     "db_size_bytes":  2084294656
                                                                  },
                                "Cheloor Grand Cinemas Cherpulassery":  {
                                                                            "status":  "ok",
@@ -2511,9 +2511,9 @@
                                                                             "db_size_bytes":  1036173312
                                                                         },
                                "Apsara Theatre Changanassery":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-24",
-                                                                    "db_size_bytes":  2460798976
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-25",
+                                                                    "db_size_bytes":  2461257728
                                                                 },
                                "SR Cinema Varkkala":  {
                                                           "status":  "ok",
@@ -2571,9 +2571,9 @@
                                                                       "db_size_bytes":  2826436608
                                                                   },
                                "Ashoka Theatre Vadanapally":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-07-24",
-                                                                  "db_size_bytes":  577355776
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-25",
+                                                                  "db_size_bytes":  577617920
                                                               },
                                "Sreedevi S Cinemas Kodaly":  {
                                                                  "status":  "ok",
@@ -4533,5 +4533,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-25 10:00:03"
+    "started_at":  "2026-07-25 12:00:04"
 }
