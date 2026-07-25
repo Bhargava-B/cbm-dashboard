@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-25 15:19:34",
+    "generated_at":  "2026-07-25 17:15:27",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2843,9 +2843,9 @@
                                                                  "db_size_bytes":  3705585664
                                                              },
                                "Seran Cinemas Kilinochchi":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-07-12",
-                                                                 "db_size_bytes":  179683328
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-25",
+                                                                 "db_size_bytes":  183418880
                                                              },
                                "Samanala Cinemas, Melsiripura":  {
                                                                      "status":  "ok",
@@ -4282,8 +4282,8 @@
                                                         "db_size_bytes":  3429419520
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-25",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3624128512
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4533,5 +4533,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-25 14:00:04"
+    "started_at":  "2026-07-25 16:00:03"
 }
