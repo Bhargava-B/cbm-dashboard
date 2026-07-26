@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-26 15:18:44",
+    "generated_at":  "2026-07-26 17:14:22",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -362,6 +362,11 @@
                                                                    "last_backup":  "2026-07-26",
                                                                    "db_size_bytes":  1218109440
                                                                },
+                               "BABU CINEMAS KANCHIPURAM":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-26",
+                                                                "db_size_bytes":  1087709184
+                                                            },
                                "Jeya Anand Theatre Rajapalayam":  {
                                                                       "status":  "ok",
                                                                       "last_backup":  "2026-07-26",
@@ -1776,9 +1781,9 @@
                                                                          "db_size_bytes":  423223296
                                                                      },
                                "Sagara Theatre Kattappana":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-07-25",
-                                                                 "db_size_bytes":  1993431552
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-07-26",
+                                                                 "db_size_bytes":  1996316160
                                                              },
                                "Casino Talkies AC 2K 3D Aluva":  {
                                                                      "status":  "ok",
@@ -2411,9 +2416,9 @@
                                                           "db_size_bytes":  776392704
                                                       },
                                "RD Cinema Mundakayam":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-07-25",
-                                                            "db_size_bytes":  3295690752
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-07-26",
+                                                            "db_size_bytes":  3302703104
                                                         },
                                "Magic Frames Pattambi":  {
                                                              "status":  "ok",
@@ -4282,8 +4287,8 @@
                                                         "db_size_bytes":  3438475776
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-26",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3621453824
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4533,5 +4538,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-26 14:00:03"
+    "started_at":  "2026-07-26 16:00:03"
 }
