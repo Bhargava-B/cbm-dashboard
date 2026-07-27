@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-27 15:21:41",
+    "generated_at":  "2026-07-27 17:16:22",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,9 +33,9 @@
                                                                        "db_size_bytes":  2230632448
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "missing",
-                                                         "last_backup":  "2026-06-19",
-                                                         "db_size_bytes":  1009541632
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-07-27",
+                                                         "db_size_bytes":  1008166400
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
                                                                        "status":  "ok",
@@ -325,7 +325,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-07-27",
-                                                                  "db_size_bytes":  882712576
+                                                                  "db_size_bytes":  884944896
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -1038,9 +1038,9 @@
                                                              "db_size_bytes":  779943936
                                                          },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-07-22",
-                                                                "db_size_bytes":  446149120
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-07-27",
+                                                                "db_size_bytes":  449950208
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
                                                                           "status":  "ok",
@@ -1701,9 +1701,9 @@
                                                                "db_size_bytes":  1726472192
                                                            },
                                "SreeDhanya Cinemax Kadakkal":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-26",
-                                                                   "db_size_bytes":  864796672
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-27",
+                                                                   "db_size_bytes":  866566144
                                                                },
                                "Matha Madhurya Theatre Aluva":  {
                                                                     "status":  "ok",
@@ -2935,8 +2935,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Amruth Digital 2K AC Cinema - Lingarajapuram":  {
-                                                                                    "status":  "missing",
-                                                                                    "last_backup":  null,
+                                                                                    "status":  "ok",
+                                                                                    "last_backup":  "2026-07-27",
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Kino Cinemas - Seegehalli Kadugodi, Bengaluru":  {
@@ -3074,11 +3074,6 @@
                                                                                      "last_backup":  "2026-06-10",
                                                                                      "db_size_bytes":  null
                                                                                  },
-                               "Amruth Digital 2K A":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  null,
-                                                           "db_size_bytes":  null
-                                                       },
                                "Venkateshwara Digital 4K Dolby 7.1 A∩╝ÅC 3D: Kengeri":  {
                                                                                             "status":  "missing",
                                                                                             "last_backup":  null,
@@ -4277,8 +4272,8 @@
                                                         "db_size_bytes":  3442210304
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-27",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3622023168
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4528,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-27 14:00:03"
+    "started_at":  "2026-07-27 16:00:03"
 }
