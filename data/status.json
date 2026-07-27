@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-27 17:16:22",
+    "generated_at":  "2026-07-27 19:19:34",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2796,9 +2796,9 @@
                                                                      "db_size_bytes":  577421312
                                                                  },
                                "Seema Cineplex Pathanapuram":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-21",
-                                                                   "db_size_bytes":  1725943808
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-27",
+                                                                   "db_size_bytes":  1726009344
                                                                },
                                "Sathya Movie House Palakkad":  {
                                                                    "status":  "ok",
@@ -2945,8 +2945,8 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Coorg Cineplex - Gonikoppal":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  null,
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-27",
                                                                    "db_size_bytes":  null
                                                                },
                                "Lakshmi Talkies - Tiptur":  {
@@ -2995,8 +2995,8 @@
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "Prakash Digital 4K Cinema - Belagavi":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  null,
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-07-27",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Gayatri Theatre - Tumkuru":  {
@@ -4112,8 +4112,8 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-26",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-27",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-27 16:00:03"
+    "started_at":  "2026-07-27 18:00:03"
 }
