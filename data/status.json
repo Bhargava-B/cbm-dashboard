@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-28 15:32:07",
+    "generated_at":  "2026-07-28 17:20:47",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2721,9 +2721,9 @@
                                                                   "db_size_bytes":  2025185280
                                                               },
                                "Ganga Complex Attingal":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-07-27",
-                                                              "db_size_bytes":  1985253888
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-07-28",
+                                                              "db_size_bytes":  1985779200
                                                           },
                                "Thai Lakshmi Cinema Punalur":  {
                                                                    "status":  "ok",
@@ -3025,8 +3025,8 @@
                                                                            "db_size_bytes":  null
                                                                        },
                                "Sri Krishna Theatre Bommanahalli,Bengaluru":  {
-                                                                                  "status":  "missing",
-                                                                                  "last_backup":  null,
+                                                                                  "status":  "ok",
+                                                                                  "last_backup":  "2026-07-28",
                                                                                   "db_size_bytes":  null
                                                                               },
                                "DRC Cinemas Kushalnagar":  {
@@ -4107,8 +4107,8 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-27",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-28",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
@@ -4267,8 +4267,8 @@
                                                         "db_size_bytes":  3479275008
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-28",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3602911232
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-28 14:00:03"
+    "started_at":  "2026-07-28 16:00:04"
 }
