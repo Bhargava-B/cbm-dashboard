@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-28 13:36:07",
+    "generated_at":  "2026-07-28 15:32:07",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2239168512
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-07-28",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  1028284928
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -448,8 +448,8 @@
                                                                  "db_size_bytes":  2093551616
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-07-28",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  303755264
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -1038,8 +1038,8 @@
                                                              "db_size_bytes":  782106624
                                                          },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-07-28",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  453620224
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -1614,8 +1614,8 @@
                                                                     "db_size_bytes":  121749504
                                                                 },
                                "Parameswara 70MM - Shadnagar":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-26",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-28",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Sai Baba Theatre - Shankarpally":  {
@@ -3100,8 +3100,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-07-27",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-07-28",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Venkateshwara Digital 4K Dolby 7.1 A╬ô├¬ΓîÉ╬ô├▓┬ÑΓö£├áC 3D: Kengeri":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-28 12:00:04"
+    "started_at":  "2026-07-28 14:00:03"
 }
