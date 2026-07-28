@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-28 17:20:47",
+    "generated_at":  "2026-07-28 19:21:31",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1776,9 +1776,9 @@
                                                              "db_size_bytes":  3720015872
                                                          },
                                "Manu DMAX Cinemas PUTHENVELIKKARA":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-27",
-                                                                         "db_size_bytes":  423550976
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-28",
+                                                                         "db_size_bytes":  423616512
                                                                      },
                                "Sagara Theatre Kattappana":  {
                                                                  "status":  "ok",
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-28 16:00:04"
+    "started_at":  "2026-07-28 18:00:03"
 }
