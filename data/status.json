@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-28 19:21:31",
+    "generated_at":  "2026-07-28 21:24:48",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1115,8 +1115,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Shiva Multiplex - Jharsuguda":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-27",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-28",
                                                                     "db_size_bytes":  null
                                                                 }
                            },
@@ -3095,8 +3095,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-27",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-28",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-28 18:00:03"
+    "started_at":  "2026-07-28 20:00:03"
 }
