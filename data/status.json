@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-29 21:24:15",
+    "generated_at":  "2026-07-29 23:20:42",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -4147,9 +4147,9 @@
                                                                             "db_size_bytes":  255447040
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-04",
-                                                                        "db_size_bytes":  880660480
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-29",
+                                                                        "db_size_bytes":  877383680
                                                                     },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "status":  "ok",
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-29 20:00:03"
+    "started_at":  "2026-07-29 22:00:03"
 }
