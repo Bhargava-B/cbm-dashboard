@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-30 11:29:33",
+    "generated_at":  "2026-07-30 13:32:34",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2001,9 +2001,9 @@
                                                                     "db_size_bytes":  2183291392
                                                                 },
                                "Mas Movies Irinjalakuda":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-07-29",
-                                                               "db_size_bytes":  1979588608
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-07-30",
+                                                               "db_size_bytes":  1970692096
                                                            },
                                "Sree Sailom Cine House Kadakkal":  {
                                                                        "status":  "ok",
@@ -2356,9 +2356,9 @@
                                                                 "db_size_bytes":  1254608896
                                                             },
                                "Rockys moviemax Kilimanoor":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-07-29",
-                                                                  "db_size_bytes":  285982720
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-30",
+                                                                  "db_size_bytes":  289390592
                                                               },
                                "Aashirvad Cineplexx Kottiyam":  {
                                                                     "status":  "ok",
@@ -2506,9 +2506,9 @@
                                                                        "db_size_bytes":  4413927424
                                                                    },
                                "Aishwarya Cinema Kattappana":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-07-29",
-                                                                   "db_size_bytes":  3068100608
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-07-30",
+                                                                   "db_size_bytes":  3061608448
                                                                },
                                "Santosh Sandra Vallakali Mavelikkara":  {
                                                                             "status":  "ok",
@@ -2626,9 +2626,9 @@
                                                             "db_size_bytes":  3297222656
                                                         },
                                "Santhosh Cinema Kattappana":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-07-29",
-                                                                  "db_size_bytes":  434264576
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-07-30",
+                                                                  "db_size_bytes":  434724352
                                                               },
                                "Swaram Layam Cinema Kattakada":  {
                                                                      "status":  "ok",
@@ -3450,8 +3450,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-07-29",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-07-30",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3697,8 +3697,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Sowmya Theatre Chittinagar - Vijayawada":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-07-29",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-07-30",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
@@ -3842,9 +3842,9 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "SRK Chitra Mandir 4K Dolby Atmos - Payakaraopeta":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-07-29",
-                                                                                        "db_size_bytes":  1570512896
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-07-30",
+                                                                                        "db_size_bytes":  1574522880
                                                                                     },
                                "Satyanarayana Kalamandir - Addanki":  {
                                                                           "status":  "ok",
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-30 10:00:03"
+    "started_at":  "2026-07-30 12:00:03"
 }
