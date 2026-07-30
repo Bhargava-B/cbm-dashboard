@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-30 13:32:34",
+    "generated_at":  "2026-07-30 15:24:17",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2190917632
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-07-30",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  1064067584
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -448,8 +448,8 @@
                                                                  "db_size_bytes":  2106200064
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-07-30",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  315420672
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -1038,8 +1038,8 @@
                                                              "db_size_bytes":  784662528
                                                          },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-07-30",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  468169216
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -2383,7 +2383,7 @@
                                "Veena Varna Theatre Mananthavady":  {
                                                                         "status":  "ok",
                                                                         "last_backup":  "2026-07-30",
-                                                                        "db_size_bytes":  813748224
+                                                                        "db_size_bytes":  804507648
                                                                     },
                                "VINAYAKA THEATRE COMPLEX Kanhangad":  {
                                                                           "status":  "missing",
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-30 12:00:03"
+    "started_at":  "2026-07-30 14:00:05"
 }
