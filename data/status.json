@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-31 15:20:18",
+    "generated_at":  "2026-07-31 17:19:46",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -57,16 +57,11 @@
                                                                 "last_backup":  "2026-07-31",
                                                                 "db_size_bytes":  12309350912
                                                             },
-                               "SRI SHANMUGAM THEATRE":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-07-31",
-                                                             "db_size_bytes":  431407104
-                                                         },
-                               "SR Anand Theatre Madhuranthagam":  {
-                                                                       "status":  "ok",
-                                                                       "last_backup":  "2026-07-31",
-                                                                       "db_size_bytes":  1456726016
-                                                                   },
+                               "Revathi Theatre Tirupur":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-07-31",
+                                                               "db_size_bytes":  380256256
+                                                           },
                                "Veera Cinemas Vellakoil":  {
                                                                "status":  "ok",
                                                                "last_backup":  "2026-07-31",
@@ -217,11 +212,11 @@
                                                                        "last_backup":  "2026-07-23",
                                                                        "db_size_bytes":  395952128
                                                                    },
-                               "Hari Theatre Pattabiram Chennai":  {
-                                                                       "status":  "ok",
-                                                                       "last_backup":  "2026-07-31",
-                                                                       "db_size_bytes":  175620096
-                                                                   },
+                               "SRI SHANMUGAM THEATRE":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-07-31",
+                                                             "db_size_bytes":  431407104
+                                                         },
                                "Sri Balaji Theatre Acharapakkam":  {
                                                                        "status":  "ok",
                                                                        "last_backup":  "2026-07-31",
@@ -422,6 +417,11 @@
                                                                     "last_backup":  "2026-07-31",
                                                                     "db_size_bytes":  594702336
                                                                 },
+                               "VR Cinemas Pattabiram":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-07-31",
+                                                             "db_size_bytes":  776269824
+                                                         },
                                "LA Cinemas Gomathi":  {
                                                           "status":  "ok",
                                                           "last_backup":  "2026-07-31",
@@ -732,6 +732,11 @@
                                                          "last_backup":  "2026-07-31",
                                                          "db_size_bytes":  518249984
                                                      },
+                               "Green Cinemas Radha Theatre Padi":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-31",
+                                                                        "db_size_bytes":  4045815808
+                                                                    },
                                "Divya Theatre Puducherry":  {
                                                                 "status":  "ok",
                                                                 "last_backup":  "2026-07-31",
@@ -972,11 +977,11 @@
                                                                    "last_backup":  "2026-07-31",
                                                                    "db_size_bytes":  6791134720
                                                                },
-                               "Revathi Theatre Tirupur":  {
-                                                               "status":  "ok",
-                                                               "last_backup":  "2026-07-31",
-                                                               "db_size_bytes":  380256256
-                                                           },
+                               "Hari Theatre Pattabiram Chennai":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-31",
+                                                                       "db_size_bytes":  175620096
+                                                                   },
                                "Umaa Rajendra Cinemas 4K Dindigul":  {
                                                                          "status":  "ok",
                                                                          "last_backup":  "2026-07-31",
@@ -1032,11 +1037,11 @@
                                                                           "last_backup":  "2026-07-31",
                                                                           "db_size_bytes":  2221756928
                                                                       },
-                               "VR Cinemas Pattabiram":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-07-31",
-                                                             "db_size_bytes":  776269824
-                                                         },
+                               "SR Anand Theatre Madhuranthagam":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-31",
+                                                                       "db_size_bytes":  1456726016
+                                                                   },
                                "Rakki Cinemas Tiruvallur":  {
                                                                 "status":  "missing",
                                                                 "last_backup":  "2026-07-22",
@@ -1177,9 +1182,9 @@
                                                                                       "db_size_bytes":  2107600896
                                                                                   },
                                   "Asian Sha Shahensha - Chintal":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-29",
-                                                                        "db_size_bytes":  5449793536
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-31",
+                                                                        "db_size_bytes":  5468905472
                                                                     },
                                   "Asian Sailaja - Vikarabad":  {
                                                                     "status":  "ok",
@@ -4272,8 +4277,8 @@
                                                         "db_size_bytes":  3439237632
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-07-31",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3626115072
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4523,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-31 14:00:03"
+    "started_at":  "2026-07-31 16:00:03"
 }
