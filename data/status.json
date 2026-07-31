@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-31 11:27:17",
+    "generated_at":  "2026-07-31 13:28:23",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3527,9 +3527,9 @@
                                                    "db_size_bytes":  null
                                                },
                                "Surya Cinemax - Draksharamam":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-30",
-                                                                    "db_size_bytes":  534364160
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-07-31",
+                                                                    "db_size_bytes":  537706496
                                                                 },
                                "Sri Anu Deluxe - Agiripalli":  {
                                                                    "status":  "missing",
@@ -3772,8 +3772,8 @@
                                                                 "db_size_bytes":  690503680
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-07-30",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-07-31",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Kameswari and Kinnera AC Laser 4K - Maddilapalem":  {
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-31 10:00:03"
+    "started_at":  "2026-07-31 12:00:21"
 }
