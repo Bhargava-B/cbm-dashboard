@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-07-31 17:19:46",
+    "generated_at":  "2026-07-31 19:20:15",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -848,9 +848,9 @@
                                                                     "db_size_bytes":  1245233152
                                                                 },
                                "Shree Radha Movie Park Redhills":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-07-30",
-                                                                       "db_size_bytes":  5166374912
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-07-31",
+                                                                       "db_size_bytes":  5174325248
                                                                    },
                                "Sangeetha Cinemas Mangalam Tirupur":  {
                                                                           "status":  "ok",
@@ -4117,8 +4117,8 @@
                                                                    "db_size_bytes":  77058048
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-07-29",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-07-31",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
@@ -4528,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-07-31 16:00:03"
+    "started_at":  "2026-07-31 18:00:03"
 }
