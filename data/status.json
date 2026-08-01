@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-01 17:15:13",
+    "generated_at":  "2026-08-01 19:17:07",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2651,9 +2651,9 @@
                                                                        "db_size_bytes":  1322827776
                                                                    },
                                "Moviemax Circle Kasaragod":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-07-30",
-                                                                 "db_size_bytes":  3841380352
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-01",
+                                                                 "db_size_bytes":  3832135680
                                                              },
                                "Geetha Cinemax Kozhinjampara":  {
                                                                     "status":  "ok",
@@ -2771,9 +2771,9 @@
                                                               "db_size_bytes":  8428699648
                                                           },
                                "Dhanalakshmi Cinemas Nenmara":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-07-31",
-                                                                    "db_size_bytes":  1268965376
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-01",
+                                                                    "db_size_bytes":  1274404864
                                                                 },
                                "Fun Movies Thrissur":  {
                                                            "status":  "ok",
@@ -4528,5 +4528,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-01 16:00:03"
+    "started_at":  "2026-08-01 18:00:03"
 }
