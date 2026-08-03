@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-03 13:38:32",
+    "generated_at":  "2026-08-03 15:23:59",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2229194752
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-08-03",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  1186160128
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -448,8 +448,8 @@
                                                                  "db_size_bytes":  2123882496
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-08-03",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  338092032
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -1043,8 +1043,8 @@
                                                                        "db_size_bytes":  1462296576
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-08-03",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  518428160
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -2721,9 +2721,9 @@
                                                                     "db_size_bytes":  3238854656
                                                                 },
                                "Surya Multiplex Nedumangad":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-08-02",
-                                                                  "db_size_bytes":  2033598464
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-08-03",
+                                                                  "db_size_bytes":  2035138560
                                                               },
                                "Ganga Complex Attingal":  {
                                                               "status":  "ok",
@@ -3109,11 +3109,6 @@
                                                                                "last_backup":  "2026-08-03",
                                                                                "db_size_bytes":  null
                                                                            },
-                               "Venkateshwara Digital 4K Dolby 7.1 A╬ô├¬ΓîÉ╬ô├▓┬ÑΓö£├áC 3D: Kengeri":  {
-                                                                                                           "status":  "missing",
-                                                                                                           "last_backup":  null,
-                                                                                                           "db_size_bytes":  null
-                                                                                                       },
                                "LAXMI Picture palace - hospet":  {
                                                                      "status":  "ok",
                                                                      "last_backup":  "2026-08-03",
@@ -3135,8 +3130,8 @@
                                                                "db_size_bytes":  null
                                                            },
                                "Balaji Theatre:Tavarekere(Next to Lakshmi Theatre)":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-07-14",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-08-03",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Lido Theater -Mysore":  {
@@ -3449,11 +3444,6 @@
                                                                    "last_backup":  "2026-08-03",
                                                                    "db_size_bytes":  null
                                                                },
-                               "Venkateshwara Digital 4K Dolby 7.1 A":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  null,
-                                                                            "db_size_bytes":  null
-                                                                        },
                                "Sreelekha Theater - Chickmagaluru":  {
                                                                          "status":  "missing",
                                                                          "last_backup":  "2026-08-02",
@@ -4528,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-03 12:00:15"
+    "started_at":  "2026-08-03 14:00:04"
 }
