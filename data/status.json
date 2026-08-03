@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-03 15:23:59",
+    "generated_at":  "2026-08-03 17:19:45",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3095,8 +3095,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Benaka CInemas, Malur":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  null,
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-08-03",
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
@@ -3140,8 +3140,8 @@
                                                             "db_size_bytes":  null
                                                         },
                                "Narthaki 4K Dolby 7.1 Digital S R - Gandhi Nagar":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-06-03",
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-08-03",
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Gowrishankar Theatre - Vijayapura":  {
@@ -3175,8 +3175,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Triveni Theatre AC 3D 4K Dolby - Gandhinagar":  {
-                                                                                    "status":  "missing",
-                                                                                    "last_backup":  null,
+                                                                                    "status":  "ok",
+                                                                                    "last_backup":  "2026-08-03",
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Siddalingeshwara 4K Dolby Atmos Cinema - J.P.Nagar":  {
@@ -3240,8 +3240,8 @@
                                                                            "db_size_bytes":  null
                                                                        },
                                "Milan Theatre - Chickmagaluru":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  null,
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-08-03",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Srinivasa Theater - Kadugudi 4K Dolby Atmos":  {
@@ -4267,8 +4267,8 @@
                                                         "db_size_bytes":  3458788864
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-08-03",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3632013312
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-03 14:00:04"
+    "started_at":  "2026-08-03 16:00:03"
 }
