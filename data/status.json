@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-03 17:19:45",
+    "generated_at":  "2026-08-03 19:18:12",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -320,7 +320,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-08-03",
-                                                                  "db_size_bytes":  898760704
+                                                                  "db_size_bytes":  900726784
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -3284,11 +3284,6 @@
                                                                   "last_backup":  "2026-08-03",
                                                                   "db_size_bytes":  null
                                                               },
-                               "Sri Vinayaka Cinemas 4K Dolby 7.1 (AC) - Varthur":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  null,
-                                                                                        "db_size_bytes":  null
-                                                                                    },
                                "Gurushree Tehatre Mandya":  {
                                                                 "status":  "ok",
                                                                 "last_backup":  "2026-08-03",
@@ -3300,8 +3295,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Veerabhadreshwara Theatre - Kamala Nagar":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  null,
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-08-03",
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Manasa RGB Laser Atmos Cinemas - Konankunte":  {
@@ -3319,11 +3314,6 @@
                                                                            "last_backup":  "2026-08-03",
                                                                            "db_size_bytes":  null
                                                                        },
-                               "Trinethra Digital 4K Atmos Cinema - Davanagere":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  null,
-                                                                                      "db_size_bytes":  null
-                                                                                  },
                                "Mukunda 4K Dolby Atmos - M.S.Nagar":  {
                                                                           "status":  "ok",
                                                                           "last_backup":  "2026-08-03",
@@ -3335,13 +3325,13 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Thirumala 4K Dolby Atmos - Agara":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  null,
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-03",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Rupam Theatre - Hubli":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  null,
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-08-03",
                                                              "db_size_bytes":  null
                                                          },
                                "Jai Bharath Theatre -Tumkur":  {
@@ -3384,11 +3374,6 @@
                                                            "last_backup":  null,
                                                            "db_size_bytes":  null
                                                        },
-                               "Sri Vinayaka Cinemas 4K Dolby 7.1 (A":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  null,
-                                                                            "db_size_bytes":  null
-                                                                        },
                                "VR Cinemas 2K A":  {
                                                        "status":  "missing",
                                                        "last_backup":  null,
@@ -4518,5 +4503,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-03 16:00:03"
+    "started_at":  "2026-08-03 18:00:03"
 }
