@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-04 13:31:45",
+    "generated_at":  "2026-08-04 15:30:07",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2235944960
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-08-04",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  1203331584
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -448,8 +448,8 @@
                                                                  "db_size_bytes":  2131222528
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-08-04",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  343076864
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -1043,8 +1043,8 @@
                                                                        "db_size_bytes":  1462755328
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-08-04",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  524982784
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -1132,9 +1132,9 @@
                                                                                  "db_size_bytes":  5639872512
                                                                              },
                                   "Ashoka Cinema - Kalwakurthy":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-08-02",
-                                                                      "db_size_bytes":  1766141952
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-08-04",
+                                                                      "db_size_bytes":  1758642176
                                                                   },
                                   "Asian Jyothi - RC Puram":  {
                                                                   "status":  "ok",
@@ -2904,11 +2904,11 @@
                                                                              "last_backup":  "2026-08-04",
                                                                              "db_size_bytes":  null
                                                                          },
-                               "Veerbhadreshwara Theatre Shivamogga":  {
-                                                                           "status":  "ok",
-                                                                           "last_backup":  "2026-08-04",
-                                                                           "db_size_bytes":  null
-                                                                       },
+                               "Sangam Digital - Mysuru":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-08-04",
+                                                               "db_size_bytes":  null
+                                                           },
                                "Veeresh Cinemas-Magadi Road":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-08-04",
@@ -2954,11 +2954,6 @@
                                                                                      "last_backup":  "2026-08-04",
                                                                                      "db_size_bytes":  null
                                                                                  },
-                               "Jai Bharath Theatre -Tumkur":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-08-04",
-                                                                   "db_size_bytes":  null
-                                                               },
                                "Coorg Cineplex - Gonikoppal":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-08-04",
@@ -3019,6 +3014,11 @@
                                                                  "last_backup":  "2026-08-04",
                                                                  "db_size_bytes":  null
                                                              },
+                               "Veerbhadreshwara Theatre Shivamogga":  {
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-08-04",
+                                                                           "db_size_bytes":  null
+                                                                       },
                                "Ravi Digital 2K Dolby 7.1 HD Screen - Ejipura":  {
                                                                                      "status":  "ok",
                                                                                      "last_backup":  "2026-08-04",
@@ -3079,11 +3079,6 @@
                                                                                      "last_backup":  "2026-08-04",
                                                                                      "db_size_bytes":  null
                                                                                  },
-                               "Venkateshwara Digital 4K Dolby 7.1 A∩╝ÅC 3D: Kengeri":  {
-                                                                                            "status":  "missing",
-                                                                                            "last_backup":  null,
-                                                                                            "db_size_bytes":  null
-                                                                                        },
                                "Swagath Poornima 4K Dolby Atmos - JC Road":  {
                                                                                  "status":  "ok",
                                                                                  "last_backup":  "2026-08-04",
@@ -3095,6 +3090,11 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "Brundha 4K Dolby Atmos - Hongasandra DMart":  {
+                                                                                  "status":  "ok",
+                                                                                  "last_backup":  "2026-08-04",
+                                                                                  "db_size_bytes":  null
+                                                                              },
+                               "Venkateshwara Digital 4K Dolby 7.1 Kengeri":  {
                                                                                   "status":  "ok",
                                                                                   "last_backup":  "2026-08-04",
                                                                                   "db_size_bytes":  null
@@ -3114,11 +3114,6 @@
                                                                                "last_backup":  "2026-08-04",
                                                                                "db_size_bytes":  null
                                                                            },
-                               "Venkateshwara Digital 4K Dolby 7.1 A╬ô├¬ΓîÉ╬ô├▓┬ÑΓö£├áC 3D: Kengeri":  {
-                                                                                                           "status":  "missing",
-                                                                                                           "last_backup":  null,
-                                                                                                           "db_size_bytes":  null
-                                                                                                       },
                                "LAXMI Picture palace - hospet":  {
                                                                      "status":  "missing",
                                                                      "last_backup":  "2026-08-03",
@@ -3169,6 +3164,11 @@
                                                                               "last_backup":  "2026-08-04",
                                                                               "db_size_bytes":  null
                                                                           },
+                               "Murali Gokula 4K Cinema":  {
+                                                               "status":  "missing",
+                                                               "last_backup":  null,
+                                                               "db_size_bytes":  null
+                                                           },
                                "Vaibhavi \u0026 Vaishnavi Cinemas - Uttarahalli":  {
                                                                                        "status":  "ok",
                                                                                        "last_backup":  "2026-08-04",
@@ -3234,11 +3234,6 @@
                                                                           "last_backup":  "2026-07-01",
                                                                           "db_size_bytes":  null
                                                                       },
-                               "Swagath Murali Gokula 4K Cinema":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  null,
-                                                                       "db_size_bytes":  null
-                                                                   },
                                "Apsara \u0026 Sudha Cinemas - Hubli":  {
                                                                            "status":  "ok",
                                                                            "last_backup":  "2026-08-04",
@@ -3334,11 +3329,11 @@
                                                              "last_backup":  "2026-08-04",
                                                              "db_size_bytes":  null
                                                          },
-                               "Sangam Digital - Mysuru":  {
-                                                               "status":  "ok",
-                                                               "last_backup":  "2026-08-04",
-                                                               "db_size_bytes":  null
-                                                           },
+                               "Jai Bharath Theatre -Tumkur":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-04",
+                                                                   "db_size_bytes":  null
+                                                               },
                                "Sri Vinayaka Cinemas DJ Halli":  {
                                                                      "status":  "missing",
                                                                      "last_backup":  "2026-06-03",
@@ -3355,8 +3350,8 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Balaji Theatre:Tavarekere(Next to Lakshmi Theatre)":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-08-03",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-08-04",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Woodlands Theatre -Mysore":  {
@@ -4498,5 +4493,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-04 12:00:06"
+    "started_at":  "2026-08-04 14:00:04"
 }
