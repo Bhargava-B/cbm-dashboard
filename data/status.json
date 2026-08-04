@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-04 09:29:29",
+    "generated_at":  "2026-08-04 11:30:12",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -230,7 +230,7 @@
                                "Sri Palaniandavar Theatre Sivakasi":  {
                                                                           "status":  "ok",
                                                                           "last_backup":  "2026-08-04",
-                                                                          "db_size_bytes":  2061221888
+                                                                          "db_size_bytes":  2062729216
                                                                       },
                                "Apsara Theatre Virudhunagar":  {
                                                                    "status":  "ok",
@@ -353,9 +353,9 @@
                                                                   "db_size_bytes":  2311901184
                                                               },
                                "Vela Cinemas Thirunindravur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-03",
-                                                                   "db_size_bytes":  1208086528
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-04",
+                                                                   "db_size_bytes":  1206460416
                                                                },
                                "BABU CINEMAS KANCHIPURAM":  {
                                                                 "status":  "missing",
@@ -588,9 +588,9 @@
                                                                                 "db_size_bytes":  1692450816
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-08-03",
-                                                                              "db_size_bytes":  477544448
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-08-04",
+                                                                              "db_size_bytes":  477937664
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -1419,9 +1419,9 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Santhi Theatre - Madhira":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-08-03",
-                                                                "db_size_bytes":  505004032
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-08-04",
+                                                                "db_size_bytes":  501399552
                                                             },
                                "Sai Balaji Theatre - Sathupally":  {
                                                                        "status":  "ok",
@@ -2251,9 +2251,9 @@
                                                                       "db_size_bytes":  95416320
                                                                   },
                                "TMAX Cineplex Goolikkadavu":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-08-03",
-                                                                  "db_size_bytes":  686800896
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-08-04",
+                                                                  "db_size_bytes":  690995200
                                                               },
                                "Kripa Movies Kurumassery":  {
                                                                 "status":  "ok",
@@ -2261,9 +2261,9 @@
                                                                 "db_size_bytes":  207732736
                                                             },
                                "IMP Big Screen 2K 3D Parassala":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-08-03",
-                                                                      "db_size_bytes":  748933120
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-08-04",
+                                                                      "db_size_bytes":  748797952
                                                                   },
                                "Capitol Upasana Theatre Ranni":  {
                                                                      "status":  "missing",
@@ -2890,8 +2890,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-08-03",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-08-04",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -3125,8 +3125,8 @@
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "Aruna Theatre AC 4K 7.1 Dolby 3D - Srirampuram":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-08-03",
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-08-04",
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Prabha Theatre - Mysuru":  {
@@ -3410,8 +3410,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-08-03",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-08-04",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3687,8 +3687,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-08-03",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-08-04",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -4157,8 +4157,8 @@
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "Mini Srinivasa - Yemmiganur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-03",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-04",
                                                                    "db_size_bytes":  null
                                                                },
                                "KS Talkies":  {
@@ -4417,8 +4417,8 @@
                                                                                         "db_size_bytes":  2057653760
                                                                                     },
                                "Sri Rama Complex - Nandyal":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-08-03",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-08-04",
                                                                   "db_size_bytes":  null
                                                               },
                                "Sri Srinivasa Mahal SS Max - Sompeta":  {
@@ -4508,5 +4508,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-04 08:00:03"
+    "started_at":  "2026-08-04 10:00:03"
 }
