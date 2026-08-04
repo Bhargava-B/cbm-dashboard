@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-04 15:30:07",
+    "generated_at":  "2026-08-04 17:21:31",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3029,11 +3029,11 @@
                                                                "last_backup":  "2026-08-04",
                                                                "db_size_bytes":  null
                                                            },
-                               "Sri Radhakrishna Theatre - RT Nagar":  {
-                                                                           "status":  "ok",
-                                                                           "last_backup":  "2026-08-04",
-                                                                           "db_size_bytes":  null
-                                                                       },
+                               "Gayathri Talkies -Mysuru":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-08-04",
+                                                                "db_size_bytes":  null
+                                                            },
                                "Sri Krishna Theatre Bommanahalli,Bengaluru":  {
                                                                                   "status":  "ok",
                                                                                   "last_backup":  "2026-08-04",
@@ -3049,11 +3049,11 @@
                                                                          "last_backup":  "2026-08-04",
                                                                          "db_size_bytes":  null
                                                                      },
-                               "Gayathri Talkies -Mysuru":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-08-04",
-                                                                "db_size_bytes":  null
-                                                            },
+                               "Murali Gokula 4K Cinema Mathikere":  {
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-08-04",
+                                                                         "db_size_bytes":  null
+                                                                     },
                                "Sri Balaji 2K Dolby Atmos 7.1 Viveknagar":  {
                                                                                 "status":  "missing",
                                                                                 "last_backup":  "2026-05-26",
@@ -3154,21 +3154,16 @@
                                                                              "last_backup":  "2026-08-04",
                                                                              "db_size_bytes":  null
                                                                          },
-                               "Vinayaka Cinemas 4K Dolby 11.5 AC 3D - Harinagar":  {
-                                                                                        "status":  "ok",
-                                                                                        "last_backup":  "2026-08-04",
-                                                                                        "db_size_bytes":  null
-                                                                                    },
+                               "Sri Radhakrishna Theatre - RT Nagar":  {
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-08-04",
+                                                                           "db_size_bytes":  null
+                                                                       },
                                "Meeralam Nawaz Picture Palace - Hospet":  {
                                                                               "status":  "ok",
                                                                               "last_backup":  "2026-08-04",
                                                                               "db_size_bytes":  null
                                                                           },
-                               "Murali Gokula 4K Cinema":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  null,
-                                                               "db_size_bytes":  null
-                                                           },
                                "Vaibhavi \u0026 Vaishnavi Cinemas - Uttarahalli":  {
                                                                                        "status":  "ok",
                                                                                        "last_backup":  "2026-08-04",
@@ -3379,6 +3374,11 @@
                                                                "last_backup":  "2026-08-04",
                                                                "db_size_bytes":  null
                                                            },
+                               "Vinayaka Cinemas 4K Dolby 11.5 AC 3D - Harinagar":  {
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-08-04",
+                                                                                        "db_size_bytes":  null
+                                                                                    },
                                "VISION Cinemas -Mysore":  {
                                                               "status":  "ok",
                                                               "last_backup":  "2026-08-04",
@@ -4242,8 +4242,8 @@
                                                         "db_size_bytes":  3430446592
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-08-04",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3616382976
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4493,5 +4493,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-04 14:00:04"
+    "started_at":  "2026-08-04 16:00:03"
 }
