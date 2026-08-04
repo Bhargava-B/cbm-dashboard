@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-04 17:21:31",
+    "generated_at":  "2026-08-04 19:23:11",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -208,9 +208,9 @@
                                                                  "db_size_bytes":  369348608
                                                              },
                                "Sri Ramchandra Cinema Pernambut":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-08-03",
-                                                                       "db_size_bytes":  392216576
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-04",
+                                                                       "db_size_bytes":  392613888
                                                                    },
                                "SRI SHANMUGAM THEATRE":  {
                                                              "status":  "ok",
@@ -1726,9 +1726,9 @@
                                                                         "db_size_bytes":  801361920
                                                                     },
                                "Dream Cinemas Thodupuzha":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-08-03",
-                                                                "db_size_bytes":  890290176
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-08-04",
+                                                                "db_size_bytes":  891928576
                                                             },
                                "Dreambig Pratibha Theatre Mavelikkara":  {
                                                                              "status":  "ok",
@@ -2101,9 +2101,9 @@
                                                                 "db_size_bytes":  1256988672
                                                             },
                                "Universal Theatre Pala":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-08-01",
-                                                              "db_size_bytes":  3174031360
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-08-04",
+                                                              "db_size_bytes":  3174297600
                                                           },
                                "HighStreet Cinemas Muvattupuzha":  {
                                                                        "status":  "ok",
@@ -2586,9 +2586,9 @@
                                                                   "db_size_bytes":  582803456
                                                               },
                                "Sreedevi S Cinemas Kodaly":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-03",
-                                                                 "db_size_bytes":  1199824896
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-04",
+                                                                 "db_size_bytes":  1202180096
                                                              },
                                "Dhanya Remya Pathanamthitta":  {
                                                                    "status":  "ok",
@@ -2904,11 +2904,11 @@
                                                                              "last_backup":  "2026-08-04",
                                                                              "db_size_bytes":  null
                                                                          },
-                               "Sangam Digital - Mysuru":  {
-                                                               "status":  "ok",
-                                                               "last_backup":  "2026-08-04",
-                                                               "db_size_bytes":  null
-                                                           },
+                               "Veerbhadreshwara Theatre Shivamogga":  {
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-08-04",
+                                                                           "db_size_bytes":  null
+                                                                       },
                                "Veeresh Cinemas-Magadi Road":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-08-04",
@@ -2954,6 +2954,11 @@
                                                                                      "last_backup":  "2026-08-04",
                                                                                      "db_size_bytes":  null
                                                                                  },
+                               "Jai Bharath Theatre -Tumkur":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-04",
+                                                                   "db_size_bytes":  null
+                                                               },
                                "Coorg Cineplex - Gonikoppal":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-08-04",
@@ -3014,11 +3019,6 @@
                                                                  "last_backup":  "2026-08-04",
                                                                  "db_size_bytes":  null
                                                              },
-                               "Veerbhadreshwara Theatre Shivamogga":  {
-                                                                           "status":  "ok",
-                                                                           "last_backup":  "2026-08-04",
-                                                                           "db_size_bytes":  null
-                                                                       },
                                "Ravi Digital 2K Dolby 7.1 HD Screen - Ejipura":  {
                                                                                      "status":  "ok",
                                                                                      "last_backup":  "2026-08-04",
@@ -3324,24 +3324,19 @@
                                                              "last_backup":  "2026-08-04",
                                                              "db_size_bytes":  null
                                                          },
-                               "Jai Bharath Theatre -Tumkur":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-08-04",
-                                                                   "db_size_bytes":  null
-                                                               },
+                               "Sangam Digital - Mysuru":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-08-04",
+                                                               "db_size_bytes":  null
+                                                           },
                                "Sri Vinayaka Cinemas DJ Halli":  {
                                                                      "status":  "missing",
                                                                      "last_backup":  "2026-06-03",
                                                                      "db_size_bytes":  null
                                                                  },
-                               "Movietime Bangalore YGR MALL(4 screens)":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  null,
-                                                                               "db_size_bytes":  null
-                                                                           },
                                "Rajkamal Digital 2K Laser Projection - Mysore":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  null,
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-08-04",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Balaji Theatre:Tavarekere(Next to Lakshmi Theatre)":  {
@@ -3355,13 +3350,13 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "Kamakya Cinema - Banashankari":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  null,
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-08-04",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Cine Galaxy Manipal":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  null,
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-08-04",
                                                            "db_size_bytes":  null
                                                        },
                                "Bharathi Theatre (Peenya) AC 4K Digital Cinema":  {
@@ -4493,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-04 16:00:03"
+    "started_at":  "2026-08-04 18:00:03"
 }
