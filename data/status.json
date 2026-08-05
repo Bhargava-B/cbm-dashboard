@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-05 17:19:36",
+    "generated_at":  "2026-08-05 19:20:59",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -703,9 +703,9 @@
                                                                         "db_size_bytes":  1431166976
                                                                     },
                                "Sri Lakshmi Theatre Thirupparankundram":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-08-04",
-                                                                              "db_size_bytes":  858804224
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-08-05",
+                                                                              "db_size_bytes":  859332608
                                                                           },
                                "Arasan Cinema AC Coimbatore":  {
                                                                    "status":  "ok",
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-05 16:00:03"
+    "started_at":  "2026-08-05 18:00:03"
 }
