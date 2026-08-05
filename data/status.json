@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-05 19:20:59",
+    "generated_at":  "2026-08-05 21:21:47",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3105,8 +3105,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-08-04",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-05",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -4312,9 +4312,9 @@
                                                                                          "db_size_bytes":  1499287552
                                                                                      },
                                "Ganesh AC 2K Dolby - Thagarapuvalasa":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-08-04",
-                                                                            "db_size_bytes":  1285903872
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-08-05",
+                                                                            "db_size_bytes":  1288523264
                                                                         },
                                "G2V Theaters Ravi Priya Mall - Ongole":  {
                                                                              "status":  "missing",
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-05 18:00:03"
+    "started_at":  "2026-08-05 20:00:03"
 }
