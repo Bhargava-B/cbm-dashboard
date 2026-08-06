@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-06 13:30:14",
+    "generated_at":  "2026-08-06 15:23:36",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2211954688
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-08-06",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  1227251200
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -423,9 +423,9 @@
                                                              "db_size_bytes":  791474176
                                                          },
                                "LA Cinemas Gomathi":  {
-                                                          "status":  "ok",
-                                                          "last_backup":  "2026-08-06",
-                                                          "db_size_bytes":  426164224
+                                                          "status":  "missing",
+                                                          "last_backup":  null,
+                                                          "db_size_bytes":  null
                                                       },
                                "New Bombay Cinemas":  {
                                                           "status":  "ok",
@@ -448,8 +448,8 @@
                                                                  "db_size_bytes":  2135547904
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-08-06",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  350281728
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -1043,8 +1043,8 @@
                                                                        "db_size_bytes":  1460064256
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-08-06",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  534026752
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -1367,9 +1367,9 @@
                                                                  "db_size_bytes":  null
                                                              },
                                   "Asian Sai Krishna - Metpally":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-08-05",
-                                                                       "db_size_bytes":  421117952
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-06",
+                                                                       "db_size_bytes":  421314560
                                                                    }
                               },
                     "TG":  {
@@ -1786,9 +1786,9 @@
                                                                          "db_size_bytes":  424722432
                                                                      },
                                "Sagara Theatre Kattappana":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-05",
-                                                                 "db_size_bytes":  2020827648
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-06",
+                                                                 "db_size_bytes":  1992580608
                                                              },
                                "Casino Talkies AC 2K 3D Aluva":  {
                                                                      "status":  "ok",
@@ -1926,9 +1926,9 @@
                                                                    "db_size_bytes":  2580602880
                                                                },
                                "Dreambig Jawahar Cinema Kalady":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-08-05",
-                                                                      "db_size_bytes":  289259520
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-08-06",
+                                                                      "db_size_bytes":  290377728
                                                                   },
                                "City Cinema Shivdam Kodakara":  {
                                                                     "status":  "ok",
@@ -2511,9 +2511,9 @@
                                                                        "db_size_bytes":  4439638016
                                                                    },
                                "Aishwarya Cinema Kattappana":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-05",
-                                                                   "db_size_bytes":  3088220160
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-06",
+                                                                   "db_size_bytes":  3070152704
                                                                },
                                "Santosh Sandra Vallakali Mavelikkara":  {
                                                                             "status":  "ok",
@@ -2631,9 +2631,9 @@
                                                             "db_size_bytes":  3322642432
                                                         },
                                "Santhosh Cinema Kattappana":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-08-05",
-                                                                  "db_size_bytes":  436753920
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-08-06",
+                                                                  "db_size_bytes":  438328832
                                                               },
                                "Swaram Layam Cinema Kattakada":  {
                                                                      "status":  "ok",
@@ -3492,9 +3492,9 @@
                                                    "db_size_bytes":  null
                                                },
                                "Surya Cinemax - Draksharamam":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-08-04",
-                                                                    "db_size_bytes":  529973248
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-06",
+                                                                    "db_size_bytes":  532529152
                                                                 },
                                "Sri Anu Deluxe - Agiripalli":  {
                                                                    "status":  "missing",
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-06 12:00:08"
+    "started_at":  "2026-08-06 14:00:05"
 }
