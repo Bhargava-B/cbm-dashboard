@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-06 11:26:46",
+    "generated_at":  "2026-08-06 13:30:14",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3415,8 +3415,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-08-05",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-08-06",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3737,8 +3737,8 @@
                                                                 "db_size_bytes":  690483200
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-08-05",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-08-06",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Kameswari and Kinnera AC Laser 4K - Maddilapalem":  {
@@ -3877,8 +3877,8 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Balaji Iconia":  {
-                                                     "status":  "missing",
-                                                     "last_backup":  "2026-08-05",
+                                                     "status":  "ok",
+                                                     "last_backup":  "2026-08-06",
                                                      "db_size_bytes":  null
                                                  },
                                "J and J Cinemas AC Dolby Atmos - Pathapatnam":  {
@@ -3957,9 +3957,9 @@
                                                                                            "db_size_bytes":  null
                                                                                        },
                                "Sri Devi Mahal - Amadalavalasa":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-08-05",
-                                                                      "db_size_bytes":  318291968
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-08-06",
+                                                                      "db_size_bytes":  321118208
                                                                   },
                                "Srinivasa Theater AC 2K Dolby - Markapur":  {
                                                                                 "status":  "ok",
@@ -3967,8 +3967,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "G3 Srichandra Ramachandra Theaters - Kankipadu":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-08-05",
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-08-06",
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Padmaja Picture Palace 2K AC DTS - Malikipuram":  {
@@ -4327,8 +4327,8 @@
                                                                   "db_size_bytes":  2403684864
                                                               },
                                "Krishna Picture Palace - Giddalur":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-08-05",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-08-06",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Santhi Theater AC DTS - Nandikotkur":  {
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-06 10:00:03"
+    "started_at":  "2026-08-06 12:00:08"
 }
