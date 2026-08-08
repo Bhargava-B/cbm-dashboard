@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-08 05:18:11",
+    "generated_at":  "2026-08-08 07:14:50",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -298,8 +298,8 @@
                                                               "db_size_bytes":  248131584
                                                           },
                                "Kasi Talkies Chennai":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-08-07",
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-08-08",
                                                             "db_size_bytes":  null
                                                         },
                                "Kovai Shanti Complex Coimbatore":  {
@@ -523,8 +523,8 @@
                                                                            "db_size_bytes":  7206457344
                                                                        },
                                "Vijay Park Multiplex Chennai":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-08-07",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-08",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Ramba AC Dolby Atmos Trichy":  {
@@ -1023,8 +1023,8 @@
                                                                 "db_size_bytes":  1053908992
                                                             },
                                "Kaveri Cinema Coimbatore":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-08-07",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-08-08",
                                                                 "db_size_bytes":  null
                                                             },
                                "Thambis theatre Cumbum":  {
@@ -2761,9 +2761,9 @@
                                                                "db_size_bytes":  317181952
                                                            },
                                "Ragam Theatre Thrissur":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-08-07",
-                                                              "db_size_bytes":  8423313408
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-08-08",
+                                                              "db_size_bytes":  8471244800
                                                           },
                                "Dhanalakshmi Cinemas Nenmara":  {
                                                                     "status":  "missing",
@@ -2823,29 +2823,29 @@
                            },
                     "SL":  {
                                "Regal Cinema Nuwara Eliya":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-07",
-                                                                 "db_size_bytes":  2755706880
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-08",
+                                                                 "db_size_bytes":  2757214208
                                                              },
                                "Regal Cinema Bandarawela":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-08-07",
-                                                                "db_size_bytes":  1469235200
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-08-08",
+                                                                "db_size_bytes":  1472512000
                                                             },
                                "Eros Cinemas, Colombo":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-08-06",
-                                                             "db_size_bytes":  826793984
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-08-08",
+                                                             "db_size_bytes":  828960768
                                                          },
                                "Majestic Cineplex JAFFNA":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-08-07",
-                                                                "db_size_bytes":  7494090752
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-08-08",
+                                                                "db_size_bytes":  7498743808
                                                             },
                                "Majestic Cineplex Colombo":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-07",
-                                                                 "db_size_bytes":  3739467776
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-08",
+                                                                 "db_size_bytes":  3744382976
                                                              },
                                "Seran Cinemas Kilinochchi":  {
                                                                  "status":  "missing",
@@ -2853,14 +2853,14 @@
                                                                  "db_size_bytes":  202948608
                                                              },
                                "Samanala Cinemas, Melsiripura":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-08-07",
-                                                                     "db_size_bytes":  623239168
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-08-08",
+                                                                     "db_size_bytes":  623828992
                                                                  },
                                "SAS Cinema Trincomale":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-08-07",
-                                                             "db_size_bytes":  152813568
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-08-08",
+                                                             "db_size_bytes":  147832832
                                                          }
                            },
                     "KA":  {
@@ -4478,5 +4478,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-08 04:00:03"
+    "started_at":  "2026-08-08 06:00:02"
 }
