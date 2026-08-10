@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-10 13:37:03",
+    "generated_at":  "2026-08-10 15:31:52",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1951,9 +1951,9 @@
                                                                      "db_size_bytes":  484827136
                                                                  },
                                "New Ragam Theatre Wadakkancherry":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-08-03",
-                                                                        "db_size_bytes":  1236713472
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-10",
+                                                                        "db_size_bytes":  1227276288
                                                                     },
                                "Sarita Cinema Kochi":  {
                                                            "status":  "ok",
@@ -2071,9 +2071,9 @@
                                                              "db_size_bytes":  628785664
                                                          },
                                "GMax Utsav Kollam":  {
-                                                         "status":  "missing",
-                                                         "last_backup":  "2026-08-09",
-                                                         "db_size_bytes":  2213548032
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-08-10",
+                                                         "db_size_bytes":  2224017408
                                                      },
                                "Shenoys Kochi":  {
                                                      "status":  "ok",
@@ -2381,9 +2381,9 @@
                                                                     "db_size_bytes":  5123371008
                                                                 },
                                "Veena Varna Theatre Mananthavady":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-08-09",
-                                                                        "db_size_bytes":  809291776
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-10",
+                                                                        "db_size_bytes":  809947136
                                                                     },
                                "VINAYAKA THEATRE COMPLEX Kanhangad":  {
                                                                           "status":  "ok",
@@ -2506,9 +2506,9 @@
                                                                        "db_size_bytes":  4492070912
                                                                    },
                                "Aishwarya Cinema Kattappana":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-09",
-                                                                   "db_size_bytes":  3076534272
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-10",
+                                                                   "db_size_bytes":  3085582336
                                                                },
                                "Santosh Sandra Vallakali Mavelikkara":  {
                                                                             "status":  "ok",
@@ -2586,9 +2586,9 @@
                                                                  "db_size_bytes":  1206112256
                                                              },
                                "Dhanya Remya Pathanamthitta":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-09",
-                                                                   "db_size_bytes":  2262159360
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-10",
+                                                                   "db_size_bytes":  2263666688
                                                                },
                                "Anchani cinemas karukachal":  {
                                                                   "status":  "ok",
@@ -2676,9 +2676,9 @@
                                                             "db_size_bytes":  3071700992
                                                         },
                                "Aashirvaad Cineplexx Muvattupuzha":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-08-09",
-                                                                         "db_size_bytes":  2607467008
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-08-10",
+                                                                         "db_size_bytes":  2607648256
                                                                      },
                                "Kavitha Theatre Ernakulam":  {
                                                                  "status":  "ok",
@@ -2786,9 +2786,9 @@
                                                                "db_size_bytes":  191356928
                                                            },
                                "Ashok cine house Paravur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-07-27",
-                                                                "db_size_bytes":  1331609600
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-08-10",
+                                                                "db_size_bytes":  1336340480
                                                             },
                                "Dreambig Mayukh Vadakkenchery":  {
                                                                      "status":  "ok",
@@ -4478,5 +4478,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-10 12:00:03"
+    "started_at":  "2026-08-10 14:00:03"
 }
