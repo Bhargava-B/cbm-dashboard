@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-10 15:31:52",
+    "generated_at":  "2026-08-10 17:27:27",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3722,9 +3722,9 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-08-09",
-                                                                "db_size_bytes":  691388416
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-08-10",
+                                                                "db_size_bytes":  692109312
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
                                                                                    "status":  "ok",
@@ -4478,5 +4478,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-10 14:00:03"
+    "started_at":  "2026-08-10 16:00:02"
 }
