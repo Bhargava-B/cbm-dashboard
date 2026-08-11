@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-11 15:23:59",
+    "generated_at":  "2026-08-11 17:19:01",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -320,7 +320,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-08-11",
-                                                                  "db_size_bytes":  905773056
+                                                                  "db_size_bytes":  907739136
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -1226,11 +1226,16 @@
                                                                     "last_backup":  "2026-08-11",
                                                                     "db_size_bytes":  6068477952
                                                                 },
-                                  "Asian Srinivasa - Kodad":  {
-                                                                  "status":  "ok",
-                                                                  "last_backup":  "2026-08-11",
-                                                                  "db_size_bytes":  3085705216
-                                                              },
+                                  "Asian Urvasi 70MM - Godavarikhani":  {
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-08-11",
+                                                                            "db_size_bytes":  2574180352
+                                                                        },
+                                  "AMB Cinemas Kapali: Bengaluru":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-11",
+                                                                        "db_size_bytes":  4873869824
+                                                                    },
                                   "Asian Maheshwari 70MM A -C DTS - Zaheerabad":  {
                                                                                       "status":  "ok",
                                                                                       "last_backup":  "2026-08-11",
@@ -1311,11 +1316,11 @@
                                                                       "last_backup":  "2026-08-11",
                                                                       "db_size_bytes":  1663795200
                                                                   },
-                                  "Asian Urvasi 70MM - Godavarikhani":  {
-                                                                            "status":  "ok",
-                                                                            "last_backup":  "2026-08-11",
-                                                                            "db_size_bytes":  2574180352
-                                                                        },
+                                  "Asian Srinivasa - Kodad":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-08-11",
+                                                                  "db_size_bytes":  3085705216
+                                                              },
                                   "Asian Hema Durga - Uppal":  {
                                                                    "status":  "missing",
                                                                    "last_backup":  null,
@@ -1529,9 +1534,9 @@
                                                                         "db_size_bytes":  null
                                                                     },
                                "Cineverse Multiplex - Uppal":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-06",
-                                                                   "db_size_bytes":  788158976
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-11",
+                                                                   "db_size_bytes":  835869184
                                                                },
                                "Prashant Cinema - Secunderabad":  {
                                                                       "status":  "ok",
@@ -2885,8 +2890,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-08-09",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-08-11",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -3095,8 +3100,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-08-10",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-11",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3175,8 +3180,8 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Siddalingeshwara 4K Dolby Atmos Cinema - J.P.Nagar":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-05-21",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-08-11",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Sri Vajreshwari Theatre - Ullal":  {
@@ -3219,11 +3224,6 @@
                                                               "last_backup":  "2026-08-11",
                                                               "db_size_bytes":  null
                                                           },
-                               "Swaroop Nartaki Talkies - Belagavi":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-07-01",
-                                                                          "db_size_bytes":  null
-                                                                      },
                                "Apsara \u0026 Sudha Cinemas - Hubli":  {
                                                                            "status":  "ok",
                                                                            "last_backup":  "2026-08-11",
@@ -3430,8 +3430,8 @@
                                                                            "db_size_bytes":  null
                                                                        },
                                "Sri Venkateshwara Digital 2K Cinema Girinagar":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-06-02",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-08-11",
                                                                                      "db_size_bytes":  null
                                                                                  }
                            },
@@ -3877,9 +3877,9 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Suryapalace 2K Dolby Atmos - Rajahmundry":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-05-22",
-                                                                                "db_size_bytes":  null
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-08-11",
+                                                                                "db_size_bytes":  3868809728
                                                                             },
                                "Sri Venkateswara AC DTS - Mangalagiri":  {
                                                                              "status":  "ok",
@@ -4222,8 +4222,8 @@
                                                         "db_size_bytes":  3438437888
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-08-11",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3649327104
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4317,9 +4317,9 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Santhi Theater AC DTS - Nandikotkur":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2025-12-02",
-                                                                           "db_size_bytes":  null
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-08-11",
+                                                                           "db_size_bytes":  1136058368
                                                                        },
                                "VPC Sri Krishna AC - Mummidivaram":  {
                                                                          "status":  "ok",
@@ -4418,7 +4418,7 @@
                                                                   },
                                "Sri Venkateshwara Mahal AC Dolby Atmos 2K - Unknown":  {
                                                                                            "status":  "missing",
-                                                                                           "last_backup":  "2026-06-14",
+                                                                                           "last_backup":  null,
                                                                                            "db_size_bytes":  null
                                                                                        },
                                "Sri Seshmahal Theatre - Tadepalligudem":  {
@@ -4467,11 +4467,11 @@
                                                                      "db_size_bytes":  3059929088
                                                                  },
                                "Sri Vijayalakshmi Theater - Kankipadu":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-07-20",
-                                                                             "db_size_bytes":  null
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-08-11",
+                                                                             "db_size_bytes":  301387776
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-11 14:00:02"
+    "started_at":  "2026-08-11 16:00:02"
 }
