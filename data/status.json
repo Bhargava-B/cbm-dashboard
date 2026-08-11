@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-11 09:23:36",
+    "generated_at":  "2026-08-11 11:30:04",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -28,9 +28,9 @@
                                                                    "db_size_bytes":  1131270144
                                                                },
                                "Venkateswara Cinemas Kundrathur":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-08-10",
-                                                                       "db_size_bytes":  2249351168
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-11",
+                                                                       "db_size_bytes":  2245349376
                                                                    },
                                "Rakki Cinemas OMR":  {
                                                          "status":  "ok",
@@ -588,9 +588,9 @@
                                                                                 "db_size_bytes":  1702739968
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-08-09",
-                                                                              "db_size_bytes":  479711232
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-08-11",
+                                                                              "db_size_bytes":  480165888
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -2466,9 +2466,9 @@
                                                                  "db_size_bytes":  2933071872
                                                              },
                                "Revathy Cinemax Paripally":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-10",
-                                                                 "db_size_bytes":  5558550528
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-11",
+                                                                 "db_size_bytes":  5570875392
                                                              },
                                "Sree Padmanabha Trivandrum":  {
                                                                   "status":  "ok",
@@ -2900,8 +2900,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Veerbhadreshwara Theatre Shivamogga":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-08-10",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-08-11",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Veeresh Cinemas-Magadi Road":  {
@@ -3385,8 +3385,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-08-10",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-08-11",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3662,8 +3662,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-08-10",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-08-11",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -4102,9 +4102,9 @@
                                                                             "db_size_bytes":  281067520
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-08-10",
-                                                                        "db_size_bytes":  866566144
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-11",
+                                                                        "db_size_bytes":  864862208
                                                                     },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "status":  "ok",
@@ -4478,5 +4478,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-11 08:00:02"
+    "started_at":  "2026-08-11 10:00:02"
 }
