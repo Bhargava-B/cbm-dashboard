@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-11 19:23:17",
+    "generated_at":  "2026-08-11 21:24:40",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -128,8 +128,8 @@
                                                        "db_size_bytes":  365506560
                                                    },
                                "KALAIVANI CINEMAS TIRUPUR":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-10",
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-11",
                                                                  "db_size_bytes":  null
                                                              },
                                "Abirami Vishal Cinemas Pollachi":  {
@@ -4468,5 +4468,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-11 18:00:02"
+    "started_at":  "2026-08-11 20:00:02"
 }
