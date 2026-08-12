@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-12 19:21:59",
+    "generated_at":  "2026-08-12 21:24:46",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3100,8 +3100,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-08-11",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-12",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3877,9 +3877,9 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Suryapalace 2K Dolby Atmos - Rajahmundry":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-08-11",
-                                                                                "db_size_bytes":  3868809728
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-08-12",
+                                                                                "db_size_bytes":  3877131776
                                                                             },
                                "Sri Venkateswara AC DTS - Mangalagiri":  {
                                                                              "status":  "ok",
@@ -4312,8 +4312,8 @@
                                                                   "db_size_bytes":  2396672512
                                                               },
                                "Krishna Picture Palace - Giddalur":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-08-10",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-08-12",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Santhi Theater AC DTS - Nandikotkur":  {
@@ -4468,5 +4468,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-12 18:00:02"
+    "started_at":  "2026-08-12 20:00:02"
 }
