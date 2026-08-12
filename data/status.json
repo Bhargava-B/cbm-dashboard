@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-12 15:21:31",
+    "generated_at":  "2026-08-12 17:18:30",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3642,9 +3642,9 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Sri Leela Mahal AC DTS - Vizianagaram":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-08-11",
-                                                                             "db_size_bytes":  1961299968
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-08-12",
+                                                                             "db_size_bytes":  1959907328
                                                                          },
                                "Dr PV Rao Cineplex - Kanchikacherla":  {
                                                                            "status":  "ok",
@@ -4468,5 +4468,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-12 14:00:03"
+    "started_at":  "2026-08-12 16:00:02"
 }
