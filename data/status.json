@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-12 17:18:30",
+    "generated_at":  "2026-08-12 19:21:59",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3497,9 +3497,9 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "JVR Cinemas - Jaggampeta":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-08-11",
-                                                                "db_size_bytes":  1451892736
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-08-12",
+                                                                "db_size_bytes":  1458094080
                                                             },
                                "Pratap Group Theaters AC 4K Dolby Atmos - Tirupati":  {
                                                                                           "status":  "ok",
@@ -4468,5 +4468,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-12 16:00:02"
+    "started_at":  "2026-08-12 18:00:02"
 }
