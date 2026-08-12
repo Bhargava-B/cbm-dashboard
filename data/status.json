@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-12 21:24:46",
+    "generated_at":  "2026-08-12 23:22:05",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1439,8 +1439,8 @@
                                                                    "db_size_bytes":  1628260864
                                                                },
                                "BR Hitech 70mm - Madhapur":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-11",
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-12",
                                                                  "db_size_bytes":  null
                                                              },
                                "Talluri Theatres - Kushaiguda":  {
@@ -4468,5 +4468,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-12 20:00:02"
+    "started_at":  "2026-08-12 22:00:02"
 }
