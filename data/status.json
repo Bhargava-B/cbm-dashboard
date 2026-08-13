@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-13 09:25:22",
+    "generated_at":  "2026-08-13 11:33:17",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -378,9 +378,9 @@
                                                                               "db_size_bytes":  650760192
                                                                           },
                                "Shanthi theatre":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-08-12",
-                                                       "db_size_bytes":  138215424
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-08-13",
+                                                       "db_size_bytes":  138346496
                                                    },
                                "PSS Multiplex Tirunelveli":  {
                                                                  "status":  "ok",
@@ -2071,9 +2071,9 @@
                                                             "db_size_bytes":  2331361280
                                                         },
                                "Sai Cineplexx Oachira":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-08-12",
-                                                             "db_size_bytes":  625566208
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-08-13",
+                                                             "db_size_bytes":  634545664
                                                          },
                                "GMax Utsav Kollam":  {
                                                          "status":  "ok",
@@ -2301,9 +2301,9 @@
                                                                     "db_size_bytes":  2132114944
                                                                 },
                                "Surya Theatre Erattupetta":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-12",
-                                                                 "db_size_bytes":  2178281472
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-13",
+                                                                 "db_size_bytes":  2181361664
                                                              },
                                "SP Cinemas Peyad":  {
                                                         "status":  "ok",
@@ -2711,9 +2711,9 @@
                                                                    "db_size_bytes":  3856687104
                                                                },
                                "Dhanya Remya Changanassery":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-08-12",
-                                                                  "db_size_bytes":  2079649792
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-08-13",
+                                                                  "db_size_bytes":  2047746048
                                                               },
                                "Mint Cinemas Sulthan Bathery":  {
                                                                     "status":  "ok",
@@ -3225,8 +3225,8 @@
                                                               "db_size_bytes":  null
                                                           },
                                "Apsara \u0026 Sudha Cinemas - Hubli":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-08-12",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-08-13",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Milan Theatre - Chickmagaluru":  {
@@ -3385,8 +3385,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-08-11",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-08-13",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3662,8 +3662,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-08-12",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-08-13",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3992,9 +3992,9 @@
                                                                                "db_size_bytes":  429441024
                                                                            },
                                "Maruthi Theatre - Palakollu":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-12",
-                                                                   "db_size_bytes":  2437664768
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-13",
+                                                                   "db_size_bytes":  2437795840
                                                                },
                                "Jamuna Complex - Podalakur":  {
                                                                   "status":  "ok",
@@ -4142,9 +4142,9 @@
                                                           "db_size_bytes":  null
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-12",
-                                                                 "db_size_bytes":  2282143744
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-13",
+                                                                 "db_size_bytes":  2284371968
                                                              },
                                "Srinivasa AC 4K Dolby Atmos - Puttur":  {
                                                                             "status":  "missing",
@@ -4468,5 +4468,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-13 08:00:02"
+    "started_at":  "2026-08-13 10:00:02"
 }
