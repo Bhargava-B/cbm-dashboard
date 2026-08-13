@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-13 17:18:35",
+    "generated_at":  "2026-08-13 19:22:32",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1856,9 +1856,9 @@
                                                               "db_size_bytes":  1124978688
                                                           },
                                "EVM Cinemas Kumily":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-08-12",
-                                                          "db_size_bytes":  933744640
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-08-13",
+                                                          "db_size_bytes":  931971072
                                                       },
                                "Dreambig Thankam vadakkancehri":  {
                                                                       "status":  "ok",
@@ -4468,5 +4468,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-13 16:00:02"
+    "started_at":  "2026-08-13 18:00:02"
 }
