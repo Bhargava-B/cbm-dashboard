@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-14 13:36:58",
+    "generated_at":  "2026-08-14 15:21:15",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2237431808
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-08-14",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  1323655680
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -448,8 +448,8 @@
                                                                  "db_size_bytes":  2157498368
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-08-14",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  373411840
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -1043,8 +1043,8 @@
                                                                        "db_size_bytes":  1464270848
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-08-14",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  566192640
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -1524,9 +1524,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Sri Sai Baba - Shadnagar":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-08-13",
-                                                                "db_size_bytes":  834191360
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-08-14",
+                                                                "db_size_bytes":  836812800
                                                             },
                                "AMR Vijay Bhaskar - Bhadrachalam":  {
                                                                         "status":  "ok",
@@ -1856,9 +1856,9 @@
                                                               "db_size_bytes":  1117446144
                                                           },
                                "EVM Cinemas Kumily":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-08-13",
-                                                          "db_size_bytes":  931971072
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-08-14",
+                                                          "db_size_bytes":  933543936
                                                       },
                                "Dreambig Thankam vadakkancehri":  {
                                                                       "status":  "ok",
@@ -1926,9 +1926,9 @@
                                                                    "db_size_bytes":  2597588992
                                                                },
                                "Dreambig Jawahar Cinema Kalady":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-08-13",
-                                                                      "db_size_bytes":  296009728
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-08-14",
+                                                                      "db_size_bytes":  298377216
                                                                   },
                                "City Cinema Shivdam Kodakara":  {
                                                                     "status":  "ok",
@@ -2001,9 +2001,9 @@
                                                                       "db_size_bytes":  567635968
                                                                   },
                                "Harisree Theatre Kazhakuttom":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-08-13",
-                                                                    "db_size_bytes":  2201183744
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-14",
+                                                                    "db_size_bytes":  2202494464
                                                                 },
                                "Mas Movies Irinjalakuda":  {
                                                                "status":  "ok",
@@ -2526,9 +2526,9 @@
                                                                     "db_size_bytes":  2465402880
                                                                 },
                                "SR Cinema Varkkala":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-08-13",
-                                                          "db_size_bytes":  233033728
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-08-14",
+                                                          "db_size_bytes":  235667456
                                                       },
                                "Mridhanga Cineplex Poovar":  {
                                                                  "status":  "ok",
@@ -2561,9 +2561,9 @@
                                                                           "db_size_bytes":  2706165760
                                                                       },
                                "Alinkeel Cinemas Taliparamba":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-08-13",
-                                                                    "db_size_bytes":  2161045504
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-14",
+                                                                    "db_size_bytes":  2161844224
                                                                 },
                                "Thalam Theatre Wadakkancherry":  {
                                                                      "status":  "ok",
@@ -4468,5 +4468,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-14 12:00:03"
+    "started_at":  "2026-08-14 14:00:02"
 }
