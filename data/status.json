@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-14 11:32:52",
+    "generated_at":  "2026-08-14 13:36:58",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -28,9 +28,9 @@
                                                                    "db_size_bytes":  1120067584
                                                                },
                                "Venkateswara Cinemas Kundrathur":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-08-11",
-                                                                       "db_size_bytes":  2245349376
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-14",
+                                                                       "db_size_bytes":  2237431808
                                                                    },
                                "Rakki Cinemas OMR":  {
                                                          "status":  "ok",
@@ -833,9 +833,9 @@
                                                                       "db_size_bytes":  1020973056
                                                                   },
                                "Sri Rajan Cinemas Chetpet":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-12",
-                                                                 "db_size_bytes":  473485312
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-14",
+                                                                 "db_size_bytes":  466079744
                                                              },
                                "Kavitha Cinemas K G Chavadi":  {
                                                                    "status":  "ok",
@@ -2251,9 +2251,9 @@
                                                                       "db_size_bytes":  99479552
                                                                   },
                                "TMAX Cineplex Goolikkadavu":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-08-13",
-                                                                  "db_size_bytes":  688967680
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-08-14",
+                                                                  "db_size_bytes":  691326976
                                                               },
                                "Kripa Movies Kurumassery":  {
                                                                 "status":  "ok",
@@ -3410,8 +3410,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-08-13",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -4217,9 +4217,9 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "Adabala Theatres":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-08-13",
-                                                        "db_size_bytes":  3448721920
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-08-14",
+                                                        "db_size_bytes":  3451343360
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
                                                                                 "status":  "ok",
@@ -4468,5 +4468,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-14 10:00:02"
+    "started_at":  "2026-08-14 12:00:03"
 }
