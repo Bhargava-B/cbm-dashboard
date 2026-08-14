@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-14 09:24:19",
+    "generated_at":  "2026-08-14 11:32:52",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1901,9 +1901,9 @@
                                                               "db_size_bytes":  866250752
                                                           },
                                "Dream Cinema Kallachi":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-08-13",
-                                                             "db_size_bytes":  1357234176
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-08-14",
+                                                             "db_size_bytes":  1380585472
                                                          },
                                "Deepa Movies Viyyur":  {
                                                            "status":  "ok",
@@ -2955,8 +2955,8 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Jai Bharath Theatre -Tumkur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-13",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-14",
                                                                    "db_size_bytes":  null
                                                                },
                                "Coorg Cineplex - Gonikoppal":  {
@@ -3020,8 +3020,8 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "Ravi Digital 2K Dolby 7.1 HD Screen - Ejipura":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-08-13",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-08-14",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Sapna Multiplex - Bidar":  {
@@ -3385,8 +3385,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-08-13",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-08-14",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3662,8 +3662,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-08-13",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-08-14",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3822,9 +3822,9 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Satyanarayana Picture Palace AC DTS - Anakapalle":  {
-                                                                                            "status":  "missing",
-                                                                                            "last_backup":  "2026-08-13",
-                                                                                            "db_size_bytes":  459522048
+                                                                                            "status":  "ok",
+                                                                                            "last_backup":  "2026-08-14",
+                                                                                            "db_size_bytes":  460505088
                                                                                         },
                                "Nidhi Cinemas AC 2K - Nandyal":  {
                                                                      "status":  "ok",
@@ -4172,9 +4172,9 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Surya Mahal AC Dolby Atmos - Srikakulam":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-08-13",
-                                                                               "db_size_bytes":  2804080640
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-08-14",
+                                                                               "db_size_bytes":  2826813440
                                                                            },
                                "VL Rama 4K Dolby - Amalapuram":  {
                                                                      "status":  "ok",
@@ -4468,5 +4468,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-14 08:00:02"
+    "started_at":  "2026-08-14 10:00:02"
 }
