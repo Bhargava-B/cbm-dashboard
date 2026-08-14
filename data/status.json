@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-14 21:23:55",
+    "generated_at":  "2026-08-14 23:22:38",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3811,11 +3811,6 @@
                                                                          "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
-                               "Jagadamba Complex AC 4K Dolby Atmos - Vizag":  {
-                                                                                   "status":  "ok",
-                                                                                   "last_backup":  "2026-08-14",
-                                                                                   "db_size_bytes":  5215150080
-                                                                               },
                                "Aditya Theatre AC DTS - Vizianagaram":  {
                                                                             "status":  "missing",
                                                                             "last_backup":  "2026-06-24",
@@ -4116,11 +4111,21 @@
                                                               "last_backup":  "2026-08-14",
                                                               "db_size_bytes":  null
                                                           },
+                               "Narasimha Sri Narasimha: Gopalapatnam":  {
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-08-14",
+                                                                             "db_size_bytes":  72863744
+                                                                         },
                                "Shree Cinemas - Parvathipuram":  {
                                                                      "status":  "ok",
                                                                      "last_backup":  "2026-08-14",
                                                                      "db_size_bytes":  442953728
                                                                  },
+                               "Sri Rama \u0026 Sri Krishna Cinemas - Nandikotkur":  {
+                                                                                         "status":  "missing",
+                                                                                         "last_backup":  null,
+                                                                                         "db_size_bytes":  null
+                                                                                     },
                                "Mini Srinivasa - Yemmiganur":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-08-14",
@@ -4391,11 +4396,11 @@
                                                                             "last_backup":  "2026-08-14",
                                                                             "db_size_bytes":  1927576064
                                                                         },
-                               "Sri Rama \u0026 Sri Krishna Cinemas - Nandikotkur":  {
-                                                                                         "status":  "missing",
-                                                                                         "last_backup":  null,
-                                                                                         "db_size_bytes":  null
-                                                                                     },
+                               "Jagadamba Complex AC 4K Dolby Atmos - Vizag":  {
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-08-14",
+                                                                                   "db_size_bytes":  5215150080
+                                                                               },
                                "Rain Cinema - Nellore":  {
                                                              "status":  "ok",
                                                              "last_backup":  "2026-08-14",
@@ -4468,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-14 20:00:02"
+    "started_at":  "2026-08-14 22:00:02"
 }
