@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-15 11:27:10",
+    "generated_at":  "2026-08-15 13:29:46",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3410,8 +3410,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-08-14",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-08-15",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3582,8 +3582,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Venkata Ramana Cinemas - Kaikaluru":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-08-14",
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-08-15",
                                                                               "db_size_bytes":  null
                                                                           },
                                "Raja Theater Anusri":  {
@@ -3722,8 +3722,8 @@
                                                                 "db_size_bytes":  695939072
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-08-14",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-08-15",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Kameswari and Kinnera AC Laser 4K - Maddilapalem":  {
@@ -3882,8 +3882,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Sudharshan AC DTS - Kanigiri":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-08-14",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-15",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Satyam AC 4K Dolby Atmos - Ongole":  {
@@ -4127,9 +4127,9 @@
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "Mini Srinivasa - Yemmiganur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-14",
-                                                                   "db_size_bytes":  524599296
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-15",
+                                                                   "db_size_bytes":  525320192
                                                                },
                                "KS Talkies":  {
                                                   "status":  "ok",
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-15 10:00:02"
+    "started_at":  "2026-08-15 12:00:04"
 }
