@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-15 15:18:51",
+    "generated_at":  "2026-08-15 17:17:26",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3269,6 +3269,11 @@
                                                                                         "last_backup":  "2026-08-15",
                                                                                         "db_size_bytes":  null
                                                                                     },
+                               "Sri Balaji 2K Dolby Atmos-Viveknagar":  {
+                                                                            "status":  "missing",
+                                                                            "last_backup":  null,
+                                                                            "db_size_bytes":  null
+                                                                        },
                                "Laxmi pride cinemas -Hubli":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-08-15",
@@ -3379,11 +3384,6 @@
                                                                                   "last_backup":  "2026-08-15",
                                                                                   "db_size_bytes":  null
                                                                               },
-                               "Sri Balaji 2K Dolby Atmos Viveknagar":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-05-26",
-                                                                            "db_size_bytes":  null
-                                                                        },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
                                                                                           "status":  "ok",
                                                                                           "last_backup":  "2026-08-15",
@@ -4227,8 +4227,8 @@
                                                         "db_size_bytes":  3455542784
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-08-15",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3667521536
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-15 14:00:02"
+    "started_at":  "2026-08-15 16:00:02"
 }
