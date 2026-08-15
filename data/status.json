@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-15 13:29:46",
+    "generated_at":  "2026-08-15 15:18:51",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2254327808
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-08-15",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  1362456064
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -448,8 +448,8 @@
                                                                  "db_size_bytes":  2167001088
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-08-15",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  382324736
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -1043,8 +1043,8 @@
                                                                        "db_size_bytes":  1465647104
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-08-15",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  575040000
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-15 12:00:04"
+    "started_at":  "2026-08-15 14:00:02"
 }
