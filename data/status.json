@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-16 11:26:09",
+    "generated_at":  "2026-08-16 13:28:43",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1252,9 +1252,9 @@
                                                                                 "db_size_bytes":  8281919488
                                                                             },
                                   "Asian Srinivasa Theater - Miryalaguda":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-08-15",
-                                                                                "db_size_bytes":  983941120
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-08-16",
+                                                                                "db_size_bytes":  999972864
                                                                             },
                                   "Asian Srinivasa - Khammam":  {
                                                                     "status":  "ok",
@@ -1524,9 +1524,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Sri Sai Baba - Shadnagar":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-08-15",
-                                                                "db_size_bytes":  844120064
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-08-16",
+                                                                "db_size_bytes":  855703552
                                                             },
                                "AMR Vijay Bhaskar - Bhadrachalam":  {
                                                                         "status":  "ok",
@@ -3547,9 +3547,9 @@
                                                             "db_size_bytes":  null
                                                         },
                                "Sri Padma Veereswara Complex - Yanam":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-08-15",
-                                                                            "db_size_bytes":  2764476416
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-08-16",
+                                                                            "db_size_bytes":  2762891264
                                                                         },
                                "Sree Balaji Movie Land AC 2K - Punganur":  {
                                                                                "status":  "ok",
@@ -3732,8 +3732,8 @@
                                                                                         "db_size_bytes":  805666816
                                                                                     },
                                "Chand Picture Palace AC DTS - Proddatur":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-08-15",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-08-16",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Gowtham Cinemas - Rayachoti":  {
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-16 10:00:02"
+    "started_at":  "2026-08-16 12:00:04"
 }
