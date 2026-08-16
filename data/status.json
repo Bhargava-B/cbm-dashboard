@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-16 13:28:43",
+    "generated_at":  "2026-08-16 15:16:25",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2244325376
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-08-16",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  1405248000
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -448,8 +448,8 @@
                                                                  "db_size_bytes":  2179522560
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-08-16",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  393076736
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -1043,8 +1043,8 @@
                                                                        "db_size_bytes":  1467023360
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-08-16",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  592410112
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -1172,9 +1172,9 @@
                                                                         "db_size_bytes":  3290443776
                                                                     },
                                   "Asian Priya Cineplex - Kamareddy":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-08-15",
-                                                                           "db_size_bytes":  4225875968
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-08-16",
+                                                                           "db_size_bytes":  4237938688
                                                                        },
                                   "Asian Natraj Deluxe Theatre A -c - Sircilla":  {
                                                                                       "status":  "ok",
@@ -2151,9 +2151,9 @@
                                                                         "db_size_bytes":  3515342848
                                                                     },
                                "Krishna Theatre Karunagapally":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-08-15",
-                                                                     "db_size_bytes":  775708672
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-08-16",
+                                                                     "db_size_bytes":  778330112
                                                                  },
                                "Aashirvad Cineplexx Thodupuzha":  {
                                                                       "status":  "ok",
@@ -2176,9 +2176,9 @@
                                                              "db_size_bytes":  1419177984
                                                          },
                                "Shafas Grand 4K North Paravur":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-08-15",
-                                                                     "db_size_bytes":  2989703168
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-08-16",
+                                                                     "db_size_bytes":  3000582144
                                                                  },
                                "Kirthi Mudra Vadakara":  {
                                                              "status":  "ok",
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-16 12:00:04"
+    "started_at":  "2026-08-16 14:00:03"
 }
