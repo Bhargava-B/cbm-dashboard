@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-16 15:16:25",
+    "generated_at":  "2026-08-16 17:16:37",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2521,9 +2521,9 @@
                                                                             "db_size_bytes":  1048887296
                                                                         },
                                "Apsara Theatre Changanassery":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-08-15",
-                                                                    "db_size_bytes":  2475622400
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-16",
+                                                                    "db_size_bytes":  2461061120
                                                                 },
                                "SR Cinema Varkkala":  {
                                                           "status":  "ok",
@@ -2661,9 +2661,9 @@
                                                                     "db_size_bytes":  762695680
                                                                 },
                                "Anu Cinemax Nellimoodu":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-08-15",
-                                                              "db_size_bytes":  641753088
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-08-16",
+                                                              "db_size_bytes":  647467008
                                                           },
                                "Gavi Galaxy cinemas Seethathodu":  {
                                                                        "status":  "ok",
@@ -4227,8 +4227,8 @@
                                                         "db_size_bytes":  3469868544
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-08-16",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3682078720
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-16 14:00:03"
+    "started_at":  "2026-08-16 16:00:02"
 }
