@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-17 15:25:05",
+    "generated_at":  "2026-08-17 17:21:43",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3215,8 +3215,8 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Navrang Theatre - Rajaji Nagar":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-08-10",
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-08-17",
                                                                       "db_size_bytes":  null
                                                                   },
                                "Sri Balaji Dommasandra":  {
@@ -3997,9 +3997,9 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "SLN Multiplex - Adda Road":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-16",
-                                                                 "db_size_bytes":  234475520
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-17",
+                                                                 "db_size_bytes":  243261440
                                                              },
                                "Jameel Theater - Buchireddypalem":  {
                                                                         "status":  "ok",
@@ -4047,9 +4047,9 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Jayram Theatre - Vijayawada":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-16",
-                                                                   "db_size_bytes":  2389561344
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-17",
+                                                                   "db_size_bytes":  2392313856
                                                                },
                                "Sri Krishna AC 4K Dolby Atmos - Madanapalle":  {
                                                                                    "status":  "ok",
@@ -4227,8 +4227,8 @@
                                                         "db_size_bytes":  3474310656
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-08-17",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3682979840
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4337,8 +4337,8 @@
                                                                          "db_size_bytes":  3260444672
                                                                      },
                                "Sarat Theater AC 4K Dolby Atmos - Vizag":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-08-11",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-08-17",
                                                                                "db_size_bytes":  4694274048
                                                                            },
                                "NMC Movie Land - Nagari":  {
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-17 14:00:02"
+    "started_at":  "2026-08-17 16:00:02"
 }
