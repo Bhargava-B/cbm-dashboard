@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-17 11:37:06",
+    "generated_at":  "2026-08-17 13:38:52",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1579,9 +1579,9 @@
                                                                             "db_size_bytes":  3218788352
                                                                         },
                                "Sandhya 70MM 4K Dolby Atmos - RTC X Roads":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-08-16",
-                                                                                 "db_size_bytes":  5430628352
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-08-17",
+                                                                                 "db_size_bytes":  5450940416
                                                                              },
                                "Srinivasa Theater - Choutuppal":  {
                                                                       "status":  "missing",
@@ -1609,9 +1609,9 @@
                                                                    "db_size_bytes":  412860416
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-08-16",
-                                                                        "db_size_bytes":  720584704
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-17",
+                                                                        "db_size_bytes":  711835648
                                                                     },
                                "Seetarama Cinemas - Manuguru":  {
                                                                     "status":  "missing",
@@ -1901,9 +1901,9 @@
                                                               "db_size_bytes":  886304768
                                                           },
                                "Dream Cinema Kallachi":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-08-16",
-                                                             "db_size_bytes":  1375256576
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-08-17",
+                                                             "db_size_bytes":  1382465536
                                                          },
                                "Deepa Movies Viyyur":  {
                                                            "status":  "ok",
@@ -2021,9 +2021,9 @@
                                                               "db_size_bytes":  6194376704
                                                           },
                                "SV Cinemas Kayamkulam":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-08-16",
-                                                             "db_size_bytes":  2150641664
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-08-17",
+                                                             "db_size_bytes":  2151546880
                                                          },
                                "CKM Victory Cinemas Peringottukurussi":  {
                                                                              "status":  "ok",
@@ -3410,8 +3410,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-08-15",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-08-17",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3722,8 +3722,8 @@
                                                                 "db_size_bytes":  697417728
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-08-16",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-08-17",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Kameswari and Kinnera AC Laser 4K - Maddilapalem":  {
@@ -3732,8 +3732,8 @@
                                                                                         "db_size_bytes":  804990976
                                                                                     },
                                "Chand Picture Palace AC DTS - Proddatur":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-08-16",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-08-17",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Gowtham Cinemas - Rayachoti":  {
@@ -3977,8 +3977,8 @@
                                                                                           "db_size_bytes":  1507569664
                                                                                       },
                                "Vishnu Mahal Theater - Puttur":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-08-16",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-08-17",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Vijaya Mahal Theater AC DTS - Mandapeta":  {
@@ -4257,8 +4257,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Balaji Picture Palace - Cherukupalli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-08-16",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-08-17",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateswara AC Dolby DTS - S Kota":  {
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-17 10:00:02"
+    "started_at":  "2026-08-17 12:00:04"
 }
