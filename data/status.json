@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-17 13:38:52",
+    "generated_at":  "2026-08-17 15:25:05",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2248323072
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-08-17",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  1425114624
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -448,8 +448,8 @@
                                                                  "db_size_bytes":  2189811712
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-08-17",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  399106048
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -1043,8 +1043,8 @@
                                                                        "db_size_bytes":  1468661760
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-08-17",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  603952640
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -2890,8 +2890,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-08-14",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-08-17",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -3100,8 +3100,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-08-16",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-17",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3300,8 +3300,8 @@
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Sharada Cinemas AC - S.P Road":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-08-16",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-08-17",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Mukunda 4K Dolby Atmos - M.S.Nagar":  {
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-17 12:00:04"
+    "started_at":  "2026-08-17 14:00:02"
 }
