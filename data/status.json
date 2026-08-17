@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-17 17:21:43",
+    "generated_at":  "2026-08-17 19:23:08",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3225,8 +3225,8 @@
                                                               "db_size_bytes":  null
                                                           },
                                "Apsara \u0026 Sudha Cinemas - Hubli":  {
-                                                                           "status":  "ok",
-                                                                           "last_backup":  "2026-08-17",
+                                                                           "status":  "missing",
+                                                                           "last_backup":  "2026-08-16",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Milan Theatre - Chickmagaluru":  {
@@ -3260,8 +3260,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-08-17",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-17 16:00:02"
+    "started_at":  "2026-08-17 18:00:02"
 }
