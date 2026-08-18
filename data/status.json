@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-18 16:53:20",
+    "generated_at":  "2026-08-18 18:52:11",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3802,9 +3802,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-08-15",
-                                                                    "db_size_bytes":  367915008
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-18",
+                                                                    "db_size_bytes":  371097600
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "ok",
@@ -4227,8 +4227,8 @@
                                                         "db_size_bytes":  3450505728
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-08-18",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3645116416
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-18 15:31:24"
+    "started_at":  "2026-08-18 17:31:24"
 }
