@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-18 13:06:31",
+    "generated_at":  "2026-08-18 14:57:01",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2250551296
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-08-18",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  1436049920
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -448,8 +448,8 @@
                                                                  "db_size_bytes":  2192826368
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-08-18",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  401858560
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -703,9 +703,9 @@
                                                                         "db_size_bytes":  1446965248
                                                                     },
                                "Sri Lakshmi Theatre Thirupparankundram":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-08-17",
-                                                                              "db_size_bytes":  866209792
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-08-18",
+                                                                              "db_size_bytes":  869646336
                                                                           },
                                "Arasan Cinema AC Coimbatore":  {
                                                                    "status":  "ok",
@@ -1043,8 +1043,8 @@
                                                                        "db_size_bytes":  1469382656
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-08-18",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  608016896
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -1721,9 +1721,9 @@
                                                                         "db_size_bytes":  2689003520
                                                                     },
                                "MAR Basil EVM Theatre Rajakumari":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-08-17",
-                                                                        "db_size_bytes":  803590144
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-18",
+                                                                        "db_size_bytes":  806670336
                                                                     },
                                "Dream Cinemas Thodupuzha":  {
                                                                 "status":  "ok",
@@ -1846,9 +1846,9 @@
                                                               "db_size_bytes":  289677312
                                                           },
                                "Archana Cineplex Payannur":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-17",
-                                                                 "db_size_bytes":  3285233664
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-18",
+                                                                 "db_size_bytes":  3288444928
                                                              },
                                "Vimala Theatre Varkala":  {
                                                               "status":  "ok",
@@ -3320,8 +3320,8 @@
                                                                         "db_size_bytes":  null
                                                                     },
                                "Rupam Theatre - Hubli":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-08-17",
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-08-18",
                                                              "db_size_bytes":  null
                                                          },
                                "Sangam Digital - Mysuru":  {
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-18 11:31:24"
+    "started_at":  "2026-08-18 13:31:24"
 }
