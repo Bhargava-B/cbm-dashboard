@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-18 10:58:20",
+    "generated_at":  "2026-08-18 13:06:31",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -353,9 +353,9 @@
                                                                   "db_size_bytes":  2310393856
                                                               },
                                "Vela Cinemas Thirunindravur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-17",
-                                                                   "db_size_bytes":  1228656640
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-18",
+                                                                   "db_size_bytes":  1237233664
                                                                },
                                "BABU CINEMAS KANCHIPURAM":  {
                                                                 "status":  "missing",
@@ -558,9 +558,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "ARK Ram Muthuram Cinemas Tirunelveli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-08-17",
-                                                                            "db_size_bytes":  391626752
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-08-18",
+                                                                            "db_size_bytes":  392294400
                                                                         },
                                "Priya Complex Dolby Atmos Madurai":  {
                                                                          "status":  "ok",
@@ -898,9 +898,9 @@
                                                                 "db_size_bytes":  3038887424
                                                             },
                                "AVM Cinemas":  {
-                                                   "status":  "missing",
-                                                   "last_backup":  "2026-08-17",
-                                                   "db_size_bytes":  201314304
+                                                   "status":  "ok",
+                                                   "last_backup":  "2026-08-18",
+                                                   "db_size_bytes":  204025856
                                                },
                                "Sathya Cinemas 2K Dolby Atmos":  {
                                                                      "status":  "ok",
@@ -1126,7 +1126,256 @@
                                                                 }
                            },
                     "Asian":  {
-
+                                  "Asian Lakshmikala Cinepride - Moosapet":  {
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-08-18",
+                                                                                 "db_size_bytes":  5831163904
+                                                                             },
+                                  "Ashoka Cinema - Kalwakurthy":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-08-18",
+                                                                      "db_size_bytes":  1773572096
+                                                                  },
+                                  "Asian Jyothi - RC Puram":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-08-18",
+                                                                  "db_size_bytes":  1767231488
+                                                              },
+                                  "Asian Ashoka Air-Conditioned - Hanumakonda":  {
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-08-18",
+                                                                                     "db_size_bytes":  1855279616
+                                                                                 },
+                                  "Asian M Cube Mall - Attapur":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-08-18",
+                                                                      "db_size_bytes":  5471195136
+                                                                  },
+                                  "Seetarama Cinemas - Manuguru":  {
+                                                                       "status":  "missing",
+                                                                       "last_backup":  null,
+                                                                       "db_size_bytes":  null
+                                                                   },
+                                  "Asian Darshan - Kamareddy":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-18",
+                                                                    "db_size_bytes":  2353258496
+                                                                },
+                                  "Asian Sri Mohan - Zaheerabad":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-18",
+                                                                       "db_size_bytes":  1240682496
+                                                                   },
+                                  "Raghava Theater - Miryalaguda":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-18",
+                                                                        "db_size_bytes":  3282071552
+                                                                    },
+                                  "Asian Priya Cineplex - Kamareddy":  {
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-08-18",
+                                                                           "db_size_bytes":  4217372672
+                                                                       },
+                                  "Asian Natraj Deluxe Theatre A -c - Sircilla":  {
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-08-18",
+                                                                                      "db_size_bytes":  2124091392
+                                                                                  },
+                                  "Asian Sha Shahensha - Chintal":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-18",
+                                                                        "db_size_bytes":  5517344768
+                                                                    },
+                                  "Asian Sailaja - Vikarabad":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-18",
+                                                                    "db_size_bytes":  3050102784
+                                                                },
+                                  "Asian Manoj - Devarakonda":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-18",
+                                                                    "db_size_bytes":  1532481536
+                                                                },
+                                  "Asian Mukund - Mahabubabad":  {
+                                                                     "status":  "missing",
+                                                                     "last_backup":  "2026-08-17",
+                                                                     "db_size_bytes":  2225889280
+                                                                 },
+                                  "Asian Mukund Cinema - Medchal":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-18",
+                                                                        "db_size_bytes":  4313960448
+                                                                    },
+                                  "Asian Srinivasa Deluxe - Siddipet":  {
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-08-18",
+                                                                            "db_size_bytes":  1688723456
+                                                                        },
+                                  "Asian Raj Lakshmi - Uppal":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-18",
+                                                                    "db_size_bytes":  1571086336
+                                                                },
+                                  "Asian Balaji 70MM A -C - Siddipet":  {
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-08-18",
+                                                                            "db_size_bytes":  3191918592
+                                                                        },
+                                  "Asian Cinemart - RC Puram":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-18",
+                                                                    "db_size_bytes":  6148358144
+                                                                },
+                                  "Asian Urvasi 70MM - Godavarikhani":  {
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-08-18",
+                                                                            "db_size_bytes":  2576207872
+                                                                        },
+                                  "AMB Cinemas Kapali: Bengaluru":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-18",
+                                                                        "db_size_bytes":  5149645312
+                                                                    },
+                                  "Asian Maheshwari 70MM A -C DTS - Zaheerabad":  {
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-08-18",
+                                                                                      "db_size_bytes":  2688118784
+                                                                                  },
+                                  "Asian Srinivasa - Mahbubnagar":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-18",
+                                                                        "db_size_bytes":  2832855040
+                                                                    },
+                                  "Asian Sridevi Multiplex - Hanumakonda":  {
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-08-18",
+                                                                                "db_size_bytes":  8102830080
+                                                                            },
+                                  "Asian Srinivasa Theater - Miryalaguda":  {
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-08-18",
+                                                                                "db_size_bytes":  981393408
+                                                                            },
+                                  "Asian Srinivasa - Khammam":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-18",
+                                                                    "db_size_bytes":  5381472256
+                                                                },
+                                  "VLS Sri Rama Theatre - Jagtial":  {
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-08-18",
+                                                                         "db_size_bytes":  3078213632
+                                                                     },
+                                  "Asian Gemini Theatre - Warangal":  {
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-08-18",
+                                                                          "db_size_bytes":  2762825728
+                                                                      },
+                                  "ART CINEMAS - Vanasthalipuram":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-18",
+                                                                        "db_size_bytes":  9260217856
+                                                                    },
+                                  "AVD Cinemas - Mahbubnagar":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-18",
+                                                                    "db_size_bytes":  4241117184
+                                                                },
+                                  "Asian Usha Prasad Multiplex - Nizamabad":  {
+                                                                                  "status":  "ok",
+                                                                                  "last_backup":  "2026-08-18",
+                                                                                  "db_size_bytes":  9009369088
+                                                                              },
+                                  "Asian Sitara - Sangareddy":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-18",
+                                                                    "db_size_bytes":  1008979968
+                                                                },
+                                  "Asian Srinivasa - Mancherial":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-18",
+                                                                       "db_size_bytes":  4385665024
+                                                                   },
+                                  "Asian Radhika Multiplex - ECIL":  {
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-08-18",
+                                                                         "db_size_bytes":  7924944896
+                                                                     },
+                                  "AMB Cinemas - Gachibowli":  {
+                                                                   "status":  "missing",
+                                                                   "last_backup":  null,
+                                                                   "db_size_bytes":  null
+                                                               },
+                                  "Asian Uday Bhaskar - Bhadrachalam":  {
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-08-18",
+                                                                            "db_size_bytes":  169795584
+                                                                        },
+                                  "Asian Ramakrishna - Thorrur":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-08-18",
+                                                                      "db_size_bytes":  1672851456
+                                                                  },
+                                  "Asian Srinivasa - Kodad":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-08-18",
+                                                                  "db_size_bytes":  3099107328
+                                                              },
+                                  "Asian Hema Durga - Uppal":  {
+                                                                   "status":  "missing",
+                                                                   "last_backup":  null,
+                                                                   "db_size_bytes":  null
+                                                               },
+                                  "Asian Tirumala Multiplex - Suryapet":  {
+                                                                              "status":  "missing",
+                                                                              "last_backup":  null,
+                                                                              "db_size_bytes":  null
+                                                                          },
+                                  "Asian Cineplanet Multiplex - Kompally":  {
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-08-18",
+                                                                                "db_size_bytes":  4310159360
+                                                                            },
+                                  "Asian Tarakarama Cineplex - Kachiguda":  {
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-08-18",
+                                                                                "db_size_bytes":  2244337664
+                                                                            },
+                                  "Asian Pradise - Karimnagar":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-08-18",
+                                                                     "db_size_bytes":  1010757632
+                                                                 },
+                                  "Asian Nataraj Deluxe - Adilabad":  {
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-08-18",
+                                                                          "db_size_bytes":  3783118848
+                                                                      },
+                                  "Asian Super - Balapur":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-08-18",
+                                                                "db_size_bytes":  798679040
+                                                            },
+                                  "Cine Town Indra Nagendra - Karmanghat":  {
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-08-18",
+                                                                                "db_size_bytes":  5273579520
+                                                                            },
+                                  "Asian Venkateshwara - Siddipet":  {
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-08-18",
+                                                                         "db_size_bytes":  3265908736
+                                                                     },
+                                  "AAA Cinemas - Ameerpet":  {
+                                                                 "status":  "missing",
+                                                                 "last_backup":  null,
+                                                                 "db_size_bytes":  null
+                                                             },
+                                  "Asian Sai Krishna - Metpally":  {
+                                                                       "status":  "missing",
+                                                                       "last_backup":  "2026-08-17",
+                                                                       "db_size_bytes":  441438208
+                                                                   }
                               },
                     "TG":  {
                                "Radhika Theater":  {
@@ -1355,9 +1604,9 @@
                                                                          "db_size_bytes":  3485810688
                                                                      },
                                "Sri Manikanta 70mm Theatres":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-17",
-                                                                   "db_size_bytes":  412860416
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-18",
+                                                                   "db_size_bytes":  408666112
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
                                                                         "status":  "ok",
@@ -1477,9 +1726,9 @@
                                                                         "db_size_bytes":  803590144
                                                                     },
                                "Dream Cinemas Thodupuzha":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-08-17",
-                                                                "db_size_bytes":  874594304
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-08-18",
+                                                                "db_size_bytes":  877625344
                                                             },
                                "Dreambig Pratibha Theatre Mavelikkara":  {
                                                                              "status":  "ok",
@@ -2042,9 +2291,9 @@
                                                          "db_size_bytes":  2270285824
                                                      },
                                "Paradise Cinema Cherthala":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-17",
-                                                                 "db_size_bytes":  3756310528
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-18",
+                                                                 "db_size_bytes":  3745390592
                                                              },
                                "Sri Kalidas M Plex Kattakada":  {
                                                                     "status":  "ok",
@@ -2252,9 +2501,9 @@
                                                                   "db_size_bytes":  1911746560
                                                               },
                                "Penta Cinemas Pulpally":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-08-17",
-                                                              "db_size_bytes":  2073759744
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-08-18",
+                                                              "db_size_bytes":  2074021888
                                                           },
                                "E Max Cinemas RGB Laser Calicut":  {
                                                                        "status":  "ok",
@@ -2262,9 +2511,9 @@
                                                                        "db_size_bytes":  4516614144
                                                                    },
                                "Aishwarya Cinema Kattappana":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-17",
-                                                                   "db_size_bytes":  3076874240
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-18",
+                                                                   "db_size_bytes":  3083751424
                                                                },
                                "Santosh Sandra Vallakali Mavelikkara":  {
                                                                             "status":  "ok",
@@ -2811,8 +3060,8 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Rajashree Theatre - Nipani":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-08-17",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-08-18",
                                                                   "db_size_bytes":  null
                                                               },
                                "Globe Cinemas - Belagavi":  {
@@ -3161,8 +3410,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-08-17",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-08-18",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3408,13 +3657,13 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Sowmya Theatre Chittinagar - Vijayawada":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-08-17",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-08-18",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-08-17",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-08-18",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3503,9 +3752,9 @@
                                                                              "db_size_bytes":  2453790720
                                                                          },
                                "Sekhar Cinemas - Amalapuram":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-17",
-                                                                   "db_size_bytes":  1914884096
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-18",
+                                                                   "db_size_bytes":  1917444096
                                                                },
                                "Annapurna Theater AC DTS 2K - Mangalagiri":  {
                                                                                  "status":  "ok",
@@ -3703,8 +3952,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "G3 Srichandra Ramachandra Theaters - Kankipadu":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-08-17",
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-08-18",
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Padmaja Picture Palace 2K AC DTS - Malikipuram":  {
@@ -3733,9 +3982,9 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Vijaya Mahal Theater AC DTS - Mandapeta":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-08-17",
-                                                                               "db_size_bytes":  435404800
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-08-18",
+                                                                               "db_size_bytes":  432390144
                                                                            },
                                "Maruthi Theatre - Palakollu":  {
                                                                    "status":  "ok",
@@ -4008,8 +4257,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Balaji Picture Palace - Cherukupalli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-08-17",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-08-18",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateswara AC Dolby DTS - S Kota":  {
@@ -4224,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-18 09:31:25"
+    "started_at":  "2026-08-18 11:31:24"
 }
