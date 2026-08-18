@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-18 18:52:11",
+    "generated_at":  "2026-08-18 20:55:05",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -143,9 +143,9 @@
                                                           "db_size_bytes":  903774720
                                                       },
                                "Maruthu Modern Theatre Sholavandan":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-08-17",
-                                                                          "db_size_bytes":  644501504
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-08-18",
+                                                                          "db_size_bytes":  644829184
                                                                       },
                                "Varanashi Multiplex Tirupur":  {
                                                                    "status":  "missing",
@@ -3100,8 +3100,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-08-17",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-18",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3260,8 +3260,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-08-18",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-18 17:31:24"
+    "started_at":  "2026-08-18 19:31:24"
 }
