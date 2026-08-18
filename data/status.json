@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-18 14:57:01",
+    "generated_at":  "2026-08-18 16:53:20",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1197,9 +1197,9 @@
                                                                     "db_size_bytes":  1532481536
                                                                 },
                                   "Asian Mukund - Mahabubabad":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-08-17",
-                                                                     "db_size_bytes":  2225889280
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-08-18",
+                                                                     "db_size_bytes":  2218835968
                                                                  },
                                   "Asian Mukund Cinema - Medchal":  {
                                                                         "status":  "ok",
@@ -1372,9 +1372,9 @@
                                                                  "db_size_bytes":  null
                                                              },
                                   "Asian Sai Krishna - Metpally":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-08-17",
-                                                                       "db_size_bytes":  441438208
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-18",
+                                                                       "db_size_bytes":  427409408
                                                                    }
                               },
                     "TG":  {
@@ -4302,9 +4302,9 @@
                                                                                          "db_size_bytes":  1499287552
                                                                                      },
                                "Ganesh AC 2K Dolby - Thagarapuvalasa":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-08-17",
-                                                                            "db_size_bytes":  1312518656
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-08-18",
+                                                                            "db_size_bytes":  1299925504
                                                                         },
                                "G2V Theaters Ravi Priya Mall - Ongole":  {
                                                                              "status":  "missing",
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-18 13:31:24"
+    "started_at":  "2026-08-18 15:31:24"
 }
