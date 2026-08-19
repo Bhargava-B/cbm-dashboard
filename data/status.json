@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-19 19:24:23",
+    "generated_at":  "2026-08-19 21:24:41",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3872,9 +3872,9 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Suryapalace 2K Dolby Atmos - Rajahmundry":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-08-18",
-                                                                                "db_size_bytes":  3869136384
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-08-19",
+                                                                                "db_size_bytes":  3878180352
                                                                             },
                                "Sri Venkateswara AC DTS - Mangalagiri":  {
                                                                              "status":  "ok",
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-19 18:00:02"
+    "started_at":  "2026-08-19 20:00:02"
 }
