@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-19 04:52:39",
+    "generated_at":  "2026-08-19 06:59:14",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2766,9 +2766,9 @@
                                                                "db_size_bytes":  330752000
                                                            },
                                "Ragam Theatre Thrissur":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-08-18",
-                                                              "db_size_bytes":  8496308224
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-08-19",
+                                                              "db_size_bytes":  8532086784
                                                           },
                                "Dhanalakshmi Cinemas Nenmara":  {
                                                                     "status":  "missing",
@@ -2828,29 +2828,29 @@
                            },
                     "SL":  {
                                "Regal Cinema Nuwara Eliya":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-18",
-                                                                 "db_size_bytes":  2748121088
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-19",
+                                                                 "db_size_bytes":  2752368640
                                                              },
                                "Regal Cinema Bandarawela":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-08-18",
-                                                                "db_size_bytes":  1504362496
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-08-19",
+                                                                "db_size_bytes":  1503772672
                                                             },
                                "Eros Cinemas, Colombo":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-08-17",
-                                                             "db_size_bytes":  836689920
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-08-19",
+                                                             "db_size_bytes":  836755456
                                                          },
                                "Majestic Cineplex JAFFNA":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-08-18",
-                                                                "db_size_bytes":  7554056192
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-08-19",
+                                                                "db_size_bytes":  7555563520
                                                             },
                                "Majestic Cineplex Colombo":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-18",
-                                                                 "db_size_bytes":  3621044224
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-19",
+                                                                 "db_size_bytes":  3619405824
                                                              },
                                "Seran Cinemas Kilinochchi":  {
                                                                  "status":  "missing",
@@ -2858,14 +2858,14 @@
                                                                  "db_size_bytes":  215138304
                                                              },
                                "Samanala Cinemas, Melsiripura":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-08-18",
-                                                                     "db_size_bytes":  629137408
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-08-19",
+                                                                     "db_size_bytes":  629334016
                                                                  },
                                "SAS Cinema Trincomale":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-08-18",
-                                                             "db_size_bytes":  159432704
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-08-19",
+                                                             "db_size_bytes":  159956992
                                                          }
                            },
                     "KA":  {
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-19 03:31:24"
+    "started_at":  "2026-08-19 05:31:24"
 }
