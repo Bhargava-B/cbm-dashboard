@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-19 15:33:37",
+    "generated_at":  "2026-08-19 17:26:54",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2890,8 +2890,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-08-17",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-08-19",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -3100,8 +3100,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-08-18",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-19",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3150,8 +3150,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Sri Radhakrishna Theatre - RT Nagar":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-08-18",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-08-19",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Meeralam Nawaz Picture Palace - Hospet":  {
@@ -4227,8 +4227,8 @@
                                                         "db_size_bytes":  3457657344
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-08-19",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3650379776
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-19 14:00:03"
+    "started_at":  "2026-08-19 16:00:02"
 }
