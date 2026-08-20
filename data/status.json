@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-20 09:27:27",
+    "generated_at":  "2026-08-20 11:34:29",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -638,14 +638,14 @@
                                                                   "db_size_bytes":  5573996544
                                                               },
                                "Balaji Theatre 70mm Pondicherry":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-08-19",
-                                                                       "db_size_bytes":  3767918592
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-20",
+                                                                       "db_size_bytes":  3768176640
                                                                    },
                                "Jothi Theatre Viralimalai Trichy":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-08-19",
-                                                                        "db_size_bytes":  617156608
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-20",
+                                                                        "db_size_bytes":  617549824
                                                                     },
                                "Tamil Jaya Cinema Madurai":  {
                                                                  "status":  "missing",
@@ -2890,8 +2890,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-08-19",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-08-20",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -2900,8 +2900,8 @@
                                                                                            "db_size_bytes":  null
                                                                                        },
                                "Sri Lakshmi AC 4k Dolby 7.1 Gottigere":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-08-19",
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-08-20",
                                                                              "db_size_bytes":  null
                                                                          },
                                "Veerbhadreshwara Theatre Shivamogga":  {
@@ -3070,8 +3070,8 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "SIDDESHWARA Digital 2K 7.1 Cinema - J.P.Nagar":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-08-19",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-08-20",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Swagath Poornima 4K Dolby Atmos - JC Road":  {
@@ -3385,8 +3385,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-08-19",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-08-20",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3662,8 +3662,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-08-19",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-08-20",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-20 08:00:02"
+    "started_at":  "2026-08-20 10:00:03"
 }
