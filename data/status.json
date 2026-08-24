@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-24 16:52:04",
+    "generated_at":  "2026-08-24 18:52:37",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -283,9 +283,9 @@
                                                                "db_size_bytes":  697548800
                                                            },
                                "Amman Cinemas":  {
-                                                     "status":  "missing",
-                                                     "last_backup":  "2026-08-23",
-                                                     "db_size_bytes":  203030528
+                                                     "status":  "ok",
+                                                     "last_backup":  "2026-08-24",
+                                                     "db_size_bytes":  261554176
                                                  },
                                "Anna Theatre Mount Road":  {
                                                                "status":  "missing",
@@ -3030,8 +3030,8 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "Ravi Digital 2K Dolby 7.1 HD Screen - Ejipura":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-08-23",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-08-24",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Sapna Multiplex - Bidar":  {
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-24 15:18:24"
+    "started_at":  "2026-08-24 17:18:24"
 }
