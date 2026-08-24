@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-24 20:50:56",
+    "generated_at":  "2026-08-24 22:49:13",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -320,7 +320,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-08-24",
-                                                                  "db_size_bytes":  898224128
+                                                                  "db_size_bytes":  900714496
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -3110,8 +3110,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-08-23",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-24",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3887,9 +3887,9 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Suryapalace 2K Dolby Atmos - Rajahmundry":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-08-23",
-                                                                                "db_size_bytes":  4022360576
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-08-24",
+                                                                                "db_size_bytes":  4040580608
                                                                             },
                                "Sri Venkateswara AC DTS - Mangalagiri":  {
                                                                              "status":  "ok",
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-24 19:18:24"
+    "started_at":  "2026-08-24 21:18:24"
 }
