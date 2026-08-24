@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-24 18:52:37",
+    "generated_at":  "2026-08-24 20:50:56",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2900,8 +2900,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-08-21",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-08-24",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-24 17:18:24"
+    "started_at":  "2026-08-24 19:18:24"
 }
