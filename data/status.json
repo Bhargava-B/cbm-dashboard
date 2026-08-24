@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-24 14:53:58",
+    "generated_at":  "2026-08-24 16:52:04",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1177,9 +1177,9 @@
                                                                            "db_size_bytes":  4248412160
                                                                        },
                                   "Asian Natraj Deluxe Theatre A -c - Sircilla":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-08-23",
-                                                                                      "db_size_bytes":  2180169728
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-08-24",
+                                                                                      "db_size_bytes":  2182434816
                                                                                   },
                                   "Asian Sha Shahensha - Chintal":  {
                                                                         "status":  "ok",
@@ -1207,9 +1207,9 @@
                                                                         "db_size_bytes":  4417445888
                                                                     },
                                   "Asian Srinivasa Deluxe - Siddipet":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-08-23",
-                                                                            "db_size_bytes":  1695797248
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-08-24",
+                                                                            "db_size_bytes":  1704648704
                                                                         },
                                   "Asian Raj Lakshmi - Uppal":  {
                                                                     "status":  "ok",
@@ -1217,9 +1217,9 @@
                                                                     "db_size_bytes":  1638006784
                                                                 },
                                   "Asian Balaji 70MM A -C - Siddipet":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-08-23",
-                                                                            "db_size_bytes":  3257524224
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-08-24",
+                                                                            "db_size_bytes":  3260030976
                                                                         },
                                   "Asian Cinemart - RC Puram":  {
                                                                     "status":  "ok",
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-24 13:18:24"
+    "started_at":  "2026-08-24 15:18:24"
 }
