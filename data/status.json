@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-24 12:49:09",
+    "generated_at":  "2026-08-24 14:53:58",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2015,11 +2015,11 @@
                                                                        "last_backup":  "2026-08-24",
                                                                        "db_size_bytes":  1408360448
                                                                    },
-                               "New Theatre Trivandrum":  {
-                                                              "status":  "ok",
-                                                              "last_backup":  "2026-08-24",
-                                                              "db_size_bytes":  6286094336
-                                                          },
+                               "Chilanka Thiruvalla":  {
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-08-24",
+                                                           "db_size_bytes":  49332224
+                                                       },
                                "SV Cinemas Kayamkulam":  {
                                                              "status":  "ok",
                                                              "last_backup":  "2026-08-24",
@@ -2306,20 +2306,20 @@
                                                                  "db_size_bytes":  2216034304
                                                              },
                                "SP Cinemas Peyad":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-08-23",
-                                                        "db_size_bytes":  1631821824
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-08-24",
+                                                        "db_size_bytes":  1663737856
                                                     },
                                "Anurag Cinema Shoranur":  {
                                                               "status":  "ok",
                                                               "last_backup":  "2026-08-24",
                                                               "db_size_bytes":  2312626176
                                                           },
-                               "S Cinemas Konni":  {
-                                                       "status":  "ok",
-                                                       "last_backup":  "2026-08-24",
-                                                       "db_size_bytes":  772784128
-                                                   },
+                               "New Theatre Trivandrum":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-08-24",
+                                                              "db_size_bytes":  6286094336
+                                                          },
                                "GMAX Cinema Kollam":  {
                                                           "status":  "ok",
                                                           "last_backup":  "2026-08-24",
@@ -2465,6 +2465,11 @@
                                                                   "last_backup":  "2026-08-24",
                                                                   "db_size_bytes":  168087552
                                                               },
+                               "S Cinemas Konni":  {
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-08-24",
+                                                       "db_size_bytes":  772784128
+                                                   },
                                "Shadow Cinema Pazhayannur":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-08-24",
@@ -4237,8 +4242,8 @@
                                                         "db_size_bytes":  3482759680
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-08-24",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3659612160
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4483,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-24 11:18:25"
+    "started_at":  "2026-08-24 13:18:24"
 }
