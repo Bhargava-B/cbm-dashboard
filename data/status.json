@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-25 21:52:51",
+    "generated_at":  "2026-08-25 23:46:02",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1740,6 +1740,11 @@
                                                                     "last_backup":  "2026-08-25",
                                                                     "db_size_bytes":  2717937664
                                                                 },
+                               "Saritha kochi":  {
+                                                     "status":  "ok",
+                                                     "last_backup":  "2026-08-25",
+                                                     "db_size_bytes":  48021504
+                                                 },
                                "Devaki Cinemas Guruvayoor":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-08-25",
@@ -2411,9 +2416,9 @@
                                                                     "db_size_bytes":  1327763456
                                                                 },
                                "KRV Movies Kottayi":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-08-22",
-                                                          "db_size_bytes":  776392704
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-08-25",
+                                                          "db_size_bytes":  800186368
                                                       },
                                "RD Cinema Mundakayam":  {
                                                             "status":  "ok",
@@ -2801,9 +2806,9 @@
                                                                 "db_size_bytes":  1342631936
                                                             },
                                "Dreambig Mayukh Vadakkenchery":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-08-24",
-                                                                     "db_size_bytes":  600825856
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-08-25",
+                                                                     "db_size_bytes":  601874432
                                                                  },
                                "Seema Cineplex Pathanapuram":  {
                                                                    "status":  "ok",
@@ -3677,8 +3682,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Srinivasa Mahal - Kanchikacherla":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-08-24",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-25",
                                                                         "db_size_bytes":  null
                                                                     },
                                "VN Palace Veeranarayana - Tanuku":  {
@@ -4483,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-25 20:00:03"
+    "started_at":  "2026-08-25 22:00:03"
 }
