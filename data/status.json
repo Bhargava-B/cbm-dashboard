@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-25 04:42:08",
+    "generated_at":  "2026-08-25 06:42:48",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2838,14 +2838,14 @@
                            },
                     "SL":  {
                                "Regal Cinema Nuwara Eliya":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-24",
-                                                                 "db_size_bytes":  2761478144
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-25",
+                                                                 "db_size_bytes":  2763313152
                                                              },
                                "Regal Cinema Bandarawela":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-08-24",
-                                                                "db_size_bytes":  1517076480
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-08-25",
+                                                                "db_size_bytes":  1518518272
                                                             },
                                "Eros Cinemas, Colombo":  {
                                                              "status":  "missing",
@@ -2858,9 +2858,9 @@
                                                                 "db_size_bytes":  7572602880
                                                             },
                                "Majestic Cineplex Colombo":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-24",
-                                                                 "db_size_bytes":  3626680320
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-25",
+                                                                 "db_size_bytes":  3622879232
                                                              },
                                "Seran Cinemas Kilinochchi":  {
                                                                  "status":  "missing",
@@ -2873,9 +2873,9 @@
                                                                      "db_size_bytes":  632217600
                                                                  },
                                "SAS Cinema Trincomale":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-08-24",
-                                                             "db_size_bytes":  161595392
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-08-25",
+                                                             "db_size_bytes":  161923072
                                                          }
                            },
                     "KA":  {
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-25 03:18:24"
+    "started_at":  "2026-08-25 05:18:24"
 }
