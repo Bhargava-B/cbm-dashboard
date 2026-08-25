@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-25 15:44:51",
+    "generated_at":  "2026-08-25 17:43:47",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1384,8 +1384,8 @@
                                                        "db_size_bytes":  null
                                                    },
                                "Sri Balaji Theater":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-08-24",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-08-25",
                                                           "db_size_bytes":  null
                                                       },
                                "Tivoli Cinemas - Secunderabad":  {
@@ -4237,8 +4237,8 @@
                                                         "db_size_bytes":  3455080960
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-08-25",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3636920320
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4483,5 +4483,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-25 14:00:03"
+    "started_at":  "2026-08-25 16:00:03"
 }
