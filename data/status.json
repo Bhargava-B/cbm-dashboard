@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-25 17:43:47",
+    "generated_at":  "2026-08-25 19:49:29",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3265,8 +3265,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-08-25",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4142,8 +4142,8 @@
                                                                    "db_size_bytes":  537993216
                                                                },
                                "KS Talkies":  {
-                                                  "status":  "missing",
-                                                  "last_backup":  "2026-08-24",
+                                                  "status":  "ok",
+                                                  "last_backup":  "2026-08-25",
                                                   "db_size_bytes":  null
                                               },
                                "Aswani Deluxe AC - Piduguralla":  {
@@ -4483,5 +4483,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-25 16:00:03"
+    "started_at":  "2026-08-25 18:00:03"
 }
