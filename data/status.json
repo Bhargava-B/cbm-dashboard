@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-26 15:53:45",
+    "generated_at":  "2026-08-26 17:49:42",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2461,8 +2461,8 @@
                                                              "db_size_bytes":  4253184000
                                                          },
                                "Dreamax E cinemas mayannur":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-08-25",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-08-26",
                                                                   "db_size_bytes":  170311680
                                                               },
                                "S Cinemas Konni":  {
@@ -2766,8 +2766,8 @@
                                                                      "db_size_bytes":  877506560
                                                                  },
                                "Sumangali cinemas Payyannur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-25",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-26",
                                                                    "db_size_bytes":  324521984
                                                                },
                                "Veechee Cinema Edacheri":  {
@@ -4242,8 +4242,8 @@
                                                         "db_size_bytes":  3457501696
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-08-26",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3700051968
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-26 14:00:03"
+    "started_at":  "2026-08-26 16:00:03"
 }
