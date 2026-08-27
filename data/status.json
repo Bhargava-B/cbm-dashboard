@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-27 11:48:40",
+    "generated_at":  "2026-08-27 13:50:23",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2945,8 +2945,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Chandrodaya Digital 2K Cinema - Vidyapeeta Circle":  {
-                                                                                         "status":  "missing",
-                                                                                         "last_backup":  "2026-08-26",
+                                                                                         "status":  "ok",
+                                                                                         "last_backup":  "2026-08-27",
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "Sri Venkateshwara Theatre - Sidlaghatta":  {
@@ -3175,8 +3175,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "VR Cinemas 2K AC 7.1 Dolby Atmos Mallathalli":  {
-                                                                                    "status":  "missing",
-                                                                                    "last_backup":  "2026-08-26",
+                                                                                    "status":  "ok",
+                                                                                    "last_backup":  "2026-08-27",
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Vaibhavi \u0026 Vaishnavi Cinemas - Uttarahalli":  {
@@ -3587,9 +3587,9 @@
                                                                                              "db_size_bytes":  3942600704
                                                                                          },
                                "Sri Sai Rajeswari Complex Cine Hub":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-08-26",
-                                                                          "db_size_bytes":  806141952
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-08-27",
+                                                                          "db_size_bytes":  806404096
                                                                       },
                                "Sri Sivajyothi 2K Cinema 7.1 Dolby - Rajahmundry":  {
                                                                                         "status":  "ok",
@@ -3672,8 +3672,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Sowmya Theatre Chittinagar - Vijayawada":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-08-26",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-08-27",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
@@ -3727,8 +3727,8 @@
                                                                 "db_size_bytes":  1691668480
                                                             },
                                "Suresh Mahal AC 4K Padmakar Films - Vinukonda":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-08-26",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-08-27",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
@@ -3737,8 +3737,8 @@
                                                                 "db_size_bytes":  708886528
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-08-26",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-08-27",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Kameswari and Kinnera AC Laser 4K - Maddilapalem":  {
@@ -3752,8 +3752,8 @@
                                                                            "db_size_bytes":  null
                                                                        },
                                "Chand Picture Palace AC DTS - Proddatur":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-08-26",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-08-27",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Gowtham Cinemas - Rayachoti":  {
@@ -4082,8 +4082,8 @@
                                                                    "db_size_bytes":  123326464
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-08-26",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-27",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
@@ -4493,5 +4493,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-27 10:00:03"
+    "started_at":  "2026-08-27 12:00:03"
 }
