@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-27 13:50:23",
+    "generated_at":  "2026-08-27 15:43:58",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2240790528
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-08-27",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  1526751744
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -203,8 +203,8 @@
                                                                      "db_size_bytes":  2310197248
                                                                  },
                                "Lena Theatre Kallakurichi":  {
-                                                                 "status":  "ok",
-                                                                 "last_backup":  "2026-08-27",
+                                                                 "status":  "missing",
+                                                                 "last_backup":  "2026-08-25",
                                                                  "db_size_bytes":  419749888
                                                              },
                                "Sri Ramchandra Cinema Pernambut":  {
@@ -453,8 +453,8 @@
                                                                  "db_size_bytes":  2201583616
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-08-27",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  421187584
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -1048,8 +1048,8 @@
                                                                        "db_size_bytes":  1469837312
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-08-27",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  629378560
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -1911,9 +1911,9 @@
                                                              "db_size_bytes":  1430192128
                                                          },
                                "Deepa Movies Viyyur":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-08-26",
-                                                           "db_size_bytes":  939581440
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-08-27",
+                                                           "db_size_bytes":  947982336
                                                        },
                                "Trinity Movie Max Aishwarya Pathanamthitta":  {
                                                                                   "status":  "ok",
@@ -2606,9 +2606,9 @@
                                                                  "db_size_bytes":  1237708800
                                                              },
                                "Dhanya Remya Pathanamthitta":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-26",
-                                                                   "db_size_bytes":  2292043776
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-27",
+                                                                   "db_size_bytes":  2303508480
                                                                },
                                "Anchani cinemas karukachal":  {
                                                                   "status":  "ok",
@@ -4493,5 +4493,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-27 12:00:03"
+    "started_at":  "2026-08-27 14:00:03"
 }
