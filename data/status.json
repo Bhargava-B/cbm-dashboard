@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-27 17:38:13",
+    "generated_at":  "2026-08-27 19:46:15",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -622,10 +622,10 @@
                                                                   "last_backup":  "2026-08-27",
                                                                   "db_size_bytes":  3185479680
                                                               },
-                               "Lathaa Cinemas Chengalpattu":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-22",
-                                                                   "db_size_bytes":  1789325312
+                               "LATHAA CINEMAS CHENGALPATTU":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-27",
+                                                                   "db_size_bytes":  1790812160
                                                                },
                                "Thangaregal Cinemas Madurai":  {
                                                                    "status":  "ok",
@@ -3275,8 +3275,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-08-27",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4493,5 +4493,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-27 16:00:03"
+    "started_at":  "2026-08-27 18:00:03"
 }
