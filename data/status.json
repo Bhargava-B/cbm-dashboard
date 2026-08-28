@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-28 19:42:05",
+    "generated_at":  "2026-08-28 21:46:19",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3115,8 +3115,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-08-27",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-28",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3892,9 +3892,9 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Suryapalace 2K Dolby Atmos - Rajahmundry":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-08-27",
-                                                                                "db_size_bytes":  4047199744
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-08-28",
+                                                                                "db_size_bytes":  4044183040
                                                                             },
                                "Sri Venkateswara AC DTS - Mangalagiri":  {
                                                                              "status":  "ok",
@@ -4493,5 +4493,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-28 18:00:03"
+    "started_at":  "2026-08-28 20:00:03"
 }
