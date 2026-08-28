@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-28 17:41:42",
+    "generated_at":  "2026-08-28 19:42:05",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2905,8 +2905,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-08-26",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-08-28",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -3275,8 +3275,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-08-28",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3772,9 +3772,9 @@
                                                                              "db_size_bytes":  2525765632
                                                                          },
                                "Sekhar Cinemas - Amalapuram":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-27",
-                                                                   "db_size_bytes":  1935134720
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-28",
+                                                                   "db_size_bytes":  1934090240
                                                                },
                                "Annapurna Theater AC DTS 2K - Mangalagiri":  {
                                                                                  "status":  "ok",
@@ -4493,5 +4493,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-28 16:00:03"
+    "started_at":  "2026-08-28 18:00:03"
 }
