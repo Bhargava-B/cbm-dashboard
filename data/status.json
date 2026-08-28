@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-28 11:48:02",
+    "generated_at":  "2026-08-28 13:50:38",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1297,9 +1297,9 @@
                                                                     "db_size_bytes":  1092210688
                                                                 },
                                   "Asian Srinivasa - Mancherial":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-08-27",
-                                                                       "db_size_bytes":  4451823616
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-08-28",
+                                                                       "db_size_bytes":  4445970432
                                                                    },
                                   "Asian Radhika Multiplex - ECIL":  {
                                                                          "status":  "ok",
@@ -3425,8 +3425,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-08-26",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-08-28",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3837,9 +3837,9 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Satyanarayana Picture Palace AC DTS - Anakapalle":  {
-                                                                                            "status":  "missing",
-                                                                                            "last_backup":  "2026-08-27",
-                                                                                            "db_size_bytes":  462995456
+                                                                                            "status":  "ok",
+                                                                                            "last_backup":  "2026-08-28",
+                                                                                            "db_size_bytes":  463126528
                                                                                         },
                                "Nidhi Cinemas AC 2K - Nandyal":  {
                                                                      "status":  "ok",
@@ -4242,9 +4242,9 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "Adabala Theatres":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-08-27",
-                                                        "db_size_bytes":  3461175808
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-08-28",
+                                                        "db_size_bytes":  3463596544
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
                                                                                 "status":  "ok",
@@ -4352,9 +4352,9 @@
                                                                          "db_size_bytes":  285458432
                                                                      },
                                "Sri Satyanarayana Cinemas - Eluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-08-27",
-                                                                         "db_size_bytes":  3270397952
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-08-28",
+                                                                         "db_size_bytes":  3257065472
                                                                      },
                                "Sarat Theater AC 4K Dolby Atmos - Vizag":  {
                                                                                "status":  "ok",
@@ -4493,5 +4493,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-28 10:00:03"
+    "started_at":  "2026-08-28 12:00:03"
 }
