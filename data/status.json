@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-29 11:41:06",
+    "generated_at":  "2026-08-29 13:38:17",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3472,9 +3472,9 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajarathna Cinemax - Mandapeta":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-08-28",
-                                                                      "db_size_bytes":  2228731904
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-08-29",
+                                                                      "db_size_bytes":  2232926208
                                                                   },
                                "MS Tata Picture Palace AC DTS - Thagarapuvalasa":  {
                                                                                        "status":  "ok",
@@ -4493,5 +4493,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-29 10:00:03"
+    "started_at":  "2026-08-29 12:00:03"
 }
