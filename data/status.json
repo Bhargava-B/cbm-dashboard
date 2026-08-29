@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-29 15:40:22",
+    "generated_at":  "2026-08-29 17:35:40",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -840,7 +840,7 @@
                                "Sri Rajan Cinemas Chetpet":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-08-29",
-                                                                 "db_size_bytes":  471384064
+                                                                 "db_size_bytes":  473022464
                                                              },
                                "Kavitha Cinemas K G Chavadi":  {
                                                                    "status":  "ok",
@@ -4247,8 +4247,8 @@
                                                         "db_size_bytes":  3466875392
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-08-29",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3692408832
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4493,5 +4493,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-29 14:00:03"
+    "started_at":  "2026-08-29 16:00:03"
 }
