@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-29 17:35:40",
+    "generated_at":  "2026-08-29 19:39:25",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3275,8 +3275,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-08-29",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4082,8 +4082,8 @@
                                                                    "db_size_bytes":  124440576
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-08-28",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-29",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
@@ -4493,5 +4493,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-29 16:00:03"
+    "started_at":  "2026-08-29 18:00:03"
 }
