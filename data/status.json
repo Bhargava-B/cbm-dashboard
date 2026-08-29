@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-29 09:39:46",
+    "generated_at":  "2026-08-29 11:41:06",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -368,9 +368,9 @@
                                                                       "db_size_bytes":  3037790208
                                                                   },
                                "A Moorthys Drive In Theatre":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-28",
-                                                                   "db_size_bytes":  259780608
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-29",
+                                                                   "db_size_bytes":  259649536
                                                                },
                                "Om Sri Lakshmi J Cinemas Chinnalapatti":  {
                                                                               "status":  "ok",
@@ -593,9 +593,9 @@
                                                                                 "db_size_bytes":  1719595008
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-08-28",
-                                                                              "db_size_bytes":  486522880
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-08-29",
+                                                                              "db_size_bytes":  486785024
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -1090,8 +1090,8 @@
                            },
                     "OR":  {
                                "Rukmini Cineplex - Bargarh":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-08-28",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-08-29",
                                                                   "db_size_bytes":  null
                                                               },
                                "Meghraj Cinemaz - Koraput":  {
@@ -1389,8 +1389,8 @@
                                                        "db_size_bytes":  null
                                                    },
                                "Sri Balaji Theater":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-08-28",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-08-29",
                                                           "db_size_bytes":  null
                                                       },
                                "Tivoli Cinemas - Secunderabad":  {
@@ -1599,9 +1599,9 @@
                                                               "db_size_bytes":  296599552
                                                           },
                                "Aradhana Theatre - Hyderabad":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-08-28",
-                                                                    "db_size_bytes":  990257152
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-08-29",
+                                                                    "db_size_bytes":  992415744
                                                                 },
                                "Vijetha 70MM 4k Atmos - Borabanda":  {
                                                                          "status":  "ok",
@@ -3400,8 +3400,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-08-28",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-08-29",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3677,8 +3677,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-08-28",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-08-29",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3717,8 +3717,8 @@
                                                                           "db_size_bytes":  4649377792
                                                                       },
                                "Anusri Sai Krishna Theater":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-08-28",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-08-29",
                                                                   "db_size_bytes":  null
                                                               },
                                "Lakshmi Complex - Tanuku":  {
@@ -4352,9 +4352,9 @@
                                                                          "db_size_bytes":  286179328
                                                                      },
                                "Sri Satyanarayana Cinemas - Eluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-08-28",
-                                                                         "db_size_bytes":  3257065472
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-08-29",
+                                                                         "db_size_bytes":  3260338176
                                                                      },
                                "Sarat Theater AC 4K Dolby Atmos - Vizag":  {
                                                                                "status":  "ok",
@@ -4493,5 +4493,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-29 08:00:03"
+    "started_at":  "2026-08-29 10:00:03"
 }
