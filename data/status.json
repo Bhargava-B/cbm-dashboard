@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-30 11:37:10",
+    "generated_at":  "2026-08-30 13:41:53",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1389,8 +1389,8 @@
                                                        "db_size_bytes":  null
                                                    },
                                "Sri Balaji Theater":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-08-29",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-08-30",
                                                           "db_size_bytes":  null
                                                       },
                                "Tivoli Cinemas - Secunderabad":  {
@@ -1504,8 +1504,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Acchi Reddy Theater AC Dolby DTS - Haliya":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-08-29",
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-08-30",
                                                                                  "db_size_bytes":  null
                                                                              },
                                "cinemax - Medak":  {
@@ -4082,8 +4082,8 @@
                                                                    "db_size_bytes":  125358080
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-08-29",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-08-30",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
@@ -4242,9 +4242,9 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "Adabala Theatres":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-08-29",
-                                                        "db_size_bytes":  3466875392
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-08-30",
+                                                        "db_size_bytes":  3470085632
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
                                                                                 "status":  "ok",
@@ -4493,5 +4493,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-30 10:00:03"
+    "started_at":  "2026-08-30 12:00:03"
 }
