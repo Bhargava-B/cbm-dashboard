@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-31 17:36:07",
+    "generated_at":  "2026-08-31 19:36:45",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3280,8 +3280,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-08-31",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3667,8 +3667,8 @@
                                                                              "db_size_bytes":  2010632192
                                                                          },
                                "Dr PV Rao Cineplex - Kanchikacherla":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-08-30",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-08-31",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Srinivasa Theater - Giddalur":  {
@@ -4142,9 +4142,9 @@
                                                               "db_size_bytes":  null
                                                           },
                                "Narasimha Sri Narasimha: Gopalapatnam":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-08-30",
-                                                                             "db_size_bytes":  116117504
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-08-31",
+                                                                             "db_size_bytes":  118214656
                                                                          },
                                "Shree Cinemas - Parvathipuram":  {
                                                                      "status":  "ok",
@@ -4503,5 +4503,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-31 16:00:03"
+    "started_at":  "2026-08-31 18:00:03"
 }
