@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-08-31 11:46:51",
+    "generated_at":  "2026-08-31 13:47:34",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -448,9 +448,9 @@
                                                                                "db_size_bytes":  251273216
                                                                            },
                                "Cosmos Cinemas Coimbatore":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-08-30",
-                                                                 "db_size_bytes":  2193481728
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-08-31",
+                                                                 "db_size_bytes":  2213969920
                                                              },
                                "Rakki Meenakshi Avadi":  {
                                                              "status":  "ok",
@@ -1504,8 +1504,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Acchi Reddy Theater AC Dolby DTS - Haliya":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-08-30",
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-08-31",
                                                                                  "db_size_bytes":  null
                                                                              },
                                "cinemax - Medak":  {
@@ -2919,11 +2919,11 @@
                                                                              "last_backup":  "2026-08-31",
                                                                              "db_size_bytes":  null
                                                                          },
-                               "Veerbhadreshwara Theatre Shivamogga":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-08-30",
-                                                                           "db_size_bytes":  null
-                                                                       },
+                               "Sangam Digital - Mysuru":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-08-31",
+                                                               "db_size_bytes":  null
+                                                           },
                                "Veeresh Cinemas-Magadi Road":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-08-31",
@@ -2949,14 +2949,19 @@
                                                                                          "last_backup":  "2026-08-31",
                                                                                          "db_size_bytes":  null
                                                                                      },
+                               "Lakshmi Talkies: Tiptur":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-08-31",
+                                                               "db_size_bytes":  null
+                                                           },
                                "Sri Venkateshwara Theatre - Sidlaghatta":  {
                                                                                "status":  "ok",
                                                                                "last_backup":  "2026-08-31",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Pushpanjali 2K Digital AC Theater B N Pura":  {
-                                                                                  "status":  "missing",
-                                                                                  "last_backup":  "2026-08-26",
+                                                                                  "status":  "ok",
+                                                                                  "last_backup":  "2026-08-31",
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Amruth Digital 2K AC Cinema - Lingarajapuram":  {
@@ -2969,11 +2974,6 @@
                                                                                      "last_backup":  "2026-08-31",
                                                                                      "db_size_bytes":  null
                                                                                  },
-                               "Jai Bharath Theatre -Tumkur":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-08-31",
-                                                                   "db_size_bytes":  null
-                                                               },
                                "Coorg Cineplex - Gonikoppal":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-08-31",
@@ -3034,6 +3034,11 @@
                                                                  "last_backup":  "2026-08-31",
                                                                  "db_size_bytes":  null
                                                              },
+                               "Veerbhadreshwara Theatre Shivamogga":  {
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-08-31",
+                                                                           "db_size_bytes":  null
+                                                                       },
                                "Ravi Digital 2K Dolby 7.1 HD Screen - Ejipura":  {
                                                                                      "status":  "ok",
                                                                                      "last_backup":  "2026-08-31",
@@ -3339,11 +3344,11 @@
                                                              "last_backup":  "2026-08-31",
                                                              "db_size_bytes":  null
                                                          },
-                               "Sangam Digital - Mysuru":  {
-                                                               "status":  "ok",
-                                                               "last_backup":  "2026-08-31",
-                                                               "db_size_bytes":  null
-                                                           },
+                               "Jai Bharath Theatre -Tumkur":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-08-31",
+                                                                   "db_size_bytes":  null
+                                                               },
                                "Sri Vinayaka Cinemas DJ Halli":  {
                                                                      "status":  "ok",
                                                                      "last_backup":  "2026-08-31",
@@ -3425,8 +3430,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-08-28",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-08-31",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -4493,5 +4498,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-08-31 10:00:03"
+    "started_at":  "2026-08-31 12:00:03"
 }
