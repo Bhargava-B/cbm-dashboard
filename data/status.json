@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-01 11:46:39",
+    "generated_at":  "2026-09-01 13:49:28",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -483,9 +483,9 @@
                                                         "db_size_bytes":  1463406592
                                                     },
                                "Sri Murugan theatre Ammapettai":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-08-31",
-                                                                      "db_size_bytes":  947765248
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-09-01",
+                                                                      "db_size_bytes":  949731328
                                                                   },
                                "Lakshmi Cinemas Hosur":  {
                                                              "status":  "ok",
@@ -743,9 +743,9 @@
                                                                         "db_size_bytes":  4059578368
                                                                     },
                                "Divya Theatre Puducherry":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-08-31",
-                                                                "db_size_bytes":  323805184
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-01",
+                                                                "db_size_bytes":  326688768
                                                             },
                                "Raja Cinemas Perambalur":  {
                                                                "status":  "ok",
@@ -1846,9 +1846,9 @@
                                                                 "db_size_bytes":  6963204096
                                                             },
                                "Chellam Cinemas puthur":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-08-31",
-                                                              "db_size_bytes":  329793536
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-09-01",
+                                                              "db_size_bytes":  333336576
                                                           },
                                "Archana Cineplex Payannur":  {
                                                                  "status":  "ok",
@@ -2516,9 +2516,9 @@
                                                                   "db_size_bytes":  1947140096
                                                               },
                                "Penta Cinemas Pulpally":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-08-31",
-                                                              "db_size_bytes":  2087718912
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-09-01",
+                                                              "db_size_bytes":  2087981056
                                                           },
                                "E Max Cinemas RGB Laser Calicut":  {
                                                                        "status":  "ok",
@@ -2811,9 +2811,9 @@
                                                                 "db_size_bytes":  1353781248
                                                             },
                                "Dreambig Mayukh Vadakkenchery":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-08-31",
-                                                                     "db_size_bytes":  608817152
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-09-01",
+                                                                     "db_size_bytes":  609214464
                                                                  },
                                "Seema Cineplex Pathanapuram":  {
                                                                    "status":  "ok",
@@ -4487,8 +4487,8 @@
                                                                                "db_size_bytes":  3797020672
                                                                            },
                                "Vijayalakshmi Theater AC 4K Dolby - Kanuru":  {
-                                                                                  "status":  "missing",
-                                                                                  "last_backup":  "2026-08-31",
+                                                                                  "status":  "ok",
+                                                                                  "last_backup":  "2026-09-01",
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Sree Kanya Cinemas - Gajuwaka":  {
@@ -4503,5 +4503,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-01 10:00:03"
+    "started_at":  "2026-09-01 12:00:03"
 }
