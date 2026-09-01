@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-01 15:45:47",
+    "generated_at":  "2026-09-01 17:48:32",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3832,9 +3832,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-08-27",
-                                                                    "db_size_bytes":  396820480
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-09-01",
+                                                                    "db_size_bytes":  397025280
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "ok",
@@ -4077,9 +4077,9 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Jayram Theatre - Vijayawada":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-08-31",
-                                                                   "db_size_bytes":  2180042752
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-09-01",
+                                                                   "db_size_bytes":  2167721984
                                                                },
                                "Sri Krishna AC 4K Dolby Atmos - Madanapalle":  {
                                                                                    "status":  "ok",
@@ -4112,8 +4112,8 @@
                                                                                "db_size_bytes":  651018240
                                                                            },
                                "Asha Cinemas":  {
-                                                    "status":  "missing",
-                                                    "last_backup":  "2026-08-31",
+                                                    "status":  "ok",
+                                                    "last_backup":  "2026-09-01",
                                                     "db_size_bytes":  null
                                                 },
                                "Siva Cinemas Dolby Atmos - Guntur":  {
@@ -4192,9 +4192,9 @@
                                                                          "db_size_bytes":  833474560
                                                                      },
                                "BMR CINEMAX - Veeraghattam":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-08-31",
-                                                                  "db_size_bytes":  525570048
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-09-01",
+                                                                  "db_size_bytes":  518811648
                                                               },
                                "Sri Ramchandra Talkies - Kodumur":  {
                                                                         "status":  "ok",
@@ -4257,8 +4257,8 @@
                                                         "db_size_bytes":  3461210624
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-09-01",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3673964544
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4503,5 +4503,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-01 14:00:03"
+    "started_at":  "2026-09-01 16:00:03"
 }
