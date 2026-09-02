@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-02 17:24:37",
+    "generated_at":  "2026-09-02 19:27:23",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1930,6 +1930,11 @@
                                                                    "last_backup":  "2026-09-02",
                                                                    "db_size_bytes":  2666426368
                                                                },
+                               "Dreambig Jawahar Cinema Kalady":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-09-02",
+                                                                      "db_size_bytes":  308264960
+                                                                  },
                                "City Cinema Shivdam Kodakara":  {
                                                                     "status":  "ok",
                                                                     "last_backup":  "2026-09-02",
@@ -3255,8 +3260,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-09-02",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4478,5 +4483,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-02 16:00:03"
+    "started_at":  "2026-09-02 18:00:03"
 }
