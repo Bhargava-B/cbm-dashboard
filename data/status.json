@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-02 15:40:27",
+    "generated_at":  "2026-09-02 17:24:37",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3010,8 +3010,8 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "Veerbhadreshwara Theatre Shivamogga":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-09-01",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-09-02",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Ravi Digital 2K Dolby 7.1 HD Screen - Ejipura":  {
@@ -4232,8 +4232,8 @@
                                                         "db_size_bytes":  3458877952
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-09-02",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3697315840
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4478,5 +4478,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-02 14:00:03"
+    "started_at":  "2026-09-02 16:00:03"
 }
