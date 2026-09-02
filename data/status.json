@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-02 21:28:49",
+    "generated_at":  "2026-09-02 23:25:11",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -4072,8 +4072,8 @@
                                                                    "db_size_bytes":  127848448
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-08-30",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-02",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
@@ -4483,5 +4483,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-02 20:00:03"
+    "started_at":  "2026-09-02 22:00:03"
 }
