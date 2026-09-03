@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-03 15:25:15",
+    "generated_at":  "2026-09-03 17:20:49",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -230,7 +230,7 @@
                                "Sri Palaniandavar Theatre Sivakasi":  {
                                                                           "status":  "ok",
                                                                           "last_backup":  "2026-09-03",
-                                                                          "db_size_bytes":  2094841856
+                                                                          "db_size_bytes":  2077671424
                                                                       },
                                "Apsara Theatre Virudhunagar":  {
                                                                    "status":  "ok",
@@ -1063,9 +1063,9 @@
                                                           "db_size_bytes":  386154496
                                                       },
                                "Sree Lakshmibala Moviepark Padi":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-02",
-                                                                       "db_size_bytes":  211148800
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-03",
+                                                                       "db_size_bytes":  206749696
                                                                    },
                                "Makkal Cinemas Aravakurichi":  {
                                                                    "status":  "ok",
@@ -1212,9 +1212,9 @@
                                                                         "db_size_bytes":  4420390912
                                                                     },
                                   "Asian Srinivasa Deluxe - Siddipet":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-09-02",
-                                                                            "db_size_bytes":  1702420480
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-09-03",
+                                                                            "db_size_bytes":  1695797248
                                                                         },
                                   "Asian Raj Lakshmi - Uppal":  {
                                                                     "status":  "ok",
@@ -4232,8 +4232,8 @@
                                                         "db_size_bytes":  3460780544
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
-                                                                                "status":  "ok",
-                                                                                "last_backup":  "2026-09-03",
+                                                                                "status":  "missing",
+                                                                                "last_backup":  "2026-05-04",
                                                                                 "db_size_bytes":  3699597312
                                                                             },
                                "SV Talkies - Nindra":  {
@@ -4478,5 +4478,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-03 14:00:03"
+    "started_at":  "2026-09-03 16:00:03"
 }
