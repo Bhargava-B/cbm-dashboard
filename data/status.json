@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-04 09:31:20",
+    "generated_at":  "2026-09-04 11:47:06",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -278,9 +278,9 @@
                                                                  "db_size_bytes":  894476288
                                                              },
                                "Rohini Jayanthy Cheyyur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-09-03",
-                                                               "db_size_bytes":  702402560
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-09-04",
+                                                               "db_size_bytes":  702529536
                                                            },
                                "Amman Cinemas":  {
                                                      "status":  "missing",
@@ -563,9 +563,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "ARK Ram Muthuram Cinemas Tirunelveli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-09-03",
-                                                                            "db_size_bytes":  404934656
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-09-04",
+                                                                            "db_size_bytes":  405323776
                                                                         },
                                "Priya Complex Dolby Atmos Madurai":  {
                                                                          "status":  "ok",
@@ -593,9 +593,9 @@
                                                                                 "db_size_bytes":  1720250368
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-09-03",
-                                                                              "db_size_bytes":  488296448
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-09-04",
+                                                                              "db_size_bytes":  488161280
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -983,9 +983,9 @@
                                                                    "db_size_bytes":  7087636992
                                                                },
                                "Hari Theatre Pattabiram Chennai":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-03",
-                                                                       "db_size_bytes":  193122304
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-04",
+                                                                       "db_size_bytes":  191283200
                                                                    },
                                "Umaa Rajendra Cinemas 4K Dindigul":  {
                                                                          "status":  "ok",
@@ -1429,9 +1429,9 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Santhi Theatre - Madhira":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-09-02",
-                                                                "db_size_bytes":  518639616
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-04",
+                                                                "db_size_bytes":  519684096
                                                             },
                                "Sai Balaji Theatre - Sathupally":  {
                                                                        "status":  "ok",
@@ -3325,8 +3325,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Jai Bharath Theatre -Tumkur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-09-03",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-09-04",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Vinayaka Cinemas DJ Halli":  {
@@ -3385,8 +3385,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-09-03",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-09-04",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3662,8 +3662,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-09-03",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-09-04",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3892,8 +3892,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Sudharshan AC DTS - Kanigiri":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-09-03",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-09-04",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Satyam AC 4K Dolby Atmos - Ongole":  {
@@ -4177,8 +4177,8 @@
                                                                   "db_size_bytes":  522633216
                                                               },
                                "Sri Ramchandra Talkies - Kodumur":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-03",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-04",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Sri Ramulamma Theatre - Thagarapuvalasa Vizag":  {
@@ -4483,5 +4483,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-04 08:00:03"
+    "started_at":  "2026-09-04 10:00:03"
 }
