@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-05 11:39:20",
+    "generated_at":  "2026-09-05 13:44:17",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -743,9 +743,9 @@
                                                                         "db_size_bytes":  4065804288
                                                                     },
                                "Divya Theatre Puducherry":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-09-04",
-                                                                "db_size_bytes":  318619648
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-05",
+                                                                "db_size_bytes":  320520192
                                                             },
                                "Raja Cinemas Perambalur":  {
                                                                "status":  "ok",
@@ -1202,9 +1202,9 @@
                                                                     "db_size_bytes":  1547661312
                                                                 },
                                   "Asian Mukund - Mahabubabad":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-09-04",
-                                                                     "db_size_bytes":  2244472832
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-09-05",
+                                                                     "db_size_bytes":  2254123008
                                                                  },
                                   "Asian Mukund Cinema - Medchal":  {
                                                                         "status":  "ok",
@@ -1504,8 +1504,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Acchi Reddy Theater AC Dolby DTS - Haliya":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-09-04",
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-09-05",
                                                                                  "db_size_bytes":  null
                                                                              },
                                "cinemax - Medak":  {
@@ -3260,8 +3260,8 @@
                                                               "db_size_bytes":  null
                                                           },
                                "Ramakrishna Picture Palace - Siruguppa":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-09-04",
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-09-05",
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
@@ -3415,8 +3415,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-09-04",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-09-05",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3662,8 +3662,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Sowmya Theatre Chittinagar - Vijayawada":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-09-04",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-09-05",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
@@ -4142,9 +4142,9 @@
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "Mini Srinivasa - Yemmiganur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-09-04",
-                                                                   "db_size_bytes":  538955776
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-09-05",
+                                                                   "db_size_bytes":  540393472
                                                                },
                                "KS Talkies":  {
                                                   "status":  "ok",
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-05 10:00:03"
+    "started_at":  "2026-09-05 12:00:03"
 }
