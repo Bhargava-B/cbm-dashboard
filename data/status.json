@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-06 11:43:07",
+    "generated_at":  "2026-09-06 13:41:47",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1389,8 +1389,8 @@
                                                        "db_size_bytes":  null
                                                    },
                                "Sri Balaji Theater":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-09-05",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-09-06",
                                                           "db_size_bytes":  null
                                                       },
                                "Tivoli Cinemas - Secunderabad":  {
@@ -1871,9 +1871,9 @@
                                                           "db_size_bytes":  955645952
                                                       },
                                "Dreambig Thankam vadakkancehri":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-09-05",
-                                                                      "db_size_bytes":  516969984
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-09-06",
+                                                                      "db_size_bytes":  518477312
                                                                   },
                                "Seethas Theatre Alappuzha":  {
                                                                  "status":  "ok",
@@ -3060,8 +3060,8 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Rajashree Theatre - Nipani":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-09-05",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-09-06",
                                                                   "db_size_bytes":  null
                                                               },
                                "Globe Cinemas - Belagavi":  {
@@ -3447,8 +3447,8 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Abhiram - Nandyal":  {
-                                                         "status":  "missing",
-                                                         "last_backup":  "2026-09-05",
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-09-06",
                                                          "db_size_bytes":  null
                                                      },
                                "VS Mahal 4K Dolby Atmos 3D - Namavaram":  {
@@ -3657,8 +3657,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Sowmya Theatre Chittinagar - Vijayawada":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-09-05",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-09-06",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
@@ -4072,8 +4072,8 @@
                                                                    "db_size_bytes":  134074368
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-05",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-06",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
@@ -4107,9 +4107,9 @@
                                                                             "db_size_bytes":  361029632
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-05",
-                                                                        "db_size_bytes":  868007936
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-06",
+                                                                        "db_size_bytes":  868663296
                                                                     },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "status":  "ok",
@@ -4232,9 +4232,9 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "Adabala Theatres":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-09-05",
-                                                        "db_size_bytes":  3476468224
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-09-06",
+                                                        "db_size_bytes":  3479390720
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
                                                                                 "status":  "ok",
@@ -4483,5 +4483,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-06 10:00:03"
+    "started_at":  "2026-09-06 12:00:03"
 }
