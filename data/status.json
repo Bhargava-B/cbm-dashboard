@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-06 17:39:55",
+    "generated_at":  "2026-09-06 19:44:30",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -378,9 +378,9 @@
                                                                               "db_size_bytes":  658096128
                                                                           },
                                "Shanthi theatre":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-09-05",
-                                                       "db_size_bytes":  146542592
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-09-06",
+                                                       "db_size_bytes":  147197952
                                                    },
                                "PSS Multiplex Tirunelveli":  {
                                                                  "status":  "ok",
@@ -1529,9 +1529,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Sri Sai Baba - Shadnagar":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-09-05",
-                                                                "db_size_bytes":  880603136
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-06",
+                                                                "db_size_bytes":  886988800
                                                             },
                                "AMR Vijay Bhaskar - Bhadrachalam":  {
                                                                         "status":  "ok",
@@ -3260,8 +3260,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-09-06",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4483,5 +4483,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-06 16:00:03"
+    "started_at":  "2026-09-06 18:00:03"
 }
