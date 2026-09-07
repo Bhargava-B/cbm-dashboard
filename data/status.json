@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-07 11:44:53",
+    "generated_at":  "2026-09-07 13:49:03",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -338,8 +338,8 @@
                                                                       "db_size_bytes":  669564928
                                                                   },
                                "Meenakshi Theatre Thirumangalam":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-06",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-07",
                                                                        "db_size_bytes":  523083776
                                                                    },
                                "Shreepathy Cinemas Thanjavur":  {
@@ -1614,9 +1614,9 @@
                                                                    "db_size_bytes":  419155968
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-05",
-                                                                        "db_size_bytes":  720683008
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-07",
+                                                                        "db_size_bytes":  724680704
                                                                     },
                                "Seetarama Cinemas - Manuguru":  {
                                                                     "status":  "missing",
@@ -3657,8 +3657,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Sowmya Theatre Chittinagar - Vijayawada":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-09-06",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-09-07",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
@@ -3792,9 +3792,9 @@
                                                                                       "db_size_bytes":  606285824
                                                                                   },
                                "Urvasi Theater AC DTS - Mangalagiri":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-08-31",
-                                                                           "db_size_bytes":  278368768
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-09-07",
+                                                                           "db_size_bytes":  288123392
                                                                        },
                                "CNR Mall Y Screens - Jangareddy Gudem":  {
                                                                              "status":  "missing",
@@ -3812,9 +3812,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-09-04",
-                                                                    "db_size_bytes":  401977344
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-09-07",
+                                                                    "db_size_bytes":  403378176
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "ok",
@@ -4007,9 +4007,9 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "SLN Multiplex - Adda Road":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-09-06",
-                                                                 "db_size_bytes":  273534976
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-09-07",
+                                                                 "db_size_bytes":  274976768
                                                              },
                                "Jameel Theater - Buchireddypalem":  {
                                                                         "status":  "missing",
@@ -4167,9 +4167,9 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Venkata Krishna Theater - Poranki":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-09-01",
-                                                                         "db_size_bytes":  833474560
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-09-07",
+                                                                         "db_size_bytes":  852283392
                                                                      },
                                "BMR CINEMAX - Veeraghattam":  {
                                                                   "status":  "ok",
@@ -4483,5 +4483,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-07 10:00:03"
+    "started_at":  "2026-09-07 12:00:03"
 }
