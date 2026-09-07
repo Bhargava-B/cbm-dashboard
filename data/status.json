@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-07 19:41:48",
+    "generated_at":  "2026-09-07 21:42:45",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1930,6 +1930,11 @@
                                                                    "last_backup":  "2026-09-07",
                                                                    "db_size_bytes":  2693488640
                                                                },
+                               "Dreambig Jawahar Cinema Kalady":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-09-07",
+                                                                      "db_size_bytes":  313114624
+                                                                  },
                                "City Cinema Shivdam Kodakara":  {
                                                                     "status":  "ok",
                                                                     "last_backup":  "2026-09-07",
@@ -3090,8 +3095,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-06",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-07",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3872,9 +3877,9 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Suryapalace 2K Dolby Atmos - Rajahmundry":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-09-06",
-                                                                                "db_size_bytes":  4054930944
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-09-07",
+                                                                                "db_size_bytes":  4063320576
                                                                             },
                                "Sri Venkateswara AC DTS - Mangalagiri":  {
                                                                              "status":  "ok",
@@ -4473,5 +4478,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-07 18:00:03"
+    "started_at":  "2026-09-07 20:00:03"
 }
