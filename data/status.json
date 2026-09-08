@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-08 15:47:21",
+    "generated_at":  "2026-09-08 17:45:16",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -483,9 +483,9 @@
                                                         "db_size_bytes":  1473499136
                                                     },
                                "Sri Murugan theatre Ammapettai":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-09-01",
-                                                                      "db_size_bytes":  949731328
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-09-08",
+                                                                      "db_size_bytes":  953081856
                                                                   },
                                "Lakshmi Cinemas Hosur":  {
                                                              "status":  "ok",
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-08 14:00:03"
+    "started_at":  "2026-09-08 16:00:03"
 }
