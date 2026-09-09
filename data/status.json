@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-09 19:50:26",
+    "generated_at":  "2026-09-09 21:51:02",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -483,9 +483,9 @@
                                                         "db_size_bytes":  1477365760
                                                     },
                                "Sri Murugan theatre Ammapettai":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-09-08",
-                                                                      "db_size_bytes":  953081856
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-09-09",
+                                                                      "db_size_bytes":  948617216
                                                                   },
                                "Lakshmi Cinemas Hosur":  {
                                                              "status":  "ok",
@@ -3090,8 +3090,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-08",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-09",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3872,9 +3872,9 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Suryapalace 2K Dolby Atmos - Rajahmundry":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-09-08",
-                                                                                "db_size_bytes":  4019672576
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-09-09",
+                                                                                "db_size_bytes":  4031928832
                                                                             },
                                "Sri Venkateswara AC DTS - Mangalagiri":  {
                                                                              "status":  "ok",
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-09 18:00:03"
+    "started_at":  "2026-09-09 20:00:03"
 }
