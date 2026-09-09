@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-09 11:51:12",
+    "generated_at":  "2026-09-09 13:49:27",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -320,7 +320,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-09-09",
-                                                                  "db_size_bytes":  918355968
+                                                                  "db_size_bytes":  919601152
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -358,9 +358,9 @@
                                                                    "db_size_bytes":  1246019584
                                                                },
                                "BABU CINEMAS KANCHIPURAM":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-08-12",
-                                                                "db_size_bytes":  1189105664
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-09",
+                                                                "db_size_bytes":  1251094528
                                                             },
                                "Jeya Anand Theatre Rajapalayam":  {
                                                                       "status":  "ok",
@@ -528,8 +528,8 @@
                                                                            "db_size_bytes":  7318138880
                                                                        },
                                "Vijay Park Multiplex Chennai":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-09-08",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-09-09",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Ramba AC Dolby Atmos Trichy":  {
@@ -853,9 +853,9 @@
                                                                     "db_size_bytes":  1298513920
                                                                 },
                                "Shree Radha Movie Park Redhills":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-08",
-                                                                       "db_size_bytes":  5266268160
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-09",
+                                                                       "db_size_bytes":  5267779584
                                                                    },
                                "Sangeetha Cinemas Mangalam Tirupur":  {
                                                                           "status":  "ok",
@@ -1202,9 +1202,9 @@
                                                                     "db_size_bytes":  1542049792
                                                                 },
                                   "Asian Mukund - Mahabubabad":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-09-08",
-                                                                     "db_size_bytes":  2237775872
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-09-09",
+                                                                     "db_size_bytes":  2241056768
                                                                  },
                                   "Asian Mukund Cinema - Medchal":  {
                                                                         "status":  "ok",
@@ -1529,9 +1529,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Sri Sai Baba - Shadnagar":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-09-08",
-                                                                "db_size_bytes":  862437376
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-09",
+                                                                "db_size_bytes":  867418112
                                                             },
                                "AMR Vijay Bhaskar - Bhadrachalam":  {
                                                                         "status":  "ok",
@@ -1710,6 +1710,11 @@
                                                                       "last_backup":  "2026-09-09",
                                                                       "db_size_bytes":  3205550080
                                                                   },
+                               "MT Cineplex Pothancode":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-09-09",
+                                                              "db_size_bytes":  522633216
+                                                          },
                                "Sania Cinemas Eramallur":  {
                                                                "status":  "ok",
                                                                "last_backup":  "2026-09-09",
@@ -1825,11 +1830,6 @@
                                                                  "last_backup":  "2026-09-09",
                                                                  "db_size_bytes":  7652233216
                                                              },
-                               "EVM Matha Theatre Adimali":  {
-                                                                 "status":  "ok",
-                                                                 "last_backup":  "2026-09-09",
-                                                                 "db_size_bytes":  1829695488
-                                                             },
                                "Bala cinemas Kalladikode":  {
                                                                 "status":  "ok",
                                                                 "last_backup":  "2026-09-09",
@@ -1870,11 +1870,6 @@
                                                           "last_backup":  "2026-09-09",
                                                           "db_size_bytes":  959905792
                                                       },
-                               "Dreambig Thankam vadakkancehri":  {
-                                                                      "status":  "ok",
-                                                                      "last_backup":  "2026-09-09",
-                                                                      "db_size_bytes":  506811904
-                                                                  },
                                "Seethas Theatre Alappuzha":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-09-09",
@@ -1935,11 +1930,6 @@
                                                                    "last_backup":  "2026-09-09",
                                                                    "db_size_bytes":  2673606656
                                                                },
-                               "Dreambig Jawahar Cinema Kalady":  {
-                                                                      "status":  "ok",
-                                                                      "last_backup":  "2026-09-09",
-                                                                      "db_size_bytes":  307347456
-                                                                  },
                                "City Cinema Shivdam Kodakara":  {
                                                                     "status":  "ok",
                                                                     "last_backup":  "2026-09-09",
@@ -2125,6 +2115,11 @@
                                                           "last_backup":  "2026-09-09",
                                                           "db_size_bytes":  1986588672
                                                       },
+                               "G Cinemas Fort Kochi":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-09-09",
+                                                            "db_size_bytes":  3462209536
+                                                        },
                                "Ajanta Theatre 70mm Trivandrum":  {
                                                                       "status":  "ok",
                                                                       "last_backup":  "2026-09-09",
@@ -2135,11 +2130,6 @@
                                                                "last_backup":  "2026-09-09",
                                                                "db_size_bytes":  1940054016
                                                            },
-                               "AK Cinepalace Cherupuzha":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-09-09",
-                                                                "db_size_bytes":  527294464
-                                                            },
                                "Pankaj Theatre Alappuzha":  {
                                                                 "status":  "ok",
                                                                 "last_backup":  "2026-09-09",
@@ -2581,9 +2571,9 @@
                                                                 "db_size_bytes":  2148200448
                                                             },
                                "Silver Hills Cinema Thodupuzha":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-09-08",
-                                                                      "db_size_bytes":  2911621120
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-09-09",
+                                                                      "db_size_bytes":  2923479040
                                                                   },
                                "Ashoka Theatre Vadanapally":  {
                                                                   "status":  "ok",
@@ -2625,16 +2615,16 @@
                                                                    "last_backup":  "2026-09-09",
                                                                    "db_size_bytes":  2420031488
                                                                },
-                               "MT Cineplex Pothancode":  {
-                                                              "status":  "ok",
-                                                              "last_backup":  "2026-09-09",
-                                                              "db_size_bytes":  522633216
-                                                          },
-                               "G Cinemas Fort Kochi":  {
-                                                            "status":  "ok",
-                                                            "last_backup":  "2026-09-09",
-                                                            "db_size_bytes":  3462209536
-                                                        },
+                               "AK Cinepalace Cherupuzha":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-09",
+                                                                "db_size_bytes":  527294464
+                                                            },
+                               "EVM Matha Theatre Adimali":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-09-09",
+                                                                 "db_size_bytes":  1829695488
+                                                             },
                                "Santhosh Cinema Kattappana":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-09-09",
@@ -3065,8 +3055,8 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Globe Cinemas - Belagavi":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-09-08",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-09",
                                                                 "db_size_bytes":  null
                                                             },
                                "SIDDESHWARA Digital 2K 7.1 Cinema - J.P.Nagar":  {
@@ -3320,8 +3310,8 @@
                                                                         "db_size_bytes":  null
                                                                     },
                                "Rupam Theatre - Hubli":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-09-08",
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-09-09",
                                                              "db_size_bytes":  null
                                                          },
                                "Sangam Digital - Mysuru":  {
@@ -3420,8 +3410,8 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Vainidhi Digital 4K Dolby 7.1 (AC) - Singapura":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-09-08",
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-09-09",
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "V CINEMA RAMMURTHY NAGAR(4 screens)":  {
@@ -3657,8 +3647,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Sowmya Theatre Chittinagar - Vijayawada":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-09-08",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-09-09",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
@@ -4107,9 +4097,9 @@
                                                                             "db_size_bytes":  352370688
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-08",
-                                                                        "db_size_bytes":  863944704
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-09",
+                                                                        "db_size_bytes":  870563840
                                                                     },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "status":  "ok",
@@ -4483,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-09 10:00:03"
+    "started_at":  "2026-09-09 12:00:03"
 }
