@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-09 13:49:27",
+    "generated_at":  "2026-09-09 15:50:38",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2265174016
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-09-09",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  1623155200
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -203,8 +203,8 @@
                                                                      "db_size_bytes":  2316488704
                                                                  },
                                "Lena Theatre Kallakurichi":  {
-                                                                 "status":  "ok",
-                                                                 "last_backup":  "2026-09-09",
+                                                                 "status":  "missing",
+                                                                 "last_backup":  "2026-08-25",
                                                                  "db_size_bytes":  437714944
                                                              },
                                "Sri Ramchandra Cinema Pernambut":  {
@@ -418,8 +418,8 @@
                                                                     "db_size_bytes":  626864128
                                                                 },
                                "JAYAPRIYA CINEMAS":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-09-09",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-08-28",
                                                          "db_size_bytes":  146141184
                                                      },
                                "VR Cinemas Pattabiram":  {
@@ -453,8 +453,8 @@
                                                                  "db_size_bytes":  2214363136
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-09-09",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  434360320
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -708,9 +708,9 @@
                                                                         "db_size_bytes":  1445384192
                                                                     },
                                "Sri Lakshmi Theatre Thirupparankundram":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-09-08",
-                                                                              "db_size_bytes":  878792704
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-09-09",
+                                                                              "db_size_bytes":  878923776
                                                                           },
                                "Arasan Cinema AC Coimbatore":  {
                                                                    "status":  "ok",
@@ -1048,8 +1048,8 @@
                                                                        "db_size_bytes":  1481228288
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-09-09",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  647000576
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -2246,9 +2246,9 @@
                                                                           "db_size_bytes":  4305252352
                                                                       },
                                "Sree Dhnalakshmi velanthavalam":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-09-08",
-                                                                      "db_size_bytes":  108654592
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-09-09",
+                                                                      "db_size_bytes":  151711744
                                                                   },
                                "TMAX Cineplex Goolikkadavu":  {
                                                                   "status":  "ok",
@@ -4473,5 +4473,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-09 12:00:03"
+    "started_at":  "2026-09-09 14:00:03"
 }
