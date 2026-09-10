@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-10 17:38:23",
+    "generated_at":  "2026-09-10 19:46:59",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2955,8 +2955,8 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Jai Bharath Theatre -Tumkur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-09-09",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-09-10",
                                                                    "db_size_bytes":  null
                                                                },
                                "Coorg Cineplex - Gonikoppal":  {
@@ -3255,8 +3255,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-09-10",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3797,9 +3797,9 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "SRK Chitra Mandir 4K Dolby Atmos - Payakaraopeta":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-09-09",
-                                                                                        "db_size_bytes":  1645518848
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-09-10",
+                                                                                        "db_size_bytes":  1653243904
                                                                                     },
                                "Satyanarayana Kalamandir - Addanki":  {
                                                                           "status":  "ok",
@@ -4212,9 +4212,9 @@
                                                               "db_size_bytes":  null
                                                           },
                                "AVG Cinemas - Bhimavaram":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-09-09",
-                                                                "db_size_bytes":  3403669504
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-10",
+                                                                "db_size_bytes":  3403558912
                                                             },
                                "Sairam Screens AC Dolby 7.1 Surround - Vijayawada":  {
                                                                                          "status":  "ok",
@@ -4327,9 +4327,9 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Santhi Theater AC DTS - Nandikotkur":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-09-09",
-                                                                           "db_size_bytes":  1183072256
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-09-10",
+                                                                           "db_size_bytes":  1189597184
                                                                        },
                                "VPC Sri Krishna AC - Mummidivaram":  {
                                                                          "status":  "ok",
@@ -4478,5 +4478,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-10 16:00:03"
+    "started_at":  "2026-09-10 18:00:03"
 }
