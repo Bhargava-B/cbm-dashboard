@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-10 11:52:17",
+    "generated_at":  "2026-09-10 13:50:12",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -320,7 +320,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-09-10",
-                                                                  "db_size_bytes":  920977408
+                                                                  "db_size_bytes":  904843264
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -1322,9 +1322,9 @@
                                                                       "db_size_bytes":  1685516288
                                                                   },
                                   "Asian Srinivasa - Kodad":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-09-03",
-                                                                  "db_size_bytes":  3164164096
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-09-10",
+                                                                  "db_size_bytes":  3141591040
                                                               },
                                   "Asian Hema Durga - Uppal":  {
                                                                    "status":  "missing",
@@ -3055,8 +3055,8 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Rajashree Theatre - Nipani":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-09-09",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-09-10",
                                                                   "db_size_bytes":  null
                                                               },
                                "Globe Cinemas - Belagavi":  {
@@ -3405,8 +3405,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-09-08",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-09-10",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3642,8 +3642,8 @@
                                                                              "db_size_bytes":  2012098560
                                                                          },
                                "Dr PV Rao Cineplex - Kanchikacherla":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-09-09",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-09-10",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Srinivasa Theater - Giddalur":  {
@@ -3982,8 +3982,8 @@
                                                                                           "db_size_bytes":  1508818944
                                                                                       },
                                "Vishnu Mahal Theater - Puttur":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-09-09",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-09-10",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Vijaya Mahal Theater AC DTS - Mandapeta":  {
@@ -4102,9 +4102,9 @@
                                                                             "db_size_bytes":  355979264
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-09",
-                                                                        "db_size_bytes":  870563840
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-10",
+                                                                        "db_size_bytes":  870039552
                                                                     },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "status":  "ok",
@@ -4478,5 +4478,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-10 10:00:03"
+    "started_at":  "2026-09-10 12:00:03"
 }
