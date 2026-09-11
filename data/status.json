@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-11 17:43:47",
+    "generated_at":  "2026-09-11 19:49:11",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3255,8 +3255,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-09-11",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4107,9 +4107,9 @@
                                                                             "db_size_bytes":  355385344
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-10",
-                                                                        "db_size_bytes":  870039552
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-11",
+                                                                        "db_size_bytes":  870170624
                                                                     },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "status":  "ok",
@@ -4483,5 +4483,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-11 16:00:03"
+    "started_at":  "2026-09-11 18:00:03"
 }
