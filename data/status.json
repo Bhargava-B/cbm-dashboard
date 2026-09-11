@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-11 11:46:54",
+    "generated_at":  "2026-09-11 13:50:38",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -848,9 +848,9 @@
                                                                    "db_size_bytes":  2271387648
                                                                },
                                "Viswalakshmi Cinemas Peralam":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-09-10",
-                                                                    "db_size_bytes":  1299300352
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-09-11",
+                                                                    "db_size_bytes":  1301860352
                                                                 },
                                "Shree Radha Movie Park Redhills":  {
                                                                        "status":  "ok",
@@ -1319,7 +1319,7 @@
                                   "Asian Ramakrishna - Thorrur":  {
                                                                       "status":  "missing",
                                                                       "last_backup":  "2026-09-10",
-                                                                      "db_size_bytes":  1685516288
+                                                                      "db_size_bytes":  1690607616
                                                                   },
                                   "Asian Srinivasa - Kodad":  {
                                                                   "status":  "ok",
@@ -2051,9 +2051,9 @@
                                                                      "db_size_bytes":  2143084544
                                                                  },
                                "Cheloor Grand Cinemas Cherpulassery":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-09-10",
-                                                                           "db_size_bytes":  2053976064
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-09-11",
+                                                                           "db_size_bytes":  2039955456
                                                                        },
                                "JM Movies Josh Mall Mookkannoor":  {
                                                                        "status":  "ok",
@@ -2386,9 +2386,9 @@
                                                                         "db_size_bytes":  827965440
                                                                     },
                                "VINAYAKA THEATRE COMPLEX Kanhangad":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-09-10",
-                                                                          "db_size_bytes":  1212473344
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-09-11",
+                                                                          "db_size_bytes":  1213329408
                                                                       },
                                "D Cinema Kodungallur":  {
                                                             "status":  "ok",
@@ -2531,9 +2531,9 @@
                                                                     "db_size_bytes":  2505764864
                                                                 },
                                "SR Cinema Varkkala":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-09-10",
-                                                          "db_size_bytes":  262066176
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-09-11",
+                                                          "db_size_bytes":  262918144
                                                       },
                                "Jass theatre ottapalam":  {
                                                               "status":  "missing",
@@ -3732,9 +3732,9 @@
                                                                            "db_size_bytes":  null
                                                                        },
                                "G3 Lakshmi Narayana Theaters Tadepalligudem":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-09-10",
-                                                                                   "db_size_bytes":  126734336
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-09-11",
+                                                                                   "db_size_bytes":  127979520
                                                                                },
                                "Chand Picture Palace AC DTS - Proddatur":  {
                                                                                "status":  "ok",
@@ -4057,9 +4057,9 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Jayram Theatre - Vijayawada":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-09-10",
-                                                                   "db_size_bytes":  2149965824
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-09-11",
+                                                                   "db_size_bytes":  2159661056
                                                                },
                                "Sri Krishna AC 4K Dolby Atmos - Madanapalle":  {
                                                                                    "status":  "ok",
@@ -4483,5 +4483,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-11 10:00:03"
+    "started_at":  "2026-09-11 12:02:25"
 }
