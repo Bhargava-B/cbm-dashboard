@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-12 15:40:36",
+    "generated_at":  "2026-09-12 17:38:50",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2636,9 +2636,9 @@
                                                                   "db_size_bytes":  473980416
                                                               },
                                "Swaram Layam Cinema Kattakada":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-09-11",
-                                                                     "db_size_bytes":  1990656000
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-09-12",
+                                                                     "db_size_bytes":  1967443968
                                                                  },
                                "Ariesplex SL Cinemas Trivandrum":  {
                                                                        "status":  "ok",
@@ -2806,9 +2806,9 @@
                                                                    "db_size_bytes":  2523975680
                                                                },
                                "Thapasya Cine House Attingal":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-09-11",
-                                                                    "db_size_bytes":  1392566272
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-09-12",
+                                                                    "db_size_bytes":  1393487872
                                                                 },
                                "Abhinaya Anu Theatre Kottayam":  {
                                                                      "status":  "ok",
@@ -4483,5 +4483,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-12 14:00:03"
+    "started_at":  "2026-09-12 16:00:03"
 }
