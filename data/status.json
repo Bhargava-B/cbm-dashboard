@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-12 19:38:27",
+    "generated_at":  "2026-09-12 21:42:11",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2885,8 +2885,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-09-09",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-09-12",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -3095,8 +3095,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-11",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-12",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -4483,5 +4483,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-12 18:00:03"
+    "started_at":  "2026-09-12 20:00:03"
 }
