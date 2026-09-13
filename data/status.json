@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-13 15:43:55",
+    "generated_at":  "2026-09-13 17:43:13",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1710,6 +1710,11 @@
                                                                       "last_backup":  "2026-09-13",
                                                                       "db_size_bytes":  3213283328
                                                                   },
+                               "MT Cineplex Pothancode":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-09-13",
+                                                              "db_size_bytes":  535285760
+                                                          },
                                "Sania Cinemas Eramallur":  {
                                                                "status":  "ok",
                                                                "last_backup":  "2026-09-13",
@@ -1741,9 +1746,9 @@
                                                                 "db_size_bytes":  950218752
                                                             },
                                "Kripa Movies Kurumassery":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-09-12",
-                                                                "db_size_bytes":  249745408
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-13",
+                                                                "db_size_bytes":  253558784
                                                             },
                                "Aashirvad Cineplexx Kadappra":  {
                                                                     "status":  "ok",
@@ -1825,11 +1830,6 @@
                                                                  "last_backup":  "2026-09-13",
                                                                  "db_size_bytes":  7753031680
                                                              },
-                               "EVM Matha Theatre Adimali":  {
-                                                                 "status":  "ok",
-                                                                 "last_backup":  "2026-09-13",
-                                                                 "db_size_bytes":  1832333312
-                                                             },
                                "Bala cinemas Kalladikode":  {
                                                                 "status":  "ok",
                                                                 "last_backup":  "2026-09-13",
@@ -1870,11 +1870,6 @@
                                                           "last_backup":  "2026-09-13",
                                                           "db_size_bytes":  960679936
                                                       },
-                               "Dreambig Thankam vadakkancehri":  {
-                                                                      "status":  "ok",
-                                                                      "last_backup":  "2026-09-13",
-                                                                      "db_size_bytes":  514741760
-                                                                  },
                                "Seethas Theatre Alappuzha":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-09-13",
@@ -1916,9 +1911,9 @@
                                                              "db_size_bytes":  1541910528
                                                          },
                                "Deepa Movies Viyyur":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-09-12",
-                                                           "db_size_bytes":  986632192
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-09-13",
+                                                           "db_size_bytes":  992006144
                                                        },
                                "Trinity Movie Max Aishwarya Pathanamthitta":  {
                                                                                   "status":  "ok",
@@ -2120,6 +2115,11 @@
                                                           "last_backup":  "2026-09-13",
                                                           "db_size_bytes":  1977597952
                                                       },
+                               "G Cinemas Fort Kochi":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-09-13",
+                                                            "db_size_bytes":  3467640832
+                                                        },
                                "Ajanta Theatre 70mm Trivandrum":  {
                                                                       "status":  "ok",
                                                                       "last_backup":  "2026-09-13",
@@ -2130,11 +2130,6 @@
                                                                "last_backup":  "2026-09-13",
                                                                "db_size_bytes":  1947095040
                                                            },
-                               "AK Cinepalace Cherupuzha":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-09-13",
-                                                                "db_size_bytes":  543023104
-                                                            },
                                "Pankaj Theatre Alappuzha":  {
                                                                 "status":  "ok",
                                                                 "last_backup":  "2026-09-13",
@@ -2256,9 +2251,9 @@
                                                                       "db_size_bytes":  110292992
                                                                   },
                                "TMAX Cineplex Goolikkadavu":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-09-12",
-                                                                  "db_size_bytes":  718848000
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-09-13",
+                                                                  "db_size_bytes":  719634432
                                                               },
                                "SA Multiplex Pulluvila":  {
                                                               "status":  "ok",
@@ -2601,9 +2596,9 @@
                                                                   "db_size_bytes":  700518400
                                                               },
                                "G Cinemax Multiplex Nedumkandam":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-10",
-                                                                       "db_size_bytes":  2075258880
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-13",
+                                                                       "db_size_bytes":  2093481984
                                                                    },
                                "Lenin Cinemas KSFDC  Trivandrum":  {
                                                                        "status":  "ok",
@@ -2620,16 +2615,16 @@
                                                                    "last_backup":  "2026-09-13",
                                                                    "db_size_bytes":  2415951872
                                                                },
-                               "MT Cineplex Pothancode":  {
-                                                              "status":  "ok",
-                                                              "last_backup":  "2026-09-13",
-                                                              "db_size_bytes":  535285760
-                                                          },
-                               "G Cinemas Fort Kochi":  {
-                                                            "status":  "ok",
-                                                            "last_backup":  "2026-09-13",
-                                                            "db_size_bytes":  3467640832
-                                                        },
+                               "AK Cinepalace Cherupuzha":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-13",
+                                                                "db_size_bytes":  543023104
+                                                            },
+                               "EVM Matha Theatre Adimali":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-09-13",
+                                                                 "db_size_bytes":  1832333312
+                                                             },
                                "Santhosh Cinema Kattappana":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-09-13",
@@ -4483,5 +4478,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-13 14:00:03"
+    "started_at":  "2026-09-13 16:00:03"
 }
