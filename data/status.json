@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-13 20:05:24",
+    "generated_at":  "2026-09-13 23:35:54",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -230,7 +230,7 @@
                                "Sri Palaniandavar Theatre Sivakasi":  {
                                                                           "status":  "ok",
                                                                           "last_backup":  "2026-09-13",
-                                                                          "db_size_bytes":  2097659904
+                                                                          "db_size_bytes":  2099429376
                                                                       },
                                "Apsara Theatre Virudhunagar":  {
                                                                    "status":  "ok",
@@ -320,7 +320,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-09-13",
-                                                                  "db_size_bytes":  914284544
+                                                                  "db_size_bytes":  919330816
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -3090,8 +3090,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-12",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-13",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -4478,5 +4478,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-13 18:00:03"
+    "started_at":  "2026-09-13 22:00:03"
 }
