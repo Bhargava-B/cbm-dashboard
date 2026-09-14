@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-14 11:44:34",
+    "generated_at":  "2026-09-14 13:48:10",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -230,7 +230,7 @@
                                "Sri Palaniandavar Theatre Sivakasi":  {
                                                                           "status":  "ok",
                                                                           "last_backup":  "2026-09-14",
-                                                                          "db_size_bytes":  2101395456
+                                                                          "db_size_bytes":  2101985280
                                                                       },
                                "Apsara Theatre Virudhunagar":  {
                                                                    "status":  "ok",
@@ -743,9 +743,9 @@
                                                                         "db_size_bytes":  4089593856
                                                                     },
                                "Divya Theatre Puducherry":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-09-13",
-                                                                "db_size_bytes":  332652544
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-14",
+                                                                "db_size_bytes":  337240064
                                                             },
                                "Raja Cinemas Perambalur":  {
                                                                "status":  "ok",
@@ -1389,8 +1389,8 @@
                                                        "db_size_bytes":  null
                                                    },
                                "Sri Balaji Theater":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-09-13",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-09-14",
                                                           "db_size_bytes":  null
                                                       },
                                "Tivoli Cinemas - Secunderabad":  {
@@ -3360,8 +3360,8 @@
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Maruthi Digital Tumkuru":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-09-13",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-09-14",
                                                                "db_size_bytes":  null
                                                            },
                                "Vinayaka Cinemas 4K Dolby 11.5 AC 3D - Harinagar":  {
@@ -3652,8 +3652,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Sowmya Theatre Chittinagar - Vijayawada":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-09-13",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-09-14",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
@@ -3697,8 +3697,8 @@
                                                                           "db_size_bytes":  4675522560
                                                                       },
                                "Anusri Sai Krishna Theater":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-09-13",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-09-14",
                                                                   "db_size_bytes":  null
                                                               },
                                "Lakshmi Complex - Tanuku":  {
@@ -3837,8 +3837,8 @@
                                                                                 "db_size_bytes":  378851328
                                                                             },
                                "Raja Cinemax AC 2K Dolby - Kothavalasa":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-09-12",
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-09-14",
                                                                               "db_size_bytes":  null
                                                                           },
                                "Sri Lakshmi Narasimha Picture Palace - 104 Area":  {
@@ -4483,5 +4483,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-14 10:00:03"
+    "started_at":  "2026-09-14 12:00:03"
 }
