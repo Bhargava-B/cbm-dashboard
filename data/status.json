@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-14 17:45:54",
+    "generated_at":  "2026-09-14 19:52:35",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -320,7 +320,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-09-14",
-                                                                  "db_size_bytes":  923394048
+                                                                  "db_size_bytes":  926212096
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -3250,8 +3250,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-09-14",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3466,11 +3466,11 @@
                                                                  "last_backup":  "2026-09-14",
                                                                  "db_size_bytes":  null
                                                              },
-                               "Pratap \u0026 Mini Pratap Picture Palace AC 4K DTS - Nandyal":  {
-                                                                                                    "status":  "missing",
-                                                                                                    "last_backup":  "2026-09-13",
-                                                                                                    "db_size_bytes":  null
-                                                                                                },
+                               "Chalapathi Mini Theater - Tadepalligudem":  {
+                                                                                "status":  "missing",
+                                                                                "last_backup":  null,
+                                                                                "db_size_bytes":  null
+                                                                            },
                                "Ram Cinemas":  {
                                                    "status":  "ok",
                                                    "last_backup":  "2026-09-14",
@@ -4011,11 +4011,11 @@
                                                                         "last_backup":  "2026-09-14",
                                                                         "db_size_bytes":  450648576
                                                                     },
-                               "Chalapathi Mini Theater - Tadepalligudem":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  null,
-                                                                                "db_size_bytes":  null
-                                                                            },
+                               "Kamala Theater Jaggayyapeta":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-09-14",
+                                                                   "db_size_bytes":  61657088
+                                                               },
                                "Cine Square Dolby Atmos AC - Guntur":  {
                                                                            "status":  "ok",
                                                                            "last_backup":  "2026-09-14",
@@ -4131,6 +4131,11 @@
                                                                                          "last_backup":  null,
                                                                                          "db_size_bytes":  null
                                                                                      },
+                               "SV Cinemax:Hindupur":  {
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-09-14",
+                                                           "db_size_bytes":  71225344
+                                                       },
                                "Mini Srinivasa - Yemmiganur":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-09-14",
@@ -4426,6 +4431,11 @@
                                                                       "last_backup":  "2026-08-29",
                                                                       "db_size_bytes":  null
                                                                   },
+                               "Pratap \u0026 Mini Pratap Picture Palace AC 4K DTS - Nandyal":  {
+                                                                                                    "status":  "missing",
+                                                                                                    "last_backup":  "2026-09-13",
+                                                                                                    "db_size_bytes":  null
+                                                                                                },
                                "Sri Seshmahal Theatre - Tadepalligudem":  {
                                                                               "status":  "ok",
                                                                               "last_backup":  "2026-09-14",
@@ -4478,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-14 16:00:03"
+    "started_at":  "2026-09-14 18:00:03"
 }
