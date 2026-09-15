@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-15 15:46:47",
+    "generated_at":  "2026-09-15 17:39:23",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2321,9 +2321,9 @@
                                                           "db_size_bytes":  2893541376
                                                       },
                                "Aashirvad Cineplexx Kozhikode":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-09-14",
-                                                                     "db_size_bytes":  1863360512
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-09-15",
+                                                                     "db_size_bytes":  1872797696
                                                                  },
                                "Sridar Cinema Ernakulum":  {
                                                                "status":  "ok",
@@ -2656,9 +2656,9 @@
                                                                     "db_size_bytes":  780914688
                                                                 },
                                "Anu Cinemax Nellimoodu":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-09-14",
-                                                              "db_size_bytes":  751341568
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-09-15",
+                                                              "db_size_bytes":  753762304
                                                           },
                                "Gavi Galaxy cinemas Seethathodu":  {
                                                                        "status":  "ok",
@@ -2880,8 +2880,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-09-12",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-09-15",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -3025,8 +3025,8 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "Sri Krishna Theatre Bommanahalli,Bengaluru":  {
-                                                                                  "status":  "missing",
-                                                                                  "last_backup":  "2026-09-13",
+                                                                                  "status":  "ok",
+                                                                                  "last_backup":  "2026-09-15",
                                                                                   "db_size_bytes":  null
                                                                               },
                                "DRC Cinemas Kushalnagar":  {
@@ -3035,8 +3035,8 @@
                                                                "db_size_bytes":  null
                                                            },
                                "Swaroop Nartaki Talkies  Belagavi":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-09-14",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-09-15",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Murali Gokula 4K Cinema Mathikere":  {
@@ -3090,8 +3090,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-14",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-15",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3225,8 +3225,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Srinivasa Theater - Kadugudi 4K Dolby Atmos":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-09-12",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-09-15",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Sri Vinayaka Cinemas 4K Dolby 7.1 (AC) Varthur":  {
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-15 14:00:03"
+    "started_at":  "2026-09-15 16:00:03"
 }
