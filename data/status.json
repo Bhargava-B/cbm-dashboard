@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-15 17:39:23",
+    "generated_at":  "2026-09-15 19:45:49",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -843,9 +843,9 @@
                                                                  "db_size_bytes":  481873920
                                                              },
                                "Kavitha Cinemas K G Chavadi":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-09-14",
-                                                                   "db_size_bytes":  2282987520
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-09-15",
+                                                                   "db_size_bytes":  2295459840
                                                                },
                                "Viswalakshmi Cinemas Peralam":  {
                                                                     "status":  "ok",
@@ -1444,9 +1444,9 @@
                                                                    "db_size_bytes":  1657228800
                                                                },
                                "BR Hitech 70mm - Madhapur":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-09-14",
-                                                                 "db_size_bytes":  null
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-09-15",
+                                                                 "db_size_bytes":  1104007168
                                                              },
                                "Talluri Theatres - Kushaiguda":  {
                                                                      "status":  "missing",
@@ -3250,8 +3250,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-09-15",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4324,7 +4324,7 @@
                                "Laxmi AC DTS 2K - Kakinada":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-09-15",
-                                                                  "db_size_bytes":  2441564672
+                                                                  "db_size_bytes":  2448674816
                                                               },
                                "Krishna Picture Palace - Giddalur":  {
                                                                          "status":  "ok",
@@ -4432,8 +4432,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Pratap \u0026 Mini Pratap Picture Palace AC 4K DTS - Nandyal":  {
-                                                                                                    "status":  "missing",
-                                                                                                    "last_backup":  "2026-09-13",
+                                                                                                    "status":  "ok",
+                                                                                                    "last_backup":  "2026-09-15",
                                                                                                     "db_size_bytes":  null
                                                                                                 },
                                "Sri Seshmahal Theatre - Tadepalligudem":  {
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-15 16:00:03"
+    "started_at":  "2026-09-15 18:00:02"
 }
