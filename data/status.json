@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-15 21:52:07",
+    "generated_at":  "2026-09-15 23:39:18",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -8,9 +8,9 @@
                                                                      "db_size_bytes":  3133054976
                                                                  },
                                "Amirtharaj Theatre Virudhunagar":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-14",
-                                                                       "db_size_bytes":  490205184
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-15",
+                                                                       "db_size_bytes":  490799104
                                                                    },
                                "Sri Ganesh Theatre Uthangarai":  {
                                                                      "status":  "ok",
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-15 20:00:03"
+    "started_at":  "2026-09-15 22:00:03"
 }
