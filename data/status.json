@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-16 17:45:07",
+    "generated_at":  "2026-09-16 19:50:25",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3190,8 +3190,8 @@
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Balaji Theatre - Siruguppa":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-09-15",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-09-16",
                                                                   "db_size_bytes":  null
                                                               },
                                "Trishul Theatre DVG 4K Dolby Atmos - Davanagere":  {
@@ -3250,8 +3250,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-09-16",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3442,9 +3442,9 @@
                                                          "db_size_bytes":  null
                                                      },
                                "VS Mahal 4K Dolby Atmos 3D - Namavaram":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-09-13",
-                                                                              "db_size_bytes":  null
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-09-16",
+                                                                              "db_size_bytes":  1398036992
                                                                           },
                                "Rajarathna Cinemax - Mandapeta":  {
                                                                       "status":  "ok",
@@ -3702,8 +3702,8 @@
                                                                 "db_size_bytes":  1703526400
                                                             },
                                "Suresh Mahal AC 4K Padmakar Films - Vinukonda":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-09-15",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-09-16",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-16 16:00:03"
+    "started_at":  "2026-09-16 18:00:03"
 }
