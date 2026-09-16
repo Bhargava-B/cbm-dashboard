@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-16 21:48:17",
+    "generated_at":  "2026-09-16 23:40:58",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1930,6 +1930,11 @@
                                                                    "last_backup":  "2026-09-16",
                                                                    "db_size_bytes":  2679377920
                                                                },
+                               "Dreambig Jawahar Cinema Kalady":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-09-16",
+                                                                      "db_size_bytes":  307806208
+                                                                  },
                                "City Cinema Shivdam Kodakara":  {
                                                                     "status":  "ok",
                                                                     "last_backup":  "2026-09-16",
@@ -4488,5 +4493,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-16 20:00:03"
+    "started_at":  "2026-09-16 22:00:02"
 }
