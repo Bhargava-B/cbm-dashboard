@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-16 15:49:59",
+    "generated_at":  "2026-09-16 17:45:07",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1282,9 +1282,9 @@
                                                                         "db_size_bytes":  10041383424
                                                                     },
                                   "AVD Cinemas - Mahbubnagar":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-09-15",
-                                                                    "db_size_bytes":  4359798784
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-09-16",
+                                                                    "db_size_bytes":  4357799936
                                                                 },
                                   "Asian Usha Prasad Multiplex - Nizamabad":  {
                                                                                   "status":  "ok",
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-16 14:00:03"
+    "started_at":  "2026-09-16 16:00:03"
 }
