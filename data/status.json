@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-17 19:47:10",
+    "generated_at":  "2026-09-17 21:43:34",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1930,11 +1930,6 @@
                                                                    "last_backup":  "2026-09-17",
                                                                    "db_size_bytes":  2681147392
                                                                },
-                               "Dreambig Jawahar Cinema Kalady":  {
-                                                                      "status":  "ok",
-                                                                      "last_backup":  "2026-09-17",
-                                                                      "db_size_bytes":  307089408
-                                                                  },
                                "City Cinema Shivdam Kodakara":  {
                                                                     "status":  "missing",
                                                                     "last_backup":  "2026-09-16",
@@ -3095,8 +3090,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-16",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-17",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -4493,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-17 18:00:03"
+    "started_at":  "2026-09-17 20:00:03"
 }
