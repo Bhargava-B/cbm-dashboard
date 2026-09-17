@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-17 15:43:32",
+    "generated_at":  "2026-09-17 17:38:46",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1182,9 +1182,9 @@
                                                                            "db_size_bytes":  4240723968
                                                                        },
                                   "Asian Natraj Deluxe Theatre A -c - Sircilla":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-09-16",
-                                                                                      "db_size_bytes":  2186977280
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-09-17",
+                                                                                      "db_size_bytes":  2189066240
                                                                                   },
                                   "Asian Sha Shahensha - Chintal":  {
                                                                         "status":  "ok",
@@ -1404,9 +1404,9 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Amrutha Cinema - Hanumakonda":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-08-21",
-                                                                    "db_size_bytes":  3691433984
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-09-17",
+                                                                    "db_size_bytes":  3733901312
                                                                 },
                                "Rama Krishna 70mm - Abids":  {
                                                                  "status":  "ok",
@@ -3447,9 +3447,9 @@
                                                          "db_size_bytes":  null
                                                      },
                                "VS Mahal 4K Dolby Atmos 3D - Namavaram":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-09-16",
-                                                                              "db_size_bytes":  1398036992
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-09-17",
+                                                                              "db_size_bytes":  1400658432
                                                                           },
                                "Rajarathna Cinemax - Mandapeta":  {
                                                                       "status":  "ok",
@@ -3642,8 +3642,8 @@
                                                                              "db_size_bytes":  2020300288
                                                                          },
                                "Dr PV Rao Cineplex - Kanchikacherla":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-09-15",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-09-17",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Srinivasa Theater - Giddalur":  {
@@ -3807,9 +3807,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-09-14",
-                                                                    "db_size_bytes":  415068160
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-09-17",
+                                                                    "db_size_bytes":  410443776
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "ok",
@@ -4327,9 +4327,9 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Laxmi AC DTS 2K - Kakinada":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-09-15",
-                                                                  "db_size_bytes":  2448674816
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-09-17",
+                                                                  "db_size_bytes":  2469842944
                                                               },
                                "Krishna Picture Palace - Giddalur":  {
                                                                          "status":  "ok",
@@ -4493,5 +4493,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-17 14:00:03"
+    "started_at":  "2026-09-17 16:00:03"
 }
