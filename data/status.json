@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-18 17:39:45",
+    "generated_at":  "2026-09-18 19:22:16",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3250,8 +3250,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-09-18",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3472,8 +3472,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Ram Cinemas":  {
-                                                   "status":  "missing",
-                                                   "last_backup":  "2026-09-17",
+                                                   "status":  "ok",
+                                                   "last_backup":  "2026-09-18",
                                                    "db_size_bytes":  null
                                                },
                                "Surya Cinemax - Draksharamam":  {
@@ -3657,8 +3657,8 @@
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-09-17",
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-09-18",
                                                                       "db_size_bytes":  null
                                                                   },
                                "Srinivasa Mahal - Kanchikacherla":  {
@@ -3687,9 +3687,9 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Melody HDR Dolby Atmos - Vizag":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-09-17",
-                                                                          "db_size_bytes":  4645838848
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-09-18",
+                                                                          "db_size_bytes":  4649963520
                                                                       },
                                "Anusri Sai Krishna Theater":  {
                                                                   "status":  "ok",
@@ -3727,9 +3727,9 @@
                                                                            "db_size_bytes":  null
                                                                        },
                                "G3 Lakshmi Narayana Theaters Tadepalligudem":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-09-17",
-                                                                                   "db_size_bytes":  130994176
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-09-18",
+                                                                                   "db_size_bytes":  131649536
                                                                                },
                                "Chand Picture Palace AC DTS - Proddatur":  {
                                                                                "status":  "ok",
@@ -3967,8 +3967,8 @@
                                                                                       "db_size_bytes":  1395245056
                                                                                   },
                                "Dwaraka Cinemas 4K Dolby Atmos - Nuzvid":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-09-17",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-09-18",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Sri Venkateswara Talkies 2K AC DTS - Ravulapalem":  {
@@ -3977,9 +3977,9 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Lakshmi Talkies AC 2K Dolby - Jangareddy Gudem":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-09-17",
-                                                                                          "db_size_bytes":  1514659840
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-09-18",
+                                                                                          "db_size_bytes":  1515175936
                                                                                       },
                                "Vishnu Mahal Theater - Puttur":  {
                                                                      "status":  "ok",
@@ -4067,8 +4067,8 @@
                                                                    "db_size_bytes":  148557824
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-17",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-18",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
@@ -4092,8 +4092,8 @@
                                                     "db_size_bytes":  null
                                                 },
                                "Siva Cinemas Dolby Atmos - Guntur":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-09-17",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-09-18",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Yuvaraj Screens Dolby Atmos - Kovvur":  {
@@ -4177,8 +4177,8 @@
                                                                   "db_size_bytes":  526393344
                                                               },
                                "Sri Ramchandra Talkies - Kodumur":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-17",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-18",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Sri Ramulamma Theatre - Thagarapuvalasa Vizag":  {
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-18 16:00:03"
+    "started_at":  "2026-09-18 18:00:23"
 }
