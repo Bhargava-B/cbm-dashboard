@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-18 11:45:39",
+    "generated_at":  "2026-09-18 13:47:32",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1182,9 +1182,9 @@
                                                                            "db_size_bytes":  4240506880
                                                                        },
                                   "Asian Natraj Deluxe Theatre A -c - Sircilla":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-09-17",
-                                                                                      "db_size_bytes":  2189066240
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-09-18",
+                                                                                      "db_size_bytes":  2190770176
                                                                                   },
                                   "Asian Sha Shahensha - Chintal":  {
                                                                         "status":  "ok",
@@ -1322,9 +1322,9 @@
                                                                       "db_size_bytes":  1693138944
                                                                   },
                                   "Asian Srinivasa - Kodad":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-09-17",
-                                                                  "db_size_bytes":  3153506304
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-09-18",
+                                                                  "db_size_bytes":  3155742720
                                                               },
                                   "Asian Hema Durga - Uppal":  {
                                                                    "status":  "missing",
@@ -1504,8 +1504,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Acchi Reddy Theater AC Dolby DTS - Haliya":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-09-17",
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-09-18",
                                                                                  "db_size_bytes":  null
                                                                              },
                                "cinemax - Medak":  {
@@ -1639,8 +1639,8 @@
                                                            "db_size_bytes":  1282875392
                                                        },
                                "Laxmi AC Deluxe Theatre - Korutla":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-09-17",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-09-18",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Gokul 70MM - Erragadda":  {
@@ -3400,8 +3400,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-09-17",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-09-18",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3957,9 +3957,9 @@
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Mayuri Theatre Nandigama":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-09-17",
-                                                                "db_size_bytes":  78106624
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-18",
+                                                                "db_size_bytes":  78041088
                                                             },
                                "Padmaja Picture Palace 2K AC DTS - Malikipuram":  {
                                                                                       "status":  "ok",
@@ -4102,9 +4102,9 @@
                                                                             "db_size_bytes":  364498944
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-17",
-                                                                        "db_size_bytes":  864010240
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-18",
+                                                                        "db_size_bytes":  864665600
                                                                     },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "status":  "ok",
@@ -4362,9 +4362,9 @@
                                                                                    "db_size_bytes":  1228308480
                                                                                },
                                "Sree Leela Mahal 4K Dolby Atmos - Vizag":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-09-17",
-                                                                               "db_size_bytes":  861855744
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-09-18",
+                                                                               "db_size_bytes":  859029504
                                                                            },
                                "Palani Picture Palace - Tirupati":  {
                                                                         "status":  "ok",
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-18 10:00:03"
+    "started_at":  "2026-09-18 12:00:03"
 }
