@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-18 15:43:35",
+    "generated_at":  "2026-09-18 17:39:45",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -838,9 +838,9 @@
                                                                       "db_size_bytes":  1032765440
                                                                   },
                                "Sri Rajan Cinemas Chetpet":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-09-17",
-                                                                 "db_size_bytes":  484757504
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-09-18",
+                                                                 "db_size_bytes":  477159424
                                                              },
                                "Kavitha Cinemas K G Chavadi":  {
                                                                    "status":  "ok",
@@ -1706,9 +1706,9 @@
                                                                   "db_size_bytes":  1297801216
                                                               },
                                "Magic Frames Mehboob Kasaragod":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-09-17",
-                                                                      "db_size_bytes":  3224031232
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-09-18",
+                                                                      "db_size_bytes":  3233189888
                                                                   },
                                "MT Cineplex Pothancode":  {
                                                               "status":  "ok",
@@ -2016,9 +2016,9 @@
                                                                        "db_size_bytes":  1439227904
                                                                    },
                                "Chilanka Thiruvalla":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-09-17",
-                                                           "db_size_bytes":  83484672
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-09-18",
+                                                           "db_size_bytes":  84393984
                                                        },
                                "SV Cinemas Kayamkulam":  {
                                                              "status":  "ok",
@@ -2086,9 +2086,9 @@
                                                      "db_size_bytes":  6401355776
                                                  },
                                "Liberty Cinema Kannur":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-09-17",
-                                                             "db_size_bytes":  1074655232
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-09-18",
+                                                             "db_size_bytes":  1076162560
                                                          },
                                "Nice Movie House Thalayolaparambu":  {
                                                                          "status":  "ok",
@@ -2106,9 +2106,9 @@
                                                               "db_size_bytes":  3209093120
                                                           },
                                "HighStreet Cinemas Muvattupuzha":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-17",
-                                                                       "db_size_bytes":  261738496
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-18",
+                                                                       "db_size_bytes":  262258688
                                                                    },
                                "SN Theatre Haripad":  {
                                                           "status":  "ok",
@@ -2211,9 +2211,9 @@
                                                                                "db_size_bytes":  587386880
                                                                            },
                                "Deva Cinemas Punalur":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-09-17",
-                                                            "db_size_bytes":  739753984
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-09-18",
+                                                            "db_size_bytes":  741724160
                                                         },
                                "SS cinemas mananthavady":  {
                                                                "status":  "ok",
@@ -2521,9 +2521,9 @@
                                                                             "db_size_bytes":  1099943936
                                                                         },
                                "Apsara Theatre Changanassery":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-09-17",
-                                                                    "db_size_bytes":  2500259840
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-09-18",
+                                                                    "db_size_bytes":  2500521984
                                                                 },
                                "SR Cinema Varkkala":  {
                                                           "status":  "ok",
@@ -2576,9 +2576,9 @@
                                                                       "db_size_bytes":  2937573376
                                                                   },
                                "Ashoka Theatre Vadanapally":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-09-17",
-                                                                  "db_size_bytes":  616026112
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-09-18",
+                                                                  "db_size_bytes":  617144320
                                                               },
                                "Sreedevi S Cinemas Kodaly":  {
                                                                  "status":  "ok",
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-18 14:00:03"
+    "started_at":  "2026-09-18 16:00:03"
 }
