@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-19 15:40:30",
+    "generated_at":  "2026-09-19 17:41:57",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2016,9 +2016,9 @@
                                                                        "db_size_bytes":  1441284096
                                                                    },
                                "Chilanka Thiruvalla":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-09-18",
-                                                           "db_size_bytes":  84393984
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-09-19",
+                                                           "db_size_bytes":  85315584
                                                        },
                                "SV Cinemas Kayamkulam":  {
                                                              "status":  "ok",
@@ -2211,9 +2211,9 @@
                                                                                "db_size_bytes":  588500992
                                                                            },
                                "Deva Cinemas Punalur":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-09-18",
-                                                            "db_size_bytes":  741724160
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-09-19",
+                                                            "db_size_bytes":  743100416
                                                         },
                                "SS cinemas mananthavady":  {
                                                                "status":  "ok",
@@ -2221,9 +2221,9 @@
                                                                "db_size_bytes":  462155776
                                                            },
                                "SMB Complex Kaliyikkavila":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-09-18",
-                                                                 "db_size_bytes":  2344345600
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-09-19",
+                                                                 "db_size_bytes":  2346053632
                                                              },
                                "Partha Movie House Kollam":  {
                                                                  "status":  "ok",
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-19 14:00:03"
+    "started_at":  "2026-09-19 16:00:03"
 }
