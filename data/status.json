@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-19 13:45:42",
+    "generated_at":  "2026-09-19 15:40:30",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2286014464
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-09-19",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  1743872512
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -133,8 +133,8 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "Abirami Vishal Cinemas Pollachi":  {
-                                                                       "status":  "ok",
-                                                                       "last_backup":  "2026-09-19",
+                                                                       "status":  "missing",
+                                                                       "last_backup":  "2026-09-07",
                                                                        "db_size_bytes":  452882432
                                                                    },
                                "LA Cinema Sonamina":  {
@@ -203,8 +203,8 @@
                                                                      "db_size_bytes":  2333491200
                                                                  },
                                "Lena Theatre Kallakurichi":  {
-                                                                 "status":  "ok",
-                                                                 "last_backup":  "2026-09-19",
+                                                                 "status":  "missing",
+                                                                 "last_backup":  "2026-08-25",
                                                                  "db_size_bytes":  460390400
                                                              },
                                "Sri Ramchandra Cinema Pernambut":  {
@@ -418,8 +418,8 @@
                                                                     "db_size_bytes":  634404864
                                                                 },
                                "JAYAPRIYA CINEMAS":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-09-19",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-08-28",
                                                          "db_size_bytes":  178257920
                                                      },
                                "VR Cinemas Pattabiram":  {
@@ -453,8 +453,8 @@
                                                                  "db_size_bytes":  2230308864
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-09-19",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  468590592
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -1048,8 +1048,8 @@
                                                                        "db_size_bytes":  1485492224
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-09-19",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  700409344
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -3410,8 +3410,8 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Vainidhi Digital 4K Dolby 7.1 (AC) - Singapura":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-09-18",
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-09-19",
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "V CINEMA RAMMURTHY NAGAR(4 screens)":  {
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-19 12:00:03"
+    "started_at":  "2026-09-19 14:00:03"
 }
