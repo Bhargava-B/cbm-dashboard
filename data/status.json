@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-19 11:39:52",
+    "generated_at":  "2026-09-19 13:45:42",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -208,9 +208,9 @@
                                                                  "db_size_bytes":  460390400
                                                              },
                                "Sri Ramchandra Cinema Pernambut":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-17",
-                                                                       "db_size_bytes":  418168832
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-19",
+                                                                       "db_size_bytes":  415420416
                                                                    },
                                "SRI SHANMUGAM THEATRE":  {
                                                              "status":  "ok",
@@ -1529,9 +1529,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Sri Sai Baba - Shadnagar":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-09-18",
-                                                                "db_size_bytes":  879693824
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-19",
+                                                                "db_size_bytes":  878624768
                                                             },
                                "AMR Vijay Bhaskar - Bhadrachalam":  {
                                                                         "status":  "ok",
@@ -1614,9 +1614,9 @@
                                                                    "db_size_bytes":  421445632
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-18",
-                                                                        "db_size_bytes":  724156416
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-19",
+                                                                        "db_size_bytes":  725008384
                                                                     },
                                "Seetarama Cinemas - Manuguru":  {
                                                                     "status":  "missing",
@@ -3400,8 +3400,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-09-18",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-09-19",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3942,9 +3942,9 @@
                                                                                            "db_size_bytes":  4669595136
                                                                                        },
                                "Sri Devi Mahal - Amadalavalasa":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-09-18",
-                                                                      "db_size_bytes":  374415360
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-09-19",
+                                                                      "db_size_bytes":  374673408
                                                                   },
                                "Srinivasa Theater AC 2K Dolby - Markapur":  {
                                                                                 "status":  "missing",
@@ -4102,9 +4102,9 @@
                                                                             "db_size_bytes":  368828416
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-18",
-                                                                        "db_size_bytes":  864665600
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-19",
+                                                                        "db_size_bytes":  870830080
                                                                     },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "status":  "ok",
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-19 10:00:03"
+    "started_at":  "2026-09-19 12:00:03"
 }
