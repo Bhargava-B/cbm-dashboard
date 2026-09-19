@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-19 21:40:33",
+    "generated_at":  "2026-09-19 23:35:28",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -813,9 +813,9 @@
                                                                   "db_size_bytes":  277950464
                                                               },
                                "Aanoor Theatre Erode":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-09-18",
-                                                            "db_size_bytes":  3118137344
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-09-19",
+                                                            "db_size_bytes":  3120758784
                                                         },
                                "Srinivasa Cinemas SAP Tirupur":  {
                                                                      "status":  "missing",
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-19 20:00:03"
+    "started_at":  "2026-09-19 22:00:03"
 }
