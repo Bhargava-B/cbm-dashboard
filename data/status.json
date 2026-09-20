@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-20 21:20:16",
+    "generated_at":  "2026-09-20 23:18:27",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3662,8 +3662,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Srinivasa Mahal - Kanchikacherla":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-19",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-20",
                                                                         "db_size_bytes":  null
                                                                     },
                                "VN Palace Veeranarayana - Tanuku":  {
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-20 20:00:03"
+    "started_at":  "2026-09-20 22:00:03"
 }
