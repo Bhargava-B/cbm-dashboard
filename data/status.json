@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-20 19:20:30",
+    "generated_at":  "2026-09-20 21:20:16",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -8,9 +8,9 @@
                                                                      "db_size_bytes":  3143012352
                                                                  },
                                "Amirtharaj Theatre Virudhunagar":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-19",
-                                                                       "db_size_bytes":  491712512
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-20",
+                                                                       "db_size_bytes":  492171264
                                                                    },
                                "Sri Ganesh Theatre Uthangarai":  {
                                                                      "status":  "ok",
@@ -3090,8 +3090,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-19",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-20",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-20 18:00:03"
+    "started_at":  "2026-09-20 20:00:03"
 }
