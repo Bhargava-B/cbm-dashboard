@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-20 09:20:51",
+    "generated_at":  "2026-09-20 11:29:55",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -108,9 +108,9 @@
                                                                    "db_size_bytes":  2878353408
                                                                },
                                "Ritzy Sriram Cinemas Virudhanagar":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-09-19",
-                                                                         "db_size_bytes":  801017856
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-09-20",
+                                                                         "db_size_bytes":  801611776
                                                                      },
                                "Usha Cinemas Tirupur":  {
                                                             "status":  "ok",
@@ -143,9 +143,9 @@
                                                           "db_size_bytes":  557877760
                                                       },
                                "Maruthu Modern Theatre Sholavandan":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-09-19",
-                                                                          "db_size_bytes":  658919424
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-09-20",
+                                                                          "db_size_bytes":  659382272
                                                                       },
                                "Varanashi Multiplex Tirupur":  {
                                                                    "status":  "missing",
@@ -398,9 +398,9 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Gokulam Cinema Poonamallee":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-09-19",
-                                                                  "db_size_bytes":  6737940480
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-09-20",
+                                                                  "db_size_bytes":  6747246592
                                                               },
                                "LA Cinemas Thiruverumbur":  {
                                                                 "status":  "ok",
@@ -593,9 +593,9 @@
                                                                                 "db_size_bytes":  1754316800
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-09-19",
-                                                                              "db_size_bytes":  495108096
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-09-20",
+                                                                              "db_size_bytes":  495566848
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -1786,9 +1786,9 @@
                                                                 "db_size_bytes":  3241058304
                                                             },
                                "Ramraj Movies Punalur":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-09-19",
-                                                             "db_size_bytes":  2060517376
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-09-20",
+                                                             "db_size_bytes":  2065653760
                                                          },
                                "Ashok CNC 4K Dolby Vadakara":  {
                                                                    "status":  "ok",
@@ -2426,9 +2426,9 @@
                                                                       "db_size_bytes":  2526593024
                                                                   },
                                "Deepthi Cinemas Kanhangad":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-09-19",
-                                                                 "db_size_bytes":  2199654400
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-09-20",
+                                                                 "db_size_bytes":  2224979968
                                                              },
                                "EVM Latha Theatre Muvattupuzha":  {
                                                                       "status":  "ok",
@@ -2880,8 +2880,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-09-18",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-09-20",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -2890,8 +2890,8 @@
                                                                                            "db_size_bytes":  null
                                                                                        },
                                "Sri Lakshmi AC 4k Dolby 7.1 Gottigere":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-09-19",
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-09-20",
                                                                              "db_size_bytes":  null
                                                                          },
                                "Veerbhadreshwara Theatre Shivamogga":  {
@@ -2945,8 +2945,8 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Kino Cinemas - Seegehalli Kadugodi, Bengaluru":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-09-19",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-09-20",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Jai Bharath Theatre -Tumkur":  {
@@ -3285,8 +3285,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Manasa RGB Laser Atmos Cinemas - Konankunte":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-09-19",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-09-20",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Sharada Cinemas AC - S.P Road":  {
@@ -3355,8 +3355,8 @@
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Maruthi Digital Tumkuru":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-09-19",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-09-20",
                                                                "db_size_bytes":  null
                                                            },
                                "Vinayaka Cinemas 4K Dolby 11.5 AC 3D - Harinagar":  {
@@ -3375,8 +3375,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-09-19",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-09-20",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3442,9 +3442,9 @@
                                                          "db_size_bytes":  null
                                                      },
                                "VS Mahal 4K Dolby Atmos 3D - Namavaram":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-09-19",
-                                                                              "db_size_bytes":  1400789504
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-09-20",
+                                                                              "db_size_bytes":  1402690048
                                                                           },
                                "Rajarathna Cinemax - Mandapeta":  {
                                                                       "status":  "ok",
@@ -3652,8 +3652,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-09-19",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-09-20",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3827,9 +3827,9 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Sudarshan Theatre - Rotary Nagar Tekkali":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-09-19",
-                                                                                "db_size_bytes":  377606144
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-09-20",
+                                                                                "db_size_bytes":  376684544
                                                                             },
                                "Raja Cinemax AC 2K Dolby - Kothavalasa":  {
                                                                               "status":  "ok",
@@ -3882,8 +3882,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Sudharshan AC DTS - Kanigiri":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-09-19",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-09-20",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Satyam AC 4K Dolby Atmos - Ongole":  {
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-20 08:00:03"
+    "started_at":  "2026-09-20 10:00:03"
 }
