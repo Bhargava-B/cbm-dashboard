@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-22 15:23:26",
+    "generated_at":  "2026-09-22 17:18:41",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1374,9 +1374,9 @@
                               },
                     "TG":  {
                                "Radhika Theater":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-09-20",
-                                                       "db_size_bytes":  null
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-09-22",
+                                                       "db_size_bytes":  1099153408
                                                    },
                                "Sri Balaji Theater":  {
                                                           "status":  "ok",
@@ -1504,9 +1504,9 @@
                                                        "db_size_bytes":  null
                                                    },
                                "Sri Krishna - Uppal":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-09-20",
-                                                           "db_size_bytes":  null
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-09-22",
+                                                           "db_size_bytes":  429252608
                                                        },
                                "Devi Theater - RTC X Road":  {
                                                                  "status":  "ok",
@@ -1614,9 +1614,9 @@
                                                                     "db_size_bytes":  209309696
                                                                 },
                                "Parameswara 70MM - Shadnagar":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-09-21",
-                                                                    "db_size_bytes":  null
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-09-22",
+                                                                    "db_size_bytes":  1212137472
                                                                 },
                                "Sai Baba Theatre - Shankarpally":  {
                                                                        "status":  "missing",
@@ -1634,8 +1634,8 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Gokul 70MM - Erragadda":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-09-21",
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-09-22",
                                                               "db_size_bytes":  null
                                                           },
                                "Sri Venkateshwara":  {
@@ -3325,8 +3325,8 @@
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Woodlands Theatre -Mysore":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-09-20",
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-09-22",
                                                                  "db_size_bytes":  null
                                                              },
                                "Kamakya Cinema - Banashankari":  {
@@ -3482,9 +3482,9 @@
                                                                 "db_size_bytes":  1477955584
                                                             },
                                "Pratap Group Theaters AC 4K Dolby Atmos - Tirupati":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-09-20",
-                                                                                          "db_size_bytes":  null
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-09-22",
+                                                                                          "db_size_bytes":  3921154048
                                                                                       },
                                "Sangeetha - Nandyal":  {
                                                            "status":  "ok",
@@ -3592,9 +3592,9 @@
                                                                "db_size_bytes":  964022272
                                                            },
                                "PGR Theater - Tirupati":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-09-21",
-                                                              "db_size_bytes":  null
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-09-22",
+                                                              "db_size_bytes":  3367624704
                                                           },
                                "Muralikrishna Cinema AC 4K 3D":  {
                                                                      "status":  "ok",
@@ -3647,14 +3647,14 @@
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-09-21",
-                                                                      "db_size_bytes":  null
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-09-22",
+                                                                      "db_size_bytes":  710328320
                                                                   },
                                "Srinivasa Mahal - Kanchikacherla":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-21",
-                                                                        "db_size_bytes":  null
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-22",
+                                                                        "db_size_bytes":  468766720
                                                                     },
                                "VN Palace Veeranarayana - Tanuku":  {
                                                                         "status":  "ok",
@@ -4452,9 +4452,9 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Annapurna Theatre - Kurmanpalem":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-21",
-                                                                       "db_size_bytes":  466599936
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-22",
+                                                                       "db_size_bytes":  458539008
                                                                    },
                                "NCS 4K Laser Dolby Atmos - Vizianagaram":  {
                                                                                "status":  "ok",
@@ -4478,5 +4478,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-22 14:00:03"
+    "started_at":  "2026-09-22 16:00:03"
 }
