@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-22 17:18:41",
+    "generated_at":  "2026-09-22 19:25:13",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1152,9 +1152,9 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                   "Asian Darshan - Kamareddy":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-09-19",
-                                                                    "db_size_bytes":  2428223488
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-09-22",
+                                                                    "db_size_bytes":  2427576320
                                                                 },
                                   "Asian Sri Mohan - Zaheerabad":  {
                                                                        "status":  "ok",
@@ -2001,9 +2001,9 @@
                                                                "db_size_bytes":  2104180736
                                                            },
                                "Sree Sailom Cine House Kadakkal":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-21",
-                                                                       "db_size_bytes":  1448951808
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-22",
+                                                                       "db_size_bytes":  1450201088
                                                                    },
                                "Chilanka Thiruvalla":  {
                                                            "status":  "ok",
@@ -3240,8 +3240,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-09-22",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4167,9 +4167,9 @@
                                                                   "db_size_bytes":  521461760
                                                               },
                                "Sri Ramchandra Talkies - Kodumur":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-21",
-                                                                        "db_size_bytes":  null
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-22",
+                                                                        "db_size_bytes":  751046656
                                                                     },
                                "Sri Ramulamma Theatre - Thagarapuvalasa Vizag":  {
                                                                                      "status":  "ok",
@@ -4478,5 +4478,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-22 16:00:03"
+    "started_at":  "2026-09-22 18:00:03"
 }
