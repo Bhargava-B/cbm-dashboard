@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-23 19:25:23",
+    "generated_at":  "2026-09-23 21:28:07",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3085,8 +3085,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-22",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-23",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3547,9 +3547,9 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateshwara Mahal AC Dolby Atmos 2K - Punganur":  {
-                                                                                            "status":  "missing",
-                                                                                            "last_backup":  "2026-09-22",
-                                                                                            "db_size_bytes":  329830400
+                                                                                            "status":  "ok",
+                                                                                            "last_backup":  "2026-09-23",
+                                                                                            "db_size_bytes":  334417920
                                                                                         },
                                "Sri Venkateswara Theatres Dolby 7.1 2K and 4K - Vizag":  {
                                                                                              "status":  "ok",
@@ -3977,8 +3977,8 @@
                                                                                           "db_size_bytes":  1524563968
                                                                                       },
                                "Vishnu Mahal Theater - Puttur":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-09-22",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-09-23",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Vijaya Mahal Theater AC DTS - Mandapeta":  {
@@ -4483,5 +4483,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-23 18:00:03"
+    "started_at":  "2026-09-23 20:00:03"
 }
