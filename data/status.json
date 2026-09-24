@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-24 15:35:39",
+    "generated_at":  "2026-09-24 17:40:23",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3487,9 +3487,9 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "JVR Cinemas - Jaggampeta":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-09-23",
-                                                                "db_size_bytes":  1480310784
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-24",
+                                                                "db_size_bytes":  1480773632
                                                             },
                                "Pratap Group Theaters AC 4K Dolby Atmos - Tirupati":  {
                                                                                           "status":  "ok",
@@ -3742,8 +3742,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Si Rajeswari Kalamandir - Narsannapeta":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-09-23",
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-09-24",
                                                                               "db_size_bytes":  null
                                                                           },
                                "Mohini Cinemas Dolby Atmos - Gajuwaka":  {
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-24 14:00:03"
+    "started_at":  "2026-09-24 16:00:03"
 }
