@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-24 21:45:26",
+    "generated_at":  "2026-09-24 23:38:27",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -4392,9 +4392,9 @@
                                                                       "db_size_bytes":  3088850944
                                                                   },
                                "KVR Cinemas AC 2K 5WAY Dolby 7.1 Sound - Ponduru":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-09-23",
-                                                                                        "db_size_bytes":  2164874752
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-09-24",
+                                                                                        "db_size_bytes":  2166579712
                                                                                     },
                                "Sri Rama Complex - Nandyal":  {
                                                                   "status":  "ok",
@@ -4488,5 +4488,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-24 20:00:03"
+    "started_at":  "2026-09-24 22:00:03"
 }
