@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-25 15:47:42",
+    "generated_at":  "2026-09-25 17:48:36",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2641,9 +2641,9 @@
                                                                        "db_size_bytes":  1386876928
                                                                    },
                                "Moviemax Circle Kasaragod":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-09-24",
-                                                                 "db_size_bytes":  4070592512
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-09-25",
+                                                                 "db_size_bytes":  4056121344
                                                              },
                                "Geetha Cinemax Kozhinjampara":  {
                                                                     "status":  "ok",
@@ -4518,5 +4518,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-25 14:00:03"
+    "started_at":  "2026-09-25 16:00:03"
 }
