@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-26 11:44:09",
+    "generated_at":  "2026-09-26 13:45:37",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3435,8 +3435,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-09-25",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-09-26",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -4017,8 +4017,8 @@
                                                                                           "db_size_bytes":  1524359168
                                                                                       },
                                "Vishnu Mahal Theater - Puttur":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-09-25",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-09-26",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Vijaya Mahal Theater AC DTS - Mandapeta":  {
@@ -4427,9 +4427,9 @@
                                                                       "db_size_bytes":  3089432576
                                                                   },
                                "KVR Cinemas AC 2K 5WAY Dolby 7.1 Sound - Ponduru":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-09-25",
-                                                                                        "db_size_bytes":  2168932864
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-09-26",
+                                                                                        "db_size_bytes":  2169195008
                                                                                     },
                                "Sri Rama Complex - Nandyal":  {
                                                                   "status":  "ok",
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-26 10:00:03"
+    "started_at":  "2026-09-26 12:00:03"
 }
