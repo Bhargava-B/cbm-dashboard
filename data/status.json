@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-26 17:43:20",
+    "generated_at":  "2026-09-26 19:41:06",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1434,9 +1434,9 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Srinivasa Theatre - Jagtial":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-09-25",
-                                                                   "db_size_bytes":  1654344192
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-09-26",
+                                                                   "db_size_bytes":  1654475264
                                                                },
                                "BR Hitech 70mm - Madhapur":  {
                                                                  "status":  "ok",
@@ -1619,9 +1619,9 @@
                                                                     "db_size_bytes":  219992064
                                                                 },
                                "Parameswara 70MM - Shadnagar":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-09-25",
-                                                                    "db_size_bytes":  1245786112
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-09-26",
+                                                                    "db_size_bytes":  1258127360
                                                                 },
                                "Sai Baba Theatre - Shankarpally":  {
                                                                        "status":  "missing",
@@ -3612,8 +3612,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Raja Theater Anusri":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-09-25",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-09-26",
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Srinivasa Theater - Dhone":  {
@@ -4137,9 +4137,9 @@
                                                                             "db_size_bytes":  383123456
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-25",
-                                                                        "db_size_bytes":  870895616
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-26",
+                                                                        "db_size_bytes":  863944704
                                                                     },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "status":  "ok",
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-26 16:00:02"
+    "started_at":  "2026-09-26 18:00:03"
 }
