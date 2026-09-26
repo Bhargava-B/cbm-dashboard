@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-26 05:42:52",
+    "generated_at":  "2026-09-26 07:45:15",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -298,8 +298,8 @@
                                                               "db_size_bytes":  292433920
                                                           },
                                "Kasi Talkies Chennai":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-09-25",
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-09-26",
                                                             "db_size_bytes":  null
                                                         },
                                "Kovai Shanti Complex Coimbatore":  {
@@ -528,8 +528,8 @@
                                                                            "db_size_bytes":  7386484736
                                                                        },
                                "Vijay Park Multiplex Chennai":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-09-24",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-09-26",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Ramba AC Dolby Atmos Trichy":  {
@@ -553,8 +553,8 @@
                                                                      "db_size_bytes":  1361825792
                                                                  },
                                "A Square Cinemas Annapoorani Erode":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-09-25",
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-09-26",
                                                                           "db_size_bytes":  null
                                                                       },
                                "ARK Ram Muthuram Cinemas Tirunelveli":  {
@@ -818,8 +818,8 @@
                                                             "db_size_bytes":  3131244544
                                                         },
                                "Rohini Silver Screen Chennai":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-09-25",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-09-26",
                                                                     "db_size_bytes":  null
                                                                 },
                                "DMAX DNC Theatre Dharmapuri":  {
@@ -1023,8 +1023,8 @@
                                                                 "db_size_bytes":  1110048768
                                                             },
                                "Kaveri Cinema Coimbatore":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-09-25",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-26",
                                                                 "db_size_bytes":  null
                                                             },
                                "Thambis theatre Cumbum":  {
@@ -2751,9 +2751,9 @@
                                                                "db_size_bytes":  374919168
                                                            },
                                "Ragam Theatre Thrissur":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-09-25",
-                                                              "db_size_bytes":  8664891392
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-09-26",
+                                                              "db_size_bytes":  8669151232
                                                           },
                                "Dhanalakshmi Cinemas Nenmara":  {
                                                                     "status":  "missing",
@@ -2818,54 +2818,59 @@
                                                              "db_size_bytes":  176537600
                                                          },
                                "Regal Cinema Bandarawela":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-09-25",
-                                                                "db_size_bytes":  1565573120
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-26",
+                                                                "db_size_bytes":  1570160640
                                                             },
                                "Regal Cinema Nuwara Eliya":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-09-25",
-                                                                 "db_size_bytes":  2809970688
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-09-26",
+                                                                 "db_size_bytes":  2811674624
                                                              },
                                "Regal Cinema Polonnaruwa":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-09-25",
-                                                                "db_size_bytes":  377442816
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-26",
+                                                                "db_size_bytes":  379998720
                                                             },
                                "Seran Cinemas Kilinochchi":  {
                                                                  "status":  "missing",
                                                                  "last_backup":  "2026-09-18",
                                                                  "db_size_bytes":  240041984
                                                              },
+                               "Samanala Cinemas, Melsiripura":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-09-26",
+                                                                     "db_size_bytes":  652472320
+                                                                 },
                                "Majestic Cineplex Colombo":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-09-25",
-                                                                 "db_size_bytes":  3675570176
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-09-26",
+                                                                 "db_size_bytes":  3681861632
                                                              },
                                "Regal Cinemas Dematagoda":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  null,
-                                                                "db_size_bytes":  null
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-26",
+                                                                "db_size_bytes":  3018113024
                                                             },
                                "Tarzan Cinema Kegalle":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-09-25",
-                                                             "db_size_bytes":  292093952
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-09-26",
+                                                             "db_size_bytes":  291770368
                                                          },
                                "Regal Cinema Katubedda":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-09-25",
-                                                              "db_size_bytes":  3191259136
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-09-26",
+                                                              "db_size_bytes":  3202924544
                                                           },
-                               "Samanala Cinemas, Melsiripura":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-09-25",
-                                                                     "db_size_bytes":  650174464
-                                                                 },
+                               "Regal Cinema Gampha":  {
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-09-26",
+                                                           "db_size_bytes":  3634343936
+                                                       },
                                "Eros Cinemas, Colombo":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-09-25",
-                                                             "db_size_bytes":  856223744
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-09-26",
+                                                             "db_size_bytes":  857862144
                                                          },
                                "Neela by Lite cinema Dhankotuwa":  {
                                                                        "status":  "missing",
@@ -2873,9 +2878,9 @@
                                                                        "db_size_bytes":  378454016
                                                                    },
                                "Majestic Cineplex JAFFNA":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-09-25",
-                                                                "db_size_bytes":  7695224832
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-26",
+                                                                "db_size_bytes":  7701250048
                                                             },
                                "Ruoo Cinemas Katunayake":  {
                                                                "status":  "missing",
@@ -2883,9 +2888,9 @@
                                                                "db_size_bytes":  733445632
                                                            },
                                "Prasanna 3D Light Cinema Kochchikade":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-09-25",
-                                                                            "db_size_bytes":  345169920
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-09-26",
+                                                                            "db_size_bytes":  345300992
                                                                         }
                            },
                     "KA":  {
@@ -2925,8 +2930,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Veerbhadreshwara Theatre Shivamogga":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-09-25",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-09-26",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Veeresh Cinemas-Magadi Road":  {
@@ -3015,8 +3020,8 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Sampige Digital 2k Cinema - Malleshwaram":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-09-24",
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-09-26",
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Anjan Digital 4K AC Cinema - Magadi Road":  {
@@ -3070,8 +3075,8 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Murali Gokula 4K Cinema Mathikere":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-09-25",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-09-26",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Cine Galaxy - Surathkal, Mangalore(3 screens)":  {
@@ -3395,13 +3400,13 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "VISION Cinemas -Mysore":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-09-25",
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-09-26",
                                                               "db_size_bytes":  null
                                                           },
                                "Vaibhav Digital 4k Dolby 7.1 - Sanjaynagar":  {
-                                                                                  "status":  "missing",
-                                                                                  "last_backup":  "2026-09-25",
+                                                                                  "status":  "ok",
+                                                                                  "last_backup":  "2026-09-26",
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
@@ -4518,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-26 04:00:03"
+    "started_at":  "2026-09-26 06:00:02"
 }
