@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-26 15:41:41",
+    "generated_at":  "2026-09-26 17:43:20",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3742,9 +3742,9 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-09-25",
-                                                                "db_size_bytes":  726921216
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-09-26",
+                                                                "db_size_bytes":  726171648
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
                                                                                    "status":  "ok",
@@ -3862,9 +3862,9 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Sudarshan Theatre - Rotary Nagar Tekkali":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-09-25",
-                                                                                "db_size_bytes":  395239424
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-09-26",
+                                                                                "db_size_bytes":  399368192
                                                                             },
                                "Raja Cinemax AC 2K Dolby - Kothavalasa":  {
                                                                               "status":  "ok",
@@ -4122,8 +4122,8 @@
                                                                                "db_size_bytes":  669368320
                                                                            },
                                "Asha Cinemas":  {
-                                                    "status":  "missing",
-                                                    "last_backup":  "2026-09-25",
+                                                    "status":  "ok",
+                                                    "last_backup":  "2026-09-26",
                                                     "db_size_bytes":  null
                                                 },
                                "Siva Cinemas Dolby Atmos - Guntur":  {
@@ -4167,14 +4167,14 @@
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "SV Cinemax:Hindupur":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-09-25",
-                                                           "db_size_bytes":  82366464
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-09-26",
+                                                           "db_size_bytes":  83087360
                                                        },
                                "Mini Srinivasa - Yemmiganur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-09-25",
-                                                                   "db_size_bytes":  551686144
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-09-26",
+                                                                   "db_size_bytes":  552321024
                                                                },
                                "KS Talkies":  {
                                                   "status":  "ok",
@@ -4242,9 +4242,9 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Surya Cinemax - Ramachandrapuram":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-25",
-                                                                        "db_size_bytes":  661442560
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-09-26",
+                                                                        "db_size_bytes":  663539712
                                                                     },
                                "ABR Cinemas - Gudivada":  {
                                                               "status":  "ok",
@@ -4372,9 +4372,9 @@
                                                                            "db_size_bytes":  1209655296
                                                                        },
                                "VPC Sri Krishna AC - Mummidivaram":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-09-24",
-                                                                         "db_size_bytes":  298631168
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-09-26",
+                                                                         "db_size_bytes":  298696704
                                                                      },
                                "Sri Satyanarayana Cinemas - Eluru":  {
                                                                          "status":  "ok",
@@ -4517,11 +4517,11 @@
                                                                      "db_size_bytes":  3252600832
                                                                  },
                                "Sri Vijayalakshmi Theater - Kankipadu":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-09-25",
-                                                                             "db_size_bytes":  338808832
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-09-26",
+                                                                             "db_size_bytes":  336646144
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-26 14:00:03"
+    "started_at":  "2026-09-26 16:00:02"
 }
