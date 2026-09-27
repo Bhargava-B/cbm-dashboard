@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-27 17:48:31",
+    "generated_at":  "2026-09-27 19:41:13",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -8,9 +8,9 @@
                                                                      "db_size_bytes":  3153379328
                                                                  },
                                "Amirtharaj Theatre Virudhunagar":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-26",
-                                                                       "db_size_bytes":  493678592
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-27",
+                                                                       "db_size_bytes":  493809664
                                                                    },
                                "Sri Ganesh Theatre Uthangarai":  {
                                                                      "status":  "ok",
@@ -3285,8 +3285,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-09-27",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-27 16:00:03"
+    "started_at":  "2026-09-27 18:00:03"
 }
