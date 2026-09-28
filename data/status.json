@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-28 15:44:34",
+    "generated_at":  "2026-09-28 17:41:55",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -320,7 +320,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-09-28",
-                                                                  "db_size_bytes":  940240896
+                                                                  "db_size_bytes":  943583232
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -2015,11 +2015,11 @@
                                                                        "last_backup":  "2026-09-28",
                                                                        "db_size_bytes":  1448402944
                                                                    },
-                               "Chilanka Thiruvalla":  {
-                                                           "status":  "ok",
-                                                           "last_backup":  "2026-09-28",
-                                                           "db_size_bytes":  89636864
-                                                       },
+                               "New Theatre Trivandrum":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-09-28",
+                                                              "db_size_bytes":  6335127552
+                                                          },
                                "SV Cinemas Kayamkulam":  {
                                                              "status":  "ok",
                                                              "last_backup":  "2026-09-28",
@@ -2310,11 +2310,11 @@
                                                               "last_backup":  "2026-09-28",
                                                               "db_size_bytes":  2350456832
                                                           },
-                               "New Theatre Trivandrum":  {
-                                                              "status":  "ok",
-                                                              "last_backup":  "2026-09-28",
-                                                              "db_size_bytes":  6335127552
-                                                          },
+                               "S Cinemas Konni":  {
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-09-28",
+                                                       "db_size_bytes":  772784128
+                                                   },
                                "GMAX Cinema Kollam":  {
                                                           "status":  "ok",
                                                           "last_backup":  "2026-09-28",
@@ -2455,11 +2455,6 @@
                                                                   "last_backup":  "2026-09-28",
                                                                   "db_size_bytes":  212324352
                                                               },
-                               "S Cinemas Konni":  {
-                                                       "status":  "ok",
-                                                       "last_backup":  "2026-09-28",
-                                                       "db_size_bytes":  772784128
-                                                   },
                                "Shadow Cinema Pazhayannur":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-09-28",
@@ -4528,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-28 14:00:03"
+    "started_at":  "2026-09-28 16:00:03"
 }
