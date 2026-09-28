@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-28 19:48:05",
+    "generated_at":  "2026-09-28 21:53:26",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1177,9 +1177,9 @@
                                                                            "db_size_bytes":  4236947456
                                                                        },
                                   "Asian Natraj Deluxe Theatre A -c - Sircilla":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-09-27",
-                                                                                      "db_size_bytes":  2201038848
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-09-28",
+                                                                                      "db_size_bytes":  2202554368
                                                                                   },
                                   "Asian Sha Shahensha - Chintal":  {
                                                                         "status":  "ok",
@@ -1262,9 +1262,9 @@
                                                                     "db_size_bytes":  5510774784
                                                                 },
                                   "VLS Sri Rama Theatre - Jagtial":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-09-27",
-                                                                         "db_size_bytes":  3197095936
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-09-28",
+                                                                         "db_size_bytes":  3190738944
                                                                      },
                                   "Asian Gemini Theatre - Warangal":  {
                                                                           "status":  "ok",
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-28 18:00:03"
+    "started_at":  "2026-09-28 20:00:03"
 }
