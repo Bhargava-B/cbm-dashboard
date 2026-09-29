@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-29 16:00:16",
+    "generated_at":  "2026-09-29 20:05:36",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3285,8 +3285,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-09-29",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3727,8 +3727,8 @@
                                                                           "db_size_bytes":  4718907392
                                                                       },
                                "Anusri Sai Krishna Theater":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-09-28",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-09-29",
                                                                   "db_size_bytes":  null
                                                               },
                                "Lakshmi Complex - Tanuku":  {
@@ -4452,9 +4452,9 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Vigneswara Theatre - Samalkota":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-09-28",
-                                                                      "db_size_bytes":  1609428992
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-09-29",
+                                                                      "db_size_bytes":  1601814528
                                                                   },
                                "Sai Balaji AC 70MM Dolby Atmos - Markapur":  {
                                                                                  "status":  "ok",
@@ -4502,9 +4502,9 @@
                                                                        "db_size_bytes":  470466560
                                                                    },
                                "NCS 4K Laser Dolby Atmos - Vizianagaram":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-09-28",
-                                                                               "db_size_bytes":  3831349248
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-09-29",
+                                                                               "db_size_bytes":  3817193472
                                                                            },
                                "Vijayalakshmi Theater AC 4K Dolby - Kanuru":  {
                                                                                   "status":  "ok",
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-29 14:00:03"
+    "started_at":  "2026-09-29 18:00:03"
 }
