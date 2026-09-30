@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-30 19:51:38",
+    "generated_at":  "2026-09-30 21:55:43",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -28,9 +28,9 @@
                                                                    "db_size_bytes":  1163718656
                                                                },
                                "Venkateswara Cinemas Kundrathur":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-29",
-                                                                       "db_size_bytes":  2328481792
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-30",
+                                                                       "db_size_bytes":  2340634624
                                                                    },
                                "Rakki Cinemas OMR":  {
                                                          "status":  "missing",
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-30 18:00:03"
+    "started_at":  "2026-09-30 20:00:03"
 }
