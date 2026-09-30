@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-09-30 17:46:40",
+    "generated_at":  "2026-09-30 19:51:38",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3100,8 +3100,8 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Swagath Poornima 4K Dolby Atmos - JC Road":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-09-29",
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-09-30",
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Roopa Cinema Nelamangala":  {
@@ -3125,8 +3125,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-09-29",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-09-30",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3285,8 +3285,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-09-30",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4022,9 +4022,9 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Vijaya Mahal Theater AC DTS - Mandapeta":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-09-29",
-                                                                               "db_size_bytes":  473481216
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-09-30",
+                                                                               "db_size_bytes":  474464256
                                                                            },
                                "Maruthi Theatre - Palakollu":  {
                                                                    "status":  "ok",
@@ -4097,9 +4097,9 @@
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Sangameswara Cinemas Tenali":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-09-29",
-                                                                   "db_size_bytes":  175886336
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-09-30",
+                                                                   "db_size_bytes":  182571008
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
                                                                         "status":  "ok",
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-09-30 16:00:03"
+    "started_at":  "2026-09-30 18:00:03"
 }
