@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-01 21:54:07",
+    "generated_at":  "2026-10-01 23:46:38",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -378,9 +378,9 @@
                                                                               "db_size_bytes":  673890304
                                                                           },
                                "Shanthi theatre":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-09-29",
-                                                       "db_size_bytes":  155783168
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-10-01",
+                                                       "db_size_bytes":  156372992
                                                    },
                                "PSS Multiplex Tirunelveli":  {
                                                                  "status":  "ok",
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-01 20:00:03"
+    "started_at":  "2026-10-01 22:00:03"
 }
