@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-01 17:42:28",
+    "generated_at":  "2026-10-01 19:53:28",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2245,11 +2245,6 @@
                                                                           "last_backup":  "2026-10-01",
                                                                           "db_size_bytes":  4347297792
                                                                       },
-                               "Sree Dhnalakshmi velanthavalam":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-09-30",
-                                                                      "db_size_bytes":  116584448
-                                                                  },
                                "TMAX Cineplex Goolikkadavu":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-10-01",
@@ -3612,8 +3607,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Raja Theater Anusri":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-09-30",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-10-01",
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Srinivasa Theater - Dhone":  {
@@ -3776,6 +3771,11 @@
                                                                    "last_backup":  "2026-10-01",
                                                                    "db_size_bytes":  null
                                                                },
+                               "Venkateswara Theater(Anusri Cinemas): Pithapuram":  {
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-10-01",
+                                                                                        "db_size_bytes":  null
+                                                                                    },
                                "Si Rajeswari Kalamandir - Narsannapeta":  {
                                                                               "status":  "ok",
                                                                               "last_backup":  "2026-10-01",
@@ -3837,9 +3837,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-09-29",
-                                                                    "db_size_bytes":  416571392
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-01",
+                                                                    "db_size_bytes":  417710080
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "missing",
@@ -4207,9 +4207,9 @@
                                                                          "db_size_bytes":  863358976
                                                                      },
                                "BMR CINEMAX - Veeraghattam":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-09-30",
-                                                                  "db_size_bytes":  530591744
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-01",
+                                                                  "db_size_bytes":  529907712
                                                               },
                                "Sri Ramchandra Talkies - Kodumur":  {
                                                                         "status":  "ok",
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-01 16:00:03"
+    "started_at":  "2026-10-01 18:00:03"
 }
