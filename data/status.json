@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-02 11:56:36",
+    "generated_at":  "2026-10-02 13:56:04",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1499,8 +1499,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Acchi Reddy Theater AC Dolby DTS - Haliya":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-10-01",
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-10-02",
                                                                                  "db_size_bytes":  null
                                                                              },
                                "cinemax - Medak":  {
@@ -1559,8 +1559,8 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Laxmi - Metpally":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-09-30",
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-10-02",
                                                         "db_size_bytes":  null
                                                     },
                                "Sri Prema - Thukkuguda":  {
@@ -1649,9 +1649,9 @@
                                                          "db_size_bytes":  null
                                                      },
                                "Sri Satya Bhaskara Picture Palace - Manuguru":  {
-                                                                                    "status":  "missing",
-                                                                                    "last_backup":  "2026-10-01",
-                                                                                    "db_size_bytes":  1618202624
+                                                                                    "status":  "ok",
+                                                                                    "last_backup":  "2026-10-02",
+                                                                                    "db_size_bytes":  1617481728
                                                                                 },
                                "Sudharsan Theater - RTC X Road":  {
                                                                       "status":  "ok",
@@ -1931,9 +1931,9 @@
                                                                    "db_size_bytes":  2685652992
                                                                },
                                "City Cinema Shivdam Kodakara":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-10-01",
-                                                                    "db_size_bytes":  581357568
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-02",
+                                                                    "db_size_bytes":  583532544
                                                                 },
                                "Mridhanga Cineplex Poovar":  {
                                                                  "status":  "ok",
@@ -1996,9 +1996,9 @@
                                                                "db_size_bytes":  2993745920
                                                            },
                                "Karthika Fun Movies Thalikulam":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-10-01",
-                                                                      "db_size_bytes":  637198336
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-02",
+                                                                      "db_size_bytes":  638570496
                                                                   },
                                "Harisree Theatre Kazhakuttom":  {
                                                                     "status":  "ok",
@@ -2111,9 +2111,9 @@
                                                                        "db_size_bytes":  265338880
                                                                    },
                                "SN Theatre Haripad":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-10-01",
-                                                          "db_size_bytes":  1977401344
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-10-02",
+                                                          "db_size_bytes":  1977995264
                                                       },
                                "G Cinemas Fort Kochi":  {
                                                             "status":  "ok",
@@ -2341,9 +2341,9 @@
                                                                         "db_size_bytes":  2503041536
                                                                     },
                                "Liberty Cinema Thalasherry":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-10-01",
-                                                                  "db_size_bytes":  1116454912
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-02",
+                                                                  "db_size_bytes":  1119731712
                                                               },
                                "Goodwill cinemas Kallara":  {
                                                                 "status":  "ok",
@@ -3430,8 +3430,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-10-01",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-10-02",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -4137,9 +4137,9 @@
                                                                             "db_size_bytes":  373997568
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-01",
-                                                                        "db_size_bytes":  871612416
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-02",
+                                                                        "db_size_bytes":  872005632
                                                                     },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "status":  "ok",
@@ -4322,8 +4322,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Basaveswara Theater - Repalle":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-10-01",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-10-02",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Ananya Cinemas - Kovvur":  {
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-02 10:00:03"
+    "started_at":  "2026-10-02 12:00:03"
 }
