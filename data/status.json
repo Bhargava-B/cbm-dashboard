@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-03 13:51:24",
+    "generated_at":  "2026-10-03 15:52:02",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2317799424
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-10-03",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  1987731968
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -203,8 +203,8 @@
                                                                      "db_size_bytes":  2344275968
                                                                  },
                                "Lena Theatre Kallakurichi":  {
-                                                                 "status":  "ok",
-                                                                 "last_backup":  "2026-10-03",
+                                                                 "status":  "missing",
+                                                                 "last_backup":  "2026-08-25",
                                                                  "db_size_bytes":  505880576
                                                              },
                                "Sri Ramchandra Cinema Pernambut":  {
@@ -418,8 +418,8 @@
                                                                     "db_size_bytes":  646627840
                                                                 },
                                "JAYAPRIYA CINEMAS":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-10-03",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-08-28",
                                                          "db_size_bytes":  218112000
                                                      },
                                "VR Cinemas Pattabiram":  {
@@ -453,8 +453,8 @@
                                                                  "db_size_bytes":  2284244992
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-10-03",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  524865536
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -643,8 +643,8 @@
                                                                        "db_size_bytes":  3796226048
                                                                    },
                                "Jothi Theatre Viralimalai Trichy":  {
-                                                                        "status":  "ok",
-                                                                        "last_backup":  "2026-10-03",
+                                                                        "status":  "missing",
+                                                                        "last_backup":  "2026-09-28",
                                                                         "db_size_bytes":  659951616
                                                                     },
                                "Tamil Jaya Cinema Madurai":  {
@@ -1043,8 +1043,8 @@
                                                                        "db_size_bytes":  1492901888
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-10-03",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  787450368
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -1936,9 +1936,9 @@
                                                                     "db_size_bytes":  584507392
                                                                 },
                                "Mridhanga Cineplex Poovar":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-10-02",
-                                                                 "db_size_bytes":  803323904
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-03",
+                                                                 "db_size_bytes":  806563840
                                                              },
                                "Rani Talkies Nedumangadu":  {
                                                                 "status":  "ok",
@@ -2341,9 +2341,9 @@
                                                                         "db_size_bytes":  2504024576
                                                                     },
                                "Liberty Cinema Thalasherry":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-10-02",
-                                                                  "db_size_bytes":  1119731712
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-03",
+                                                                  "db_size_bytes":  1123667968
                                                               },
                                "Goodwill cinemas Kallara":  {
                                                                 "status":  "ok",
@@ -2571,9 +2571,9 @@
                                                                   "db_size_bytes":  624283648
                                                               },
                                "Sreedevi S Cinemas Kodaly":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-10-02",
-                                                                 "db_size_bytes":  1262403584
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-03",
+                                                                 "db_size_bytes":  1264697344
                                                              },
                                "Dhanya Remya Pathanamthitta":  {
                                                                    "status":  "ok",
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-03 12:00:03"
+    "started_at":  "2026-10-03 14:00:03"
 }
