@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-03 11:49:07",
+    "generated_at":  "2026-10-03 13:51:24",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -743,9 +743,9 @@
                                                                         "db_size_bytes":  4136386560
                                                                     },
                                "Divya Theatre Puducherry":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-10-02",
-                                                                "db_size_bytes":  345886720
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-03",
+                                                                "db_size_bytes":  348835840
                                                             },
                                "Raja Cinemas Perambalur":  {
                                                                "status":  "ok",
@@ -1574,9 +1574,9 @@
                                                                  "db_size_bytes":  1308614656
                                                              },
                                "VLS Sridevi 2K AC Dts - Chilakalguda":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-10-02",
-                                                                            "db_size_bytes":  3300708352
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-10-03",
+                                                                            "db_size_bytes":  3317092352
                                                                         },
                                "Sandhya 70MM 4K Dolby Atmos - RTC X Roads":  {
                                                                                  "status":  "ok",
@@ -3430,8 +3430,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-10-02",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-10-03",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3667,8 +3667,8 @@
                                                                              "db_size_bytes":  2048480768
                                                                          },
                                "Dr PV Rao Cineplex - Kanchikacherla":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-10-02",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-10-03",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Srinivasa Theater - Giddalur":  {
@@ -4137,9 +4137,9 @@
                                                                             "db_size_bytes":  376750080
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-02",
-                                                                        "db_size_bytes":  872005632
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-03",
+                                                                        "db_size_bytes":  872464384
                                                                     },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "status":  "ok",
@@ -4322,8 +4322,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Basaveswara Theater - Repalle":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-10-02",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-10-03",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Ananya Cinemas - Kovvur":  {
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-03 10:00:03"
+    "started_at":  "2026-10-03 12:00:03"
 }
