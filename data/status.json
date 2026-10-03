@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-03 18:02:02",
+    "generated_at":  "2026-10-03 21:42:32",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3095,8 +3095,8 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Swagath Poornima 4K Dolby Atmos - JC Road":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-10-02",
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-10-03",
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Roopa Cinema Nelamangala":  {
@@ -3120,8 +3120,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-02",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-03",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3280,8 +3280,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-10-03",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-03 16:00:03"
+    "started_at":  "2026-10-03 20:00:03"
 }
