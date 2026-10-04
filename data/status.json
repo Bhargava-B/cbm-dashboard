@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-04 17:48:51",
+    "generated_at":  "2026-10-04 19:45:38",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3280,8 +3280,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-10-04",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3592,9 +3592,9 @@
                                                                                              "db_size_bytes":  4006285312
                                                                                          },
                                "Sri Sai Rajeswari Complex Cine Hub":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-09-04",
-                                                                          "db_size_bytes":  807452672
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-10-04",
+                                                                          "db_size_bytes":  804110336
                                                                       },
                                "Sri Sivajyothi 2K Cinema 7.1 Dolby - Rajahmundry":  {
                                                                                         "status":  "ok",
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-04 16:00:03"
+    "started_at":  "2026-10-04 18:00:03"
 }
