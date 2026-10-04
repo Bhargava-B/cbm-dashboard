@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-04 19:45:38",
+    "generated_at":  "2026-10-04 21:40:33",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3120,8 +3120,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-03",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-04",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3657,8 +3657,8 @@
                                                                                        "db_size_bytes":  null
                                                                                    },
                                "Sun Cinemax Venkata Gouri AC DTS - Palakonda":  {
-                                                                                    "status":  "missing",
-                                                                                    "last_backup":  "2026-10-03",
+                                                                                    "status":  "ok",
+                                                                                    "last_backup":  "2026-10-04",
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Sri Leela Mahal AC DTS - Vizianagaram":  {
@@ -3777,8 +3777,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Si Rajeswari Kalamandir - Narsannapeta":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-10-03",
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-10-04",
                                                                               "db_size_bytes":  null
                                                                           },
                                "Mohini Cinemas Dolby Atmos - Gajuwaka":  {
@@ -3837,9 +3837,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-10-02",
-                                                                    "db_size_bytes":  421359616
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-04",
+                                                                    "db_size_bytes":  422981632
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "missing",
@@ -3917,8 +3917,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Sudharshan AC DTS - Kanigiri":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-10-03",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-04",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Satyam AC 4K Dolby Atmos - Ongole":  {
@@ -4007,14 +4007,14 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Sri Venkateswara Talkies 2K AC DTS - Ravulapalem":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-10-03",
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-10-04",
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Lakshmi Talkies AC 2K Dolby - Jangareddy Gudem":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-10-03",
-                                                                                          "db_size_bytes":  1524617216
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-10-04",
+                                                                                          "db_size_bytes":  1527238656
                                                                                       },
                                "Vishnu Mahal Theater - Puttur":  {
                                                                      "status":  "missing",
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-04 18:00:03"
+    "started_at":  "2026-10-04 20:00:03"
 }
