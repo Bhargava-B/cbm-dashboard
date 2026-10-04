@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-04 09:42:21",
+    "generated_at":  "2026-10-04 11:45:19",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -230,7 +230,7 @@
                                "Sri Palaniandavar Theatre Sivakasi":  {
                                                                           "status":  "ok",
                                                                           "last_backup":  "2026-10-04",
-                                                                          "db_size_bytes":  2128072704
+                                                                          "db_size_bytes":  2127941632
                                                                       },
                                "Apsara Theatre Virudhunagar":  {
                                                                    "status":  "ok",
@@ -253,9 +253,9 @@
                                                        "db_size_bytes":  4398374912
                                                    },
                                "Sree Meenambika Cinema Somanur":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-10-03",
-                                                                      "db_size_bytes":  1713557504
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-04",
+                                                                      "db_size_bytes":  1716768768
                                                                   },
                                "Jeeva Rukmani Cinema Pondicherry":  {
                                                                         "status":  "missing",
@@ -588,9 +588,9 @@
                                                                                 "db_size_bytes":  1771761664
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-10-03",
-                                                                              "db_size_bytes":  500875264
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-10-04",
+                                                                              "db_size_bytes":  501071872
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -833,9 +833,9 @@
                                                                       "db_size_bytes":  1038663680
                                                                   },
                                "Sri Rajan Cinemas Chetpet":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-10-03",
-                                                                 "db_size_bytes":  484032512
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-04",
+                                                                 "db_size_bytes":  486273024
                                                              },
                                "Kavitha Cinemas K G Chavadi":  {
                                                                    "status":  "ok",
@@ -1292,9 +1292,9 @@
                                                                     "db_size_bytes":  1148833792
                                                                 },
                                   "Asian Srinivasa - Mancherial":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-03",
-                                                                       "db_size_bytes":  4492103680
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-04",
+                                                                       "db_size_bytes":  4481327104
                                                                    },
                                   "Asian Radhika Multiplex - ECIL":  {
                                                                          "status":  "ok",
@@ -3145,8 +3145,8 @@
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Prabha Theatre - Mysuru":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-10-03",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-04",
                                                                "db_size_bytes":  null
                                                            },
                                "Swagath ShankarNag (ONYX) LED Cinema - MG Road":  {
@@ -3405,8 +3405,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-10-03",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-10-04",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -4187,8 +4187,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Bommarillu Cinemas":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-10-03",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-10-04",
                                                           "db_size_bytes":  null
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
@@ -4507,8 +4507,8 @@
                                                                                "db_size_bytes":  3831939072
                                                                            },
                                "Vijayalakshmi Theater AC 4K Dolby - Kanuru":  {
-                                                                                  "status":  "missing",
-                                                                                  "last_backup":  "2026-10-03",
+                                                                                  "status":  "ok",
+                                                                                  "last_backup":  "2026-10-04",
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Sree Kanya Cinemas - Gajuwaka":  {
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-04 08:00:03"
+    "started_at":  "2026-10-04 10:00:03"
 }
