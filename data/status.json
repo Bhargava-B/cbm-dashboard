@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-04 11:45:19",
+    "generated_at":  "2026-10-04 13:44:25",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1394,9 +1394,9 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Venkatrama - Warangal":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-10-03",
-                                                             "db_size_bytes":  427413504
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-04",
+                                                             "db_size_bytes":  424857600
                                                          },
                                "Amrutha Cinema - Hanumakonda":  {
                                                                     "status":  "ok",
@@ -3430,8 +3430,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-10-03",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-10-04",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3832,8 +3832,8 @@
                                                                                         "db_size_bytes":  1667637248
                                                                                     },
                                "Satyanarayana Kalamandir - Addanki":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-10-03",
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-10-04",
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
@@ -3882,9 +3882,9 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Raja Rajeswari - Jangareddy Gudem":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-10-03",
-                                                                             "db_size_bytes":  2168311808
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-10-04",
+                                                                             "db_size_bytes":  2165297152
                                                                          },
                                "Cine Prime Screen 1 2 - Guntur":  {
                                                                       "status":  "ok",
@@ -4137,9 +4137,9 @@
                                                                             "db_size_bytes":  381538304
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-03",
-                                                                        "db_size_bytes":  872464384
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-04",
+                                                                        "db_size_bytes":  872660992
                                                                     },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "status":  "ok",
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-04 10:00:03"
+    "started_at":  "2026-10-04 12:00:03"
 }
