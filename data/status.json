@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-05 11:50:18",
+    "generated_at":  "2026-10-05 13:54:43",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1192,9 +1192,9 @@
                                                                     "db_size_bytes":  3094609920
                                                                 },
                                   "Asian Manoj - Devarakonda":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-10-04",
-                                                                    "db_size_bytes":  1560805376
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-05",
+                                                                    "db_size_bytes":  1560723456
                                                                 },
                                   "Asian Mukund - Mahabubabad":  {
                                                                      "status":  "ok",
@@ -1277,9 +1277,9 @@
                                                                         "db_size_bytes":  10023426560
                                                                     },
                                   "AVD Cinemas - Mahbubnagar":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-10-04",
-                                                                    "db_size_bytes":  4408193024
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-05",
+                                                                    "db_size_bytes":  4404781056
                                                                 },
                                   "Asian Usha Prasad Multiplex - Nizamabad":  {
                                                                                   "status":  "ok",
@@ -1372,9 +1372,9 @@
                                                                  "db_size_bytes":  null
                                                              },
                                   "Asian Sai Krishna - Metpally":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-04",
-                                                                       "db_size_bytes":  483115008
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-05",
+                                                                       "db_size_bytes":  485539840
                                                                    }
                               },
                     "TG":  {
@@ -3365,8 +3365,8 @@
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Woodlands Theatre -Mysore":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-10-04",
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-05",
                                                                  "db_size_bytes":  null
                                                              },
                                "Kamakya Cinema - Banashankari":  {
@@ -3430,8 +3430,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sreelekha Theater - Chickmagaluru":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-10-04",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-10-05",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Sandhya RGB Laser Atmos -Madivala":  {
@@ -3757,9 +3757,9 @@
                                                                            "db_size_bytes":  null
                                                                        },
                                "G3 Lakshmi Narayana Theaters Tadepalligudem":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-10-04",
-                                                                                   "db_size_bytes":  153407488
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-10-05",
+                                                                                   "db_size_bytes":  154259456
                                                                                },
                                "Chand Picture Palace AC DTS - Proddatur":  {
                                                                                "status":  "ok",
@@ -4232,9 +4232,9 @@
                                                                      "db_size_bytes":  2132226048
                                                                  },
                                "AVR Saptagiri 2K - Chittivalasa":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-04",
-                                                                       "db_size_bytes":  977129472
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-05",
+                                                                       "db_size_bytes":  976142336
                                                                    },
                                "Ramesh Theatre AC 4K Dolby Atmos - Kadapa":  {
                                                                                  "status":  "ok",
@@ -4322,8 +4322,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Basaveswara Theater - Repalle":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-10-04",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-10-05",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Ananya Cinemas - Kovvur":  {
@@ -4347,9 +4347,9 @@
                                                                                          "db_size_bytes":  1499287552
                                                                                      },
                                "Ganesh AC 2K Dolby - Thagarapuvalasa":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-10-04",
-                                                                            "db_size_bytes":  1331782144
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-10-05",
+                                                                            "db_size_bytes":  1333025280
                                                                         },
                                "G2V Theaters Ravi Priya Mall - Ongole":  {
                                                                              "status":  "missing",
@@ -4523,5 +4523,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-05 10:00:03"
+    "started_at":  "2026-10-05 12:00:03"
 }
