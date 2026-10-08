@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-08 16:12:06",
+    "generated_at":  "2026-10-08 19:00:02",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -230,7 +230,7 @@
                                "Sri Palaniandavar Theatre Sivakasi":  {
                                                                           "status":  "ok",
                                                                           "last_backup":  "2026-10-08",
-                                                                          "db_size_bytes":  2148384768
+                                                                          "db_size_bytes":  2123743232
                                                                       },
                                "Apsara Theatre Virudhunagar":  {
                                                                    "status":  "ok",
@@ -320,7 +320,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-10-08",
-                                                                  "db_size_bytes":  977137664
+                                                                  "db_size_bytes":  942014464
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -1222,9 +1222,9 @@
                                                                             "db_size_bytes":  3326730240
                                                                         },
                                   "Asian Cinemart - RC Puram":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  null,
-                                                                    "db_size_bytes":  null
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-08",
+                                                                    "db_size_bytes":  6665854976
                                                                 },
                                   "Asian Urvasi 70MM - Godavarikhani":  {
                                                                             "status":  "ok",
@@ -1277,9 +1277,9 @@
                                                                         "db_size_bytes":  10023426560
                                                                     },
                                   "AVD Cinemas - Mahbubnagar":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  null,
-                                                                    "db_size_bytes":  null
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-08",
+                                                                    "db_size_bytes":  4390854656
                                                                 },
                                   "Asian Usha Prasad Multiplex - Nizamabad":  {
                                                                                   "status":  "ok",
@@ -1731,9 +1731,9 @@
                                                                         "db_size_bytes":  2772045824
                                                                     },
                                "MAR Basil EVM Theatre Rajakumari":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-07",
-                                                                        "db_size_bytes":  839368704
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-08",
+                                                                        "db_size_bytes":  842059776
                                                                     },
                                "Dream Cinemas Thodupuzha":  {
                                                                 "status":  "ok",
@@ -2161,9 +2161,9 @@
                                                                       "db_size_bytes":  3500830720
                                                                   },
                                "Aashirvad Cineplexx Pathanapuram":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-07",
-                                                                        "db_size_bytes":  1974063104
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-08",
+                                                                        "db_size_bytes":  1976229888
                                                                     },
                                "Anand Theatre kottayam":  {
                                                               "status":  "ok",
@@ -3482,9 +3482,9 @@
                                                                               "db_size_bytes":  1415272960
                                                                           },
                                "Rajarathna Cinemax - Mandapeta":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-10-07",
-                                                                      "db_size_bytes":  2267201536
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-08",
+                                                                      "db_size_bytes":  2268123136
                                                                   },
                                "MS Tata Picture Palace AC DTS - Thagarapuvalasa":  {
                                                                                        "status":  "ok",
@@ -3496,11 +3496,11 @@
                                                                   "last_backup":  "2026-10-08",
                                                                   "db_size_bytes":  521457664
                                                               },
-                               "V Max AC 2K Dolby - Eluru":  {
-                                                                 "status":  "ok",
-                                                                 "last_backup":  "2026-10-08",
-                                                                 "db_size_bytes":  null
-                                                             },
+                               "Annapoorna Theatre Pithapuram":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-08",
+                                                                     "db_size_bytes":  225103872
+                                                                 },
                                "Chalapathi Mini Theater - Tadepalligudem":  {
                                                                                 "status":  "missing",
                                                                                 "last_backup":  null,
@@ -3827,9 +3827,9 @@
                                                                            "db_size_bytes":  300306944
                                                                        },
                                "CNR Mall Y Screens - Jangareddy Gudem":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-06-10",
-                                                                             "db_size_bytes":  null
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-10-08",
+                                                                             "db_size_bytes":  876859392
                                                                          },
                                "SRK Chitra Mandir 4K Dolby Atmos - Payakaraopeta":  {
                                                                                         "status":  "ok",
@@ -4006,6 +4006,11 @@
                                                                                       "last_backup":  "2026-10-08",
                                                                                       "db_size_bytes":  1411018752
                                                                                   },
+                               "V Max AC 2K Dolby - Eluru":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-08",
+                                                                 "db_size_bytes":  null
+                                                             },
                                "Dwaraka Cinemas 4K Dolby Atmos - Nuzvid":  {
                                                                                "status":  "ok",
                                                                                "last_backup":  "2026-10-08",
@@ -4047,9 +4052,9 @@
                                                                  "db_size_bytes":  294375424
                                                              },
                                "Jameel Theater - Buchireddypalem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-06",
-                                                                        "db_size_bytes":  464214528
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-08",
+                                                                        "db_size_bytes":  463165952
                                                                     },
                                "Kamala Theater Jaggayyapeta":  {
                                                                    "status":  "ok",
@@ -4157,9 +4162,9 @@
                                                               "db_size_bytes":  null
                                                           },
                                "Narasimha Sri Narasimha: Gopalapatnam":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-10-07",
-                                                                             "db_size_bytes":  171167744
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-10-08",
+                                                                             "db_size_bytes":  172281856
                                                                          },
                                "Shree Cinemas - Parvathipuram":  {
                                                                      "status":  "missing",
@@ -4172,9 +4177,9 @@
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "SV Cinemax:Hindupur":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-10-07",
-                                                           "db_size_bytes":  93114368
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-10-08",
+                                                           "db_size_bytes":  93573120
                                                        },
                                "Mini Srinivasa - Yemmiganur":  {
                                                                    "status":  "ok",
@@ -4207,9 +4212,9 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Venkata Krishna Theater - Poranki":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-10-06",
-                                                                         "db_size_bytes":  858181632
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-10-08",
+                                                                         "db_size_bytes":  864342016
                                                                      },
                                "BMR CINEMAX - Veeraghattam":  {
                                                                   "status":  "ok",
@@ -4282,8 +4287,8 @@
                                                                                 "db_size_bytes":  3707740160
                                                                             },
                                "SV Talkies - Nindra":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-10-07",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-10-08",
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Srinivasa Theater AC DTS - Nallajerla":  {
@@ -4406,6 +4411,11 @@
                                                                                "last_backup":  "2026-10-08",
                                                                                "db_size_bytes":  892329984
                                                                            },
+                               "Victory Cinemas A":  {
+                                                         "status":  "missing",
+                                                         "last_backup":  null,
+                                                         "db_size_bytes":  null
+                                                     },
                                "Palani Picture Palace - Tirupati":  {
                                                                         "status":  "ok",
                                                                         "last_backup":  "2026-10-08",
@@ -4528,5 +4538,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-08 13:29:58"
+    "started_at":  "2026-10-08 17:29:58"
 }
