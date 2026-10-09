@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-09 20:07:39",
+    "generated_at":  "2026-10-10 00:03:18",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1861,7 +1861,7 @@
                                                                  "db_size_bytes":  3475779584
                                                              },
                                "Vimala Theatre Varkala":  {
-                                                              "status":  "ok",
+                                                              "status":  "missing",
                                                               "last_backup":  "2026-10-09",
                                                               "db_size_bytes":  1168162816
                                                           },
@@ -2361,7 +2361,7 @@
                                                                     "db_size_bytes":  2944626688
                                                                 },
                                "Zeenath Theatre Aluva":  {
-                                                             "status":  "ok",
+                                                             "status":  "missing",
                                                              "last_backup":  "2026-10-09",
                                                              "db_size_bytes":  3303669760
                                                          },
@@ -2813,22 +2813,22 @@
                            },
                     "SL":  {
                                "SAS Cinema Trincomale":  {
-                                                             "status":  "ok",
+                                                             "status":  "missing",
                                                              "last_backup":  "2026-10-09",
                                                              "db_size_bytes":  181977088
                                                          },
                                "Regal Cinema Bandarawela":  {
-                                                                "status":  "ok",
+                                                                "status":  "missing",
                                                                 "last_backup":  "2026-10-09",
                                                                 "db_size_bytes":  1596702720
                                                             },
                                "Regal Cinema Nuwara Eliya":  {
-                                                                 "status":  "ok",
+                                                                 "status":  "missing",
                                                                  "last_backup":  "2026-10-09",
                                                                  "db_size_bytes":  2838757376
                                                              },
                                "Regal Cinema Polonnaruwa":  {
-                                                                "status":  "ok",
+                                                                "status":  "missing",
                                                                 "last_backup":  "2026-10-09",
                                                                 "db_size_bytes":  400380416
                                                             },
@@ -2838,47 +2838,47 @@
                                                                  "db_size_bytes":  248823808
                                                              },
                                "Samanala Cinemas, Melsiripura":  {
-                                                                     "status":  "ok",
+                                                                     "status":  "missing",
                                                                      "last_backup":  "2026-10-09",
                                                                      "db_size_bytes":  658759680
                                                                  },
                                "Majestic Cineplex Colombo":  {
-                                                                 "status":  "ok",
+                                                                 "status":  "missing",
                                                                  "last_backup":  "2026-10-09",
                                                                  "db_size_bytes":  3699228672
                                                              },
                                "Regal Cinemas Dematagoda":  {
-                                                                "status":  "ok",
+                                                                "status":  "missing",
                                                                 "last_backup":  "2026-10-09",
                                                                 "db_size_bytes":  3044065280
                                                             },
                                "Tarzan Cinema Kegalle":  {
-                                                             "status":  "ok",
+                                                             "status":  "missing",
                                                              "last_backup":  "2026-10-09",
                                                              "db_size_bytes":  298336256
                                                          },
                                "Regal Cinema Katubedda":  {
-                                                              "status":  "ok",
+                                                              "status":  "missing",
                                                               "last_backup":  "2026-10-09",
                                                               "db_size_bytes":  3266035712
                                                           },
                                "Regal Cinema Gampha":  {
-                                                           "status":  "ok",
+                                                           "status":  "missing",
                                                            "last_backup":  "2026-10-09",
                                                            "db_size_bytes":  3675025408
                                                        },
                                "Eros Cinemas, Colombo":  {
-                                                             "status":  "ok",
+                                                             "status":  "missing",
                                                              "last_backup":  "2026-10-09",
                                                              "db_size_bytes":  863952896
                                                          },
                                "Neela by Lite cinema Dhankotuwa":  {
-                                                                       "status":  "ok",
+                                                                       "status":  "missing",
                                                                        "last_backup":  "2026-10-09",
                                                                        "db_size_bytes":  393199616
                                                                    },
                                "Majestic Cineplex JAFFNA":  {
-                                                                "status":  "ok",
+                                                                "status":  "missing",
                                                                 "last_backup":  "2026-10-09",
                                                                 "db_size_bytes":  7764623360
                                                             },
@@ -2888,7 +2888,7 @@
                                                                "db_size_bytes":  733445632
                                                            },
                                "Prasanna 3D Light Cinema Kochchikade":  {
-                                                                            "status":  "ok",
+                                                                            "status":  "missing",
                                                                             "last_backup":  "2026-10-09",
                                                                             "db_size_bytes":  351727616
                                                                         }
@@ -3125,8 +3125,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-08",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-09",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -4538,5 +4538,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-09 18:00:03"
+    "started_at":  "2026-10-09 22:00:03"
 }
