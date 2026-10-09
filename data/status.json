@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-09 03:19:37",
+    "generated_at":  "2026-10-09 06:41:19",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2573,7 +2573,7 @@
                                "Ashoka Theatre Vadanapally":  {
                                                                   "status":  "missing",
                                                                   "last_backup":  "2026-10-08",
-                                                                  "db_size_bytes":  625131520
+                                                                  "db_size_bytes":  null
                                                               },
                                "Sreedevi S Cinemas Kodaly":  {
                                                                  "status":  "missing",
@@ -2813,13 +2813,13 @@
                            },
                     "SL":  {
                                "SAS Cinema Trincomale":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-10-08",
-                                                             "db_size_bytes":  181059584
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-09",
+                                                             "db_size_bytes":  181977088
                                                          },
                                "Regal Cinema Bandarawela":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-10-08",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-09",
                                                                 "db_size_bytes":  1596702720
                                                             },
                                "Regal Cinema Nuwara Eliya":  {
@@ -2828,9 +2828,9 @@
                                                                  "db_size_bytes":  2831663104
                                                              },
                                "Regal Cinema Polonnaruwa":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-10-08",
-                                                                "db_size_bytes":  400052736
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-09",
+                                                                "db_size_bytes":  400380416
                                                             },
                                "Seran Cinemas Kilinochchi":  {
                                                                  "status":  "missing",
@@ -2848,19 +2848,19 @@
                                                                  "db_size_bytes":  3702505472
                                                              },
                                "Regal Cinemas Dematagoda":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-10-08",
-                                                                "db_size_bytes":  3044261888
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-09",
+                                                                "db_size_bytes":  3044065280
                                                             },
                                "Tarzan Cinema Kegalle":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-10-08",
-                                                             "db_size_bytes":  297205760
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-09",
+                                                             "db_size_bytes":  298336256
                                                          },
                                "Regal Cinema Katubedda":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-10-01",
-                                                              "db_size_bytes":  3221405696
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-09",
+                                                              "db_size_bytes":  3266035712
                                                           },
                                "Regal Cinema Gampha":  {
                                                            "status":  "missing",
@@ -4234,7 +4234,7 @@
                                "Surya Mahal AC Dolby Atmos - Srikakulam":  {
                                                                                "status":  "missing",
                                                                                "last_backup":  "2026-10-08",
-                                                                               "db_size_bytes":  2862436352
+                                                                               "db_size_bytes":  null
                                                                            },
                                "VL Rama 4K Dolby - Amalapuram":  {
                                                                      "status":  "missing",
@@ -4538,5 +4538,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-09 01:29:58"
+    "started_at":  "2026-10-09 03:29:58"
 }
