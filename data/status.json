@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-12 18:05:01",
+    "generated_at":  "2026-10-12 22:01:24",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3130,8 +3130,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-11",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-12",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3290,8 +3290,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-10-12",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4481,6 +4481,11 @@
                                                                                  "last_backup":  "2026-10-12",
                                                                                  "db_size_bytes":  null
                                                                              },
+                               "Sri Krishna Hanuman Junction":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-12",
+                                                                    "db_size_bytes":  60739584
+                                                                },
                                "SLNT Theatre DTS - Kothavalasa":  {
                                                                       "status":  "missing",
                                                                       "last_backup":  "2026-08-29",
@@ -4543,5 +4548,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-12 16:00:03"
+    "started_at":  "2026-10-12 20:00:03"
 }
