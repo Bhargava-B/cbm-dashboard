@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-15 09:47:17",
+    "generated_at":  "2026-10-15 14:23:05",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1609,9 +1609,9 @@
                                                                          "db_size_bytes":  3606056960
                                                                      },
                                "Sri Manikanta 70mm Theatres":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-10-13",
-                                                                   "db_size_bytes":  427737088
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-15",
+                                                                   "db_size_bytes":  428654592
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
                                                                         "status":  "ok",
@@ -2441,9 +2441,9 @@
                                                                "db_size_bytes":  2255339520
                                                            },
                                "Thangaraj Theatre Kollengode":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-10-14",
-                                                                    "db_size_bytes":  275169280
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-15",
+                                                                    "db_size_bytes":  277401600
                                                                 },
                                "JK Cinemas Thriprayar":  {
                                                              "status":  "ok",
@@ -3155,8 +3155,8 @@
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Prabha Theatre - Mysuru":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-10-14",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-15",
                                                                "db_size_bytes":  null
                                                            },
                                "Swagath ShankarNag (ONYX) LED Cinema - MG Road":  {
@@ -3375,8 +3375,8 @@
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Woodlands Theatre -Mysore":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-10-14",
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-15",
                                                                  "db_size_bytes":  null
                                                              },
                                "Kamakya Cinema - Banashankari":  {
@@ -3415,8 +3415,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-10-14",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-10-15",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3987,9 +3987,9 @@
                                                                                            "db_size_bytes":  4966144512
                                                                                        },
                                "Sri Devi Mahal - Amadalavalasa":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-10-14",
-                                                                      "db_size_bytes":  386748416
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-15",
+                                                                      "db_size_bytes":  390234112
                                                                   },
                                "Srinivasa Theater AC 2K Dolby - Markapur":  {
                                                                                 "status":  "ok",
@@ -4152,9 +4152,9 @@
                                                                             "db_size_bytes":  384090112
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-14",
-                                                                        "db_size_bytes":  878694400
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-15",
+                                                                        "db_size_bytes":  879546368
                                                                     },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "status":  "ok",
@@ -4337,8 +4337,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Basaveswara Theater - Repalle":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-10-14",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-10-15",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Ananya Cinemas - Kovvur":  {
@@ -4548,5 +4548,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-15 08:00:04"
+    "started_at":  "2026-10-15 12:00:03"
 }
