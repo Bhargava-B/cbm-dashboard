@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-15 18:10:54",
+    "generated_at":  "2026-10-15 22:12:33",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3130,8 +3130,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-14",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-15",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3290,8 +3290,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-10-15",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4548,5 +4548,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-15 16:00:03"
+    "started_at":  "2026-10-15 20:00:03"
 }
