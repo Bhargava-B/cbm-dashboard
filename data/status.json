@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-16 14:07:19",
+    "generated_at":  "2026-10-16 18:01:42",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2346717184
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-10-16",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  2146918912
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -208,8 +208,8 @@
                                                                      "db_size_bytes":  2350043136
                                                                  },
                                "Lena Theatre Kallakurichi":  {
-                                                                 "status":  "ok",
-                                                                 "last_backup":  "2026-10-16",
+                                                                 "status":  "missing",
+                                                                 "last_backup":  "2026-08-25",
                                                                  "db_size_bytes":  526897152
                                                              },
                                "Sri Ramchandra Cinema Pernambut":  {
@@ -325,7 +325,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-10-16",
-                                                                  "db_size_bytes":  947257344
+                                                                  "db_size_bytes":  949751808
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -423,8 +423,8 @@
                                                                     "db_size_bytes":  658162176
                                                                 },
                                "JAYAPRIYA CINEMAS":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-10-16",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-08-28",
                                                          "db_size_bytes":  248139776
                                                      },
                                "VR Cinemas Pattabiram":  {
@@ -458,8 +458,8 @@
                                                                  "db_size_bytes":  2324819968
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-10-16",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  571527168
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -653,8 +653,8 @@
                                                                        "db_size_bytes":  3813400576
                                                                    },
                                "Jothi Theatre Viralimalai Trichy":  {
-                                                                        "status":  "ok",
-                                                                        "last_backup":  "2026-10-16",
+                                                                        "status":  "missing",
+                                                                        "last_backup":  "2026-09-28",
                                                                         "db_size_bytes":  668536832
                                                                     },
                                "Tamil Jaya Cinema Madurai":  {
@@ -1053,8 +1053,8 @@
                                                                        "db_size_bytes":  1497022464
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-10-16",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  844142080
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -1996,9 +1996,9 @@
                                                                         "db_size_bytes":  3118346240
                                                                     },
                                "Swathy Screens Nooranad":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-10-15",
-                                                               "db_size_bytes":  3010895872
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-16",
+                                                               "db_size_bytes":  3017330688
                                                            },
                                "Karthika Fun Movies Thalikulam":  {
                                                                       "status":  "ok",
@@ -2290,11 +2290,11 @@
                                                                  "last_backup":  "2026-10-16",
                                                                  "db_size_bytes":  3885547520
                                                              },
-                               "Sri Kalidas M Plex Kattakada":  {
-                                                                    "status":  "ok",
-                                                                    "last_backup":  "2026-10-16",
-                                                                    "db_size_bytes":  2550833664
-                                                                },
+                               "EVM Cinemas Fort Kochi":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-16",
+                                                              "db_size_bytes":  48553984
+                                                          },
                                "Surya Theatre Erattupetta":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-10-16",
@@ -2325,11 +2325,11 @@
                                                                      "last_backup":  "2026-10-16",
                                                                      "db_size_bytes":  1940680704
                                                                  },
-                               "Sridar Cinema Ernakulum":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-09-30",
-                                                               "db_size_bytes":  2338967552
-                                                           },
+                               "Sri Kalidas M Plex Kattakada":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-16",
+                                                                    "db_size_bytes":  2550833664
+                                                                },
                                "Star Cinema ROCKY Varkkala":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-10-16",
@@ -2625,6 +2625,11 @@
                                                                  "last_backup":  "2026-10-16",
                                                                  "db_size_bytes":  1860780032
                                                              },
+                               "Sridar Cinema Ernakulum":  {
+                                                               "status":  "missing",
+                                                               "last_backup":  "2026-09-30",
+                                                               "db_size_bytes":  2338967552
+                                                           },
                                "Santhosh Cinema Kattappana":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-10-16",
@@ -4072,9 +4077,9 @@
                                                                            "db_size_bytes":  null
                                                                        },
                                "Sri Padma Theater AC 2K Dolby - Jangareddy Gudem":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-10-13",
-                                                                                        "db_size_bytes":  1196146688
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-10-16",
+                                                                                        "db_size_bytes":  1197654016
                                                                                     },
                                "Swarna Multiplex - Vijayawada":  {
                                                                      "status":  "ok",
@@ -4548,5 +4553,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-16 12:00:03"
+    "started_at":  "2026-10-16 16:00:03"
 }
