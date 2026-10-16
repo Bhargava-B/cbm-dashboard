@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-16 18:01:42",
+    "generated_at":  "2026-10-16 21:54:26",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1252,9 +1252,9 @@
                                                                         "db_size_bytes":  2892746752
                                                                     },
                                   "Asian Sridevi Multiplex - Hanumakonda":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-10-15",
-                                                                                "db_size_bytes":  8982233088
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-10-16",
+                                                                                "db_size_bytes":  8978026496
                                                                             },
                                   "Asian Srinivasa Theater - Miryalaguda":  {
                                                                                 "status":  "ok",
@@ -1619,9 +1619,9 @@
                                                                         "db_size_bytes":  745652224
                                                                     },
                                "Seetarama Cinemas - Manuguru":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-10-15",
-                                                                    "db_size_bytes":  230084608
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-16",
+                                                                    "db_size_bytes":  232509440
                                                                 },
                                "Parameswara 70MM - Shadnagar":  {
                                                                     "status":  "ok",
@@ -2091,9 +2091,9 @@
                                                      "db_size_bytes":  6484312064
                                                  },
                                "Liberty Cinema Kannur":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-10-15",
-                                                             "db_size_bytes":  1087954944
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-16",
+                                                             "db_size_bytes":  1096024064
                                                          },
                                "Nice Movie House Thalayolaparambu":  {
                                                                          "status":  "ok",
@@ -3135,8 +3135,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-15",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-16",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3295,8 +3295,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-10-16",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4167,8 +4167,8 @@
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Srinivasa Cine Complex":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-10-14",
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-16",
                                                               "db_size_bytes":  null
                                                           },
                                "Narasimha Sri Narasimha: Gopalapatnam":  {
@@ -4202,8 +4202,8 @@
                                                   "db_size_bytes":  null
                                               },
                                "Aswani Deluxe AC - Piduguralla":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-10-15",
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-16",
                                                                       "db_size_bytes":  null
                                                                   },
                                "Bommarillu Cinemas":  {
@@ -4553,5 +4553,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-16 16:00:03"
+    "started_at":  "2026-10-16 20:00:04"
 }
