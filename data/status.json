@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-17 11:49:38",
+    "generated_at":  "2026-10-17 13:44:24",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -753,9 +753,9 @@
                                                                         "db_size_bytes":  4176756736
                                                                     },
                                "Divya Theatre Puducherry":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-10-16",
-                                                                "db_size_bytes":  356708352
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-17",
+                                                                "db_size_bytes":  368488448
                                                             },
                                "Raja Cinemas Perambalur":  {
                                                                "status":  "ok",
@@ -3460,8 +3460,8 @@
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "V CINEMA RAMMURTHY NAGAR(4 screens)":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-10-16",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-10-17",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Sri Venkateshwara Digital 2K Cinema Girinagar":  {
@@ -4553,5 +4553,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-17 10:00:03"
+    "started_at":  "2026-10-17 12:00:03"
 }
