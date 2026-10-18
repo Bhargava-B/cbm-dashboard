@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-18 17:44:43",
+    "generated_at":  "2026-10-18 19:42:13",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1105,8 +1105,8 @@
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Keshari Theatre Barco 4K Dolby Atmos - Bhubaneshwar":  {
-                                                                                           "status":  "missing",
-                                                                                           "last_backup":  "2026-10-17",
+                                                                                           "status":  "ok",
+                                                                                           "last_backup":  "2026-10-18",
                                                                                            "db_size_bytes":  null
                                                                                        },
                                "KNOX Cinema - Keonjhar":  {
@@ -3295,8 +3295,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-10-18",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3852,9 +3852,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-10-17",
-                                                                    "db_size_bytes":  428933120
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-18",
+                                                                    "db_size_bytes":  429588480
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "missing",
@@ -4161,6 +4161,11 @@
                                                                         "last_backup":  "2026-10-18",
                                                                         "db_size_bytes":  878100480
                                                                     },
+                               "Deepak Mahal: Vuyyuru":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-18",
+                                                             "db_size_bytes":  null
+                                                         },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "status":  "ok",
                                                                                    "last_backup":  "2026-10-18",
@@ -4553,5 +4558,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-18 16:00:03"
+    "started_at":  "2026-10-18 18:00:03"
 }
