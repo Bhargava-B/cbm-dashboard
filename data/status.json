@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-18 11:51:14",
+    "generated_at":  "2026-10-18 13:44:34",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1609,9 +1609,9 @@
                                                                          "db_size_bytes":  3655364608
                                                                      },
                                "Sri Manikanta 70mm Theatres":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-10-17",
-                                                                   "db_size_bytes":  429309952
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-18",
+                                                                   "db_size_bytes":  429441024
                                                                },
                                "Sri Rama Multiplex - Sulthanabad":  {
                                                                         "status":  "ok",
@@ -1654,9 +1654,9 @@
                                                          "db_size_bytes":  null
                                                      },
                                "Sri Satya Bhaskara Picture Palace - Manuguru":  {
-                                                                                    "status":  "missing",
-                                                                                    "last_backup":  "2026-10-17",
-                                                                                    "db_size_bytes":  1646055424
+                                                                                    "status":  "ok",
+                                                                                    "last_backup":  "2026-10-18",
+                                                                                    "db_size_bytes":  1649659904
                                                                                 },
                                "Sudharsan Theater - RTC X Road":  {
                                                                       "status":  "ok",
@@ -2111,9 +2111,9 @@
                                                               "db_size_bytes":  3221147648
                                                           },
                                "HighStreet Cinemas Muvattupuzha":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-17",
-                                                                       "db_size_bytes":  272420864
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-18",
+                                                                       "db_size_bytes":  273469440
                                                                    },
                                "SN Theatre Haripad":  {
                                                           "status":  "missing",
@@ -2406,9 +2406,9 @@
                                                                     "db_size_bytes":  1440157696
                                                                 },
                                "KRV Movies Kottayi":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-10-17",
-                                                          "db_size_bytes":  841273344
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-10-18",
+                                                          "db_size_bytes":  844226560
                                                       },
                                "RD Cinema Mundakayam":  {
                                                             "status":  "ok",
@@ -2566,9 +2566,9 @@
                                                                      "db_size_bytes":  2009821184
                                                                  },
                                "Avishkar Cinemas Kottayi":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-10-17",
-                                                                "db_size_bytes":  2199912448
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-18",
+                                                                "db_size_bytes":  2205679616
                                                             },
                                "Silver Hills Cinema Thodupuzha":  {
                                                                       "status":  "ok",
@@ -3507,9 +3507,9 @@
                                                                   "db_size_bytes":  550760448
                                                               },
                                "Annapoorna Theatre Pithapuram":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-10-17",
-                                                                     "db_size_bytes":  230412288
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-18",
+                                                                     "db_size_bytes":  230871040
                                                                  },
                                "Chalapathi Mini Theater - Tadepalligudem":  {
                                                                                 "status":  "missing",
@@ -3842,9 +3842,9 @@
                                                                              "db_size_bytes":  924635136
                                                                          },
                                "SRK Chitra Mandir 4K Dolby Atmos - Payakaraopeta":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-10-17",
-                                                                                        "db_size_bytes":  1696944128
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-10-18",
+                                                                                        "db_size_bytes":  1698676736
                                                                                     },
                                "Satyanarayana Kalamandir - Addanki":  {
                                                                           "status":  "ok",
@@ -4037,8 +4037,8 @@
                                                                                           "db_size_bytes":  1556000768
                                                                                       },
                                "Vishnu Mahal Theater - Puttur":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-10-17",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-18",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Vijaya Mahal Theater AC DTS - Mandapeta":  {
@@ -4157,9 +4157,9 @@
                                                                             "db_size_bytes":  393920512
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-17",
-                                                                        "db_size_bytes":  880988160
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-18",
+                                                                        "db_size_bytes":  878100480
                                                                     },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
                                                                                    "status":  "ok",
@@ -4553,5 +4553,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-18 10:00:03"
+    "started_at":  "2026-10-18 12:00:03"
 }
