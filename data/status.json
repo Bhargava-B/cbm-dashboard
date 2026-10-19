@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-19 11:53:56",
+    "generated_at":  "2026-10-19 13:56:38",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -163,9 +163,9 @@
                                                               "db_size_bytes":  1038262272
                                                           },
                                "V Cinema Sholavandhan":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-10-18",
-                                                             "db_size_bytes":  1442705408
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-19",
+                                                             "db_size_bytes":  1449406464
                                                          },
                                "Vetrivel Theatre 2K":  {
                                                            "status":  "ok",
@@ -2910,8 +2910,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Pushpanjali AC Digital 2K Dolby Atmos-Sultanpalya":  {
-                                                                                         "status":  "missing",
-                                                                                         "last_backup":  "2026-10-18",
+                                                                                         "status":  "ok",
+                                                                                         "last_backup":  "2026-10-19",
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "Radhika Bellary":  {
@@ -3035,8 +3035,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Anjan Digital 4K AC Cinema - Magadi Road":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-10-18",
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-10-19",
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Victory Cinema Barco-4K RGB-Laser - Kamakshipalya":  {
@@ -3135,8 +3135,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-18",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-19",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3355,8 +3355,8 @@
                                                                         "db_size_bytes":  null
                                                                     },
                                "Rupam Theatre - Hubli":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-10-18",
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-19",
                                                              "db_size_bytes":  null
                                                          },
                                "Sangam Digital - Mysuru":  {
@@ -4107,9 +4107,9 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Jayram Theatre - Vijayawada":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-10-18",
-                                                                   "db_size_bytes":  2200363008
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-19",
+                                                                   "db_size_bytes":  2213670912
                                                                },
                                "Sri Krishna AC 4K Dolby Atmos - Madanapalle":  {
                                                                                    "status":  "ok",
@@ -4558,5 +4558,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-19 10:00:03"
+    "started_at":  "2026-10-19 12:00:03"
 }
