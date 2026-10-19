@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-19 09:43:40",
+    "generated_at":  "2026-10-19 11:53:56",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -193,9 +193,9 @@
                                                                "db_size_bytes":  171319296
                                                            },
                                "Cauvery Theatre":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-10-10",
-                                                       "db_size_bytes":  1161093120
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-10-19",
+                                                       "db_size_bytes":  1183772672
                                                    },
                                "Jazz and Arsh Cinemas Madurai":  {
                                                                      "status":  "ok",
@@ -283,9 +283,9 @@
                                                                  "db_size_bytes":  954507264
                                                              },
                                "Rohini Jayanthy Cheyyur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-10-17",
-                                                               "db_size_bytes":  735219712
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-19",
+                                                               "db_size_bytes":  742531072
                                                            },
                                "Amman Cinemas":  {
                                                      "status":  "ok",
@@ -453,9 +453,9 @@
                                                                                "db_size_bytes":  283889664
                                                                            },
                                "Cosmos Cinemas Coimbatore":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-10-18",
-                                                                 "db_size_bytes":  2355425280
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-19",
+                                                                 "db_size_bytes":  2369970176
                                                              },
                                "Rakki Meenakshi Avadi":  {
                                                              "status":  "ok",
@@ -668,9 +668,9 @@
                                                             "db_size_bytes":  430239744
                                                         },
                                "MSP Theatre Andipatti":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-10-18",
-                                                             "db_size_bytes":  779948032
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-19",
+                                                             "db_size_bytes":  1123024896
                                                          },
                                "Ayya theatre":  {
                                                     "status":  "ok",
@@ -898,9 +898,9 @@
                                                                     "db_size_bytes":  2555564032
                                                                 },
                                "Sri Vigneshwara Theatre DOLBY ATMOS":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-10-18",
-                                                                           "db_size_bytes":  3298824192
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-10-19",
+                                                                           "db_size_bytes":  3273072640
                                                                        },
                                "Broadway Cinemas Tirupur":  {
                                                                 "status":  "ok",
@@ -2021,9 +2021,9 @@
                                                                        "db_size_bytes":  1467088896
                                                                    },
                                "New Theatre Trivandrum":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-10-18",
-                                                              "db_size_bytes":  6439358464
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-19",
+                                                              "db_size_bytes":  6442123264
                                                           },
                                "SV Cinemas Kayamkulam":  {
                                                              "status":  "ok",
@@ -2905,8 +2905,8 @@
                            },
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-10-18",
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-19",
                                                                       "db_size_bytes":  null
                                                                   },
                                "Pushpanjali AC Digital 2K Dolby Atmos-Sultanpalya":  {
@@ -2925,8 +2925,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-10-18",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-19",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -2970,8 +2970,8 @@
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "Lakshmi Talkies: Tiptur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-10-18",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-19",
                                                                "db_size_bytes":  null
                                                            },
                                "Sri Venkateshwara Theatre - Sidlaghatta":  {
@@ -3105,8 +3105,8 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "SIDDESHWARA Digital 2K 7.1 Cinema - J.P.Nagar":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-10-18",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-10-19",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Swagath Poornima 4K Dolby Atmos - JC Road":  {
@@ -3420,8 +3420,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-10-18",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-10-19",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -4212,8 +4212,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Bommarillu Cinemas":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-10-18",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-10-19",
                                                           "db_size_bytes":  null
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
@@ -4347,8 +4347,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Basaveswara Theater - Repalle":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-10-18",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-10-19",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Ananya Cinemas - Kovvur":  {
@@ -4558,5 +4558,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-19 08:00:03"
+    "started_at":  "2026-10-19 10:00:03"
 }
