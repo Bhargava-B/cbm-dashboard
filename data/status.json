@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-19 20:05:03",
+    "generated_at":  "2026-10-19 23:51:40",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1766,9 +1766,9 @@
                                                                  "db_size_bytes":  734392320
                                                              },
                                "VB CINEMAS Thriprayar":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  null,
-                                                             "db_size_bytes":  null
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-19",
+                                                             "db_size_bytes":  5279387648
                                                          },
                                "MLal Aashirvad Cineplexx Shoranur":  {
                                                                          "status":  "ok",
@@ -2696,9 +2696,9 @@
                                                                  "db_size_bytes":  581029888
                                                              },
                                "VB Cinemas Ambalappuzha":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  null,
-                                                               "db_size_bytes":  null
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-19",
+                                                               "db_size_bytes":  289394688
                                                            },
                                "Mars Cinemas Changaramkulam":  {
                                                                    "status":  "ok",
@@ -4558,5 +4558,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-19 18:00:03"
+    "started_at":  "2026-10-19 22:00:03"
 }
