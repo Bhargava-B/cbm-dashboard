@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-19 17:47:09",
+    "generated_at":  "2026-10-19 20:05:03",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1766,9 +1766,9 @@
                                                                  "db_size_bytes":  734392320
                                                              },
                                "VB CINEMAS Thriprayar":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-10-19",
-                                                             "db_size_bytes":  5279387648
+                                                             "status":  "missing",
+                                                             "last_backup":  null,
+                                                             "db_size_bytes":  null
                                                          },
                                "MLal Aashirvad Cineplexx Shoranur":  {
                                                                          "status":  "ok",
@@ -2696,9 +2696,9 @@
                                                                  "db_size_bytes":  581029888
                                                              },
                                "VB Cinemas Ambalappuzha":  {
-                                                               "status":  "ok",
-                                                               "last_backup":  "2026-10-19",
-                                                               "db_size_bytes":  289394688
+                                                               "status":  "missing",
+                                                               "last_backup":  null,
+                                                               "db_size_bytes":  null
                                                            },
                                "Mars Cinemas Changaramkulam":  {
                                                                    "status":  "ok",
@@ -3295,8 +3295,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-10-19",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3305,8 +3305,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Balaji 2K Dolby Atmos-Viveknagar":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  null,
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-10-19",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Laxmi pride cinemas -Hubli":  {
@@ -4558,5 +4558,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-19 16:00:03"
+    "started_at":  "2026-10-19 18:00:03"
 }
