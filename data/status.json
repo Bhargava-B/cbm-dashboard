@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-20 11:51:56",
+    "generated_at":  "2026-10-20 13:54:35",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3817,8 +3817,8 @@
                                                                                       "db_size_bytes":  1264185344
                                                                                   },
                                "Harihar Cinemas - Guntur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-10-19",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-20",
                                                                 "db_size_bytes":  null
                                                             },
                                "Vijaya Deluxe - Mangalagiri":  {
@@ -4122,8 +4122,8 @@
                                                                    "db_size_bytes":  211603456
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-19",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-20",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
@@ -4157,9 +4157,9 @@
                                                                             "db_size_bytes":  403501056
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-19",
-                                                                        "db_size_bytes":  881512448
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-20",
+                                                                        "db_size_bytes":  869515264
                                                                     },
                                "Deepak Mahal: Vuyyuru":  {
                                                              "status":  "ok",
@@ -4292,9 +4292,9 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "Adabala Theatres":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-10-19",
-                                                        "db_size_bytes":  9331103232
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-10-20",
+                                                        "db_size_bytes":  11066810880
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
                                                                                 "status":  "ok",
@@ -4558,5 +4558,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-20 10:00:03"
+    "started_at":  "2026-10-20 12:00:03"
 }
