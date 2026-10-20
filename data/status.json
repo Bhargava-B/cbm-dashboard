@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-20 15:59:33",
+    "generated_at":  "2026-10-20 17:51:33",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2556,14 +2556,14 @@
                                                                           "db_size_bytes":  2862878720
                                                                       },
                                "Alinkeel Cinemas Taliparamba":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-10-19",
-                                                                    "db_size_bytes":  2298654720
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-20",
+                                                                    "db_size_bytes":  2303741952
                                                                 },
                                "Thalam Theatre Wadakkancherry":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-10-19",
-                                                                     "db_size_bytes":  2012639232
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-20",
+                                                                     "db_size_bytes":  2015457280
                                                                  },
                                "Avishkar Cinemas Kottayi":  {
                                                                 "status":  "ok",
@@ -4558,5 +4558,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-20 14:00:03"
+    "started_at":  "2026-10-20 16:00:03"
 }
