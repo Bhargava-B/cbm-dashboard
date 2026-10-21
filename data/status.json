@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-21 16:00:01",
+    "generated_at":  "2026-10-21 20:01:40",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2051,9 +2051,9 @@
                                                                      "db_size_bytes":  2195636224
                                                                  },
                                "Cheloor Grand Cinemas Cherpulassery":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-10-20",
-                                                                           "db_size_bytes":  2110468096
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-10-21",
+                                                                           "db_size_bytes":  2120040448
                                                                        },
                                "JM Movies Josh Mall Mookkannoor":  {
                                                                        "status":  "ok",
@@ -2121,9 +2121,9 @@
                                                           "db_size_bytes":  1979236352
                                                       },
                                "G Cinemas Fort Kochi":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-10-20",
-                                                            "db_size_bytes":  3555246080
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-10-21",
+                                                            "db_size_bytes":  3560951808
                                                         },
                                "Ajanta Theatre 70mm Trivandrum":  {
                                                                       "status":  "ok",
@@ -2381,9 +2381,9 @@
                                                                         "db_size_bytes":  857919488
                                                                     },
                                "VINAYAKA THEATRE COMPLEX Kanhangad":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-10-20",
-                                                                          "db_size_bytes":  1234104320
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-10-21",
+                                                                          "db_size_bytes":  1235808256
                                                                       },
                                "D Cinema Kodungallur":  {
                                                             "status":  "ok",
@@ -2426,9 +2426,9 @@
                                                                       "db_size_bytes":  2567327744
                                                                   },
                                "Deepthi Cinemas Kanhangad":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-10-20",
-                                                                 "db_size_bytes":  2256531456
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-21",
+                                                                 "db_size_bytes":  2264199168
                                                              },
                                "EVM Latha Theatre Muvattupuzha":  {
                                                                       "status":  "ok",
@@ -2591,9 +2591,9 @@
                                                                    "db_size_bytes":  2363346944
                                                                },
                                "Anchani cinemas karukachal":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-10-20",
-                                                                  "db_size_bytes":  751443968
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-21",
+                                                                  "db_size_bytes":  737415168
                                                               },
                                "G Cinemax Multiplex Nedumkandam":  {
                                                                        "status":  "ok",
@@ -2611,9 +2611,9 @@
                                                              "db_size_bytes":  1127383040
                                                          },
                                "EVM Grand Cinemas Cherthala":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-10-20",
-                                                                   "db_size_bytes":  2489884672
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-21",
+                                                                   "db_size_bytes":  2497294336
                                                                },
                                "AK Cinepalace Cherupuzha":  {
                                                                 "status":  "ok",
@@ -2621,9 +2621,9 @@
                                                                 "db_size_bytes":  583786496
                                                             },
                                "EVM Matha Theatre Adimali":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-10-20",
-                                                                 "db_size_bytes":  1876049920
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-21",
+                                                                 "db_size_bytes":  1878540288
                                                              },
                                "Sridar Cinema Ernakulum":  {
                                                                "status":  "missing",
@@ -3295,8 +3295,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-10-21",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4558,5 +4558,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-21 14:00:03"
+    "started_at":  "2026-10-21 18:00:03"
 }
