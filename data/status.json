@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-21 11:57:12",
+    "generated_at":  "2026-10-21 13:55:22",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3365,8 +3365,8 @@
                                                                "db_size_bytes":  null
                                                            },
                                "Sri Vinayaka Cinemas DJ Halli":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-10-19",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-21",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Rajkamal Digital 2K Laser Projection - Mysore":  {
@@ -4122,8 +4122,8 @@
                                                                    "db_size_bytes":  215470080
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-20",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-21",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Hollywood Bollywood Theaters - Guntur":  {
@@ -4558,5 +4558,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-21 10:00:03"
+    "started_at":  "2026-10-21 12:00:03"
 }
