@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-21 20:01:40",
+    "generated_at":  "2026-10-21 23:51:10",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3135,8 +3135,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-20",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-21",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -4077,9 +4077,9 @@
                                                                            "db_size_bytes":  1192017920
                                                                        },
                                "Sri Padma Theater AC 2K Dolby - Jangareddy Gudem":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-10-16",
-                                                                                        "db_size_bytes":  1197654016
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-10-21",
+                                                                                        "db_size_bytes":  1199161344
                                                                                     },
                                "Swarna Multiplex - Vijayawada":  {
                                                                      "status":  "ok",
@@ -4558,5 +4558,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-21 18:00:03"
+    "started_at":  "2026-10-21 22:00:03"
 }
