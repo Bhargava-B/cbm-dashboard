@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-22 11:55:17",
+    "generated_at":  "2026-10-22 13:59:22",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -283,9 +283,9 @@
                                                                  "db_size_bytes":  962666496
                                                              },
                                "Rohini Jayanthy Cheyyur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-10-21",
-                                                               "db_size_bytes":  740151296
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-22",
+                                                               "db_size_bytes":  740675584
                                                            },
                                "Amman Cinemas":  {
                                                      "status":  "ok",
@@ -753,9 +753,9 @@
                                                                         "db_size_bytes":  4198187008
                                                                     },
                                "Divya Theatre Puducherry":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-10-21",
-                                                                "db_size_bytes":  382865408
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-22",
+                                                                "db_size_bytes":  375111680
                                                             },
                                "Raja Cinemas Perambalur":  {
                                                                "status":  "ok",
@@ -3632,9 +3632,9 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Sri Ratna Theatre Complex - Chintalapudi":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-10-21",
-                                                                                "db_size_bytes":  1070424064
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-10-22",
+                                                                                "db_size_bytes":  1067347968
                                                                             },
                                "Alankar AC 4K Dolby Surround - Vijayawada":  {
                                                                                  "status":  "ok",
@@ -3682,8 +3682,8 @@
                                                                              "db_size_bytes":  2050512384
                                                                          },
                                "Dr PV Rao Cineplex - Kanchikacherla":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-10-20",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-10-22",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Srinivasa Theater - Giddalur":  {
@@ -4302,8 +4302,8 @@
                                                                                 "db_size_bytes":  3782537216
                                                                             },
                                "SV Talkies - Nindra":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-10-21",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-10-22",
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Srinivasa Theater AC DTS - Nallajerla":  {
@@ -4558,5 +4558,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-22 10:00:03"
+    "started_at":  "2026-10-22 12:00:03"
 }
