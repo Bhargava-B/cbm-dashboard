@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-23 11:59:08",
+    "generated_at":  "2026-10-23 13:54:41",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -283,9 +283,9 @@
                                                                  "db_size_bytes":  963846144
                                                              },
                                "Rohini Jayanthy Cheyyur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-10-22",
-                                                               "db_size_bytes":  740675584
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-23",
+                                                               "db_size_bytes":  740614144
                                                            },
                                "Amman Cinemas":  {
                                                      "status":  "ok",
@@ -718,9 +718,9 @@
                                                                         "db_size_bytes":  1529929728
                                                                     },
                                "Sri Lakshmi Theatre Thirupparankundram":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-10-22",
-                                                                              "db_size_bytes":  900091904
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-10-23",
+                                                                              "db_size_bytes":  901009408
                                                                           },
                                "Arasan Cinema AC Coimbatore":  {
                                                                    "status":  "ok",
@@ -1504,8 +1504,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Acchi Reddy Theater AC Dolby DTS - Haliya":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-10-22",
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-10-23",
                                                                                  "db_size_bytes":  null
                                                                              },
                                "cinemax - Medak":  {
@@ -3847,9 +3847,9 @@
                                                                              "db_size_bytes":  937349120
                                                                          },
                                "SRK Chitra Mandir 4K Dolby Atmos - Payakaraopeta":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-10-22",
-                                                                                        "db_size_bytes":  1709006848
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-10-23",
+                                                                                        "db_size_bytes":  1700134912
                                                                                     },
                                "Satyanarayana Kalamandir - Addanki":  {
                                                                           "status":  "ok",
@@ -4162,9 +4162,9 @@
                                                                             "db_size_bytes":  406765568
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-22",
-                                                                        "db_size_bytes":  881053696
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-23",
+                                                                        "db_size_bytes":  878166016
                                                                     },
                                "Deepak Mahal: Vuyyuru":  {
                                                              "status":  "ok",
@@ -4563,5 +4563,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-23 10:00:03"
+    "started_at":  "2026-10-23 12:00:03"
 }
