@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-24 15:42:55",
+    "generated_at":  "2026-10-24 17:44:53",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1906,9 +1906,9 @@
                                                              "db_size_bytes":  1706622976
                                                          },
                                "CNC V Cinemas Palakkad":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-10-23",
-                                                              "db_size_bytes":  1053589504
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-24",
+                                                              "db_size_bytes":  1059160064
                                                           },
                                "Dream Cinema Kallachi":  {
                                                              "status":  "ok",
@@ -2121,9 +2121,9 @@
                                                           "db_size_bytes":  1979236352
                                                       },
                                "G Cinemas Fort Kochi":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-10-23",
-                                                            "db_size_bytes":  3545927680
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-10-24",
+                                                            "db_size_bytes":  3553267712
                                                         },
                                "Ajanta Theatre 70mm Trivandrum":  {
                                                                       "status":  "ok",
@@ -2376,9 +2376,9 @@
                                                                     "db_size_bytes":  5261078528
                                                                 },
                                "Veena Varna Theatre Mananthavady":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-22",
-                                                                        "db_size_bytes":  860143616
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-24",
+                                                                        "db_size_bytes":  849723392
                                                                     },
                                "VINAYAKA THEATRE COMPLEX Kanhangad":  {
                                                                           "status":  "ok",
@@ -2496,9 +2496,9 @@
                                                                     "db_size_bytes":  112771072
                                                                 },
                                "Kaveri Cinemas Karmamthody":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-10-23",
-                                                                  "db_size_bytes":  2025013248
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-24",
+                                                                  "db_size_bytes":  2025988096
                                                               },
                                "Penta Cinemas Pulpally":  {
                                                               "status":  "ok",
@@ -2561,9 +2561,9 @@
                                                                     "db_size_bytes":  2304770048
                                                                 },
                                "Thalam Theatre Wadakkancherry":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-10-23",
-                                                                     "db_size_bytes":  2020691968
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-24",
+                                                                     "db_size_bytes":  2021281792
                                                                  },
                                "Avishkar Cinemas Kottayi":  {
                                                                 "status":  "ok",
@@ -2591,9 +2591,9 @@
                                                                    "db_size_bytes":  2372718592
                                                                },
                                "Anchani cinemas karukachal":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-10-23",
-                                                                  "db_size_bytes":  743182336
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-24",
+                                                                  "db_size_bytes":  745213952
                                                               },
                                "G Cinemax Multiplex Nedumkandam":  {
                                                                        "status":  "ok",
@@ -2616,9 +2616,9 @@
                                                                    "db_size_bytes":  2484690944
                                                                },
                                "AK Cinepalace Cherupuzha":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-10-23",
-                                                                "db_size_bytes":  589684736
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-24",
+                                                                "db_size_bytes":  591323136
                                                             },
                                "EVM Matha Theatre Adimali":  {
                                                                  "status":  "ok",
@@ -2701,9 +2701,9 @@
                                                                "db_size_bytes":  298307584
                                                            },
                                "Mars Cinemas Changaramkulam":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-10-22",
-                                                                   "db_size_bytes":  4101337088
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-24",
+                                                                   "db_size_bytes":  4112285696
                                                                },
                                "Dhanya Remya Changanassery":  {
                                                                   "status":  "ok",
@@ -4563,5 +4563,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-24 14:00:03"
+    "started_at":  "2026-10-24 16:00:03"
 }
