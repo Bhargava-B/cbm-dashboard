@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-24 11:48:11",
+    "generated_at":  "2026-10-24 13:46:51",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1574,9 +1574,9 @@
                                                               "db_size_bytes":  729202688
                                                           },
                                "Vishnuram Cinemas - Kodad":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-10-23",
-                                                                 "db_size_bytes":  1349799936
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-24",
+                                                                 "db_size_bytes":  1347751936
                                                              },
                                "VLS Sridevi 2K AC Dts - Chilakalguda":  {
                                                                             "status":  "ok",
@@ -3360,8 +3360,8 @@
                                                                         "db_size_bytes":  null
                                                                     },
                                "Rupam Theatre - Hubli":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-10-23",
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-24",
                                                              "db_size_bytes":  null
                                                          },
                                "Sangam Digital - Mysuru":  {
@@ -3647,9 +3647,9 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Sivaram - Banaganapalle":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-10-23",
-                                                               "db_size_bytes":  1030537216
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-24",
+                                                               "db_size_bytes":  1023860736
                                                            },
                                "PGR Theater - Tirupati":  {
                                                               "status":  "ok",
@@ -4042,8 +4042,8 @@
                                                                                           "db_size_bytes":  1563189248
                                                                                       },
                                "Vishnu Mahal Theater - Puttur":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-10-22",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-24",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Vijaya Mahal Theater AC DTS - Mandapeta":  {
@@ -4272,9 +4272,9 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Surya Cinemax - Ramachandrapuram":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-23",
-                                                                        "db_size_bytes":  671793152
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-24",
+                                                                        "db_size_bytes":  682885120
                                                                     },
                                "ABR Cinemas - Gudivada":  {
                                                               "status":  "ok",
@@ -4352,8 +4352,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Basaveswara Theater - Repalle":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-10-23",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-10-24",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Ananya Cinemas - Kovvur":  {
@@ -4563,5 +4563,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-24 10:00:03"
+    "started_at":  "2026-10-24 12:00:03"
 }
