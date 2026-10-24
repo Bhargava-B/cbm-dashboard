@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-24 09:41:09",
+    "generated_at":  "2026-10-24 11:48:11",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -598,9 +598,9 @@
                                                                                 "db_size_bytes":  1821720576
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-10-23",
-                                                                              "db_size_bytes":  509001728
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-10-24",
+                                                                              "db_size_bytes":  509657088
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -878,9 +878,9 @@
                                                             "db_size_bytes":  380788736
                                                         },
                                "ASHOK THEATRE PONDICHERRY":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-10-23",
-                                                                 "db_size_bytes":  321064960
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-24",
+                                                                 "db_size_bytes":  324800512
                                                              },
                                "Ganesh Theatre Tirupur":  {
                                                               "status":  "missing",
@@ -1706,9 +1706,9 @@
                                                                   "db_size_bytes":  1318318080
                                                               },
                                "Magic Frames Mehboob Kasaragod":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-10-23",
-                                                                      "db_size_bytes":  3303456768
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-24",
+                                                                      "db_size_bytes":  3305566208
                                                                   },
                                "MT Cineplex Pothancode":  {
                                                               "status":  "ok",
@@ -1886,9 +1886,9 @@
                                                                 "db_size_bytes":  4191760384
                                                             },
                                "Aashirvad Cineplexx Perumbavoor":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-23",
-                                                                       "db_size_bytes":  1827540992
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-24",
+                                                                       "db_size_bytes":  1851809792
                                                                    },
                                "City Mall Cinemas Thamarassery":  {
                                                                       "status":  "ok",
@@ -2838,9 +2838,9 @@
                                                                  "db_size_bytes":  2881732608
                                                              },
                                "Amity Lite Maharagama":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-10-23",
-                                                             "db_size_bytes":  2405416960
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-24",
+                                                             "db_size_bytes":  2415837184
                                                          },
                                "Regal Cinema Polonnaruwa":  {
                                                                 "status":  "ok",
@@ -2930,8 +2930,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-10-23",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-24",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -3190,8 +3190,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Sri Radhakrishna Theatre - RT Nagar":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-10-23",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-10-24",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Meeralam Nawaz Picture Palace - Hospet":  {
@@ -3425,8 +3425,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-10-23",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-10-24",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3952,9 +3952,9 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Raja Picture Palace - Anakapalle":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-23",
-                                                                        "db_size_bytes":  2435620864
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-24",
+                                                                        "db_size_bytes":  2442215424
                                                                     },
                                "Surya Cinemax - Kakinada":  {
                                                                 "status":  "ok",
@@ -4217,8 +4217,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Bommarillu Cinemas":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-10-23",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-10-24",
                                                           "db_size_bytes":  null
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
@@ -4563,5 +4563,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-24 08:00:03"
+    "started_at":  "2026-10-24 10:00:03"
 }
