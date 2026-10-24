@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-24 13:46:51",
+    "generated_at":  "2026-10-24 15:42:55",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2389561344
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-10-24",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  2349163008
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -208,8 +208,8 @@
                                                                      "db_size_bytes":  2367537152
                                                                  },
                                "Lena Theatre Kallakurichi":  {
-                                                                 "status":  "ok",
-                                                                 "last_backup":  "2026-10-24",
+                                                                 "status":  "missing",
+                                                                 "last_backup":  "2026-08-25",
                                                                  "db_size_bytes":  566243328
                                                              },
                                "Sri Ramchandra Cinema Pernambut":  {
@@ -423,8 +423,8 @@
                                                                     "db_size_bytes":  669172224
                                                                 },
                                "JAYAPRIYA CINEMAS":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-10-24",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-08-28",
                                                          "db_size_bytes":  286593024
                                                      },
                                "VR Cinemas Pattabiram":  {
@@ -458,8 +458,8 @@
                                                                  "db_size_bytes":  2400116736
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-10-24",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  624492544
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -653,8 +653,8 @@
                                                                        "db_size_bytes":  3826634752
                                                                    },
                                "Jothi Theatre Viralimalai Trichy":  {
-                                                                        "status":  "ok",
-                                                                        "last_backup":  "2026-10-24",
+                                                                        "status":  "missing",
+                                                                        "last_backup":  "2026-09-28",
                                                                         "db_size_bytes":  673386496
                                                                     },
                                "Tamil Jaya Cinema Madurai":  {
@@ -1053,8 +1053,8 @@
                                                                        "db_size_bytes":  1506463744
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-10-24",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  931438080
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -3977,9 +3977,9 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Sri Govinda Mahal - Gollaprolu":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-10-23",
-                                                                      "db_size_bytes":  1359265792
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-24",
+                                                                      "db_size_bytes":  1360650240
                                                                   },
                                "Vijaya Complex - Akividu":  {
                                                                 "status":  "ok",
@@ -4377,9 +4377,9 @@
                                                                                          "db_size_bytes":  1499287552
                                                                                      },
                                "Ganesh AC 2K Dolby - Thagarapuvalasa":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-10-23",
-                                                                            "db_size_bytes":  1337940480
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-10-24",
+                                                                            "db_size_bytes":  1342339584
                                                                         },
                                "G2V Theaters Ravi Priya Mall - Ongole":  {
                                                                              "status":  "missing",
@@ -4563,5 +4563,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-24 12:00:03"
+    "started_at":  "2026-10-24 14:00:03"
 }
