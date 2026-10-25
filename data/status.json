@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-25 17:47:47",
+    "generated_at":  "2026-10-25 19:43:03",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1524,9 +1524,9 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "GPR Multiplex - Nizampet Hyderabad":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-10-24",
-                                                                          "db_size_bytes":  4982247424
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-10-25",
+                                                                          "db_size_bytes":  4992983040
                                                                       },
                                "Sri Sai Baba - Shadnagar":  {
                                                                 "status":  "missing",
@@ -3300,8 +3300,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-10-25",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3797,8 +3797,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Si Rajeswari Kalamandir - Narsannapeta":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-10-24",
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-10-25",
                                                                               "db_size_bytes":  null
                                                                           },
                                "Mohini Cinemas Dolby Atmos - Gajuwaka":  {
@@ -4563,5 +4563,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-25 16:00:03"
+    "started_at":  "2026-10-25 18:00:03"
 }
