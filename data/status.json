@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-25 11:40:18",
+    "generated_at":  "2026-10-25 13:49:40",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -283,9 +283,9 @@
                                                                  "db_size_bytes":  965812224
                                                              },
                                "Rohini Jayanthy Cheyyur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-10-24",
-                                                               "db_size_bytes":  740802560
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-25",
+                                                               "db_size_bytes":  742244352
                                                            },
                                "Amman Cinemas":  {
                                                      "status":  "ok",
@@ -718,9 +718,9 @@
                                                                         "db_size_bytes":  1538985984
                                                                     },
                                "Sri Lakshmi Theatre Thirupparankundram":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-10-24",
-                                                                              "db_size_bytes":  900812800
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-10-25",
+                                                                              "db_size_bytes":  901533696
                                                                           },
                                "Arasan Cinema AC Coimbatore":  {
                                                                    "status":  "ok",
@@ -2231,9 +2231,9 @@
                                                                  "db_size_bytes":  2409594880
                                                              },
                                "Partha Movie House Kollam":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-10-24",
-                                                                 "db_size_bytes":  3768463360
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-25",
+                                                                 "db_size_bytes":  3789287424
                                                              },
                                "Bosco Cinemas Kuravilangad":  {
                                                                   "status":  "ok",
@@ -2456,9 +2456,9 @@
                                                                   "db_size_bytes":  238870528
                                                               },
                                "Shadow Cinema Pazhayannur":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-10-24",
-                                                                 "db_size_bytes":  3028156416
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-25",
+                                                                 "db_size_bytes":  3031642112
                                                              },
                                "Revathy Cinemax Paripally":  {
                                                                  "status":  "ok",
@@ -2975,8 +2975,8 @@
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "Lakshmi Talkies: Tiptur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-10-24",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-25",
                                                                "db_size_bytes":  null
                                                            },
                                "Sri Venkateshwara Theatre - Sidlaghatta":  {
@@ -3647,9 +3647,9 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Sivaram - Banaganapalle":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-10-24",
-                                                               "db_size_bytes":  1023860736
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-25",
+                                                               "db_size_bytes":  1027334144
                                                            },
                                "PGR Theater - Tirupati":  {
                                                               "status":  "ok",
@@ -3752,8 +3752,8 @@
                                                                 "db_size_bytes":  1719259136
                                                             },
                                "Suresh Mahal AC 4K Padmakar Films - Vinukonda":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-10-24",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-10-25",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
@@ -4042,8 +4042,8 @@
                                                                                           "db_size_bytes":  1562300416
                                                                                       },
                                "Vishnu Mahal Theater - Puttur":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-10-24",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-25",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Vijaya Mahal Theater AC DTS - Mandapeta":  {
@@ -4162,9 +4162,9 @@
                                                                             "db_size_bytes":  419225600
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-24",
-                                                                        "db_size_bytes":  882036736
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-25",
+                                                                        "db_size_bytes":  879214592
                                                                     },
                                "Deepak Mahal: Vuyyuru":  {
                                                              "status":  "ok",
@@ -4563,5 +4563,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-25 10:00:03"
+    "started_at":  "2026-10-25 12:00:03"
 }
