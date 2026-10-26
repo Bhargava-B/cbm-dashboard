@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-26 17:44:12",
+    "generated_at":  "2026-10-26 19:49:18",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3300,8 +3300,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-10-26",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3867,8 +3867,8 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Aditya Theatre AC DTS - Vizianagaram":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-06-24",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-10-26",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Satyanarayana Picture Palace AC DTS - Anakapalle":  {
@@ -4563,5 +4563,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-26 16:00:03"
+    "started_at":  "2026-10-26 18:00:03"
 }
