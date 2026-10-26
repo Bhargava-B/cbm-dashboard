@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-26 15:48:08",
+    "generated_at":  "2026-10-26 17:44:12",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1377,9 +1377,9 @@
                                                                  "db_size_bytes":  null
                                                              },
                                   "Asian Sai Krishna - Metpally":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-25",
-                                                                       "db_size_bytes":  495439872
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-26",
+                                                                       "db_size_bytes":  495763456
                                                                    }
                               },
                     "TG":  {
@@ -3557,8 +3557,8 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "Sree Devi Picture Palace - Narasannapeta":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-10-25",
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-10-26",
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Bhaskara Rama AC DTS - Palasa":  {
@@ -3672,8 +3672,8 @@
                                                                                     "db_size_bytes":  2843447296
                                                                                 },
                                "Sri Lakshmi Multiplex Nova Cinemaz - Nallajerla":  {
-                                                                                       "status":  "missing",
-                                                                                       "last_backup":  "2026-10-25",
+                                                                                       "status":  "ok",
+                                                                                       "last_backup":  "2026-10-26",
                                                                                        "db_size_bytes":  null
                                                                                    },
                                "Sun Cinemax Venkata Gouri AC DTS - Palakonda":  {
@@ -3797,8 +3797,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Si Rajeswari Kalamandir - Narsannapeta":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-10-25",
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-10-26",
                                                                               "db_size_bytes":  null
                                                                           },
                                "Mohini Cinemas Dolby Atmos - Gajuwaka":  {
@@ -3847,9 +3847,9 @@
                                                                              "db_size_bytes":  955633664
                                                                          },
                                "SRK Chitra Mandir 4K Dolby Atmos - Payakaraopeta":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-10-25",
-                                                                                        "db_size_bytes":  1718005760
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-10-26",
+                                                                                        "db_size_bytes":  1715462144
                                                                                     },
                                "Satyanarayana Kalamandir - Addanki":  {
                                                                           "status":  "ok",
@@ -3857,9 +3857,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-10-25",
-                                                                    "db_size_bytes":  435220480
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-26",
+                                                                    "db_size_bytes":  440958976
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "missing",
@@ -4563,5 +4563,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-26 14:00:03"
+    "started_at":  "2026-10-26 16:00:03"
 }
