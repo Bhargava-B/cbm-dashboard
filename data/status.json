@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-27 19:46:11",
+    "generated_at":  "2026-10-27 21:42:30",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1404,9 +1404,9 @@
                                                              "db_size_bytes":  445960192
                                                          },
                                "Amrutha Cinema - Hanumakonda":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-10-26",
-                                                                    "db_size_bytes":  3803828224
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-27",
+                                                                    "db_size_bytes":  3806711808
                                                                 },
                                "Rama Krishna 70mm - Abids":  {
                                                                  "status":  "ok",
@@ -1574,9 +1574,9 @@
                                                               "db_size_bytes":  729202688
                                                           },
                                "Vishnuram Cinemas - Kodad":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-10-26",
-                                                                 "db_size_bytes":  1353523200
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-27",
+                                                                 "db_size_bytes":  1334312960
                                                              },
                                "VLS Sridevi 2K AC Dts - Chilakalguda":  {
                                                                             "status":  "ok",
@@ -3140,8 +3140,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-26",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-27",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -4563,5 +4563,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-27 18:00:03"
+    "started_at":  "2026-10-27 20:00:03"
 }
