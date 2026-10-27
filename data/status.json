@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-27 15:47:22",
+    "generated_at":  "2026-10-27 17:47:00",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2326,9 +2326,9 @@
                                                                      "db_size_bytes":  1996734464
                                                                  },
                                "Sri Kalidas M Plex Kattakada":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-10-26",
-                                                                    "db_size_bytes":  2661973504
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-27",
+                                                                    "db_size_bytes":  2665250304
                                                                 },
                                "Star Cinema ROCKY Varkkala":  {
                                                                   "status":  "ok",
@@ -4563,5 +4563,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-27 14:00:03"
+    "started_at":  "2026-10-27 16:00:03"
 }
