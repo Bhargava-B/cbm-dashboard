@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-27 17:47:00",
+    "generated_at":  "2026-10-27 19:46:11",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3300,8 +3300,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-10-27",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3742,8 +3742,8 @@
                                                                           "db_size_bytes":  4863942656
                                                                       },
                                "Anusri Sai Krishna Theater":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-10-26",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-27",
                                                                   "db_size_bytes":  null
                                                               },
                                "Lakshmi Complex - Tanuku":  {
@@ -3797,8 +3797,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Si Rajeswari Kalamandir - Narsannapeta":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-10-26",
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-10-27",
                                                                               "db_size_bytes":  null
                                                                           },
                                "Mohini Cinemas Dolby Atmos - Gajuwaka":  {
@@ -3857,9 +3857,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-10-26",
-                                                                    "db_size_bytes":  440958976
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-27",
+                                                                    "db_size_bytes":  434913280
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "missing",
@@ -4112,9 +4112,9 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Jayram Theatre - Vijayawada":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-10-26",
-                                                                   "db_size_bytes":  2221735936
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-27",
+                                                                   "db_size_bytes":  2191249408
                                                                },
                                "Sri Krishna AC 4K Dolby Atmos - Madanapalle":  {
                                                                                    "status":  "ok",
@@ -4563,5 +4563,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-27 16:00:03"
+    "started_at":  "2026-10-27 18:00:03"
 }
