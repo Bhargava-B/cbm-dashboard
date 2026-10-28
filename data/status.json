@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-28 17:34:19",
+    "generated_at":  "2026-10-28 19:38:16",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3300,8 +3300,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-10-28",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4217,8 +4217,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Bommarillu Cinemas":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-10-27",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-10-28",
                                                           "db_size_bytes":  null
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
@@ -4247,8 +4247,8 @@
                                                                         "db_size_bytes":  789692416
                                                                     },
                                "Sri Ramulamma Theatre - Thagarapuvalasa Vizag":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-10-27",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-10-28",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Surya Mahal AC Dolby Atmos - Srikakulam":  {
@@ -4332,8 +4332,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Balaji Picture Palace - Cherukupalli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-10-27",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-10-28",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateswara AC Dolby DTS - S Kota":  {
@@ -4563,5 +4563,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-28 16:00:03"
+    "started_at":  "2026-10-28 18:00:03"
 }
