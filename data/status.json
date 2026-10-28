@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-28 19:38:16",
+    "generated_at":  "2026-10-28 21:37:40",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1866,9 +1866,9 @@
                                                                  "db_size_bytes":  3535478784
                                                              },
                                "Vimala Theatre Varkala":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-10-27",
-                                                              "db_size_bytes":  1195188224
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-28",
+                                                              "db_size_bytes":  1197465600
                                                           },
                                "EVM Cinemas Kumily":  {
                                                           "status":  "ok",
@@ -3140,8 +3140,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-27",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-28",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3562,8 +3562,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Bhaskara Rama AC DTS - Palasa":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-10-27",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-28",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Apsara Cinema House - Vijayawada":  {
@@ -4547,8 +4547,8 @@
                                                                                "db_size_bytes":  3863924736
                                                                            },
                                "Vijayalakshmi Theater AC 4K Dolby - Kanuru":  {
-                                                                                  "status":  "missing",
-                                                                                  "last_backup":  "2026-10-27",
+                                                                                  "status":  "ok",
+                                                                                  "last_backup":  "2026-10-28",
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Sree Kanya Cinemas - Gajuwaka":  {
@@ -4563,5 +4563,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-28 18:00:03"
+    "started_at":  "2026-10-28 20:00:03"
 }
