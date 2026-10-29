@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-29 14:04:17",
+    "generated_at":  "2026-10-29 17:55:56",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3497,9 +3497,9 @@
                                                                               "db_size_bytes":  1431067136
                                                                           },
                                "Rajarathna Cinemax - Mandapeta":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-10-27",
-                                                                      "db_size_bytes":  2274148352
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-29",
+                                                                      "db_size_bytes":  2274742272
                                                                   },
                                "MS Tata Picture Palace AC DTS - Thagarapuvalasa":  {
                                                                                        "status":  "missing",
@@ -3512,9 +3512,9 @@
                                                                   "db_size_bytes":  548847616
                                                               },
                                "Annapoorna Theatre Pithapuram":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-10-27",
-                                                                     "db_size_bytes":  240373760
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-29",
+                                                                     "db_size_bytes":  235720704
                                                                  },
                                "Chalapathi Mini Theater - Tadepalligudem":  {
                                                                                 "status":  "missing",
@@ -4377,9 +4377,9 @@
                                                                                          "db_size_bytes":  1499287552
                                                                                      },
                                "Ganesh AC 2K Dolby - Thagarapuvalasa":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-10-27",
-                                                                            "db_size_bytes":  1340303872
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-10-29",
+                                                                            "db_size_bytes":  1345079808
                                                                         },
                                "G2V Theaters Ravi Priya Mall - Ongole":  {
                                                                              "status":  "missing",
@@ -4422,9 +4422,9 @@
                                                                "db_size_bytes":  null
                                                            },
                                "VPC Sri Kishore 2K Dolby - Ramachandrapuram":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-10-27",
-                                                                                   "db_size_bytes":  1235128320
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-10-29",
+                                                                                   "db_size_bytes":  1233829888
                                                                                },
                                "Sree Leela Mahal 4K Dolby Atmos - Vizag":  {
                                                                                "status":  "missing",
@@ -4563,5 +4563,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-29 12:00:03"
+    "started_at":  "2026-10-29 16:00:03"
 }
