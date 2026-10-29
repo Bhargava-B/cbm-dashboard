@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-29 19:55:33",
+    "generated_at":  "2026-10-29 21:50:04",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3140,8 +3140,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-28",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-29",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -4327,8 +4327,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "VPC 4K Dolby Atmos - Amalapuram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-10-27",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-29",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Balaji Picture Palace - Cherukupalli":  {
@@ -4563,5 +4563,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-29 18:00:03"
+    "started_at":  "2026-10-29 20:00:03"
 }
