@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-30 11:45:55",
+    "generated_at":  "2026-10-30 13:45:23",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -283,9 +283,9 @@
                                                                  "db_size_bytes":  970268672
                                                              },
                                "Rohini Jayanthy Cheyyur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-10-29",
-                                                               "db_size_bytes":  744214528
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-30",
+                                                               "db_size_bytes":  744804352
                                                            },
                                "Amman Cinemas":  {
                                                      "status":  "ok",
@@ -753,9 +753,9 @@
                                                                         "db_size_bytes":  4215947264
                                                                     },
                                "Divya Theatre Puducherry":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-10-29",
-                                                                "db_size_bytes":  387907584
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  375570432
                                                             },
                                "Raja Cinemas Perambalur":  {
                                                                "status":  "ok",
@@ -1706,9 +1706,9 @@
                                                                   "db_size_bytes":  1321914368
                                                               },
                                "Magic Frames Mehboob Kasaragod":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-10-29",
-                                                                      "db_size_bytes":  3312640000
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-30",
+                                                                      "db_size_bytes":  3312898048
                                                                   },
                                "MT Cineplex Pothancode":  {
                                                               "status":  "ok",
@@ -2561,9 +2561,9 @@
                                                                     "db_size_bytes":  2310205440
                                                                 },
                                "Thalam Theatre Wadakkancherry":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-10-29",
-                                                                     "db_size_bytes":  2028199936
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-30",
+                                                                     "db_size_bytes":  2026790912
                                                                  },
                                "Avishkar Cinemas Kottayi":  {
                                                                 "status":  "ok",
@@ -3275,8 +3275,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Srinivasa Theater - Kadugudi 4K Dolby Atmos":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-10-29",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-10-30",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Sri Vinayaka Cinemas 4K Dolby 7.1 (AC) Varthur":  {
@@ -4277,9 +4277,9 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Surya Cinemax - Ramachandrapuram":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-27",
-                                                                        "db_size_bytes":  672710656
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-30",
+                                                                        "db_size_bytes":  673038336
                                                                     },
                                "ABR Cinemas - Gudivada":  {
                                                               "status":  "ok",
@@ -4312,8 +4312,8 @@
                                                                                 "db_size_bytes":  3784929280
                                                                             },
                                "SV Talkies - Nindra":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-10-29",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-10-30",
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Srinivasa Theater AC DTS - Nallajerla":  {
@@ -4477,9 +4477,9 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Sri Srinivasa Mahal SS Max - Sompeta":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-10-28",
-                                                                            "db_size_bytes":  1988909568
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-10-30",
+                                                                            "db_size_bytes":  1988905472
                                                                         },
                                "Jagadamba Complex AC 4K Dolby Atmos - Vizag":  {
                                                                                    "status":  "ok",
@@ -4568,5 +4568,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-30 10:00:03"
+    "started_at":  "2026-10-30 12:00:03"
 }
