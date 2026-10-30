@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-30 17:18:05",
+    "generated_at":  "2026-10-30 19:43:45",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -845,7 +845,7 @@
                                "Sri Rajan Cinemas Chetpet":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-10-30",
-                                                                 "db_size_bytes":  497336320
+                                                                 "db_size_bytes":  498974720
                                                              },
                                "Kavitha Cinemas K G Chavadi":  {
                                                                    "status":  "missing",
@@ -1665,7 +1665,1161 @@
                                                                   }
                            },
                     "KL":  {
-
+                               "Sreelakshmi Cinema Amballur":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-30",
+                                                                   "db_size_bytes":  5339533312
+                                                               },
+                               "Aashirvad Cineplexx Piravom":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-30",
+                                                                   "db_size_bytes":  718983168
+                                                               },
+                               "Majestic Theatre Narakkal":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  5042597888
+                                                             },
+                               "Jos Theatre Thrissur":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-10-30",
+                                                            "db_size_bytes":  2070601728
+                                                        },
+                               "Padma Cinemas Kochi":  {
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-10-30",
+                                                           "db_size_bytes":  5759057920
+                                                       },
+                               "Magic Frames Downtown Thalasseri":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-30",
+                                                                        "db_size_bytes":  3882041344
+                                                                    },
+                               "GTracks Screen2 Trivandrum":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-30",
+                                                                  "db_size_bytes":  859885568
+                                                              },
+                               "Blue Moon Theatre Pulpally":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-30",
+                                                                  "db_size_bytes":  1321914368
+                                                              },
+                               "Magic Frames Mehboob Kasaragod":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-30",
+                                                                      "db_size_bytes":  3312898048
+                                                                  },
+                               "MT Cineplex Pothancode":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  580640768
+                                                          },
+                               "Sania Cinemas Eramallur":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-30",
+                                                               "db_size_bytes":  1885559296
+                                                           },
+                               "SreeDhanya Cinemax Kadakkal":  {
+                                                                   "status":  "missing",
+                                                                   "last_backup":  "2026-10-26",
+                                                                   "db_size_bytes":  928305152
+                                                               },
+                               "Matha Madhurya Theatre Aluva":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-30",
+                                                                    "db_size_bytes":  4258429440
+                                                                },
+                               "Anchani Cinemas 4K Pallickathodu":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-30",
+                                                                        "db_size_bytes":  2793402368
+                                                                    },
+                               "MAR Basil EVM Theatre Rajakumari":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-30",
+                                                                        "db_size_bytes":  844218368
+                                                                    },
+                               "Dream Cinemas Thodupuzha":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  969658368
+                                                            },
+                               "Kripa Movies Kurumassery":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  278708224
+                                                            },
+                               "Aashirvad Cineplexx Kadappra":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-30",
+                                                                    "db_size_bytes":  2852835328
+                                                                },
+                               "Saritha kochi":  {
+                                                     "status":  "ok",
+                                                     "last_backup":  "2026-10-30",
+                                                     "db_size_bytes":  157401088
+                                                 },
+                               "Devaki Cinemas Guruvayoor":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  733470720
+                                                             },
+                               "VB CINEMAS Thriprayar":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  5301157888
+                                                         },
+                               "MLal Aashirvad Cineplexx Shoranur":  {
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-10-30",
+                                                                         "db_size_bytes":  2710020096
+                                                                     },
+                               "C Cinema Chengannur":  {
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-10-30",
+                                                           "db_size_bytes":  3975016448
+                                                       },
+                               "Shanthi Cinemas Payyanur":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  3306668032
+                                                            },
+                               "Ramraj Movies Punalur":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  2085748736
+                                                         },
+                               "Ashok CNC 4K Dolby Vadakara":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-30",
+                                                                   "db_size_bytes":  3284750336
+                                                               },
+                               "Varsha Theatre Anchal":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  3846365184
+                                                         },
+                               "Manu DMAX Cinemas PUTHENVELIKKARA":  {
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-09-22",
+                                                                         "db_size_bytes":  468963328
+                                                                     },
+                               "Sagara Theatre Kattappana":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  2095471104
+                                                             },
+                               "Casino Talkies AC 2K 3D Aluva":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-30",
+                                                                     "db_size_bytes":  3106000896
+                                                                 },
+                               "Aswathy Cineplus Peringamala":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-30",
+                                                                    "db_size_bytes":  1400299520
+                                                                },
+                               "Sreekaleeswary Cinema Kodungallur":  {
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-10-30",
+                                                                         "db_size_bytes":  3803521024
+                                                                     },
+                               "Artech Cinemas Trivandrum":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  8033017856
+                                                             },
+                               "Bala cinemas Kalladikode":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  2848137216
+                                                            },
+                               "VGM Multiplex Theatre Kahangad":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-30",
+                                                                      "db_size_bytes":  3348230144
+                                                                  },
+                               "Chilanka Cinemas Thiruvalla":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-30",
+                                                                   "db_size_bytes":  108576768
+                                                               },
+                               "UGM Cinemas 4K Ettumanoor":  {
+                                                                 "status":  "missing",
+                                                                 "last_backup":  "2026-10-22",
+                                                                 "db_size_bytes":  6584061952
+                                                             },
+                               "Syndicate Cinemas Koppam":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  7277047808
+                                                            },
+                               "Chellam Cinemas puthur":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  392806400
+                                                          },
+                               "Archana Cineplex Payannur":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  3540725760
+                                                             },
+                               "Vimala Theatre Varkala":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  1187954688
+                                                          },
+                               "EVM Cinemas Kumily":  {
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-10-30",
+                                                          "db_size_bytes":  995151872
+                                                      },
+                               "Seethas Theatre Alappuzha":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  1390800896
+                                                             },
+                               "JB Cinemas 4K 3D Nallila":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  4177158144
+                                                            },
+                               "Aashirvad Cineplexx Perumbavoor":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-30",
+                                                                       "db_size_bytes":  1829756928
+                                                                   },
+                               "City Mall Cinemas Thamarassery":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-30",
+                                                                      "db_size_bytes":  2923425792
+                                                                  },
+                               "Ganam Cinema Thrissur":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  3004710912
+                                                         },
+                               "Aura Cinemas Mattanur":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  1707925504
+                                                         },
+                               "CNC V Cinemas Palakkad":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  1059516416
+                                                          },
+                               "Dream Cinema Kallachi":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  1642729472
+                                                         },
+                               "Deepa Movies Viyyur":  {
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-10-30",
+                                                           "db_size_bytes":  1027596288
+                                                       },
+                               "Trinity Movie Max Aishwarya Pathanamthitta":  {
+                                                                                  "status":  "ok",
+                                                                                  "last_backup":  "2026-10-30",
+                                                                                  "db_size_bytes":  4642172928
+                                                                              },
+                               "Pranavam Cinema Kollam":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  1940054016
+                                                          },
+                               "Deva Cinemas Peringottukara":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-30",
+                                                                   "db_size_bytes":  2744905728
+                                                               },
+                               "City Cinema Shivdam Kodakara":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-30",
+                                                                    "db_size_bytes":  600686592
+                                                                },
+                               "Mridhanga Cineplex Poovar":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  830984192
+                                                             },
+                               "Rani Talkies Nedumangadu":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  6381527040
+                                                            },
+                               "Four Star Movies Manjapra":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  3731083264
+                                                             },
+                               "Krishna Theatre Kazhakkoottam":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-30",
+                                                                     "db_size_bytes":  550486016
+                                                                 },
+                               "New Ragam Theatre Wadakkancherry":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-30",
+                                                                        "db_size_bytes":  1285603328
+                                                                    },
+                               "Sarita Cinema Kochi":  {
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-10-30",
+                                                           "db_size_bytes":  5727621120
+                                                       },
+                               "Ladder Cinemas Manjeri":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  1201033216
+                                                          },
+                               "Vanitha Movie House Kochi":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  8037985792
+                                                             },
+                               "Anupama Theatre Kottayam":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  2392580096
+                                                            },
+                               "J MAX Gejo Theatre Pattimattom":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-30",
+                                                                      "db_size_bytes":  2203512832
+                                                                  },
+                               "MLal Aashirvad Cineplexx Haripad":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-30",
+                                                                        "db_size_bytes":  3147952128
+                                                                    },
+                               "Swathy Screens Nooranad":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-30",
+                                                               "db_size_bytes":  3062519296
+                                                           },
+                               "Karthika Fun Movies Thalikulam":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-30",
+                                                                      "db_size_bytes":  661897216
+                                                                  },
+                               "Harisree Theatre Kazhakuttom":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-30",
+                                                                    "db_size_bytes":  2262329856
+                                                                },
+                               "Mas Movies Irinjalakuda":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-30",
+                                                               "db_size_bytes":  2130046976
+                                                           },
+                               "Sree Sailom Cine House Kadakkal":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-30",
+                                                                       "db_size_bytes":  1470226432
+                                                                   },
+                               "New Theatre Trivandrum":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  6383812608
+                                                          },
+                               "SV Cinemas Kayamkulam":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  2257641472
+                                                         },
+                               "CKM Victory Cinemas Peringottukurussi":  {
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-10-30",
+                                                                             "db_size_bytes":  1571872768
+                                                                         },
+                               "New theatre puthunagaram":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  379699200
+                                                            },
+                               "Rajans Metro Theatre Erattupetta":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-30",
+                                                                        "db_size_bytes":  1356185600
+                                                                    },
+                               "Kalabhavan Theater Trivandrum":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-30",
+                                                                     "db_size_bytes":  2199961600
+                                                                 },
+                               "Cheloor Grand Cinemas Cherpulassery":  {
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-10-30",
+                                                                           "db_size_bytes":  2105532416
+                                                                       },
+                               "JM Movies Josh Mall Mookkannoor":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-30",
+                                                                       "db_size_bytes":  2459893760
+                                                                   },
+                               "K Cinemas TrippleBeam 3D Ayyampilly":  {
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-10-30",
+                                                                           "db_size_bytes":  3598172160
+                                                                       },
+                               "PAN CINEMAS Maradu":  {
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-10-30",
+                                                          "db_size_bytes":  873813504
+                                                      },
+                               "Alex Movies Pattambi":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-10-30",
+                                                            "db_size_bytes":  2472022016
+                                                        },
+                               "Sai Cineplexx Oachira":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  922771968
+                                                         },
+                               "GMax Utsav Kollam":  {
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-10-30",
+                                                         "db_size_bytes":  2316951552
+                                                     },
+                               "Shenoys Kochi":  {
+                                                     "status":  "ok",
+                                                     "last_backup":  "2026-10-30",
+                                                     "db_size_bytes":  6509211648
+                                                 },
+                               "Liberty Cinema Kannur":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  1104535552
+                                                         },
+                               "Nice Movie House Thalayolaparambu":  {
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-10-30",
+                                                                         "db_size_bytes":  1666109440
+                                                                     },
+                               "Ladder Cinemas Ottapalam":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  1589612544
+                                                            },
+                               "Universal Theatre Pala":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  3224977408
+                                                          },
+                               "HighStreet Cinemas Muvattupuzha":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-30",
+                                                                       "db_size_bytes":  275435520
+                                                                   },
+                               "SN Theatre Haripad":  {
+                                                          "status":  "missing",
+                                                          "last_backup":  "2026-10-12",
+                                                          "db_size_bytes":  1979236352
+                                                      },
+                               "G Cinemas Fort Kochi":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-10-30",
+                                                            "db_size_bytes":  3550425088
+                                                        },
+                               "Ajanta Theatre 70mm Trivandrum":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-30",
+                                                                      "db_size_bytes":  1002098688
+                                                                  },
+                               "G Cinemas Kothamangalam":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-30",
+                                                               "db_size_bytes":  1993461760
+                                                           },
+                               "Pankaj Theatre Alappuzha":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  658296832
+                                                            },
+                               "Priyadarshini Cinema Palakkad":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-30",
+                                                                     "db_size_bytes":  2117229056
+                                                                 },
+                               "Shivadam Cinemas Urakam":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-30",
+                                                               "db_size_bytes":  4238942208
+                                                           },
+                               "NVP Cinema Oyoor":  {
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-10-30",
+                                                        "db_size_bytes":  1520300032
+                                                    },
+                               "Krishna Theatre Karunagapally":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-30",
+                                                                     "db_size_bytes":  890441728
+                                                                 },
+                               "Aashirvad Cineplexx Thodupuzha":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-30",
+                                                                      "db_size_bytes":  3574300672
+                                                                  },
+                               "Aashirvad Cineplexx Pathanapuram":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-30",
+                                                                        "db_size_bytes":  2065944576
+                                                                    },
+                               "Anand Theatre kottayam":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  532004864
+                                                          },
+                               "Dhanya Remya Kottayam":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  1499979776
+                                                         },
+                               "Shafas Grand 4K North Paravur":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-30",
+                                                                     "db_size_bytes":  3160604672
+                                                                 },
+                               "Kirthi Mudra Vadakara":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  3562455040
+                                                         },
+                               "EVM Cinemas Perambavoor":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-30",
+                                                               "db_size_bytes":  3379101696
+                                                           },
+                               "GTracks Screen 1 Kadinamkulam":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-30",
+                                                                     "db_size_bytes":  1570230272
+                                                                 },
+                               "ARC Coronation Kozhikode":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  4025896960
+                                                            },
+                               "Aura Cinemas Peravoor":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  2099991040
+                                                         },
+                               "Magic Frames Devi Cinemas Cherpulassery":  {
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-10-30",
+                                                                               "db_size_bytes":  621924352
+                                                                           },
+                               "Deva Cinemas Punalur":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-10-30",
+                                                            "db_size_bytes":  773505024
+                                                        },
+                               "SS cinemas mananthavady":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-30",
+                                                               "db_size_bytes":  496553984
+                                                           },
+                               "SMB Complex Kaliyikkavila":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  2412437504
+                                                             },
+                               "Partha Movie House Kollam":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  3762020352
+                                                             },
+                               "Bosco Cinemas Kuravilangad":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-30",
+                                                                  "db_size_bytes":  1831059456
+                                                              },
+                               "Ganam Theatre Kattanam":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  557240320
+                                                          },
+                               "New Central Talkies Thripunnithura":  {
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-10-30",
+                                                                          "db_size_bytes":  4406009856
+                                                                      },
+                               "TMAX Cineplex Goolikkadavu":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-30",
+                                                                  "db_size_bytes":  751747072
+                                                              },
+                               "SA Multiplex Pulluvila":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  1004126208
+                                                          },
+                               "IMP Big Screen 2K 3D Parassala":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-30",
+                                                                      "db_size_bytes":  801882112
+                                                                  },
+                               "Dreams Theatre Attingal":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-30",
+                                                               "db_size_bytes":  3276861440
+                                                           },
+                               "M Cinema Varapuzha":  {
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-10-30",
+                                                          "db_size_bytes":  3741122560
+                                                      },
+                               "Aroma Theatre Palakkad":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  5494149120
+                                                          },
+                               "Jos Theatre  Pala":  {
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-10-30",
+                                                         "db_size_bytes":  2301607936
+                                                     },
+                               "Paradise Cinema Cherthala":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  3899441152
+                                                             },
+                               "EVM Cinemas Fort Kochi":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  62177280
+                                                          },
+                               "Surya Theatre Erattupetta":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  2280456192
+                                                             },
+                               "SP Cinemas Peyad":  {
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-10-30",
+                                                        "db_size_bytes":  1784016896
+                                                    },
+                               "Anurag Cinema Shoranur":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  2366488576
+                                                          },
+                               "S Cinemas Konni":  {
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-10-30",
+                                                       "db_size_bytes":  772784128
+                                                   },
+                               "GMAX Cinema Kollam":  {
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-10-30",
+                                                          "db_size_bytes":  2909519872
+                                                      },
+                               "Aashirvad Cineplexx Kozhikode":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-30",
+                                                                     "db_size_bytes":  1982468096
+                                                                 },
+                               "Sri Kalidas M Plex Kattakada":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-30",
+                                                                    "db_size_bytes":  2640933376
+                                                                },
+                               "Star Cinema ROCKY Varkkala":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-30",
+                                                                  "db_size_bytes":  1138381312
+                                                              },
+                               "Ariesplex Cinema Punalur":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  727564288
+                                                            },
+                               "Classic Crown Cinema Taliparamba":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-30",
+                                                                        "db_size_bytes":  2544720384
+                                                                    },
+                               "Liberty Cinema Thalasherry":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-30",
+                                                                  "db_size_bytes":  1144905728
+                                                              },
+                               "Goodwill cinemas Kallara":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  1699581952
+                                                            },
+                               "Rockys moviemax Kilimanoor":  {
+                                                                  "status":  "missing",
+                                                                  "last_backup":  "2026-10-23",
+                                                                  "db_size_bytes":  454905856
+                                                              },
+                               "Aashirvad Cineplexx Kottiyam":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-30",
+                                                                    "db_size_bytes":  3035201536
+                                                                },
+                               "Zeenath Theatre Aluva":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  3351961600
+                                                         },
+                               "Central Talkies Tripunithura":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-30",
+                                                                    "db_size_bytes":  5254418432
+                                                                },
+                               "Veena Varna Theatre Mananthavady":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-30",
+                                                                        "db_size_bytes":  851759104
+                                                                    },
+                               "VINAYAKA THEATRE COMPLEX Kanhangad":  {
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-10-30",
+                                                                          "db_size_bytes":  1238691840
+                                                                      },
+                               "D Cinema Kodungallur":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-10-30",
+                                                            "db_size_bytes":  2304342528
+                                                        },
+                               "Sree Devi Durga V Cinemas Palakkad":  {
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-10-30",
+                                                                          "db_size_bytes":  2932355072
+                                                                      },
+                               "Abhilash Aasha Ananth Kottayam":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-30",
+                                                                      "db_size_bytes":  10332200960
+                                                                  },
+                               "Velvet View Cinema Kumarakom":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-30",
+                                                                    "db_size_bytes":  1447227392
+                                                                },
+                               "KRV Movies Kottayi":  {
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-10-30",
+                                                          "db_size_bytes":  847167488
+                                                      },
+                               "RD Cinema Mundakayam":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-10-30",
+                                                            "db_size_bytes":  3470393344
+                                                        },
+                               "Magic Frames Pattambi":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  2056175616
+                                                         },
+                               "Greenfield Moviemax Trivandrum":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-30",
+                                                                      "db_size_bytes":  2588098560
+                                                                  },
+                               "Deepthi Cinemas Kanhangad":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  2247950336
+                                                             },
+                               "EVM Latha Theatre Muvattupuzha":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-30",
+                                                                      "db_size_bytes":  2881150976
+                                                                  },
+                               "JK Cinemas Irinjalakuda":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-30",
+                                                               "db_size_bytes":  2269564928
+                                                           },
+                               "Thangaraj Theatre Kollengode":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-30",
+                                                                    "db_size_bytes":  304533504
+                                                                },
+                               "JK Cinemas Thriprayar":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  4362264576
+                                                         },
+                               "Dreamax E cinemas mayannur":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-30",
+                                                                  "db_size_bytes":  240435200
+                                                              },
+                               "Shadow Cinema Pazhayannur":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  3021012992
+                                                             },
+                               "Revathy Cinemax Paripally":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  5904834560
+                                                             },
+                               "SKM Cinemas Kalluvathukkal":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-30",
+                                                                  "db_size_bytes":  70107136
+                                                              },
+                               "Sree Padmanabha Trivandrum":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-30",
+                                                                  "db_size_bytes":  3457908736
+                                                              },
+                               "HK Cinema Pothencode":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-10-30",
+                                                            "db_size_bytes":  1917803008
+                                                        },
+                               "Krishna Cineplex Pattambi":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  2542325760
+                                                             },
+                               "Sneha Cinema Alathur":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-10-30",
+                                                            "db_size_bytes":  1551294464
+                                                        },
+                               "Vaishaka Cine House Attingal":  {
+                                                                    "status":  "missing",
+                                                                    "last_backup":  "2026-10-29",
+                                                                    "db_size_bytes":  114868224
+                                                                },
+                               "Kaveri Cinemas Karmamthody":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-30",
+                                                                  "db_size_bytes":  2032058368
+                                                              },
+                               "Penta Cinemas Pulpally":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  2116685824
+                                                          },
+                               "E Max Cinemas RGB Laser Calicut":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-30",
+                                                                       "db_size_bytes":  4735393792
+                                                                   },
+                               "Aishwarya Cinema Kattappana":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-30",
+                                                                   "db_size_bytes":  3140337664
+                                                               },
+                               "Santosh Sandra Vallakali Mavelikkara":  {
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-10-30",
+                                                                            "db_size_bytes":  1108983808
+                                                                        },
+                               "Apsara Theatre Changanassery":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-30",
+                                                                    "db_size_bytes":  2516049920
+                                                                },
+                               "SR Cinema Varkkala":  {
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-10-30",
+                                                          "db_size_bytes":  301645824
+                                                      },
+                               "Jass theatre ottapalam":  {
+                                                              "status":  "missing",
+                                                              "last_backup":  "2026-06-23",
+                                                              "db_size_bytes":  98418688
+                                                          },
+                               "Ramdas Movie House Thrissur":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-30",
+                                                                   "db_size_bytes":  3595010560
+                                                               },
+                               "Dhanya Remya Kollam":  {
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-10-30",
+                                                           "db_size_bytes":  2518020096
+                                                       },
+                               "Baby Cinemas Kuthuparamba":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  3362197504
+                                                             },
+                               "Lakshmi Cinemas 4K RGB Kodungallur":  {
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-10-30",
+                                                                          "db_size_bytes":  2876174336
+                                                                      },
+                               "Alinkeel Cinemas Taliparamba":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-30",
+                                                                    "db_size_bytes":  2310205440
+                                                                },
+                               "Thalam Theatre Wadakkancherry":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-30",
+                                                                     "db_size_bytes":  2026790912
+                                                                 },
+                               "Avishkar Cinemas Kottayi":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  2216493056
+                                                            },
+                               "Silver Hills Cinema Thodupuzha":  {
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-10-30",
+                                                                      "db_size_bytes":  2975133696
+                                                                  },
+                               "Ashoka Theatre Vadanapally":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-30",
+                                                                  "db_size_bytes":  637583360
+                                                              },
+                               "Sreedevi S Cinemas Kodaly":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  1285079040
+                                                             },
+                               "Dhanya Remya Pathanamthitta":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-30",
+                                                                   "db_size_bytes":  2366619648
+                                                               },
+                               "Anchani cinemas karukachal":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-30",
+                                                                  "db_size_bytes":  743628800
+                                                              },
+                               "G Cinemax Multiplex Nedumkandam":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-30",
+                                                                       "db_size_bytes":  2114248704
+                                                                   },
+                               "Lenin Cinemas KSFDC  Trivandrum":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-30",
+                                                                       "db_size_bytes":  1391579136
+                                                                   },
+                               "VKG Cinemas Pavaratty":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  1136521216
+                                                         },
+                               "EVM Grand Cinemas Cherthala":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-30",
+                                                                   "db_size_bytes":  2477850624
+                                                               },
+                               "AK Cinepalace Cherupuzha":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  591249408
+                                                            },
+                               "EVM Matha Theatre Adimali":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  1878331392
+                                                             },
+                               "Sridar Cinema Ernakulum":  {
+                                                               "status":  "missing",
+                                                               "last_backup":  "2026-09-30",
+                                                               "db_size_bytes":  2338967552
+                                                           },
+                               "Santhosh Cinema Kattappana":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-30",
+                                                                  "db_size_bytes":  508319232
+                                                              },
+                               "Swaram Layam Cinema Kattakada":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-30",
+                                                                     "db_size_bytes":  2031935488
+                                                                 },
+                               "Ariesplex SL Cinemas Trivandrum":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-30",
+                                                                       "db_size_bytes":  3249829376
+                                                                   },
+                               "One2One Plus Film City Vadakara":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-30",
+                                                                       "db_size_bytes":  1408368640
+                                                                   },
+                               "Moviemax Circle Kasaragod":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  4127072256
+                                                             },
+                               "Geetha Cinemax Kozhinjampara":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-30",
+                                                                    "db_size_bytes":  812572672
+                                                                },
+                               "Anu Cinemax Nellimoodu":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  827125760
+                                                          },
+                               "Gavi Galaxy cinemas Seethathodu":  {
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-10-30",
+                                                                       "db_size_bytes":  168673280
+                                                                   },
+                               "SJ G Cinemas Ulikkal":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-10-30",
+                                                            "db_size_bytes":  3219120128
+                                                        },
+                               "Aashirvaad Cineplexx Muvattupuzha":  {
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-10-30",
+                                                                         "db_size_bytes":  2749459968
+                                                                     },
+                               "Kavitha Theatre Ernakulam":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  4196716544
+                                                             },
+                               "Ann Cinema Complex Kothamangalam":  {
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-30",
+                                                                        "db_size_bytes":  4106747904
+                                                                    },
+                               "The Crown Theatre Calicut":  {
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-10-30",
+                                                                 "db_size_bytes":  582533120
+                                                             },
+                               "VB Cinemas Ambalappuzha":  {
+                                                               "status":  "missing",
+                                                               "last_backup":  "2026-10-29",
+                                                               "db_size_bytes":  302301184
+                                                           },
+                               "Mars Cinemas Changaramkulam":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-30",
+                                                                   "db_size_bytes":  4115726336
+                                                               },
+                               "Dhanya Remya Changanassery":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-30",
+                                                                  "db_size_bytes":  2128605184
+                                                              },
+                               "Mint Cinemas Sulthan Bathery":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-30",
+                                                                    "db_size_bytes":  3424632832
+                                                                },
+                               "Surya Multiplex Nedumangad":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-30",
+                                                                  "db_size_bytes":  2186076160
+                                                              },
+                               "Ganga Complex Attingal":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  2162851328
+                                                          },
+                               "Thai Lakshmi Cinema Punalur":  {
+                                                                   "status":  "missing",
+                                                                   "last_backup":  "2026-10-29",
+                                                                   "db_size_bytes":  1377157120
+                                                               },
+                               "Alakode Film City Alakkode":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-10-30",
+                                                                  "db_size_bytes":  4577038336
+                                                              },
+                               "Rajadhani Theatre Payyannur":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-30",
+                                                                   "db_size_bytes":  243056640
+                                                               },
+                               "Usha AC Cinema Kollam":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-10-30",
+                                                             "db_size_bytes":  1574498304
+                                                         },
+                               "Kairali Sree Theatre Thrissur":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-30",
+                                                                     "db_size_bytes":  1031856128
+                                                                 },
+                               "Sumangali cinemas Payyannur":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-30",
+                                                                   "db_size_bytes":  436781056
+                                                               },
+                               "Veechee Cinema Edacheri":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-30",
+                                                               "db_size_bytes":  393531392
+                                                           },
+                               "Ragam Theatre Thrissur":  {
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-10-30",
+                                                              "db_size_bytes":  8779517952
+                                                          },
+                               "Dhanalakshmi Cinemas Nenmara":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-30",
+                                                                    "db_size_bytes":  1392762880
+                                                                },
+                               "Fun Movies Thrissur":  {
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-10-30",
+                                                           "db_size_bytes":  2402962944
+                                                       },
+                               "B Cinemas Vylathoor":  {
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-10-30",
+                                                           "db_size_bytes":  1236848640
+                                                       },
+                               "Devi Cinemas Perumpuzha":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-30",
+                                                               "db_size_bytes":  276152320
+                                                           },
+                               "Ashok cine house Paravur":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-10-30",
+                                                                "db_size_bytes":  1353367552
+                                                            },
+                               "Simla Brahmakulam Theatre Kanjany":  {
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-10-30",
+                                                                         "db_size_bytes":  2714918400
+                                                                     },
+                               "Seema Cineplex Pathanapuram":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-30",
+                                                                   "db_size_bytes":  1815465984
+                                                               },
+                               "Sathya Movie House Palakkad":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-30",
+                                                                   "db_size_bytes":  2568273920
+                                                               },
+                               "Thapasya Cine House Attingal":  {
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-30",
+                                                                    "db_size_bytes":  1435484160
+                                                                },
+                               "Abhinaya Anu Theatre Kottayam":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-10-30",
+                                                                     "db_size_bytes":  8315121664
+                                                                 },
+                               "Sindhu Cinema Venjarammoodu":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-10-30",
+                                                                   "db_size_bytes":  977264640
+                                                               }
                            },
                     "SL":  {
                                "SAS Cinema Trincomale":  {
@@ -2146,8 +3300,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-10-30",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3414,5 +4568,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-30 16:00:03"
+    "started_at":  "2026-10-30 18:00:03"
 }
