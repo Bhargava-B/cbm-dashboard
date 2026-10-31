@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-31 15:39:15",
+    "generated_at":  "2026-10-31 17:45:20",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3532,9 +3532,9 @@
                                                    "db_size_bytes":  null
                                                },
                                "Surya Cinemax - Draksharamam":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-10-30",
-                                                                    "db_size_bytes":  582795264
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-10-31",
+                                                                    "db_size_bytes":  582991872
                                                                 },
                                "Sri Anu Deluxe - Agiripalli":  {
                                                                    "status":  "missing",
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-31 14:00:03"
+    "started_at":  "2026-10-31 16:00:03"
 }
