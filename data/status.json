@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-10-31 11:42:03",
+    "generated_at":  "2026-10-31 13:39:37",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -283,9 +283,9 @@
                                                                  "db_size_bytes":  970858496
                                                              },
                                "Rohini Jayanthy Cheyyur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-10-30",
-                                                               "db_size_bytes":  744804352
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-10-31",
+                                                               "db_size_bytes":  745062400
                                                            },
                                "Amman Cinemas":  {
                                                      "status":  "ok",
@@ -3275,8 +3275,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Srinivasa Theater - Kadugudi 4K Dolby Atmos":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-10-30",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-10-31",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Sri Vinayaka Cinemas 4K Dolby 7.1 (AC) Varthur":  {
@@ -3702,8 +3702,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Sowmya Theatre Chittinagar - Vijayawada":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-10-30",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-10-31",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
@@ -3867,8 +3867,8 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Aditya Theatre AC DTS - Vizianagaram":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-10-30",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-10-31",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Satyanarayana Picture Palace AC DTS - Anakapalle":  {
@@ -3917,8 +3917,8 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Balaji Iconia":  {
-                                                     "status":  "missing",
-                                                     "last_backup":  "2026-10-29",
+                                                     "status":  "ok",
+                                                     "last_backup":  "2026-10-31",
                                                      "db_size_bytes":  null
                                                  },
                                "J and J Cinemas AC Dolby Atmos - Pathapatnam":  {
@@ -4277,9 +4277,9 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Surya Cinemax - Ramachandrapuram":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-10-30",
-                                                                        "db_size_bytes":  673038336
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-10-31",
+                                                                        "db_size_bytes":  673759232
                                                                     },
                                "ABR Cinemas - Gudivada":  {
                                                               "status":  "ok",
@@ -4568,5 +4568,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-10-31 10:00:03"
+    "started_at":  "2026-10-31 12:00:03"
 }
