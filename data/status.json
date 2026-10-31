@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-01 01:37:30",
+    "generated_at":  "2026-11-01 03:33:11",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -323,9 +323,9 @@
                                                                         "db_size_bytes":  575792640
                                                                     },
                                "Rohini Swasthik Tindivanam":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-10-31",
-                                                                  "db_size_bytes":  1001906176
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-11-01",
+                                                                  "db_size_bytes":  1003941888
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "missing",
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-01 00:00:03"
+    "started_at":  "2026-11-01 02:00:03"
 }
