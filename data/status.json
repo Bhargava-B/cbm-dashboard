@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-02 09:37:20",
+    "generated_at":  "2026-11-02 11:48:00",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -568,9 +568,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "ARK Ram Muthuram Cinemas Tirunelveli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-01",
-                                                                            "db_size_bytes":  559337472
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-02",
+                                                                            "db_size_bytes":  565227520
                                                                         },
                                "Priya Complex Dolby Atmos Madurai":  {
                                                                          "status":  "ok",
@@ -988,9 +988,9 @@
                                                                    "db_size_bytes":  7816178176
                                                                },
                                "Hari Theatre Pattabiram Chennai":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-11-01",
-                                                                       "db_size_bytes":  230674432
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-11-02",
+                                                                       "db_size_bytes":  232181760
                                                                    },
                                "Umaa Rajendra Cinemas 4K Dindigul":  {
                                                                          "status":  "ok",
@@ -2251,9 +2251,9 @@
                                                                           "db_size_bytes":  4394520576
                                                                       },
                                "TMAX Cineplex Goolikkadavu":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-11-01",
-                                                                  "db_size_bytes":  753913856
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-11-02",
+                                                                  "db_size_bytes":  755097600
                                                               },
                                "SA Multiplex Pulluvila":  {
                                                               "status":  "ok",
@@ -2843,9 +2843,9 @@
                                                                  "db_size_bytes":  2912514048
                                                              },
                                "Amity Lite Maharagama":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-01",
-                                                             "db_size_bytes":  2438250496
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-02",
+                                                             "db_size_bytes":  2437660672
                                                          },
                                "Regal Cinema Polonnaruwa":  {
                                                                 "status":  "ok",
@@ -4487,9 +4487,9 @@
                                                                             "db_size_bytes":  1999741440
                                                                         },
                                "Jagadamba Complex AC 4K Dolby Atmos - Vizag":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-11-01",
-                                                                                   "db_size_bytes":  5600047104
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-11-02",
+                                                                                   "db_size_bytes":  5619933184
                                                                                },
                                "Rain Cinema - Nellore":  {
                                                              "status":  "ok",
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-02 08:00:03"
+    "started_at":  "2026-11-02 10:00:03"
 }
