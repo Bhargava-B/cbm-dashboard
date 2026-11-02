@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-02 17:43:05",
+    "generated_at":  "2026-11-02 19:47:59",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3305,8 +3305,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-11-02",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3772,8 +3772,8 @@
                                                                 "db_size_bytes":  742322176
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-11-01",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-11-02",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Kameswari and Kinnera AC Laser 4K - Maddilapalem":  {
@@ -3807,8 +3807,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Si Rajeswari Kalamandir - Narsannapeta":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-01",
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-02",
                                                                               "db_size_bytes":  null
                                                                           },
                                "Mohini Cinemas Dolby Atmos - Gajuwaka":  {
@@ -3927,8 +3927,8 @@
                                                      "db_size_bytes":  null
                                                  },
                                "J and J Cinemas AC Dolby Atmos - Pathapatnam":  {
-                                                                                    "status":  "missing",
-                                                                                    "last_backup":  "2026-11-01",
+                                                                                    "status":  "ok",
+                                                                                    "last_backup":  "2026-11-02",
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Suryapalace 2K Dolby Atmos - Rajahmundry":  {
@@ -4047,8 +4047,8 @@
                                                                                           "db_size_bytes":  1580617728
                                                                                       },
                                "Vishnu Mahal Theater - Puttur":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-11-01",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-11-02",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Vijaya Mahal Theater AC DTS - Mandapeta":  {
@@ -4062,8 +4062,8 @@
                                                                    "db_size_bytes":  2549010432
                                                                },
                                "Jamuna Complex - Podalakur":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-10-30",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-11-02",
                                                                   "db_size_bytes":  null
                                                               },
                                "SLN Multiplex - Adda Road":  {
@@ -4107,8 +4107,8 @@
                                                                  "db_size_bytes":  2388631552
                                                              },
                                "Sailaja - Vijayawada":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-11-01",
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-11-02",
                                                             "db_size_bytes":  null
                                                         },
                                "Vijaya Theater - Nandigama":  {
@@ -4452,9 +4452,9 @@
                                                                         "db_size_bytes":  null
                                                                     },
                                "Sree Uma Max 2K Dolby Atmos - Pathapatnam":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-11-01",
-                                                                                 "db_size_bytes":  329109504
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-11-02",
+                                                                                 "db_size_bytes":  331468800
                                                                              },
                                "SreeKanya Theatre 4K Dolby Atmos - Rly New Colony":  {
                                                                                          "status":  "ok",
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-02 16:00:03"
+    "started_at":  "2026-11-02 18:00:03"
 }
