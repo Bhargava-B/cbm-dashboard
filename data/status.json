@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-02 11:48:00",
+    "generated_at":  "2026-11-02 13:48:50",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -283,9 +283,9 @@
                                                                  "db_size_bytes":  973152256
                                                              },
                                "Rohini Jayanthy Cheyyur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-01",
-                                                               "db_size_bytes":  745586688
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-02",
+                                                               "db_size_bytes":  746573824
                                                            },
                                "Amman Cinemas":  {
                                                      "status":  "ok",
@@ -1716,9 +1716,9 @@
                                                               "db_size_bytes":  583917568
                                                           },
                                "Sania Cinemas Eramallur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-01",
-                                                               "db_size_bytes":  1888969216
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-02",
+                                                               "db_size_bytes":  1893556736
                                                            },
                                "SreeDhanya Cinemax Kadakkal":  {
                                                                    "status":  "missing",
@@ -2156,9 +2156,9 @@
                                                         "db_size_bytes":  1514520576
                                                     },
                                "Krishna Theatre Karunagapally":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-11-01",
-                                                                     "db_size_bytes":  892997632
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-11-02",
+                                                                     "db_size_bytes":  894312448
                                                                  },
                                "Aashirvad Cineplexx Thodupuzha":  {
                                                                       "status":  "ok",
@@ -3280,8 +3280,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Srinivasa Theater - Kadugudi 4K Dolby Atmos":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-11-01",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-11-02",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Sri Vinayaka Cinemas 4K Dolby 7.1 (AC) Varthur":  {
@@ -3430,8 +3430,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-11-01",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-11-02",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3727,8 +3727,8 @@
                                                                         "db_size_bytes":  499372032
                                                                     },
                                "VN Palace Veeranarayana - Tanuku":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-11-01",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-02",
                                                                         "db_size_bytes":  null
                                                                     },
                                "SJ Cinemas Sreenivasa - Nagari":  {
@@ -3802,8 +3802,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Venkateswara Theater(Anusri Cinemas): Pithapuram":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-11-01",
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-11-02",
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Si Rajeswari Kalamandir - Narsannapeta":  {
@@ -4187,8 +4187,8 @@
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Srinivasa Cine Complex":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-10-27",
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-11-02",
                                                               "db_size_bytes":  null
                                                           },
                                "Narasimha Sri Narasimha: Gopalapatnam":  {
@@ -4342,8 +4342,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Balaji Picture Palace - Cherukupalli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-01",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-02",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateswara AC Dolby DTS - S Kota":  {
@@ -4432,9 +4432,9 @@
                                                                "db_size_bytes":  null
                                                            },
                                "VPC Sri Kishore 2K Dolby - Ramachandrapuram":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-11-01",
-                                                                                   "db_size_bytes":  1239728128
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-11-02",
+                                                                                   "db_size_bytes":  1244037120
                                                                                },
                                "Sree Leela Mahal 4K Dolby Atmos - Vizag":  {
                                                                                "status":  "ok",
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-02 10:00:03"
+    "started_at":  "2026-11-02 12:00:03"
 }
