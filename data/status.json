@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-03 19:46:41",
+    "generated_at":  "2026-11-03 21:43:25",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3145,8 +3145,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-11-02",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-11-03",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3662,9 +3662,9 @@
                                                                "db_size_bytes":  1022939136
                                                            },
                                "PGR Theater - Tirupati":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-11-02",
-                                                              "db_size_bytes":  3465146368
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-11-03",
+                                                              "db_size_bytes":  3470581760
                                                           },
                                "Muralikrishna Cinema AC 4K 3D":  {
                                                                      "status":  "missing",
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-03 18:00:03"
+    "started_at":  "2026-11-03 20:00:03"
 }
