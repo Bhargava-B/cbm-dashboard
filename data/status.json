@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-03 15:48:32",
+    "generated_at":  "2026-11-03 17:47:57",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -4482,9 +4482,9 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Sri Srinivasa Mahal SS Max - Sompeta":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-02",
-                                                                            "db_size_bytes":  1999741440
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-03",
+                                                                            "db_size_bytes":  1984383488
                                                                         },
                                "Jagadamba Complex AC 4K Dolby Atmos - Vizag":  {
                                                                                    "status":  "ok",
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-03 14:00:03"
+    "started_at":  "2026-11-03 16:00:03"
 }
