@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-03 21:43:25",
+    "generated_at":  "2026-11-03 23:41:03",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -523,8 +523,8 @@
                                                                "db_size_bytes":  2451755008
                                                            },
                                "Ganapathyram Cinema":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-11-02",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-11-03",
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Bhagavathi 4K Atmos Poonamallee":  {
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-03 20:00:03"
+    "started_at":  "2026-11-03 22:00:03"
 }
