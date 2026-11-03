@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-03 09:42:25",
+    "generated_at":  "2026-11-03 11:47:03",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -23,9 +23,9 @@
                                                                   "db_size_bytes":  1751769088
                                                               },
                                "Pavalam Theatre Periyakulam":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-11-02",
-                                                                   "db_size_bytes":  1178324992
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-11-03",
+                                                                   "db_size_bytes":  1182846976
                                                                },
                                "Venkateswara Cinemas Kundrathur":  {
                                                                        "status":  "ok",
@@ -568,9 +568,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "ARK Ram Muthuram Cinemas Tirunelveli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-02",
-                                                                            "db_size_bytes":  565227520
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-03",
+                                                                            "db_size_bytes":  559730688
                                                                         },
                                "Priya Complex Dolby Atmos Madurai":  {
                                                                          "status":  "ok",
@@ -1252,9 +1252,9 @@
                                                                         "db_size_bytes":  2901667840
                                                                     },
                                   "Asian Sridevi Multiplex - Hanumakonda":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-11-01",
-                                                                                "db_size_bytes":  9168154624
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-11-03",
+                                                                                "db_size_bytes":  8996900864
                                                                             },
                                   "Asian Srinivasa Theater - Miryalaguda":  {
                                                                                 "status":  "ok",
@@ -2843,9 +2843,9 @@
                                                                  "db_size_bytes":  2911227904
                                                              },
                                "Amity Lite Maharagama":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-02",
-                                                             "db_size_bytes":  2437660672
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-03",
+                                                             "db_size_bytes":  2438184960
                                                          },
                                "Regal Cinema Polonnaruwa":  {
                                                                 "status":  "ok",
@@ -2935,8 +2935,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-01",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-03",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -3562,8 +3562,8 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "Sree Devi Picture Palace - Narasannapeta":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-11-02",
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-11-03",
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Bhaskara Rama AC DTS - Palasa":  {
@@ -3942,8 +3942,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Sudharshan AC DTS - Kanigiri":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-02",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-03",
                                                                     "db_size_bytes":  null
                                                                 },
                                "Satyam AC 4K Dolby Atmos - Ongole":  {
@@ -4002,9 +4002,9 @@
                                                                                            "db_size_bytes":  5349923328
                                                                                        },
                                "Sri Devi Mahal - Amadalavalasa":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-11-02",
-                                                                      "db_size_bytes":  418381824
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-11-03",
+                                                                      "db_size_bytes":  409960448
                                                                   },
                                "Srinivasa Theater AC 2K Dolby - Markapur":  {
                                                                                 "status":  "ok",
@@ -4317,8 +4317,8 @@
                                                                                 "db_size_bytes":  3746426880
                                                                             },
                                "SV Talkies - Nindra":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-10-30",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-11-03",
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Srinivasa Theater AC DTS - Nallajerla":  {
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-03 08:00:03"
+    "started_at":  "2026-11-03 10:00:03"
 }
