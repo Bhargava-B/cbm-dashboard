@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-03 17:47:57",
+    "generated_at":  "2026-11-03 19:46:41",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3305,8 +3305,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-11-03",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3752,8 +3752,8 @@
                                                                           "db_size_bytes":  4829011968
                                                                       },
                                "Anusri Sai Krishna Theater":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-11-02",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-11-03",
                                                                   "db_size_bytes":  null
                                                               },
                                "Lakshmi Complex - Tanuku":  {
@@ -3767,9 +3767,9 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-02",
-                                                                "db_size_bytes":  742322176
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-03",
+                                                                "db_size_bytes":  736215040
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
                                                                                    "status":  "ok",
@@ -4177,8 +4177,8 @@
                                                                         "db_size_bytes":  872136704
                                                                     },
                                "Deepak Mahal: Vuyyuru":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-02",
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-03",
                                                              "db_size_bytes":  null
                                                          },
                                "Sri Rama \u0026 Raghavendra Talkies - Dhone":  {
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-03 16:00:03"
+    "started_at":  "2026-11-03 18:00:03"
 }
