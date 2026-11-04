@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-05 01:38:56",
+    "generated_at":  "2026-11-05 03:27:32",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -903,9 +903,9 @@
                                                                            "db_size_bytes":  3304931328
                                                                        },
                                "Broadway Cinemas Tirupur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-04",
-                                                                "db_size_bytes":  4449244672
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-05",
+                                                                "db_size_bytes":  4458681856
                                                             },
                                "AVM Cinemas":  {
                                                    "status":  "missing",
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-05 00:00:03"
+    "started_at":  "2026-11-05 02:00:03"
 }
