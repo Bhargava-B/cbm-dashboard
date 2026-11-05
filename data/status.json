@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-05 18:15:34",
+    "generated_at":  "2026-11-05 21:30:45",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -570,7 +570,7 @@
                                "ARK Ram Muthuram Cinemas Tirunelveli":  {
                                                                             "status":  "ok",
                                                                             "last_backup":  "2026-11-05",
-                                                                            "db_size_bytes":  null
+                                                                            "db_size_bytes":  563343360
                                                                         },
                                "Priya Complex Dolby Atmos Madurai":  {
                                                                          "status":  "missing",
@@ -845,7 +845,7 @@
                                "Sri Rajan Cinemas Chetpet":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-11-05",
-                                                                 "db_size_bytes":  508018688
+                                                                 "db_size_bytes":  498778112
                                                              },
                                "Kavitha Cinemas K G Chavadi":  {
                                                                    "status":  "missing",
@@ -3145,8 +3145,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-11-04",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-11-05",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3305,8 +3305,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-11-05",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3662,9 +3662,9 @@
                                                                "db_size_bytes":  1030021120
                                                            },
                                "PGR Theater - Tirupati":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-11-04",
-                                                              "db_size_bytes":  3470966784
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-11-05",
+                                                              "db_size_bytes":  3493466112
                                                           },
                                "Muralikrishna Cinema AC 4K 3D":  {
                                                                      "status":  "missing",
@@ -3707,8 +3707,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Sowmya Theatre Chittinagar - Vijayawada":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-11-04",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-11-05",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
@@ -3807,8 +3807,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Si Rajeswari Kalamandir - Narsannapeta":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-04",
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-05",
                                                                               "db_size_bytes":  null
                                                                           },
                                "Mohini Cinemas Dolby Atmos - Gajuwaka":  {
@@ -3817,9 +3817,9 @@
                                                                              "db_size_bytes":  2657452032
                                                                          },
                                "Sekhar Cinemas - Amalapuram":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-10-27",
-                                                                   "db_size_bytes":  1967308800
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-11-05",
+                                                                   "db_size_bytes":  1965744128
                                                                },
                                "Royal Talkies AC Dolby Atmos 3D 4K - Rayavaram":  {
                                                                                       "status":  "ok",
@@ -3882,8 +3882,8 @@
                                                                                             "db_size_bytes":  527482880
                                                                                         },
                                "Nidhi Cinemas AC 2K - Nandyal":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-11-04",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-11-05",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Sudarshan Theatre - Rotary Nagar Tekkali":  {
@@ -3962,9 +3962,9 @@
                                                                         "db_size_bytes":  2442395648
                                                                     },
                                "Surya Cinemax - Kakinada":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-04",
-                                                                "db_size_bytes":  1853210624
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-05",
+                                                                "db_size_bytes":  1854193664
                                                             },
                                "Swathi Theater - Bhavanipuram":  {
                                                                      "status":  "ok",
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-05 14:00:03"
+    "started_at":  "2026-11-05 20:00:03"
 }
