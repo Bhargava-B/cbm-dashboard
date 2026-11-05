@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-05 21:30:45",
+    "generated_at":  "2026-11-05 23:27:35",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -18,9 +18,9 @@
                                                                      "db_size_bytes":  911396864
                                                                  },
                                "Gokulam Cinemas Coimbatore":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-11-04",
-                                                                  "db_size_bytes":  1752358912
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-11-05",
+                                                                  "db_size_bytes":  1689833472
                                                               },
                                "Pavalam Theatre Periyakulam":  {
                                                                    "status":  "ok",
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-05 20:00:03"
+    "started_at":  "2026-11-05 22:00:03"
 }
