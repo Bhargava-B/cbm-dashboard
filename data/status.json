@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-06 09:29:10",
+    "generated_at":  "2026-11-06 11:31:07",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -163,9 +163,9 @@
                                                               "db_size_bytes":  1051893760
                                                           },
                                "V Cinema Sholavandhan":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-05",
-                                                             "db_size_bytes":  1447616512
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-06",
+                                                             "db_size_bytes":  1449861120
                                                          },
                                "Vetrivel Theatre 2K":  {
                                                            "status":  "ok",
@@ -373,9 +373,9 @@
                                                                       "db_size_bytes":  3198689280
                                                                   },
                                "A Moorthys Drive In Theatre":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-11-05",
-                                                                   "db_size_bytes":  263520256
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-11-06",
+                                                                   "db_size_bytes":  263647232
                                                                },
                                "Om Sri Lakshmi J Cinemas Chinnalapatti":  {
                                                                               "status":  "ok",
@@ -1222,9 +1222,9 @@
                                                                     "db_size_bytes":  1790672896
                                                                 },
                                   "Asian Balaji 70MM A -C - Siddipet":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-05",
-                                                                            "db_size_bytes":  3380207616
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-06",
+                                                                            "db_size_bytes":  3380731904
                                                                         },
                                   "Asian Cinemart - RC Puram":  {
                                                                     "status":  "ok",
@@ -2843,9 +2843,9 @@
                                                                  "db_size_bytes":  2914828288
                                                              },
                                "Amity Lite Maharagama":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-05",
-                                                             "db_size_bytes":  2443296768
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-06",
+                                                             "db_size_bytes":  2447032320
                                                          },
                                "Regal Cinema Polonnaruwa":  {
                                                                 "status":  "ok",
@@ -2935,8 +2935,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-04",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-06",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -4317,8 +4317,8 @@
                                                                                 "db_size_bytes":  3759325184
                                                                             },
                                "SV Talkies - Nindra":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-11-04",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-11-06",
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Srinivasa Theater AC DTS - Nallajerla":  {
@@ -4407,9 +4407,9 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Santhi Theater AC DTS - Nandikotkur":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-11-05",
-                                                                           "db_size_bytes":  1228562432
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-11-06",
+                                                                           "db_size_bytes":  1237942272
                                                                        },
                                "VPC Sri Krishna AC - Mummidivaram":  {
                                                                          "status":  "missing",
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-06 08:00:03"
+    "started_at":  "2026-11-06 10:00:03"
 }
