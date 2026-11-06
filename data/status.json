@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-06 15:24:50",
+    "generated_at":  "2026-11-06 17:24:42",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2186,9 +2186,9 @@
                                                                      "db_size_bytes":  3163549696
                                                                  },
                                "Kirthi Mudra Vadakara":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-05",
-                                                             "db_size_bytes":  3567046656
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-06",
+                                                             "db_size_bytes":  3568549888
                                                          },
                                "EVM Cinemas Perambavoor":  {
                                                                "status":  "ok",
@@ -2496,8 +2496,8 @@
                                                             "db_size_bytes":  1556537344
                                                         },
                                "Vaishaka Cine House Attingal":  {
-                                                                    "status":  "ok",
-                                                                    "last_backup":  "2026-11-06",
+                                                                    "status":  "missing",
+                                                                    "last_backup":  "2026-10-29",
                                                                     "db_size_bytes":  120438784
                                                                 },
                                "Kaveri Cinemas Karmamthody":  {
@@ -2701,8 +2701,8 @@
                                                                  "db_size_bytes":  588042240
                                                              },
                                "VB Cinemas Ambalappuzha":  {
-                                                               "status":  "ok",
-                                                               "last_backup":  "2026-11-06",
+                                                               "status":  "missing",
+                                                               "last_backup":  "2026-10-29",
                                                                "db_size_bytes":  311541760
                                                            },
                                "Mars Cinemas Changaramkulam":  {
@@ -2731,8 +2731,8 @@
                                                               "db_size_bytes":  2168222208
                                                           },
                                "Thai Lakshmi Cinema Punalur":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-11-06",
+                                                                   "status":  "missing",
+                                                                   "last_backup":  "2026-10-29",
                                                                    "db_size_bytes":  1383071744
                                                                },
                                "Alakode Film City Alakkode":  {
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-06 14:00:03"
+    "started_at":  "2026-11-06 16:00:03"
 }
