@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-06 17:24:42",
+    "generated_at":  "2026-11-06 19:25:25",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -538,9 +538,9 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Ramba AC Dolby Atmos Trichy":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-11-03",
-                                                                   "db_size_bytes":  917684224
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-11-06",
+                                                                   "db_size_bytes":  917622784
                                                                },
                                "Sivasakthi Cinemas 4K Dolby Atmos":  {
                                                                          "status":  "ok",
@@ -3305,8 +3305,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-11-06",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3872,8 +3872,8 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Aditya Theatre AC DTS - Vizianagaram":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-05",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-06",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Satyanarayana Picture Palace AC DTS - Anakapalle":  {
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-06 16:00:03"
+    "started_at":  "2026-11-06 18:00:03"
 }
