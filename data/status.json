@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-07 13:21:27",
+    "generated_at":  "2026-11-07 15:19:11",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2410598400
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-11-07",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  2487773696
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -188,8 +188,8 @@
                                                             "db_size_bytes":  7792857088
                                                         },
                                "DEVI CINEMAS MOUNT ROAD":  {
-                                                               "status":  "ok",
-                                                               "last_backup":  "2026-11-07",
+                                                               "status":  "missing",
+                                                               "last_backup":  "2026-10-26",
                                                                "db_size_bytes":  293724160
                                                            },
                                "Cauvery Theatre":  {
@@ -208,8 +208,8 @@
                                                                      "db_size_bytes":  2368659456
                                                                  },
                                "Lena Theatre Kallakurichi":  {
-                                                                 "status":  "ok",
-                                                                 "last_backup":  "2026-11-07",
+                                                                 "status":  "missing",
+                                                                 "last_backup":  "2026-08-25",
                                                                  "db_size_bytes":  586219520
                                                              },
                                "Sri Ramchandra Cinema Pernambut":  {
@@ -423,8 +423,8 @@
                                                                     "db_size_bytes":  677429760
                                                                 },
                                "JAYAPRIYA CINEMAS":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-11-07",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-08-28",
                                                          "db_size_bytes":  313393152
                                                      },
                                "VR Cinemas Pattabiram":  {
@@ -458,8 +458,8 @@
                                                                  "db_size_bytes":  2391334912
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-11-07",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  667627520
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -653,8 +653,8 @@
                                                                        "db_size_bytes":  3823108096
                                                                    },
                                "Jothi Theatre Viralimalai Trichy":  {
-                                                                        "status":  "ok",
-                                                                        "last_backup":  "2026-11-07",
+                                                                        "status":  "missing",
+                                                                        "last_backup":  "2026-09-28",
                                                                         "db_size_bytes":  682954752
                                                                     },
                                "Tamil Jaya Cinema Madurai":  {
@@ -1053,8 +1053,8 @@
                                                                        "db_size_bytes":  1512095744
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-11-07",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  974549504
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-07 12:00:03"
+    "started_at":  "2026-11-07 14:00:03"
 }
