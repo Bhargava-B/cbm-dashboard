@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-07 17:17:31",
+    "generated_at":  "2026-11-07 19:19:17",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1716,9 +1716,9 @@
                                                               "db_size_bytes":  594014208
                                                           },
                                "Sania Cinemas Eramallur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-06",
-                                                               "db_size_bytes":  1891065344
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-07",
+                                                               "db_size_bytes":  1899915776
                                                            },
                                "SreeDhanya Cinemax Kadakkal":  {
                                                                    "status":  "ok",
@@ -1921,9 +1921,9 @@
                                                            "db_size_bytes":  1039929344
                                                        },
                                "Trinity Movie Max Aishwarya Pathanamthitta":  {
-                                                                                  "status":  "missing",
-                                                                                  "last_backup":  "2026-11-06",
-                                                                                  "db_size_bytes":  4654690304
+                                                                                  "status":  "ok",
+                                                                                  "last_backup":  "2026-11-07",
+                                                                                  "db_size_bytes":  4662878208
                                                                               },
                                "Pranavam Cinema Kollam":  {
                                                               "status":  "ok",
@@ -2316,9 +2316,9 @@
                                                        "db_size_bytes":  772784128
                                                    },
                                "GMAX Cinema Kollam":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-11-06",
-                                                          "db_size_bytes":  2910240768
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-11-07",
+                                                          "db_size_bytes":  2915622912
                                                       },
                                "Aashirvad Cineplexx Kozhikode":  {
                                                                      "status":  "ok",
@@ -2411,9 +2411,9 @@
                                                                     "db_size_bytes":  1467678720
                                                                 },
                                "KRV Movies Kottayi":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-11-06",
-                                                          "db_size_bytes":  849002496
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-11-07",
+                                                          "db_size_bytes":  851169280
                                                       },
                                "RD Cinema Mundakayam":  {
                                                             "status":  "ok",
@@ -2571,9 +2571,9 @@
                                                                      "db_size_bytes":  2035568640
                                                                  },
                                "Avishkar Cinemas Kottayi":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-06",
-                                                                "db_size_bytes":  2222190592
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-07",
+                                                                "db_size_bytes":  2227892224
                                                             },
                                "Silver Hills Cinema Thodupuzha":  {
                                                                       "status":  "ok",
@@ -3305,8 +3305,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-11-07",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3872,8 +3872,8 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Aditya Theatre AC DTS - Vizianagaram":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-06",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-07",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Satyanarayana Picture Palace AC DTS - Anakapalle":  {
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-07 16:00:03"
+    "started_at":  "2026-11-07 18:00:03"
 }
