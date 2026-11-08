@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-08 15:18:53",
+    "generated_at":  "2026-11-08 17:18:08",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -325,7 +325,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-11-08",
-                                                                  "db_size_bytes":  983486464
+                                                                  "db_size_bytes":  991940608
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -2281,8 +2281,8 @@
                                                               "db_size_bytes":  5546704896
                                                           },
                                "Jos Theatre  Pala":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-11-08",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-11-06",
                                                          "db_size_bytes":  2304516096
                                                      },
                                "Paradise Cinema Cherthala":  {
@@ -2496,8 +2496,8 @@
                                                             "db_size_bytes":  1566371840
                                                         },
                                "Vaishaka Cine House Attingal":  {
-                                                                    "status":  "ok",
-                                                                    "last_backup":  "2026-11-08",
+                                                                    "status":  "missing",
+                                                                    "last_backup":  "2026-10-29",
                                                                     "db_size_bytes":  125681664
                                                                 },
                                "Kaveri Cinemas Karmamthody":  {
@@ -2701,8 +2701,8 @@
                                                                  "db_size_bytes":  599773184
                                                              },
                                "VB Cinemas Ambalappuzha":  {
-                                                               "status":  "ok",
-                                                               "last_backup":  "2026-11-08",
+                                                               "status":  "missing",
+                                                               "last_backup":  "2026-10-29",
                                                                "db_size_bytes":  324521984
                                                            },
                                "Mars Cinemas Changaramkulam":  {
@@ -2731,8 +2731,8 @@
                                                               "db_size_bytes":  2186781184
                                                           },
                                "Thai Lakshmi Cinema Punalur":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-11-08",
+                                                                   "status":  "missing",
+                                                                   "last_backup":  "2026-10-29",
                                                                    "db_size_bytes":  1385570304
                                                                },
                                "Alakode Film City Alakkode":  {
@@ -2756,8 +2756,8 @@
                                                                      "db_size_bytes":  1087250432
                                                                  },
                                "Sumangali cinemas Payyannur":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-11-08",
+                                                                   "status":  "missing",
+                                                                   "last_backup":  "2026-11-06",
                                                                    "db_size_bytes":  458153984
                                                                },
                                "Veechee Cinema Edacheri":  {
@@ -2791,9 +2791,9 @@
                                                                "db_size_bytes":  293330944
                                                            },
                                "Ashok cine house Paravur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-07",
-                                                                "db_size_bytes":  1355665408
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-08",
+                                                                "db_size_bytes":  1357369344
                                                             },
                                "Simla Brahmakulam Theatre Kanjany":  {
                                                                          "status":  "ok",
@@ -3492,8 +3492,8 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Abhiram - Nandyal":  {
-                                                         "status":  "missing",
-                                                         "last_backup":  "2026-11-06",
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-11-08",
                                                          "db_size_bytes":  null
                                                      },
                                "VS Mahal 4K Dolby Atmos 3D - Namavaram":  {
@@ -3602,8 +3602,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Ramanath Theater AC 4K DTS - Nandyal":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-06",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-08",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateshwara Mahal AC Dolby Atmos 2K - Punganur":  {
@@ -3807,8 +3807,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Si Rajeswari Kalamandir - Narsannapeta":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-07",
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-08",
                                                                               "db_size_bytes":  null
                                                                           },
                                "Mohini Cinemas Dolby Atmos - Gajuwaka":  {
@@ -3882,8 +3882,8 @@
                                                                                             "db_size_bytes":  530694144
                                                                                         },
                                "Nidhi Cinemas AC 2K - Nandyal":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-11-06",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-11-08",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Sudarshan Theatre - Rotary Nagar Tekkali":  {
@@ -4252,9 +4252,9 @@
                                                                   "db_size_bytes":  552218624
                                                               },
                                "Sri Ramchandra Talkies - Kodumur":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-11-07",
-                                                                        "db_size_bytes":  811585536
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-08",
+                                                                        "db_size_bytes":  807378944
                                                                     },
                                "Sri Ramulamma Theatre - Thagarapuvalasa Vizag":  {
                                                                                      "status":  "ok",
@@ -4477,8 +4477,8 @@
                                                                                         "db_size_bytes":  2171113984
                                                                                     },
                                "Sri Rama Complex - Nandyal":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-11-06",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-11-08",
                                                                   "db_size_bytes":  null
                                                               },
                                "Sri Srinivasa Mahal SS Max - Sompeta":  {
@@ -4517,8 +4517,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Pratap \u0026 Mini Pratap Picture Palace AC 4K DTS - Nandyal":  {
-                                                                                                    "status":  "missing",
-                                                                                                    "last_backup":  "2026-11-06",
+                                                                                                    "status":  "ok",
+                                                                                                    "last_backup":  "2026-11-08",
                                                                                                     "db_size_bytes":  null
                                                                                                 },
                                "Sri Seshmahal Theatre - Tadepalligudem":  {
@@ -4557,8 +4557,8 @@
                                                                                "db_size_bytes":  3901276160
                                                                            },
                                "Vijayalakshmi Theater AC 4K Dolby - Kanuru":  {
-                                                                                  "status":  "missing",
-                                                                                  "last_backup":  "2026-11-07",
+                                                                                  "status":  "ok",
+                                                                                  "last_backup":  "2026-11-08",
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Sree Kanya Cinemas - Gajuwaka":  {
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-08 14:00:03"
+    "started_at":  "2026-11-08 16:00:03"
 }
