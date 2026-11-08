@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-08 11:23:59",
+    "generated_at":  "2026-11-08 13:20:40",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3280,8 +3280,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Srinivasa Theater - Kadugudi 4K Dolby Atmos":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-11-07",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-11-08",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Sri Vinayaka Cinemas 4K Dolby 7.1 (AC) Varthur":  {
@@ -3872,8 +3872,8 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Aditya Theatre AC DTS - Vizianagaram":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-07",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-08",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Satyanarayana Picture Palace AC DTS - Anakapalle":  {
@@ -4027,8 +4027,8 @@
                                                                                       "db_size_bytes":  1440129024
                                                                                   },
                                "V Max AC 2K Dolby - Eluru":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-11-07",
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-11-08",
                                                                  "db_size_bytes":  null
                                                              },
                                "Dwaraka Cinemas 4K Dolby Atmos - Nuzvid":  {
@@ -4132,8 +4132,8 @@
                                                                    "db_size_bytes":  248107008
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-11-07",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-08",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Capital Cinemas Vijayawada":  {
@@ -4342,8 +4342,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Balaji Picture Palace - Cherukupalli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-07",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-08",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateswara AC Dolby DTS - S Kota":  {
@@ -4573,5 +4573,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-08 10:00:03"
+    "started_at":  "2026-11-08 12:00:03"
 }
