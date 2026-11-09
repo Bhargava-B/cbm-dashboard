@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-10 03:18:58",
+    "generated_at":  "2026-11-10 05:24:15",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -423,9 +423,9 @@
                                                                     "db_size_bytes":  683393536
                                                                 },
                                "JAYAPRIYA CINEMAS":  {
-                                                         "status":  "missing",
-                                                         "last_backup":  "2026-08-28",
-                                                         "db_size_bytes":  327745536
+                                                         "status":  "ok",
+                                                         "last_backup":  "2026-11-10",
+                                                         "db_size_bytes":  333643776
                                                      },
                                "VR Cinemas Pattabiram":  {
                                                              "status":  "missing",
@@ -4598,5 +4598,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-10 02:00:03"
+    "started_at":  "2026-11-10 04:00:03"
 }
