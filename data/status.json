@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-09 09:22:54",
+    "generated_at":  "2026-11-09 11:25:17",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -148,9 +148,9 @@
                                                           "db_size_bytes":  814055936
                                                       },
                                "Maruthu Modern Theatre Sholavandan":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-11-08",
-                                                                          "db_size_bytes":  683036672
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-11-09",
+                                                                          "db_size_bytes":  684810240
                                                                       },
                                "Varanashi Multiplex Tirupur":  {
                                                                    "status":  "missing",
@@ -2848,9 +2848,9 @@
                                                                  "db_size_bytes":  2926362624
                                                              },
                                "Amity Lite Maharagama":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-08",
-                                                             "db_size_bytes":  2458243072
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-09",
+                                                             "db_size_bytes":  2457649152
                                                          },
                                "New Janaki Cinema Mathugama":  {
                                                                    "status":  "ok",
@@ -3195,8 +3195,8 @@
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Prabha Theatre - Mysuru":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-08",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-09",
                                                                "db_size_bytes":  null
                                                            },
                                "Swagath ShankarNag (ONYX) LED Cinema - MG Road":  {
@@ -3767,8 +3767,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "SJ Shanthi Theatre - Puttur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-11-08",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-11-09",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Melody HDR Dolby Atmos - Vizag":  {
@@ -4027,9 +4027,9 @@
                                                                                            "db_size_bytes":  5645622784
                                                                                        },
                                "Sri Devi Mahal - Amadalavalasa":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-11-08",
-                                                                      "db_size_bytes":  411684864
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-11-09",
+                                                                      "db_size_bytes":  412672000
                                                                   },
                                "Srinivasa Theater AC 2K Dolby - Markapur":  {
                                                                                 "status":  "ok",
@@ -4252,8 +4252,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Bommarillu Cinemas":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-11-08",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-11-09",
                                                           "db_size_bytes":  null
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
@@ -4598,5 +4598,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-09 08:00:03"
+    "started_at":  "2026-11-09 10:00:03"
 }
