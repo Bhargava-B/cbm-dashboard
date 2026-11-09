@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-09 21:20:26",
+    "generated_at":  "2026-11-09 23:20:36",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2151,9 +2151,9 @@
                                                                "db_size_bytes":  4265091072
                                                            },
                                "NVP Cinema Oyoor":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-11-08",
-                                                        "db_size_bytes":  1518927872
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-11-09",
+                                                        "db_size_bytes":  1522466816
                                                     },
                                "Krishna Theatre Karunagapally":  {
                                                                      "status":  "ok",
@@ -4598,5 +4598,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-09 20:00:03"
+    "started_at":  "2026-11-09 22:00:03"
 }
