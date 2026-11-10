@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-10 17:22:44",
+    "generated_at":  "2026-11-10 19:22:24",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -325,7 +325,7 @@
                                "Rohini Swasthik Tindivanam":  {
                                                                   "status":  "ok",
                                                                   "last_backup":  "2026-11-10",
-                                                                  "db_size_bytes":  1005113344
+                                                                  "db_size_bytes":  1008001024
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -3330,8 +3330,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-11-10",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4157,8 +4157,8 @@
                                                                    "db_size_bytes":  247910400
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-11-09",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-10",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Capital Cinemas Vijayawada":  {
@@ -4598,5 +4598,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-10 16:00:03"
+    "started_at":  "2026-11-10 18:00:03"
 }
