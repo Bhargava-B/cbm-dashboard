@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-10 15:21:28",
+    "generated_at":  "2026-11-10 17:22:44",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2281,8 +2281,8 @@
                                                               "db_size_bytes":  5574291456
                                                           },
                                "Jos Theatre  Pala":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-11-10",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-11-06",
                                                          "db_size_bytes":  2311069696
                                                      },
                                "Paradise Cinema Cherthala":  {
@@ -2496,8 +2496,8 @@
                                                             "db_size_bytes":  1570824192
                                                         },
                                "Vaishaka Cine House Attingal":  {
-                                                                    "status":  "ok",
-                                                                    "last_backup":  "2026-11-10",
+                                                                    "status":  "missing",
+                                                                    "last_backup":  "2026-10-29",
                                                                     "db_size_bytes":  130207744
                                                                 },
                                "Kaveri Cinemas Karmamthody":  {
@@ -2701,8 +2701,8 @@
                                                                  "db_size_bytes":  612683776
                                                              },
                                "VB Cinemas Ambalappuzha":  {
-                                                               "status":  "ok",
-                                                               "last_backup":  "2026-11-10",
+                                                               "status":  "missing",
+                                                               "last_backup":  "2026-10-29",
                                                                "db_size_bytes":  334614528
                                                            },
                                "Mars Cinemas Changaramkulam":  {
@@ -2731,8 +2731,8 @@
                                                               "db_size_bytes":  2198970880
                                                           },
                                "Thai Lakshmi Cinema Punalur":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-11-10",
+                                                                   "status":  "missing",
+                                                                   "last_backup":  "2026-10-29",
                                                                    "db_size_bytes":  1387122688
                                                                },
                                "Alakode Film City Alakkode":  {
@@ -2756,8 +2756,8 @@
                                                                      "db_size_bytes":  1106055168
                                                                  },
                                "Sumangali cinemas Payyannur":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-11-10",
+                                                                   "status":  "missing",
+                                                                   "last_backup":  "2026-11-06",
                                                                    "db_size_bytes":  463986688
                                                                },
                                "Veechee Cinema Edacheri":  {
@@ -4598,5 +4598,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-10 14:00:03"
+    "started_at":  "2026-11-10 16:00:03"
 }
