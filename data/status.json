@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-10 11:25:12",
+    "generated_at":  "2026-11-10 13:23:16",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -283,9 +283,9 @@
                                                                  "db_size_bytes":  990846976
                                                              },
                                "Rohini Jayanthy Cheyyur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-09",
-                                                               "db_size_bytes":  758398976
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-10",
+                                                               "db_size_bytes":  759300096
                                                            },
                                "Amman Cinemas":  {
                                                      "status":  "ok",
@@ -638,8 +638,8 @@
                                                                    "db_size_bytes":  1524715520
                                                                },
                                "KG Cinemas Coimbatore":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-09",
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-10",
                                                              "db_size_bytes":  43710210560
                                                          },
                                "Krishnaveni Cinema T Nagar":  {
@@ -3305,8 +3305,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Srinivasa Theater - Kadugudi 4K Dolby Atmos":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-11-09",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-11-10",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Sri Vinayaka Cinemas 4K Dolby 7.1 (AC) Varthur":  {
@@ -3455,8 +3455,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-11-09",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-11-10",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3897,8 +3897,8 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Aditya Theatre AC DTS - Vizianagaram":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-08",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-10",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Satyanarayana Picture Palace AC DTS - Anakapalle":  {
@@ -4037,8 +4037,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "G3 Srichandra Ramachandra Theaters - Kankipadu":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-11-09",
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-11-10",
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Mayuri Theatre Nandigama":  {
@@ -4332,9 +4332,9 @@
                                                                 "db_size_bytes":  null
                                                             },
                                "Adabala Theatres":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-10-27",
-                                                        "db_size_bytes":  15122532864
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-11-10",
+                                                        "db_size_bytes":  19595277824
                                                     },
                                "Sree Rama Theatre 4K Dolby Atmos - Vizag":  {
                                                                                 "status":  "ok",
@@ -4367,8 +4367,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Balaji Picture Palace - Cherukupalli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-09",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-10",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateswara AC Dolby DTS - S Kota":  {
@@ -4598,5 +4598,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-10 10:00:03"
+    "started_at":  "2026-11-10 12:00:03"
 }
