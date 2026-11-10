@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-10 19:22:24",
+    "generated_at":  "2026-11-10 21:22:51",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3170,8 +3170,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-11-09",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-11-10",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3887,9 +3887,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-08",
-                                                                    "db_size_bytes":  452608000
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-10",
+                                                                    "db_size_bytes":  451092480
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "missing",
@@ -4372,8 +4372,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateswara AC Dolby DTS - S Kota":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  null,
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-10",
                                                                               "db_size_bytes":  null
                                                                           },
                                "Sri Venkata Surya Picture Palace 2K - Kadiam":  {
@@ -4422,8 +4422,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Annapurna Theater AC DTS 2K - Mangalagiri":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-11-09",
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-11-10",
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Krishna Picture Palace - Giddalur":  {
@@ -4441,6 +4441,11 @@
                                                                          "last_backup":  "2026-11-05",
                                                                          "db_size_bytes":  317177856
                                                                      },
+                               "Sri Venkateswara A":  {
+                                                          "status":  "missing",
+                                                          "last_backup":  null,
+                                                          "db_size_bytes":  null
+                                                      },
                                "Sri Satyanarayana Cinemas - Eluru":  {
                                                                          "status":  "ok",
                                                                          "last_backup":  "2026-11-10",
@@ -4598,5 +4603,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-10 18:00:03"
+    "started_at":  "2026-11-10 20:00:03"
 }
