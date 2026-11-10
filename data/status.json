@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-10 13:23:16",
+    "generated_at":  "2026-11-10 15:21:28",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2432618496
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-11-10",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  2613993984
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -188,8 +188,8 @@
                                                             "db_size_bytes":  7923634176
                                                         },
                                "DEVI CINEMAS MOUNT ROAD":  {
-                                                               "status":  "ok",
-                                                               "last_backup":  "2026-11-10",
+                                                               "status":  "missing",
+                                                               "last_backup":  "2026-10-26",
                                                                "db_size_bytes":  335876096
                                                            },
                                "Cauvery Theatre":  {
@@ -208,8 +208,8 @@
                                                                      "db_size_bytes":  2374254592
                                                                  },
                                "Lena Theatre Kallakurichi":  {
-                                                                 "status":  "ok",
-                                                                 "last_backup":  "2026-11-10",
+                                                                 "status":  "missing",
+                                                                 "last_backup":  "2026-08-25",
                                                                  "db_size_bytes":  615780352
                                                              },
                                "Sri Ramchandra Cinema Pernambut":  {
@@ -423,8 +423,8 @@
                                                                     "db_size_bytes":  686866944
                                                                 },
                                "JAYAPRIYA CINEMAS":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-11-10",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-08-28",
                                                          "db_size_bytes":  333643776
                                                      },
                                "VR Cinemas Pattabiram":  {
@@ -458,8 +458,8 @@
                                                                  "db_size_bytes":  2435833856
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-11-10",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  693575680
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -653,8 +653,8 @@
                                                                        "db_size_bytes":  3825778688
                                                                    },
                                "Jothi Theatre Viralimalai Trichy":  {
-                                                                        "status":  "ok",
-                                                                        "last_backup":  "2026-11-10",
+                                                                        "status":  "missing",
+                                                                        "last_backup":  "2026-09-28",
                                                                         "db_size_bytes":  691736576
                                                                     },
                                "Tamil Jaya Cinema Madurai":  {
@@ -1053,8 +1053,8 @@
                                                                        "db_size_bytes":  1521934336
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-11-10",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  1037540864
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -2011,9 +2011,9 @@
                                                                     "db_size_bytes":  2273669632
                                                                 },
                                "Mas Movies Irinjalakuda":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-09",
-                                                               "db_size_bytes":  2156863488
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-10",
+                                                               "db_size_bytes":  2163679232
                                                            },
                                "Sree Sailom Cine House Kadakkal":  {
                                                                        "status":  "ok",
@@ -2051,9 +2051,9 @@
                                                                      "db_size_bytes":  2224799744
                                                                  },
                                "Cheloor Grand Cinemas Cherpulassery":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-11-09",
-                                                                           "db_size_bytes":  2121121792
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-11-10",
+                                                                           "db_size_bytes":  2124992512
                                                                        },
                                "JM Movies Josh Mall Mookkannoor":  {
                                                                        "status":  "ok",
@@ -2206,14 +2206,14 @@
                                                                 "db_size_bytes":  4089720832
                                                             },
                                "Aura Cinemas Peravoor":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-09",
-                                                             "db_size_bytes":  2112313856
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-10",
+                                                             "db_size_bytes":  2114083328
                                                          },
                                "Magic Frames Devi Cinemas Cherpulassery":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-11-09",
-                                                                               "db_size_bytes":  635813888
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-11-10",
+                                                                               "db_size_bytes":  636731392
                                                                            },
                                "Deva Cinemas Punalur":  {
                                                             "status":  "ok",
@@ -2821,9 +2821,9 @@
                                                                      "db_size_bytes":  8360701952
                                                                  },
                                "Sindhu Cinema Venjarammoodu":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-11-09",
-                                                                   "db_size_bytes":  987869184
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-11-10",
+                                                                   "db_size_bytes":  988983296
                                                                }
                            },
                     "SL":  {
@@ -4598,5 +4598,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-10 12:00:03"
+    "started_at":  "2026-11-10 14:00:03"
 }
