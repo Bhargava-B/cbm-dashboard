@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-11 11:27:31",
+    "generated_at":  "2026-11-11 13:23:56",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2960,8 +2960,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-10",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-11",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -3170,8 +3170,8 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-11-10",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-11-11",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3305,8 +3305,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Srinivasa Theater - Kadugudi 4K Dolby Atmos":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-11-10",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-11-11",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Sri Vinayaka Cinemas 4K Dolby 7.1 (AC) Varthur":  {
@@ -3455,8 +3455,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-11-10",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-11-11",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3527,9 +3527,9 @@
                                                                               "db_size_bytes":  1441683968
                                                                           },
                                "Rajarathna Cinemax - Mandapeta":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-11-10",
-                                                                      "db_size_bytes":  2288570368
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-11-11",
+                                                                      "db_size_bytes":  2290077696
                                                                   },
                                "MS Tata Picture Palace AC DTS - Thagarapuvalasa":  {
                                                                                        "status":  "ok",
@@ -3887,9 +3887,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-10",
-                                                                    "db_size_bytes":  451092480
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-11",
+                                                                    "db_size_bytes":  447270912
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "missing",
@@ -4367,8 +4367,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Balaji Picture Palace - Cherukupalli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-10",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-11",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateswara AC Dolby DTS - S Kota":  {
@@ -4603,5 +4603,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-11 10:00:03"
+    "started_at":  "2026-11-11 12:00:03"
 }
