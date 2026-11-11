@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-11 17:24:27",
+    "generated_at":  "2026-11-11 19:23:02",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -253,9 +253,9 @@
                                                             "db_size_bytes":  3252998144
                                                         },
                                "Marvel MovieMax":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-11-10",
-                                                       "db_size_bytes":  4950790144
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-11-11",
+                                                       "db_size_bytes":  4988268544
                                                    },
                                "Sree Meenambika Cinema Somanur":  {
                                                                       "status":  "ok",
@@ -3330,8 +3330,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-11-11",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4603,5 +4603,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-11 16:00:03"
+    "started_at":  "2026-11-11 18:00:03"
 }
