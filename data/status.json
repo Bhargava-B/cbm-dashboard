@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-12 09:22:29",
+    "generated_at":  "2026-11-12 11:35:54",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -523,8 +523,8 @@
                                                                "db_size_bytes":  2472071168
                                                            },
                                "Ganapathyram Cinema":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-11-11",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-11-12",
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Bhagavathi 4K Atmos Poonamallee":  {
@@ -598,9 +598,9 @@
                                                                                 "db_size_bytes":  1834713088
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-11",
-                                                                              "db_size_bytes":  516997120
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-12",
+                                                                              "db_size_bytes":  517324800
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -2466,9 +2466,9 @@
                                                                  "db_size_bytes":  3042435072
                                                              },
                                "Revathy Cinemax Paripally":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-11-11",
-                                                                 "db_size_bytes":  6015029248
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-11-12",
+                                                                 "db_size_bytes":  6049153024
                                                              },
                                "SKM Cinemas Kalluvathukkal":  {
                                                                   "status":  "ok",
@@ -2621,9 +2621,9 @@
                                                                    "db_size_bytes":  2548969472
                                                                },
                                "AK Cinepalace Cherupuzha":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-11",
-                                                                "db_size_bytes":  606715904
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-12",
+                                                                "db_size_bytes":  610713600
                                                             },
                                "EVM Matha Theatre Adimali":  {
                                                                  "status":  "ok",
@@ -2848,9 +2848,9 @@
                                                                  "db_size_bytes":  2950086656
                                                              },
                                "Amity Lite Maharagama":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-11",
-                                                             "db_size_bytes":  2459549696
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-12",
+                                                             "db_size_bytes":  2460925952
                                                          },
                                "New Janaki Cinema Mathugama":  {
                                                                    "status":  "ok",
@@ -2960,8 +2960,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-11",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-12",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -3190,8 +3190,8 @@
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "Aruna Theatre AC 4K 7.1 Dolby 3D - Srirampuram":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-11-11",
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-11-12",
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Prabha Theatre - Mysuru":  {
@@ -4367,8 +4367,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Balaji Picture Palace - Cherukupalli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-11",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-12",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateswara AC Dolby DTS - S Kota":  {
@@ -4603,5 +4603,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-12 08:00:03"
+    "started_at":  "2026-11-12 10:00:03"
 }
