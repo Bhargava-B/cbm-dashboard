@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-12 17:48:40",
+    "generated_at":  "2026-11-12 19:43:30",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -253,9 +253,9 @@
                                                             "db_size_bytes":  3255341056
                                                         },
                                "Marvel MovieMax":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-11-11",
-                                                       "db_size_bytes":  4988268544
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-11-12",
+                                                       "db_size_bytes":  4902219776
                                                    },
                                "Sree Meenambika Cinema Somanur":  {
                                                                       "status":  "ok",
@@ -1599,14 +1599,14 @@
                                                               "db_size_bytes":  381665280
                                                           },
                                "Aradhana Theatre - Hyderabad":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-11",
-                                                                    "db_size_bytes":  1042661376
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-12",
+                                                                    "db_size_bytes":  1043382272
                                                                 },
                                "Vijetha 70MM 4k Atmos - Borabanda":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-11-11",
-                                                                         "db_size_bytes":  3647418368
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-11-12",
+                                                                         "db_size_bytes":  3655270400
                                                                      },
                                "Sri Manikanta 70mm Theatres":  {
                                                                    "status":  "missing",
@@ -3330,8 +3330,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-11-12",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3882,14 +3882,14 @@
                                                                                         "db_size_bytes":  1714941952
                                                                                     },
                                "Satyanarayana Kalamandir - Addanki":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-11-11",
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-11-12",
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-11",
-                                                                    "db_size_bytes":  447270912
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-12",
+                                                                    "db_size_bytes":  448978944
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "missing",
@@ -3997,8 +3997,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Sivakrishna Cinemas AC 2K DTS - Kondapalli":  {
-                                                                                  "status":  "missing",
-                                                                                  "last_backup":  "2026-11-11",
+                                                                                  "status":  "ok",
+                                                                                  "last_backup":  "2026-11-12",
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Fortune Four Cinemas AC 2K 7.1 - Rajanagaram":  {
@@ -4372,8 +4372,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateswara AC Dolby DTS - S Kota":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-11",
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-12",
                                                                               "db_size_bytes":  null
                                                                           },
                                "Sri Venkata Surya Picture Palace 2K - Kadiam":  {
@@ -4603,5 +4603,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-12 16:00:03"
+    "started_at":  "2026-11-12 18:00:03"
 }
