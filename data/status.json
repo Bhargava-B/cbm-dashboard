@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-12 21:41:39",
+    "generated_at":  "2026-11-12 23:43:44",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -653,8 +653,8 @@
                                                                        "db_size_bytes":  3828928512
                                                                    },
                                "Jothi Theatre Viralimalai Trichy":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-09-28",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-12",
                                                                         "db_size_bytes":  695996416
                                                                     },
                                "Tamil Jaya Cinema Madurai":  {
@@ -4603,5 +4603,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-12 20:00:03"
+    "started_at":  "2026-11-12 22:00:03"
 }
