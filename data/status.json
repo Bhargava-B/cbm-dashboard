@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-12 15:41:44",
+    "generated_at":  "2026-11-12 17:48:40",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2888,9 +2888,9 @@
                                                         "db_size_bytes":  561364992
                                                     },
                                "Cinelma Theatre Badulla":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-11",
-                                                               "db_size_bytes":  233787392
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-12",
+                                                               "db_size_bytes":  233656320
                                                            },
                                "Ruoo Cinemas Katunayake":  {
                                                                "status":  "missing",
@@ -4603,5 +4603,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-12 14:00:03"
+    "started_at":  "2026-11-12 16:00:03"
 }
