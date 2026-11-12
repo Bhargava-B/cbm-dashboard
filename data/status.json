@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-12 11:35:54",
+    "generated_at":  "2026-11-12 13:44:38",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1162,9 +1162,9 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                   "Asian Darshan - Kamareddy":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-11",
-                                                                    "db_size_bytes":  2500972544
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-12",
+                                                                    "db_size_bytes":  2500378624
                                                                 },
                                   "Asian Sri Mohan - Zaheerabad":  {
                                                                        "status":  "ok",
@@ -3455,8 +3455,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-11-11",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-11-12",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3897,8 +3897,8 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Aditya Theatre AC DTS - Vizianagaram":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-10",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-12",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Satyanarayana Picture Palace AC DTS - Anakapalle":  {
@@ -4252,8 +4252,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Bommarillu Cinemas":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-11-11",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-11-12",
                                                           "db_size_bytes":  null
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
@@ -4307,9 +4307,9 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Surya Cinemax - Ramachandrapuram":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-11-11",
-                                                                        "db_size_bytes":  685297664
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-12",
+                                                                        "db_size_bytes":  685031424
                                                                     },
                                "ABR Cinemas - Gudivada":  {
                                                               "status":  "ok",
@@ -4603,5 +4603,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-12 10:00:03"
+    "started_at":  "2026-11-12 12:00:03"
 }
