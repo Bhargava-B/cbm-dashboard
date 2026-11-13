@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-13 15:42:36",
+    "generated_at":  "2026-11-13 17:46:06",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -342,6 +342,11 @@
                                                                       "last_backup":  "2026-10-04",
                                                                       "db_size_bytes":  692240384
                                                                   },
+                               "Vetri Cinemas Maattuthavani Madurai":  {
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-11-13",
+                                                                           "db_size_bytes":  24041858560
+                                                                       },
                                "Meenakshi Theatre Thirumangalam":  {
                                                                        "status":  "ok",
                                                                        "last_backup":  "2026-11-13",
@@ -937,11 +942,11 @@
                                                                 "last_backup":  "2026-11-13",
                                                                 "db_size_bytes":  3331072000
                                                             },
-                               "Vetri Cinemas Maattuthavani Madurai":  {
-                                                                           "status":  "ok",
-                                                                           "last_backup":  "2026-11-13",
-                                                                           "db_size_bytes":  24041858560
-                                                                       },
+                               "Starline Cinemas Madurai":  {
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-13",
+                                                                "db_size_bytes":  128029184
+                                                            },
                                "Odiyan Mani Theatre":  {
                                                            "status":  "ok",
                                                            "last_backup":  "2026-11-13",
@@ -3360,8 +3365,8 @@
                                                                     "db_size_bytes":  null
                                                                 },
                                "Veerabhadreshwara Theatre - Kamala Nagar":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-11-12",
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-11-13",
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Manasa RGB Laser Atmos Cinemas - Konankunte":  {
@@ -4603,5 +4608,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-13 14:00:03"
+    "started_at":  "2026-11-13 16:00:03"
 }
