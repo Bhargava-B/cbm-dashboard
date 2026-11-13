@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-13 09:47:10",
+    "generated_at":  "2026-11-13 11:49:06",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -578,9 +578,9 @@
                                                                          "db_size_bytes":  1275600896
                                                                      },
                                "Sangeetha Multiplex Somanur":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-11-12",
-                                                                   "db_size_bytes":  531451904
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-11-13",
+                                                                   "db_size_bytes":  543272960
                                                                },
                                "Devi Cinemas Nagapattinam":  {
                                                                  "status":  "missing",
@@ -2848,9 +2848,9 @@
                                                                  "db_size_bytes":  2952577024
                                                              },
                                "Amity Lite Maharagama":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-12",
-                                                             "db_size_bytes":  2460925952
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-13",
+                                                             "db_size_bytes":  2462957568
                                                          },
                                "New Janaki Cinema Mathugama":  {
                                                                    "status":  "ok",
@@ -3215,8 +3215,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Gowrishankar Theatre - Vijayapura":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-11-12",
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-11-13",
                                                                              "db_size_bytes":  null
                                                                          },
                                "Sri Radhakrishna Theatre - RT Nagar":  {
@@ -3340,8 +3340,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Balaji 2K Dolby Atmos-Viveknagar":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-12",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-13",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Laxmi pride cinemas -Hubli":  {
@@ -4252,8 +4252,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Bommarillu Cinemas":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-11-12",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-11-13",
                                                           "db_size_bytes":  null
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
@@ -4367,8 +4367,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Balaji Picture Palace - Cherukupalli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-12",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-13",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateswara AC Dolby DTS - S Kota":  {
@@ -4462,14 +4462,14 @@
                                                                "db_size_bytes":  null
                                                            },
                                "VPC Sri Kishore 2K Dolby - Ramachandrapuram":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-11-12",
-                                                                                   "db_size_bytes":  1251454976
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-11-13",
+                                                                                   "db_size_bytes":  1248903168
                                                                                },
                                "Sree Leela Mahal 4K Dolby Atmos - Vizag":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-11-12",
-                                                                               "db_size_bytes":  966995968
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-11-13",
+                                                                               "db_size_bytes":  978821120
                                                                            },
                                "Victory Cinemas A":  {
                                                          "status":  "missing",
@@ -4603,5 +4603,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-13 08:00:03"
+    "started_at":  "2026-11-13 10:00:03"
 }
