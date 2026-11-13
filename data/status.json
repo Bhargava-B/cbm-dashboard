@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-13 11:49:06",
+    "generated_at":  "2026-11-13 13:42:41",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1736,9 +1736,9 @@
                                                                         "db_size_bytes":  2821345280
                                                                     },
                                "MAR Basil EVM Theatre Rajakumari":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-11-12",
-                                                                        "db_size_bytes":  861392896
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-13",
+                                                                        "db_size_bytes":  847495168
                                                                     },
                                "Dream Cinemas Thodupuzha":  {
                                                                 "status":  "ok",
@@ -1761,9 +1761,9 @@
                                                      "db_size_bytes":  206753792
                                                  },
                                "Devaki Cinemas Guruvayoor":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-11-12",
-                                                                 "db_size_bytes":  765480960
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-11-13",
+                                                                 "db_size_bytes":  769609728
                                                              },
                                "VB CINEMAS Thriprayar":  {
                                                              "status":  "ok",
@@ -3792,9 +3792,9 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-12",
-                                                                "db_size_bytes":  741785600
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-13",
+                                                                "db_size_bytes":  742641664
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
                                                                                    "status":  "ok",
@@ -4342,8 +4342,8 @@
                                                                                 "db_size_bytes":  3764965376
                                                                             },
                                "SV Talkies - Nindra":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-11-12",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-11-13",
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Srinivasa Theater AC DTS - Nallajerla":  {
@@ -4603,5 +4603,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-13 10:00:03"
+    "started_at":  "2026-11-13 12:00:03"
 }
