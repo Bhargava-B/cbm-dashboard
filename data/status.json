@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-14 09:41:38",
+    "generated_at":  "2026-11-14 11:45:03",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -603,9 +603,9 @@
                                                                                 "db_size_bytes":  1838510080
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-13",
-                                                                              "db_size_bytes":  517132288
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-14",
+                                                                              "db_size_bytes":  517980160
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -2241,9 +2241,9 @@
                                                                  "db_size_bytes":  3832066048
                                                              },
                                "Bosco Cinemas Kuravilangad":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-11-13",
-                                                                  "db_size_bytes":  1853612032
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-11-14",
+                                                                  "db_size_bytes":  1855381504
                                                               },
                                "Ganam Theatre Kattanam":  {
                                                               "status":  "ok",
@@ -2456,9 +2456,9 @@
                                                                     "db_size_bytes":  323735552
                                                                 },
                                "JK Cinemas Thriprayar":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-13",
-                                                             "db_size_bytes":  4422594560
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-14",
+                                                             "db_size_bytes":  4400734208
                                                          },
                                "Dreamax E cinemas mayannur":  {
                                                                   "status":  "ok",
@@ -2711,9 +2711,9 @@
                                                                "db_size_bytes":  347926528
                                                            },
                                "Mars Cinemas Changaramkulam":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-11-13",
-                                                                   "db_size_bytes":  4153618432
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-11-14",
+                                                                   "db_size_bytes":  4164296704
                                                                },
                                "Dhanya Remya Changanassery":  {
                                                                   "status":  "ok",
@@ -2853,9 +2853,9 @@
                                                                  "db_size_bytes":  2954543104
                                                              },
                                "Amity Lite Maharagama":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-13",
-                                                             "db_size_bytes":  2462957568
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-14",
+                                                             "db_size_bytes":  2469380096
                                                          },
                                "New Janaki Cinema Mathugama":  {
                                                                    "status":  "ok",
@@ -2965,8 +2965,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-12",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-14",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -3345,8 +3345,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Balaji 2K Dolby Atmos-Viveknagar":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-13",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-14",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Laxmi pride cinemas -Hubli":  {
@@ -4257,8 +4257,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Bommarillu Cinemas":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-11-13",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-11-14",
                                                           "db_size_bytes":  null
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
@@ -4352,9 +4352,9 @@
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Srinivasa Theater AC DTS - Nallajerla":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-11-13",
-                                                                                 "db_size_bytes":  679792640
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-11-14",
+                                                                                 "db_size_bytes":  678285312
                                                                              },
                                "Navarang Theatre - Vijayawada":  {
                                                                      "status":  "ok",
@@ -4527,8 +4527,8 @@
                                                                                    "db_size_bytes":  5644275712
                                                                                },
                                "Rain Cinema - Nellore":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-13",
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-14",
                                                              "db_size_bytes":  null
                                                          },
                                "Vigneswara Theatre - Samalkota":  {
@@ -4608,5 +4608,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-14 08:00:03"
+    "started_at":  "2026-11-14 10:00:03"
 }
