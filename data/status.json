@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-14 11:45:03",
+    "generated_at":  "2026-11-14 13:44:42",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1272,9 +1272,9 @@
                                                                     "db_size_bytes":  5631623168
                                                                 },
                                   "VLS Sri Rama Theatre - Jagtial":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-11-13",
-                                                                         "db_size_bytes":  3223572480
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-11-14",
+                                                                         "db_size_bytes":  3222523904
                                                                      },
                                   "Asian Gemini Theatre - Warangal":  {
                                                                           "status":  "ok",
@@ -1362,9 +1362,9 @@
                                                                           "db_size_bytes":  3950096384
                                                                       },
                                   "Asian Super - Balapur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-12",
-                                                                "db_size_bytes":  1037242368
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-14",
+                                                                "db_size_bytes":  1047699456
                                                             },
                                   "Cine Town Indra Nagendra - Karmanghat":  {
                                                                                 "status":  "ok",
@@ -2571,9 +2571,9 @@
                                                                     "db_size_bytes":  2375020544
                                                                 },
                                "Thalam Theatre Wadakkancherry":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-11-13",
-                                                                     "db_size_bytes":  2053398528
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-11-14",
+                                                                     "db_size_bytes":  2056548352
                                                                  },
                                "Avishkar Cinemas Kottayi":  {
                                                                 "status":  "ok",
@@ -3792,8 +3792,8 @@
                                                                 "db_size_bytes":  1729945600
                                                             },
                                "Suresh Mahal AC 4K Padmakar Films - Vinukonda":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-11-13",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-11-14",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
@@ -4608,5 +4608,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-14 10:00:03"
+    "started_at":  "2026-11-14 12:00:03"
 }
