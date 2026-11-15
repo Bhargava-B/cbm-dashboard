@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-15 09:38:02",
+    "generated_at":  "2026-11-15 11:43:59",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -123,9 +123,9 @@
                                                             "db_size_bytes":  4888600576
                                                         },
                                "Arra Cinema Bodi":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-11-14",
-                                                        "db_size_bytes":  1474093056
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-11-15",
+                                                        "db_size_bytes":  1476718592
                                                     },
                                "Vee Pee Cinemas":  {
                                                        "status":  "ok",
@@ -603,9 +603,9 @@
                                                                                 "db_size_bytes":  1842970624
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-14",
-                                                                              "db_size_bytes":  517980160
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-15",
+                                                                              "db_size_bytes":  518639616
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -2853,9 +2853,9 @@
                                                                  "db_size_bytes":  2956967936
                                                              },
                                "Amity Lite Maharagama":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-14",
-                                                             "db_size_bytes":  2469380096
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-15",
+                                                             "db_size_bytes":  2474819584
                                                          },
                                "New Janaki Cinema Mathugama":  {
                                                                    "status":  "ok",
@@ -2965,8 +2965,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-14",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-15",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -3200,8 +3200,8 @@
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Prabha Theatre - Mysuru":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-12",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-15",
                                                                "db_size_bytes":  null
                                                            },
                                "Swagath ShankarNag (ONYX) LED Cinema - MG Road":  {
@@ -3345,8 +3345,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Balaji 2K Dolby Atmos-Viveknagar":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-14",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-15",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Laxmi pride cinemas -Hubli":  {
@@ -4012,9 +4012,9 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Sri Govinda Mahal - Gollaprolu":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-11-14",
-                                                                      "db_size_bytes":  1377169408
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-11-15",
+                                                                      "db_size_bytes":  1381437440
                                                                   },
                                "Vijaya Complex - Akividu":  {
                                                                 "status":  "ok",
@@ -4608,5 +4608,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-15 08:00:03"
+    "started_at":  "2026-11-15 10:00:03"
 }
