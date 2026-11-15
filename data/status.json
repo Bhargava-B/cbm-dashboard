@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-15 15:40:59",
+    "generated_at":  "2026-11-15 17:41:02",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3887,8 +3887,8 @@
                                                                                         "db_size_bytes":  1726128128
                                                                                     },
                                "Satyanarayana Kalamandir - Addanki":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-11-12",
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-11-15",
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
@@ -4608,5 +4608,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-15 14:00:03"
+    "started_at":  "2026-11-15 16:00:03"
 }
