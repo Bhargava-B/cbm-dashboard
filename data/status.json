@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-15 11:43:59",
+    "generated_at":  "2026-11-15 13:44:39",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -283,9 +283,9 @@
                                                                  "db_size_bytes":  1000742912
                                                              },
                                "Rohini Jayanthy Cheyyur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-14",
-                                                               "db_size_bytes":  754630656
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-15",
+                                                               "db_size_bytes":  755482624
                                                            },
                                "Amman Cinemas":  {
                                                      "status":  "ok",
@@ -758,9 +758,9 @@
                                                                         "db_size_bytes":  4270280704
                                                                     },
                                "Divya Theatre Puducherry":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-14",
-                                                                "db_size_bytes":  392814592
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-15",
+                                                                "db_size_bytes":  397836288
                                                             },
                                "Raja Cinemas Perambalur":  {
                                                                "status":  "ok",
@@ -3797,9 +3797,9 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-14",
-                                                                "db_size_bytes":  743034880
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-15",
+                                                                "db_size_bytes":  743686144
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
                                                                                    "status":  "ok",
@@ -3902,8 +3902,8 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Aditya Theatre AC DTS - Vizianagaram":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-12",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-15",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Satyanarayana Picture Palace AC DTS - Anakapalle":  {
@@ -4062,8 +4062,8 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "Dwaraka Cinemas 4K Dolby Atmos - Nuzvid":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-11-14",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-11-15",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Sri Venkateswara Talkies 2K AC DTS - Ravulapalem":  {
@@ -4162,8 +4162,8 @@
                                                                    "db_size_bytes":  260427776
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-11-14",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-15",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Capital Cinemas Vijayawada":  {
@@ -4352,9 +4352,9 @@
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Srinivasa Theater AC DTS - Nallajerla":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-11-14",
-                                                                                 "db_size_bytes":  678285312
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-11-15",
+                                                                                 "db_size_bytes":  683003904
                                                                              },
                                "Navarang Theatre - Vijayawada":  {
                                                                      "status":  "ok",
@@ -4372,8 +4372,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Balaji Picture Palace - Cherukupalli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-14",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-15",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateswara AC Dolby DTS - S Kota":  {
@@ -4608,5 +4608,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-15 10:00:03"
+    "started_at":  "2026-11-15 12:00:03"
 }
