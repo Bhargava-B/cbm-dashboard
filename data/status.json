@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-15 17:41:02",
+    "generated_at":  "2026-11-15 19:42:39",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1609,9 +1609,9 @@
                                                                     "db_size_bytes":  1064099840
                                                                 },
                                "Vijetha 70MM 4k Atmos - Borabanda":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-11-14",
-                                                                         "db_size_bytes":  3694772224
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-11-15",
+                                                                         "db_size_bytes":  3692814336
                                                                      },
                                "Sri Manikanta 70mm Theatres":  {
                                                                    "status":  "missing",
@@ -3335,8 +3335,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-11-15",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3742,8 +3742,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Tara Screens 2K AC Payakapuram - Vijayawada":  {
-                                                                                   "status":  "missing",
-                                                                                   "last_backup":  "2026-11-14",
+                                                                                   "status":  "ok",
+                                                                                   "last_backup":  "2026-11-15",
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Ranga Mahal Theater - Velugodu":  {
@@ -3847,9 +3847,9 @@
                                                                              "db_size_bytes":  2732023808
                                                                          },
                                "Sekhar Cinemas - Amalapuram":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-11-14",
-                                                                   "db_size_bytes":  1973932032
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-11-15",
+                                                                   "db_size_bytes":  1974845440
                                                                },
                                "Royal Talkies AC Dolby Atmos 3D 4K - Rayavaram":  {
                                                                                       "status":  "ok",
@@ -3892,9 +3892,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-14",
-                                                                    "db_size_bytes":  454651904
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-15",
+                                                                    "db_size_bytes":  453443584
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "missing",
@@ -3992,9 +3992,9 @@
                                                                         "db_size_bytes":  2452488192
                                                                     },
                                "Surya Cinemax - Kakinada":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-14",
-                                                                "db_size_bytes":  1868554240
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-15",
+                                                                "db_size_bytes":  1868353536
                                                             },
                                "Swathi Theater - Bhavanipuram":  {
                                                                      "status":  "ok",
@@ -4132,9 +4132,9 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Natraj AC DTS - Pendurthi":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-11-14",
-                                                                 "db_size_bytes":  2393104384
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-11-15",
+                                                                 "db_size_bytes":  2382319616
                                                              },
                                "Sailaja - Vijayawada":  {
                                                             "status":  "ok",
@@ -4577,8 +4577,8 @@
                                                                                  "db_size_bytes":  1529405440
                                                                              },
                                "Sri Krishna Theater - Repalle":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-11-14",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-11-15",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Annapurna Theatre - Kurmanpalem":  {
@@ -4608,5 +4608,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-15 16:00:03"
+    "started_at":  "2026-11-15 18:00:03"
 }
