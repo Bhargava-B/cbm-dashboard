@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-16 19:46:12",
+    "generated_at":  "2026-11-16 21:42:13",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1604,9 +1604,9 @@
                                                               "db_size_bytes":  393404416
                                                           },
                                "Aradhana Theatre - Hyderabad":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-15",
-                                                                    "db_size_bytes":  1064099840
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-16",
+                                                                    "db_size_bytes":  1065725952
                                                                 },
                                "Vijetha 70MM 4k Atmos - Borabanda":  {
                                                                          "status":  "ok",
@@ -3742,8 +3742,8 @@
                                                                              "db_size_bytes":  2103466496
                                                                          },
                                "Dr PV Rao Cineplex - Kanchikacherla":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-11-15",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-11-16",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Srinivasa Theater - Giddalur":  {
@@ -3812,9 +3812,9 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-15",
-                                                                "db_size_bytes":  743686144
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-16",
+                                                                "db_size_bytes":  745328640
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
                                                                                    "status":  "ok",
@@ -4262,8 +4262,8 @@
                                                                    "db_size_bytes":  591409152
                                                                },
                                "KS Talkies":  {
-                                                  "status":  "missing",
-                                                  "last_backup":  "2026-11-15",
+                                                  "status":  "ok",
+                                                  "last_backup":  "2026-11-16",
                                                   "db_size_bytes":  null
                                               },
                                "Aswani Deluxe AC - Piduguralla":  {
@@ -4452,9 +4452,9 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Santhi Theater AC DTS - Nandikotkur":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-11-15",
-                                                                           "db_size_bytes":  1238786048
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-11-16",
+                                                                           "db_size_bytes":  1238298624
                                                                        },
                                "VPC Sri Krishna AC - Mummidivaram":  {
                                                                          "status":  "ok",
@@ -4623,5 +4623,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-16 18:00:03"
+    "started_at":  "2026-11-16 20:00:03"
 }
