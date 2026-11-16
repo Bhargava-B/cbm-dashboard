@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-16 11:44:41",
+    "generated_at":  "2026-11-16 13:49:10",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -338,9 +338,9 @@
                                                                                     "db_size_bytes":  3064979456
                                                                                 },
                                "Shrri Dhevee Theatre Rasipuram":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-10-04",
-                                                                      "db_size_bytes":  692240384
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-11-16",
+                                                                      "db_size_bytes":  691519488
                                                                   },
                                "Vetri Cinemas Maattuthavani Madurai":  {
                                                                            "status":  "ok",
@@ -723,9 +723,9 @@
                                                                         "db_size_bytes":  1533931520
                                                                     },
                                "Sri Lakshmi Theatre Thirupparankundram":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-15",
-                                                                              "db_size_bytes":  912936960
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-16",
+                                                                              "db_size_bytes":  913793024
                                                                           },
                                "Arasan Cinema AC Coimbatore":  {
                                                                    "status":  "ok",
@@ -758,9 +758,9 @@
                                                                         "db_size_bytes":  4274143232
                                                                     },
                                "Divya Theatre Puducherry":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-15",
-                                                                "db_size_bytes":  397836288
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-16",
+                                                                "db_size_bytes":  400056320
                                                             },
                                "Raja Cinemas Perambalur":  {
                                                                "status":  "ok",
@@ -2826,9 +2826,9 @@
                                                                      "db_size_bytes":  8401989632
                                                                  },
                                "Sindhu Cinema Venjarammoodu":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-11-15",
-                                                                   "db_size_bytes":  995872768
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-11-16",
+                                                                   "db_size_bytes":  998301696
                                                                }
                            },
                     "SL":  {
@@ -2979,11 +2979,11 @@
                                                                              "last_backup":  "2026-11-16",
                                                                              "db_size_bytes":  null
                                                                          },
-                               "Veerbhadreshwara Theatre Shivamogga":  {
-                                                                           "status":  "ok",
-                                                                           "last_backup":  "2026-11-16",
-                                                                           "db_size_bytes":  null
-                                                                       },
+                               "Sangam Digital - Mysuru":  {
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-16",
+                                                               "db_size_bytes":  null
+                                                           },
                                "Veeresh Cinemas-Magadi Road":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-11-16",
@@ -3009,6 +3009,11 @@
                                                                                          "last_backup":  "2026-11-16",
                                                                                          "db_size_bytes":  null
                                                                                      },
+                               "SIDDESHWARA Digital 2K 7.1 Cinema - J.P.Nagar":  {
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-11-16",
+                                                                                     "db_size_bytes":  null
+                                                                                 },
                                "Lakshmi Talkies: Tiptur":  {
                                                                "status":  "ok",
                                                                "last_backup":  "2026-11-16",
@@ -3029,16 +3034,16 @@
                                                                                     "last_backup":  "2026-11-16",
                                                                                     "db_size_bytes":  null
                                                                                 },
+                               "PSR CINEMAS-MALL OF MANDYA":  {
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-11-16",
+                                                                  "db_size_bytes":  null
+                                                              },
                                "Kino Cinemas - Seegehalli Kadugodi, Bengaluru":  {
                                                                                      "status":  "ok",
                                                                                      "last_backup":  "2026-11-16",
                                                                                      "db_size_bytes":  null
                                                                                  },
-                               "Jai Bharath Theatre -Tumkur":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-11-16",
-                                                                   "db_size_bytes":  null
-                                                               },
                                "Coorg Cineplex - Gonikoppal":  {
                                                                    "status":  "ok",
                                                                    "last_backup":  "2026-11-16",
@@ -3094,6 +3099,11 @@
                                                                  "last_backup":  "2026-11-16",
                                                                  "db_size_bytes":  null
                                                              },
+                               "Veerbhadreshwara Theatre Shivamogga":  {
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-11-16",
+                                                                           "db_size_bytes":  null
+                                                                       },
                                "Ravi Digital 2K Dolby 7.1 HD Screen - Ejipura":  {
                                                                                      "status":  "ok",
                                                                                      "last_backup":  "2026-11-16",
@@ -3144,11 +3154,11 @@
                                                                 "last_backup":  "2026-11-16",
                                                                 "db_size_bytes":  null
                                                             },
-                               "SIDDESHWARA Digital 2K 7.1 Cinema - J.P.Nagar":  {
-                                                                                     "status":  "ok",
-                                                                                     "last_backup":  "2026-11-16",
-                                                                                     "db_size_bytes":  null
-                                                                                 },
+                               "Akash Cinemas Laggere":  {
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-16",
+                                                             "db_size_bytes":  null
+                                                         },
                                "Swagath Poornima 4K Dolby Atmos - JC Road":  {
                                                                                  "status":  "ok",
                                                                                  "last_backup":  "2026-11-16",
@@ -3399,11 +3409,11 @@
                                                              "last_backup":  "2026-11-16",
                                                              "db_size_bytes":  null
                                                          },
-                               "Sangam Digital - Mysuru":  {
-                                                               "status":  "ok",
-                                                               "last_backup":  "2026-11-16",
-                                                               "db_size_bytes":  null
-                                                           },
+                               "Jai Bharath Theatre -Tumkur":  {
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-11-16",
+                                                                   "db_size_bytes":  null
+                                                               },
                                "Sri Vinayaka Cinemas DJ Halli":  {
                                                                      "status":  "ok",
                                                                      "last_backup":  "2026-11-16",
@@ -3434,6 +3444,11 @@
                                                            "last_backup":  "2026-11-16",
                                                            "db_size_bytes":  null
                                                        },
+                               "Swagath LXC (Ravi Theatre) Sarjapura":  {
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-16",
+                                                                            "db_size_bytes":  null
+                                                                        },
                                "Bharathi Theatre (Peenya) AC 4K Digital Cinema":  {
                                                                                       "status":  "ok",
                                                                                       "last_backup":  "2026-11-16",
@@ -3547,9 +3562,9 @@
                                                                   "db_size_bytes":  590405632
                                                               },
                                "Annapoorna Theatre Pithapuram":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-11-15",
-                                                                     "db_size_bytes":  254529536
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-11-16",
+                                                                     "db_size_bytes":  254791680
                                                                  },
                                "Chalapathi Mini Theater - Tadepalligudem":  {
                                                                                 "status":  "missing",
@@ -4262,9 +4277,9 @@
                                                           "db_size_bytes":  null
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-11-15",
-                                                                 "db_size_bytes":  2431766528
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-11-16",
+                                                                 "db_size_bytes":  2436026368
                                                              },
                                "Srinivasa AC 4K Dolby Atmos - Puttur":  {
                                                                             "status":  "missing",
@@ -4608,5 +4623,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-16 10:00:03"
+    "started_at":  "2026-11-16 12:00:03"
 }
