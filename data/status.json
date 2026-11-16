@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-16 17:43:08",
+    "generated_at":  "2026-11-16 19:46:12",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3345,8 +3345,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-11-16",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4623,5 +4623,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-16 16:00:03"
+    "started_at":  "2026-11-16 18:00:03"
 }
