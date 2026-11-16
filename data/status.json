@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-16 15:43:28",
+    "generated_at":  "2026-11-16 17:43:08",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -850,7 +850,7 @@
                                "Sri Rajan Cinemas Chetpet":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-11-16",
-                                                                 "db_size_bytes":  508547072
+                                                                 "db_size_bytes":  508678144
                                                              },
                                "Kavitha Cinemas K G Chavadi":  {
                                                                    "status":  "missing",
@@ -2561,9 +2561,9 @@
                                                                  "db_size_bytes":  3408105472
                                                              },
                                "Lakshmi Cinemas 4K RGB Kodungallur":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-11-15",
-                                                                          "db_size_bytes":  2924990464
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-11-16",
+                                                                          "db_size_bytes":  2926956544
                                                                       },
                                "Alinkeel Cinemas Taliparamba":  {
                                                                     "status":  "ok",
@@ -4457,9 +4457,9 @@
                                                                            "db_size_bytes":  1238786048
                                                                        },
                                "VPC Sri Krishna AC - Mummidivaram":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-11-05",
-                                                                         "db_size_bytes":  317177856
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-11-16",
+                                                                         "db_size_bytes":  316063744
                                                                      },
                                "Sri Venkateswara A":  {
                                                           "status":  "missing",
@@ -4623,5 +4623,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-16 14:00:03"
+    "started_at":  "2026-11-16 16:00:03"
 }
