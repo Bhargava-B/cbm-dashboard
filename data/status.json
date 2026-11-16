@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-16 09:44:54",
+    "generated_at":  "2026-11-16 11:44:41",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -603,9 +603,9 @@
                                                                                 "db_size_bytes":  1842868224
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-15",
-                                                                              "db_size_bytes":  518639616
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-16",
+                                                                              "db_size_bytes":  519163904
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -628,9 +628,9 @@
                                                                       "db_size_bytes":  925425664
                                                                   },
                                "Makkal Cinemas Aravakurichi":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-11-15",
-                                                                   "db_size_bytes":  1066086400
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-11-16",
+                                                                   "db_size_bytes":  1072300032
                                                                },
                                "LATHAA CINEMAS CHENGALPATTU":  {
                                                                    "status":  "ok",
@@ -2853,9 +2853,9 @@
                                                                  "db_size_bytes":  2959790080
                                                              },
                                "Amity Lite Maharagama":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-15",
-                                                             "db_size_bytes":  2474819584
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-16",
+                                                             "db_size_bytes":  2474754048
                                                          },
                                "New Janaki Cinema Mathugama":  {
                                                                    "status":  "ok",
@@ -3345,8 +3345,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Balaji 2K Dolby Atmos-Viveknagar":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-15",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-16",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Laxmi pride cinemas -Hubli":  {
@@ -4257,8 +4257,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Bommarillu Cinemas":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-11-15",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-11-16",
                                                           "db_size_bytes":  null
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
@@ -4372,8 +4372,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Balaji Picture Palace - Cherukupalli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-15",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-16",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateswara AC Dolby DTS - S Kota":  {
@@ -4608,5 +4608,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-16 08:00:03"
+    "started_at":  "2026-11-16 10:00:03"
 }
