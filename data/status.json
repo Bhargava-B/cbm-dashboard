@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-17 17:39:59",
+    "generated_at":  "2026-11-17 19:43:00",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2893,9 +2893,9 @@
                                                         "db_size_bytes":  564576256
                                                     },
                                "Cinelma Theatre Badulla":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-12",
-                                                               "db_size_bytes":  233656320
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-17",
+                                                               "db_size_bytes":  236081152
                                                            },
                                "Ruoo Cinemas Katunayake":  {
                                                                "status":  "missing",
@@ -3345,8 +3345,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-11-17",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4623,5 +4623,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-17 16:00:03"
+    "started_at":  "2026-11-17 18:00:03"
 }
