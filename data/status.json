@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-17 11:42:48",
+    "generated_at":  "2026-11-17 13:48:24",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1609,9 +1609,9 @@
                                                                     "db_size_bytes":  1050873856
                                                                 },
                                "Vijetha 70MM 4k Atmos - Borabanda":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-11-16",
-                                                                         "db_size_bytes":  3709984768
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-11-17",
+                                                                         "db_size_bytes":  3656568832
                                                                      },
                                "Sri Manikanta 70mm Theatres":  {
                                                                    "status":  "missing",
@@ -1766,9 +1766,9 @@
                                                      "db_size_bytes":  231940096
                                                  },
                                "Devaki Cinemas Guruvayoor":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-11-16",
-                                                                 "db_size_bytes":  787238912
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-11-17",
+                                                                 "db_size_bytes":  787435520
                                                              },
                                "VB CINEMAS Thriprayar":  {
                                                              "status":  "ok",
@@ -2985,8 +2985,8 @@
                                                                "db_size_bytes":  null
                                                            },
                                "Veeresh Cinemas-Magadi Road":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-11-16",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-11-17",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Renuka Talkies -Belur":  {
@@ -3475,8 +3475,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-11-16",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-11-17",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3917,8 +3917,8 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Aditya Theatre AC DTS - Vizianagaram":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-15",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-17",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Satyanarayana Picture Palace AC DTS - Anakapalle":  {
@@ -4623,5 +4623,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-17 10:00:03"
+    "started_at":  "2026-11-17 12:00:03"
 }
