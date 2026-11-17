@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-17 09:44:39",
+    "generated_at":  "2026-11-17 11:42:48",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -603,9 +603,9 @@
                                                                                 "db_size_bytes":  1830752256
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-16",
-                                                                              "db_size_bytes":  519163904
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-17",
+                                                                              "db_size_bytes":  519229440
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -1569,8 +1569,8 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Laxmi - Metpally":  {
-                                                        "status":  "missing",
-                                                        "last_backup":  "2026-11-16",
+                                                        "status":  "ok",
+                                                        "last_backup":  "2026-11-17",
                                                         "db_size_bytes":  null
                                                     },
                                "Sri Prema - Thukkuguda":  {
@@ -1639,9 +1639,9 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sai Ranga - Miyapur":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-11-16",
-                                                           "db_size_bytes":  1549500416
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-11-17",
+                                                           "db_size_bytes":  1497612288
                                                        },
                                "Laxmi AC Deluxe Theatre - Korutla":  {
                                                                          "status":  "missing",
@@ -2853,9 +2853,9 @@
                                                                  "db_size_bytes":  2967584768
                                                              },
                                "Amity Lite Maharagama":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-16",
-                                                             "db_size_bytes":  2474754048
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-17",
+                                                             "db_size_bytes":  2473705472
                                                          },
                                "New Janaki Cinema Mathugama":  {
                                                                    "status":  "ok",
@@ -2945,8 +2945,8 @@
                            },
                     "KA":  {
                                "Abhinay Theatre - Gandhi Nagar":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-11-16",
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-11-17",
                                                                       "db_size_bytes":  null
                                                                   },
                                "Pushpanjali AC Digital 2K Dolby Atmos-Sultanpalya":  {
@@ -2960,13 +2960,13 @@
                                                        "db_size_bytes":  null
                                                    },
                                "Bhumika Digital 2K Cinema - Gandhinagar":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-11-16",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-11-17",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-15",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-17",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -3175,8 +3175,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Venkateshwara Digital 4K Dolby 7.1 Kengeri":  {
-                                                                                  "status":  "missing",
-                                                                                  "last_backup":  "2026-11-16",
+                                                                                  "status":  "ok",
+                                                                                  "last_backup":  "2026-11-17",
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Benaka CInemas, Malur":  {
@@ -3205,8 +3205,8 @@
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "Aruna Theatre AC 4K 7.1 Dolby 3D - Srirampuram":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-11-16",
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-11-17",
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Prabha Theatre - Mysuru":  {
@@ -3355,8 +3355,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Balaji 2K Dolby Atmos-Viveknagar":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-16",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-17",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Laxmi pride cinemas -Hubli":  {
@@ -3415,8 +3415,8 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Vinayaka Cinemas DJ Halli":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-11-16",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-11-17",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Rajkamal Digital 2K Laser Projection - Mysore":  {
@@ -3435,8 +3435,8 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "Kamakya Cinema - Banashankari":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-11-16",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-11-17",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Cine Galaxy Manipal":  {
@@ -3515,8 +3515,8 @@
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "V CINEMA RAMMURTHY NAGAR(4 screens)":  {
-                                                                           "status":  "missing",
-                                                                           "last_backup":  "2026-11-16",
+                                                                           "status":  "ok",
+                                                                           "last_backup":  "2026-11-17",
                                                                            "db_size_bytes":  null
                                                                        },
                                "Sri Venkateshwara Digital 2K Cinema Girinagar":  {
@@ -4047,9 +4047,9 @@
                                                                                            "db_size_bytes":  5688613376
                                                                                        },
                                "Sri Devi Mahal - Amadalavalasa":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-11-16",
-                                                                      "db_size_bytes":  418467840
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-11-17",
+                                                                      "db_size_bytes":  412213248
                                                                   },
                                "Srinivasa Theater AC 2K Dolby - Markapur":  {
                                                                                 "status":  "ok",
@@ -4272,14 +4272,14 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Bommarillu Cinemas":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-11-16",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-11-17",
                                                           "db_size_bytes":  null
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-11-16",
-                                                                 "db_size_bytes":  2436026368
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-11-17",
+                                                                 "db_size_bytes":  2423443456
                                                              },
                                "Srinivasa AC 4K Dolby Atmos - Puttur":  {
                                                                             "status":  "missing",
@@ -4387,8 +4387,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Balaji Picture Palace - Cherukupalli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-16",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-17",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateswara AC Dolby DTS - S Kota":  {
@@ -4623,5 +4623,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-17 08:00:03"
+    "started_at":  "2026-11-17 10:00:03"
 }
