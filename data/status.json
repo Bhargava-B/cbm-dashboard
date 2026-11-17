@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-17 19:43:00",
+    "generated_at":  "2026-11-17 21:38:00",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1644,8 +1644,8 @@
                                                            "db_size_bytes":  1497612288
                                                        },
                                "Laxmi AC Deluxe Theatre - Korutla":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-11-16",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-11-17",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Gokul 70MM - Erragadda":  {
@@ -3907,9 +3907,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-16",
-                                                                    "db_size_bytes":  456617984
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-17",
+                                                                    "db_size_bytes":  450584576
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "missing",
@@ -3977,9 +3977,9 @@
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Suryapalace 2K Dolby Atmos - Rajahmundry":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-11-16",
-                                                                                "db_size_bytes":  4222309888
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-11-17",
+                                                                                "db_size_bytes":  4167594496
                                                                             },
                                "Sri Venkateswara AC DTS - Mangalagiri":  {
                                                                              "status":  "ok",
@@ -4077,8 +4077,8 @@
                                                                  "db_size_bytes":  null
                                                              },
                                "Dwaraka Cinemas 4K Dolby Atmos - Nuzvid":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-11-16",
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-11-17",
                                                                                "db_size_bytes":  null
                                                                            },
                                "Sri Venkateswara Talkies 2K AC DTS - Ravulapalem":  {
@@ -4407,8 +4407,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Basaveswara Theater - Repalle":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-11-16",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-11-17",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Ananya Cinemas - Kovvur":  {
@@ -4623,5 +4623,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-17 18:00:03"
+    "started_at":  "2026-11-17 20:00:03"
 }
