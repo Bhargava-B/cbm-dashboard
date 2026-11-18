@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-18 15:48:52",
+    "generated_at":  "2026-11-18 17:50:38",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -177,10 +177,10 @@
                                                                    "last_backup":  "2026-11-18",
                                                                    "db_size_bytes":  565731328
                                                                },
-                               "Shanmuga Cine Complex Madurai":  {
+                               "Jazz and Arsh Cinemas Madurai":  {
                                                                      "status":  "ok",
                                                                      "last_backup":  "2026-11-18",
-                                                                     "db_size_bytes":  1937059840
+                                                                     "db_size_bytes":  1433665536
                                                                  },
                                "ARRS Multiplex Salem":  {
                                                             "status":  "ok",
@@ -197,11 +197,11 @@
                                                        "last_backup":  "2026-11-18",
                                                        "db_size_bytes":  1235017728
                                                    },
-                               "Jazz and Arsh Cinemas Madurai":  {
-                                                                     "status":  "ok",
-                                                                     "last_backup":  "2026-11-18",
-                                                                     "db_size_bytes":  1433665536
-                                                                 },
+                               "DEVI CINEMAS CHENNAI":  {
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-11-18",
+                                                            "db_size_bytes":  342347776
+                                                        },
                                "Mariyappa Theatre Chidambaram":  {
                                                                      "status":  "ok",
                                                                      "last_backup":  "2026-11-18",
@@ -417,6 +417,11 @@
                                                                 "last_backup":  "2026-11-18",
                                                                 "db_size_bytes":  1513254400
                                                             },
+                               "Shanmuga Cine Complex Madurai":  {
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-11-18",
+                                                                     "db_size_bytes":  1937059840
+                                                                 },
                                "Assembly Rooms Ooty":  {
                                                            "status":  "ok",
                                                            "last_backup":  "2026-11-18",
@@ -3627,9 +3632,9 @@
                                                                                    "db_size_bytes":  821870592
                                                                                },
                                "Parameswari AC DTS - Yellamanchili":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-11-17",
-                                                                          "db_size_bytes":  977457152
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-11-18",
+                                                                          "db_size_bytes":  978767872
                                                                       },
                                "Raja Talkies - Dhone":  {
                                                             "status":  "ok",
@@ -3767,9 +3772,9 @@
                                                                       "db_size_bytes":  745459712
                                                                   },
                                "Srinivasa Mahal - Kanchikacherla":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-11-17",
-                                                                        "db_size_bytes":  500092928
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-18",
+                                                                        "db_size_bytes":  501338112
                                                                     },
                                "VN Palace Veeranarayana - Tanuku":  {
                                                                         "status":  "ok",
@@ -4277,9 +4282,9 @@
                                                           "db_size_bytes":  null
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
-                                                                 "status":  "missing",
-                                                                 "last_backup":  "2026-11-17",
-                                                                 "db_size_bytes":  2423443456
+                                                                 "status":  "ok",
+                                                                 "last_backup":  "2026-11-18",
+                                                                 "db_size_bytes":  2432749568
                                                              },
                                "Srinivasa AC 4K Dolby Atmos - Puttur":  {
                                                                             "status":  "missing",
@@ -4623,5 +4628,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-18 14:00:03"
+    "started_at":  "2026-11-18 16:00:03"
 }
