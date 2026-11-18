@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-18 09:31:47",
+    "generated_at":  "2026-11-18 11:50:35",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -298,9 +298,9 @@
                                                                "db_size_bytes":  1770668032
                                                            },
                                "Sakthi Cinemas Madurai":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-11-17",
-                                                              "db_size_bytes":  345845760
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-11-18",
+                                                              "db_size_bytes":  346570752
                                                           },
                                "Kasi Talkies Chennai":  {
                                                             "status":  "ok",
@@ -673,9 +673,9 @@
                                                             "db_size_bytes":  474476544
                                                         },
                                "MSP Theatre Andipatti":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-17",
-                                                             "db_size_bytes":  804589568
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-18",
+                                                             "db_size_bytes":  805576704
                                                          },
                                "Ayya theatre":  {
                                                     "status":  "ok",
@@ -1130,8 +1130,8 @@
                                                                     "db_size_bytes":  718196736
                                                                 },
                                "Shiva Multiplex - Jharsuguda":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-17",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-18",
                                                                     "db_size_bytes":  null
                                                                 }
                            },
@@ -2853,9 +2853,9 @@
                                                                  "db_size_bytes":  2968764416
                                                              },
                                "Amity Lite Maharagama":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-17",
-                                                             "db_size_bytes":  2473705472
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-18",
+                                                             "db_size_bytes":  2474819584
                                                          },
                                "New Janaki Cinema Mathugama":  {
                                                                    "status":  "ok",
@@ -4272,8 +4272,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Bommarillu Cinemas":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-11-17",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-11-18",
                                                           "db_size_bytes":  null
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
@@ -4623,5 +4623,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-18 08:00:03"
+    "started_at":  "2026-11-18 10:00:04"
 }
