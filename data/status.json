@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-18 11:50:35",
+    "generated_at":  "2026-11-18 13:54:07",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -528,8 +528,8 @@
                                                                "db_size_bytes":  2482753536
                                                            },
                                "Ganapathyram Cinema":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-11-17",
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-11-18",
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Bhagavathi 4K Atmos Poonamallee":  {
@@ -603,9 +603,9 @@
                                                                                 "db_size_bytes":  1834127360
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-17",
-                                                                              "db_size_bytes":  519229440
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-18",
+                                                                              "db_size_bytes":  519491584
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -2985,8 +2985,8 @@
                                                                "db_size_bytes":  null
                                                            },
                                "Veeresh Cinemas-Magadi Road":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-11-17",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-11-18",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Renuka Talkies -Belur":  {
@@ -3475,8 +3475,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-11-17",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-11-18",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3907,9 +3907,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-17",
-                                                                    "db_size_bytes":  450584576
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-18",
+                                                                    "db_size_bytes":  449232896
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "missing",
@@ -3917,8 +3917,8 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Aditya Theatre AC DTS - Vizianagaram":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-17",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-18",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Satyanarayana Picture Palace AC DTS - Anakapalle":  {
@@ -4087,9 +4087,9 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Lakshmi Talkies AC 2K Dolby - Jangareddy Gudem":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-11-17",
-                                                                                          "db_size_bytes":  1565446144
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-11-18",
+                                                                                          "db_size_bytes":  1568722944
                                                                                       },
                                "Vishnu Mahal Theater - Puttur":  {
                                                                      "status":  "ok",
@@ -4623,5 +4623,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-18 10:00:04"
+    "started_at":  "2026-11-18 12:00:03"
 }
