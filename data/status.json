@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-19 17:22:21",
+    "generated_at":  "2026-11-19 19:23:10",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3350,8 +3350,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-11-19",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -4137,8 +4137,8 @@
                                                                            "db_size_bytes":  1216659456
                                                                        },
                                "Sri Padma Theater AC 2K Dolby - Jangareddy Gudem":  {
-                                                                                        "status":  "missing",
-                                                                                        "last_backup":  "2026-11-17",
+                                                                                        "status":  "ok",
+                                                                                        "last_backup":  "2026-11-19",
                                                                                         "db_size_bytes":  1215291392
                                                                                     },
                                "Swarna Multiplex - Vijayawada":  {
@@ -4628,5 +4628,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-19 16:00:03"
+    "started_at":  "2026-11-19 18:00:03"
 }
