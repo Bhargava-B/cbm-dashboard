@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-20 17:22:48",
+    "generated_at":  "2026-11-20 19:24:24",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1544,8 +1544,8 @@
                                                                 "db_size_bytes":  878624768
                                                             },
                                "AMR Vijay Bhaskar - Bhadrachalam":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-11-19",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-20",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Cineverse Multiplex - Uppal":  {
@@ -3350,8 +3350,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-11-20",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3772,9 +3772,9 @@
                                                                       "db_size_bytes":  747229184
                                                                   },
                                "Srinivasa Mahal - Kanchikacherla":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-11-19",
-                                                                        "db_size_bytes":  506449920
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-20",
+                                                                        "db_size_bytes":  502452224
                                                                     },
                                "VN Palace Veeranarayana - Tanuku":  {
                                                                         "status":  "ok",
@@ -3912,9 +3912,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-19",
-                                                                    "db_size_bytes":  453132288
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-20",
+                                                                    "db_size_bytes":  451268608
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "missing",
@@ -3977,8 +3977,8 @@
                                                      "db_size_bytes":  null
                                                  },
                                "J and J Cinemas AC Dolby Atmos - Pathapatnam":  {
-                                                                                    "status":  "missing",
-                                                                                    "last_backup":  "2026-11-19",
+                                                                                    "status":  "ok",
+                                                                                    "last_backup":  "2026-11-20",
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Suryapalace 2K Dolby Atmos - Rajahmundry":  {
@@ -4222,9 +4222,9 @@
                                                                             "db_size_bytes":  458940416
                                                                         },
                                "Krishnaveni Theatre - Jaggampeta":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-11-19",
-                                                                        "db_size_bytes":  887144448
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-20",
+                                                                        "db_size_bytes":  884260864
                                                                     },
                                "Deepak Mahal: Vuyyuru":  {
                                                              "status":  "ok",
@@ -4628,5 +4628,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-20 16:00:03"
+    "started_at":  "2026-11-20 18:00:03"
 }
