@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-20 15:24:19",
+    "generated_at":  "2026-11-20 17:22:48",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -855,7 +855,7 @@
                                "Sri Rajan Cinemas Chetpet":  {
                                                                  "status":  "ok",
                                                                  "last_backup":  "2026-11-20",
-                                                                 "db_size_bytes":  508280832
+                                                                 "db_size_bytes":  508411904
                                                              },
                                "Kavitha Cinemas K G Chavadi":  {
                                                                    "status":  "missing",
@@ -1851,8 +1851,8 @@
                                                                       "db_size_bytes":  3418591232
                                                                   },
                                "Chilanka Cinemas Thiruvalla":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-11-20",
+                                                                   "status":  "missing",
+                                                                   "last_backup":  "2026-11-10",
                                                                    "db_size_bytes":  121290752
                                                                },
                                "UGM Cinemas 4K Ettumanoor":  {
@@ -2291,8 +2291,8 @@
                                                               "db_size_bytes":  5591638016
                                                           },
                                "Jos Theatre  Pala":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-11-20",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-11-06",
                                                          "db_size_bytes":  2323243008
                                                      },
                                "Paradise Cinema Cherthala":  {
@@ -2741,8 +2741,8 @@
                                                               "db_size_bytes":  2215226880
                                                           },
                                "Thai Lakshmi Cinema Punalur":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-11-20",
+                                                                   "status":  "missing",
+                                                                   "last_backup":  "2026-10-29",
                                                                    "db_size_bytes":  1403392000
                                                                },
                                "Alakode Film City Alakkode":  {
@@ -2766,8 +2766,8 @@
                                                                      "db_size_bytes":  1152696320
                                                                  },
                                "Sumangali cinemas Payyannur":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-11-20",
+                                                                   "status":  "missing",
+                                                                   "last_backup":  "2026-11-06",
                                                                    "db_size_bytes":  483119104
                                                                },
                                "Veechee Cinema Edacheri":  {
@@ -4097,8 +4097,8 @@
                                                                                           "db_size_bytes":  1581318144
                                                                                       },
                                "Vishnu Mahal Theater - Puttur":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-11-19",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-11-20",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Vijaya Mahal Theater AC DTS - Mandapeta":  {
@@ -4628,5 +4628,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-20 14:00:03"
+    "started_at":  "2026-11-20 16:00:03"
 }
