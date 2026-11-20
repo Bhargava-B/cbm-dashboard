@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-20 11:33:28",
+    "generated_at":  "2026-11-20 13:28:04",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1367,9 +1367,9 @@
                                                                           "db_size_bytes":  3949801472
                                                                       },
                                   "Asian Super - Balapur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-19",
-                                                                "db_size_bytes":  1038082048
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-20",
+                                                                "db_size_bytes":  1041809408
                                                             },
                                   "Cine Town Indra Nagendra - Karmanghat":  {
                                                                                 "status":  "ok",
@@ -1514,8 +1514,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Acchi Reddy Theater AC Dolby DTS - Haliya":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-11-19",
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-11-20",
                                                                                  "db_size_bytes":  null
                                                                              },
                                "cinemax - Medak":  {
@@ -2990,8 +2990,8 @@
                                                                "db_size_bytes":  null
                                                            },
                                "Veeresh Cinemas-Magadi Road":  {
-                                                                   "status":  "missing",
-                                                                   "last_backup":  "2026-11-19",
+                                                                   "status":  "ok",
+                                                                   "last_backup":  "2026-11-20",
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Renuka Talkies -Belur":  {
@@ -3150,8 +3150,8 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Rajashree Theatre - Nipani":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-11-19",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-11-20",
                                                                   "db_size_bytes":  null
                                                               },
                                "Globe Cinemas - Belagavi":  {
@@ -3480,8 +3480,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-11-19",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-11-20",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3812,8 +3812,8 @@
                                                                 "db_size_bytes":  1728782336
                                                             },
                                "Suresh Mahal AC 4K Padmakar Films - Vinukonda":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-11-19",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-11-20",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
@@ -4102,9 +4102,9 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Vijaya Mahal Theater AC DTS - Mandapeta":  {
-                                                                               "status":  "missing",
-                                                                               "last_backup":  "2026-11-19",
-                                                                               "db_size_bytes":  491438080
+                                                                               "status":  "ok",
+                                                                               "last_backup":  "2026-11-20",
+                                                                               "db_size_bytes":  491307008
                                                                            },
                                "Maruthi Theatre - Palakollu":  {
                                                                    "status":  "ok",
@@ -4392,8 +4392,8 @@
                                                                        "db_size_bytes":  null
                                                                    },
                                "Balaji Picture Palace - Cherukupalli":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-19",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-20",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Venkateswara AC Dolby DTS - S Kota":  {
@@ -4628,5 +4628,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-20 10:00:03"
+    "started_at":  "2026-11-20 12:00:03"
 }
