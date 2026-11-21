@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-21 11:30:30",
+    "generated_at":  "2026-11-21 13:30:46",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1936,9 +1936,9 @@
                                                                                   "db_size_bytes":  4754919424
                                                                               },
                                "Pranavam Cinema Kollam":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-11-20",
-                                                              "db_size_bytes":  1955848192
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-11-21",
+                                                              "db_size_bytes":  1958866944
                                                           },
                                "Deva Cinemas Peringottukara":  {
                                                                    "status":  "ok",
@@ -3480,8 +3480,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-11-20",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-11-21",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3617,8 +3617,8 @@
                                                                                 "db_size_bytes":  null
                                                                             },
                                "Bhaskara Rama AC DTS - Palasa":  {
-                                                                     "status":  "missing",
-                                                                     "last_backup":  "2026-11-20",
+                                                                     "status":  "ok",
+                                                                     "last_backup":  "2026-11-21",
                                                                      "db_size_bytes":  null
                                                                  },
                                "Apsara Cinema House - Vijayawada":  {
@@ -3817,9 +3817,9 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-20",
-                                                                "db_size_bytes":  744800256
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-21",
+                                                                "db_size_bytes":  749502464
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
                                                                                    "status":  "ok",
@@ -3922,8 +3922,8 @@
                                                                          "db_size_bytes":  null
                                                                      },
                                "Aditya Theatre AC DTS - Vizianagaram":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-20",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-21",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Satyanarayana Picture Palace AC DTS - Anakapalle":  {
@@ -3957,9 +3957,9 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "Sri Raja Rajeswari - Jangareddy Gudem":  {
-                                                                             "status":  "missing",
-                                                                             "last_backup":  "2026-11-20",
-                                                                             "db_size_bytes":  2183319552
+                                                                             "status":  "ok",
+                                                                             "last_backup":  "2026-11-21",
+                                                                             "db_size_bytes":  2179911680
                                                                          },
                                "Cine Prime Screen 1 2 - Guntur":  {
                                                                       "status":  "ok",
@@ -4628,5 +4628,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-21 10:00:03"
+    "started_at":  "2026-11-21 12:00:03"
 }
