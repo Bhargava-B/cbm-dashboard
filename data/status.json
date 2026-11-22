@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-22 09:22:01",
+    "generated_at":  "2026-11-22 11:27:52",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -608,9 +608,9 @@
                                                                                 "db_size_bytes":  1851297792
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-21",
-                                                                              "db_size_bytes":  520339456
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-22",
+                                                                              "db_size_bytes":  520732672
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -763,9 +763,9 @@
                                                                         "db_size_bytes":  4286529536
                                                                     },
                                "Divya Theatre Puducherry":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-21",
-                                                                "db_size_bytes":  396021760
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-22",
+                                                                "db_size_bytes":  406261760
                                                             },
                                "Raja Cinemas Perambalur":  {
                                                                "status":  "ok",
@@ -1135,8 +1135,8 @@
                                                                     "db_size_bytes":  726257664
                                                                 },
                                "Shiva Multiplex - Jharsuguda":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-21",
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-22",
                                                                     "db_size_bytes":  null
                                                                 }
                            },
@@ -2201,9 +2201,9 @@
                                                              "db_size_bytes":  3652964352
                                                          },
                                "EVM Cinemas Perambavoor":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-21",
-                                                               "db_size_bytes":  3462512640
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-22",
+                                                               "db_size_bytes":  3471953920
                                                            },
                                "GTracks Screen 1 Kadinamkulam":  {
                                                                      "status":  "ok",
@@ -2858,9 +2858,9 @@
                                                                  "db_size_bytes":  2979184640
                                                              },
                                "Amity Lite Maharagama":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-21",
-                                                             "db_size_bytes":  2483994624
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-22",
+                                                             "db_size_bytes":  2489696256
                                                          },
                                "New Janaki Cinema Mathugama":  {
                                                                    "status":  "ok",
@@ -2898,9 +2898,9 @@
                                                         "db_size_bytes":  571064320
                                                     },
                                "Cinelma Theatre Badulla":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-18",
-                                                               "db_size_bytes":  236277760
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-22",
+                                                               "db_size_bytes":  239296512
                                                            },
                                "Ruoo Cinemas Katunayake":  {
                                                                "status":  "missing",
@@ -2970,8 +2970,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-20",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-22",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -3210,8 +3210,8 @@
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "Aruna Theatre AC 4K 7.1 Dolby 3D - Srirampuram":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-11-21",
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-11-22",
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Prabha Theatre - Mysuru":  {
@@ -3360,8 +3360,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Balaji 2K Dolby Atmos-Viveknagar":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-21",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-22",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Laxmi pride cinemas -Hubli":  {
@@ -4628,5 +4628,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-22 08:00:03"
+    "started_at":  "2026-11-22 10:00:03"
 }
