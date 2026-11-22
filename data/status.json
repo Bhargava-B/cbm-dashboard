@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-22 17:20:26",
+    "generated_at":  "2026-11-22 19:21:03",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3350,8 +3350,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "Rajkamal Theatre - Doddaballapura":  {
-                                                                         "status":  "ok",
-                                                                         "last_backup":  "2026-11-22",
+                                                                         "status":  "missing",
+                                                                         "last_backup":  "2026-08-14",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Venkateshwara Theatre Konappana Agrahara (E.City":  {
@@ -3592,9 +3592,9 @@
                                                                    "db_size_bytes":  null
                                                                },
                                "JVR Cinemas - Jaggampeta":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-21",
-                                                                "db_size_bytes":  1513734144
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-22",
+                                                                "db_size_bytes":  1514192896
                                                             },
                                "Pratap Group Theaters AC 4K Dolby Atmos - Tirupati":  {
                                                                                           "status":  "ok",
@@ -3912,9 +3912,9 @@
                                                                           "db_size_bytes":  null
                                                                       },
                                "Prashanti Theater - Kandukur":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-21",
-                                                                    "db_size_bytes":  455700480
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-22",
+                                                                    "db_size_bytes":  455684096
                                                                 },
                                "Sri Saroj Mayuri Theater - Ongole":  {
                                                                          "status":  "missing",
@@ -4052,9 +4052,9 @@
                                                                                            "db_size_bytes":  5886991872
                                                                                        },
                                "Sri Devi Mahal - Amadalavalasa":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-11-21",
-                                                                      "db_size_bytes":  421650432
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-11-22",
+                                                                      "db_size_bytes":  418988032
                                                                   },
                                "Srinivasa Theater AC 2K Dolby - Markapur":  {
                                                                                 "status":  "ok",
@@ -4628,5 +4628,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-22 16:00:03"
+    "started_at":  "2026-11-22 18:00:03"
 }
