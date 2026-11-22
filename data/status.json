@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-22 15:19:35",
+    "generated_at":  "2026-11-22 17:20:26",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1851,8 +1851,8 @@
                                                                       "db_size_bytes":  3411603456
                                                                   },
                                "Chilanka Cinemas Thiruvalla":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-11-22",
+                                                                   "status":  "missing",
+                                                                   "last_backup":  "2026-11-10",
                                                                    "db_size_bytes":  124899328
                                                                },
                                "UGM Cinemas 4K Ettumanoor":  {
@@ -2291,8 +2291,8 @@
                                                               "db_size_bytes":  5624537088
                                                           },
                                "Jos Theatre  Pala":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-11-22",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-11-06",
                                                          "db_size_bytes":  2320027648
                                                      },
                                "Paradise Cinema Cherthala":  {
@@ -2741,8 +2741,8 @@
                                                               "db_size_bytes":  2240915968
                                                           },
                                "Thai Lakshmi Cinema Punalur":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-11-22",
+                                                                   "status":  "missing",
+                                                                   "last_backup":  "2026-10-29",
                                                                    "db_size_bytes":  1407705088
                                                                },
                                "Alakode Film City Alakkode":  {
@@ -2766,8 +2766,8 @@
                                                                      "db_size_bytes":  1166458880
                                                                  },
                                "Sumangali cinemas Payyannur":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-11-22",
+                                                                   "status":  "missing",
+                                                                   "last_backup":  "2026-11-06",
                                                                    "db_size_bytes":  494465024
                                                                },
                                "Veechee Cinema Edacheri":  {
@@ -3480,8 +3480,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-11-21",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-11-22",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3857,8 +3857,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Si Rajeswari Kalamandir - Narsannapeta":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-21",
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-22",
                                                                               "db_size_bytes":  null
                                                                           },
                                "Mohini Cinemas Dolby Atmos - Gajuwaka":  {
@@ -3977,8 +3977,8 @@
                                                      "db_size_bytes":  null
                                                  },
                                "J and J Cinemas AC Dolby Atmos - Pathapatnam":  {
-                                                                                    "status":  "missing",
-                                                                                    "last_backup":  "2026-11-21",
+                                                                                    "status":  "ok",
+                                                                                    "last_backup":  "2026-11-22",
                                                                                     "db_size_bytes":  null
                                                                                 },
                                "Suryapalace 2K Dolby Atmos - Rajahmundry":  {
@@ -4412,8 +4412,8 @@
                                                                             "db_size_bytes":  null
                                                                         },
                                "Sri Basaveswara Theater - Repalle":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-11-21",
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-11-22",
                                                                          "db_size_bytes":  null
                                                                      },
                                "Ananya Cinemas - Kovvur":  {
@@ -4628,5 +4628,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-22 14:00:03"
+    "started_at":  "2026-11-22 16:00:03"
 }
