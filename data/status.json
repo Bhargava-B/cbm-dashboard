@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-22 11:27:52",
+    "generated_at":  "2026-11-22 13:24:38",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -3410,8 +3410,8 @@
                                                                         "db_size_bytes":  null
                                                                     },
                                "Rupam Theatre - Hubli":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-21",
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-22",
                                                              "db_size_bytes":  null
                                                          },
                                "Jai Bharath Theatre -Tumkur":  {
@@ -4628,5 +4628,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-22 10:00:03"
+    "started_at":  "2026-11-22 12:00:03"
 }
