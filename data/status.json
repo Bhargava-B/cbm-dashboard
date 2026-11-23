@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-23 11:31:01",
+    "generated_at":  "2026-11-23 13:25:45",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -763,9 +763,9 @@
                                                                         "db_size_bytes":  4290068480
                                                                     },
                                "Divya Theatre Puducherry":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-22",
-                                                                "db_size_bytes":  406261760
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-23",
+                                                                "db_size_bytes":  406626304
                                                             },
                                "Raja Cinemas Perambalur":  {
                                                                "status":  "ok",
@@ -3045,8 +3045,8 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Kino Cinemas - Seegehalli Kadugodi, Bengaluru":  {
-                                                                                     "status":  "missing",
-                                                                                     "last_backup":  "2026-11-22",
+                                                                                     "status":  "ok",
+                                                                                     "last_backup":  "2026-11-23",
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Coorg Cineplex - Gonikoppal":  {
@@ -3480,8 +3480,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-11-22",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-11-23",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3547,9 +3547,9 @@
                                                          "db_size_bytes":  null
                                                      },
                                "VS Mahal 4K Dolby Atmos 3D - Namavaram":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-22",
-                                                                              "db_size_bytes":  1447451136
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-23",
+                                                                              "db_size_bytes":  1448040960
                                                                           },
                                "Rajarathna Cinemax - Mandapeta":  {
                                                                       "status":  "ok",
@@ -4628,5 +4628,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-23 10:00:03"
+    "started_at":  "2026-11-23 12:00:03"
 }
