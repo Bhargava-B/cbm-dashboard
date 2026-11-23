@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-23 13:25:45",
+    "generated_at":  "2026-11-23 15:21:43",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -33,8 +33,8 @@
                                                                        "db_size_bytes":  2455687168
                                                                    },
                                "Rakki Cinemas OMR":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-11-23",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-06-19",
                                                          "db_size_bytes":  2803327488
                                                      },
                                "Karthikeyan Cinemas Kanchipuram":  {
@@ -148,9 +148,9 @@
                                                           "db_size_bytes":  900110848
                                                       },
                                "Maruthu Modern Theatre Sholavandan":  {
-                                                                          "status":  "missing",
-                                                                          "last_backup":  "2026-11-22",
-                                                                          "db_size_bytes":  692146176
+                                                                          "status":  "ok",
+                                                                          "last_backup":  "2026-11-23",
+                                                                          "db_size_bytes":  692805632
                                                                       },
                                "Varanashi Multiplex Tirupur":  {
                                                                    "status":  "missing",
@@ -208,8 +208,8 @@
                                                                      "db_size_bytes":  2388578304
                                                                  },
                                "Lena Theatre Kallakurichi":  {
-                                                                 "status":  "ok",
-                                                                 "last_backup":  "2026-11-23",
+                                                                 "status":  "missing",
+                                                                 "last_backup":  "2026-08-25",
                                                                  "db_size_bytes":  651657216
                                                              },
                                "Sri Ramchandra Cinema Pernambut":  {
@@ -433,8 +433,8 @@
                                                                     "db_size_bytes":  698347008
                                                                 },
                                "JAYAPRIYA CINEMAS":  {
-                                                         "status":  "ok",
-                                                         "last_backup":  "2026-11-23",
+                                                         "status":  "missing",
+                                                         "last_backup":  "2026-08-28",
                                                          "db_size_bytes":  368189440
                                                      },
                                "VR Cinemas Pattabiram":  {
@@ -468,8 +468,8 @@
                                                                  "db_size_bytes":  2472398848
                                                              },
                                "Rakki Meenakshi Avadi":  {
-                                                             "status":  "ok",
-                                                             "last_backup":  "2026-11-23",
+                                                             "status":  "missing",
+                                                             "last_backup":  "2026-07-22",
                                                              "db_size_bytes":  726601728
                                                          },
                                "Sri Durga Cinemas Thiruthani":  {
@@ -663,8 +663,8 @@
                                                                        "db_size_bytes":  3836403712
                                                                    },
                                "Jothi Theatre Viralimalai Trichy":  {
-                                                                        "status":  "ok",
-                                                                        "last_backup":  "2026-11-23",
+                                                                        "status":  "missing",
+                                                                        "last_backup":  "2026-09-28",
                                                                         "db_size_bytes":  710479872
                                                                     },
                                "Tamil Jaya Cinema Madurai":  {
@@ -1063,8 +1063,8 @@
                                                                        "db_size_bytes":  1527111680
                                                                    },
                                "Rakki Cinemas Tiruvallur":  {
-                                                                "status":  "ok",
-                                                                "last_backup":  "2026-11-23",
+                                                                "status":  "missing",
+                                                                "last_backup":  "2026-07-22",
                                                                 "db_size_bytes":  1099860480
                                                             },
                                "GK gayathiri Cinemas Maduranthakam":  {
@@ -1716,9 +1716,9 @@
                                                                   "db_size_bytes":  1353007104
                                                               },
                                "Magic Frames Mehboob Kasaragod":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-11-22",
-                                                                      "db_size_bytes":  3422867456
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-11-23",
+                                                                      "db_size_bytes":  3443613696
                                                                   },
                                "MT Cineplex Pothancode":  {
                                                               "status":  "ok",
@@ -2541,9 +2541,9 @@
                                                                     "db_size_bytes":  2530025472
                                                                 },
                                "SR Cinema Varkkala":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-11-22",
-                                                          "db_size_bytes":  365289472
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-11-23",
+                                                          "db_size_bytes":  373448704
                                                       },
                                "Jass theatre ottapalam":  {
                                                               "status":  "missing",
@@ -2721,9 +2721,9 @@
                                                                    "db_size_bytes":  4194381824
                                                                },
                                "Dhanya Remya Changanassery":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-11-22",
-                                                                  "db_size_bytes":  2126508032
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-11-23",
+                                                                  "db_size_bytes":  2130841600
                                                               },
                                "Mint Cinemas Sulthan Bathery":  {
                                                                     "status":  "ok",
@@ -4628,5 +4628,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-23 12:00:03"
+    "started_at":  "2026-11-23 14:00:03"
 }
