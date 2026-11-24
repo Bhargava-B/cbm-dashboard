@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-24 11:29:35",
+    "generated_at":  "2026-11-24 13:27:12",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -283,9 +283,9 @@
                                                                  "db_size_bytes":  1014505472
                                                              },
                                "Rohini Jayanthy Cheyyur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-23",
-                                                               "db_size_bytes":  759349248
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-24",
+                                                               "db_size_bytes":  758890496
                                                            },
                                "Amman Cinemas":  {
                                                      "status":  "ok",
@@ -323,9 +323,9 @@
                                                                         "db_size_bytes":  665970176
                                                                     },
                                "Rohini Swasthik Tindivanam":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-11-23",
-                                                                  "db_size_bytes":  1002962944
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-11-24",
+                                                                  "db_size_bytes":  1007022080
                                                               },
                                "GK Cinemas 2K Dolby Atmos Porur":  {
                                                                        "status":  "ok",
@@ -998,9 +998,9 @@
                                                                    "db_size_bytes":  8166329856
                                                                },
                                "Hari Theatre Pattabiram Chennai":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-11-23",
-                                                                       "db_size_bytes":  245284864
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-11-24",
+                                                                       "db_size_bytes":  246071296
                                                                    },
                                "Umaa Rajendra Cinemas 4K Dindigul":  {
                                                                          "status":  "ok",
@@ -1691,9 +1691,9 @@
                                                                  "db_size_bytes":  5078585344
                                                              },
                                "Jos Theatre Thrissur":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-11-23",
-                                                            "db_size_bytes":  2117079040
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-11-24",
+                                                            "db_size_bytes":  2119827456
                                                         },
                                "Padma Cinemas Kochi":  {
                                                            "status":  "missing",
@@ -3150,8 +3150,8 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Rajashree Theatre - Nipani":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-11-23",
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-11-24",
                                                                   "db_size_bytes":  null
                                                               },
                                "Globe Cinemas - Belagavi":  {
@@ -4372,9 +4372,9 @@
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Srinivasa Theater AC DTS - Nallajerla":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-11-23",
-                                                                                 "db_size_bytes":  670879744
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-11-24",
+                                                                                 "db_size_bytes":  669437952
                                                                              },
                                "Navarang Theatre - Vijayawada":  {
                                                                      "status":  "ok",
@@ -4628,5 +4628,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-24 10:00:03"
+    "started_at":  "2026-11-24 12:00:03"
 }
