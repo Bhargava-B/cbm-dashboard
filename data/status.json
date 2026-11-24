@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-24 09:24:24",
+    "generated_at":  "2026-11-24 11:29:35",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -48,9 +48,9 @@
                                                               "db_size_bytes":  3679838208
                                                           },
                                "Gopalakrishna Karanodai Redhills":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-11-23",
-                                                                        "db_size_bytes":  375308288
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-24",
+                                                                        "db_size_bytes":  381468672
                                                                     },
                                "Janas Cinemas Villupuram":  {
                                                                 "status":  "ok",
@@ -608,9 +608,9 @@
                                                                                 "db_size_bytes":  1844482048
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-23",
-                                                                              "db_size_bytes":  521060352
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-24",
+                                                                              "db_size_bytes":  521256960
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -628,9 +628,9 @@
                                                                            "db_size_bytes":  240648192
                                                                        },
                                "Palani Arumuga Theatre Madurai":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-11-23",
-                                                                      "db_size_bytes":  928047104
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-11-24",
+                                                                      "db_size_bytes":  928698368
                                                                   },
                                "Makkal Cinemas Aravakurichi":  {
                                                                    "status":  "ok",
@@ -1352,9 +1352,9 @@
                                                                                 "db_size_bytes":  4744859648
                                                                             },
                                   "Asian Tarakarama Cineplex - Kachiguda":  {
-                                                                                "status":  "missing",
-                                                                                "last_backup":  "2026-11-23",
-                                                                                "db_size_bytes":  2487783424
+                                                                                "status":  "ok",
+                                                                                "last_backup":  "2026-11-24",
+                                                                                "db_size_bytes":  2455826432
                                                                             },
                                   "Asian Pradise - Karimnagar":  {
                                                                      "status":  "ok",
@@ -2858,9 +2858,9 @@
                                                                  "db_size_bytes":  2995568640
                                                              },
                                "Amity Lite Maharagama":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-23",
-                                                             "db_size_bytes":  2493104128
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-24",
+                                                             "db_size_bytes":  2493038592
                                                          },
                                "New Janaki Cinema Mathugama":  {
                                                                    "status":  "ok",
@@ -4277,8 +4277,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Bommarillu Cinemas":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-11-23",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-11-24",
                                                           "db_size_bytes":  null
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
@@ -4332,9 +4332,9 @@
                                                                                  "db_size_bytes":  null
                                                                              },
                                "Surya Cinemax - Ramachandrapuram":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-11-23",
-                                                                        "db_size_bytes":  703913984
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-24",
+                                                                        "db_size_bytes":  690409472
                                                                     },
                                "ABR Cinemas - Gudivada":  {
                                                               "status":  "ok",
@@ -4628,5 +4628,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-24 08:00:03"
+    "started_at":  "2026-11-24 10:00:03"
 }
