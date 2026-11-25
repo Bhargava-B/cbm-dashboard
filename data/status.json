@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-25 09:24:15",
+    "generated_at":  "2026-11-25 11:29:16",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -218,9 +218,9 @@
                                                                        "db_size_bytes":  458801152
                                                                    },
                                "SRI SHANMUGAM THEATRE":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-24",
-                                                             "db_size_bytes":  716976128
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-25",
+                                                             "db_size_bytes":  718348288
                                                          },
                                "Sri Balaji Theatre Acharapakkam":  {
                                                                        "status":  "ok",
@@ -608,9 +608,9 @@
                                                                                 "db_size_bytes":  1845727232
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-24",
-                                                                              "db_size_bytes":  521256960
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-25",
+                                                                              "db_size_bytes":  521322496
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -628,9 +628,9 @@
                                                                            "db_size_bytes":  240975872
                                                                        },
                                "Palani Arumuga Theatre Madurai":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-11-24",
-                                                                      "db_size_bytes":  928698368
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-11-25",
+                                                                      "db_size_bytes":  928890880
                                                                   },
                                "Makkal Cinemas Aravakurichi":  {
                                                                    "status":  "ok",
@@ -2858,9 +2858,9 @@
                                                                  "db_size_bytes":  2995830784
                                                              },
                                "Amity Lite Maharagama":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-24",
-                                                             "db_size_bytes":  2493038592
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-25",
+                                                             "db_size_bytes":  2488123392
                                                          },
                                "New Janaki Cinema Mathugama":  {
                                                                    "status":  "ok",
@@ -3185,13 +3185,13 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Benaka CInemas, Malur":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-24",
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-25",
                                                              "db_size_bytes":  null
                                                          },
                                "Savitha Cinesquare Malleshwaram":  {
-                                                                       "status":  "missing",
-                                                                       "last_backup":  "2026-11-24",
+                                                                       "status":  "ok",
+                                                                       "last_backup":  "2026-11-25",
                                                                        "db_size_bytes":  null
                                                                    },
                                "Sri Renuka Prasanna Theatre - J P Nagar":  {
@@ -3210,8 +3210,8 @@
                                                                                          "db_size_bytes":  null
                                                                                      },
                                "Aruna Theatre AC 4K 7.1 Dolby 3D - Srirampuram":  {
-                                                                                      "status":  "missing",
-                                                                                      "last_backup":  "2026-11-24",
+                                                                                      "status":  "ok",
+                                                                                      "last_backup":  "2026-11-25",
                                                                                       "db_size_bytes":  null
                                                                                   },
                                "Prabha Theatre - Mysuru":  {
@@ -3360,8 +3360,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Balaji 2K Dolby Atmos-Viveknagar":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-24",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-25",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Laxmi pride cinemas -Hubli":  {
@@ -3727,8 +3727,8 @@
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Satyagouri AC 2K Digital Dolby EX - Kakinada":  {
-                                                                                    "status":  "missing",
-                                                                                    "last_backup":  "2026-11-24",
+                                                                                    "status":  "ok",
+                                                                                    "last_backup":  "2026-11-25",
                                                                                     "db_size_bytes":  2814345216
                                                                                 },
                                "Sri Lakshmi Multiplex Nova Cinemaz - Nallajerla":  {
@@ -4633,5 +4633,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-25 08:00:03"
+    "started_at":  "2026-11-25 10:00:03"
 }
