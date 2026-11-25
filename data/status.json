@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-25 11:29:16",
+    "generated_at":  "2026-11-25 13:27:58",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -283,9 +283,9 @@
                                                                  "db_size_bytes":  1015160832
                                                              },
                                "Rohini Jayanthy Cheyyur":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-24",
-                                                               "db_size_bytes":  758890496
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-25",
+                                                               "db_size_bytes":  758956032
                                                            },
                                "Amman Cinemas":  {
                                                      "status":  "ok",
@@ -1514,8 +1514,8 @@
                                                                              "db_size_bytes":  null
                                                                          },
                                "Acchi Reddy Theater AC Dolby DTS - Haliya":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-11-24",
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-11-25",
                                                                                  "db_size_bytes":  null
                                                                              },
                                "cinemax - Medak":  {
@@ -3155,8 +3155,8 @@
                                                                   "db_size_bytes":  null
                                                               },
                                "Globe Cinemas - Belagavi":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-24",
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-25",
                                                                 "db_size_bytes":  null
                                                             },
                                "Akash Cinemas Laggere":  {
@@ -3480,8 +3480,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-11-23",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-11-25",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -3817,9 +3817,9 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-24",
-                                                                "db_size_bytes":  745725952
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-25",
+                                                                "db_size_bytes":  746967040
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
                                                                                    "status":  "ok",
@@ -4282,8 +4282,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Bommarillu Cinemas":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-11-24",
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-11-25",
                                                           "db_size_bytes":  null
                                                       },
                                "SKS Siva Max AC - Sompeta":  {
@@ -4633,5 +4633,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-25 10:00:03"
+    "started_at":  "2026-11-25 12:00:03"
 }
