@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-26 20:04:23",
+    "generated_at":  "2026-11-26 23:52:29",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1414,9 +1414,9 @@
                                                              "db_size_bytes":  477810688
                                                          },
                                "Amrutha Cinema - Hanumakonda":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-25",
-                                                                    "db_size_bytes":  3893022720
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-26",
+                                                                    "db_size_bytes":  3885944832
                                                                 },
                                "Rama Krishna 70mm - Abids":  {
                                                                  "status":  "ok",
@@ -1479,8 +1479,8 @@
                                                            "db_size_bytes":  null
                                                        },
                                "Bhramaramba 70MM AC Dts - Kukatpally":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-25",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-26",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Lakshmi Srinivasa Theatre - Madhira":  {
@@ -1564,8 +1564,8 @@
                                                                               "db_size_bytes":  null
                                                                           },
                                "JP Cinemas Chandanagar":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-11-25",
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-11-26",
                                                               "db_size_bytes":  null
                                                           },
                                "Bhujanga 70MM - Jeedimetla":  {
@@ -1609,9 +1609,9 @@
                                                               "db_size_bytes":  401133568
                                                           },
                                "Aradhana Theatre - Hyderabad":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-25",
-                                                                    "db_size_bytes":  1067110400
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-26",
+                                                                    "db_size_bytes":  1063710720
                                                                 },
                                "Vijetha 70MM 4k Atmos - Borabanda":  {
                                                                          "status":  "ok",
@@ -1696,9 +1696,9 @@
                                                             "db_size_bytes":  2110124032
                                                         },
                                "Padma Cinemas Kochi":  {
-                                                           "status":  "missing",
-                                                           "last_backup":  "2026-11-25",
-                                                           "db_size_bytes":  5842915328
+                                                           "status":  "ok",
+                                                           "last_backup":  "2026-11-26",
+                                                           "db_size_bytes":  5854873088
                                                        },
                                "Magic Frames Downtown Thalasseri":  {
                                                                         "status":  "ok",
@@ -4027,8 +4027,8 @@
                                                                      "db_size_bytes":  null
                                                                  },
                                "Sivakrishna Cinemas AC 2K DTS - Kondapalli":  {
-                                                                                  "status":  "missing",
-                                                                                  "last_backup":  "2026-11-25",
+                                                                                  "status":  "ok",
+                                                                                  "last_backup":  "2026-11-26",
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Fortune Four Cinemas AC 2K 7.1 - Rajanagaram":  {
@@ -4162,9 +4162,9 @@
                                                                  "db_size_bytes":  2389659648
                                                              },
                                "Sailaja - Vijayawada":  {
-                                                            "status":  "missing",
-                                                            "last_backup":  "2026-11-22",
-                                                            "db_size_bytes":  null
+                                                            "status":  "ok",
+                                                            "last_backup":  "2026-11-26",
+                                                            "db_size_bytes":  1592184832
                                                         },
                                "Vijaya Theater - Nandigama":  {
                                                                   "status":  "missing",
@@ -4377,9 +4377,9 @@
                                                            "db_size_bytes":  null
                                                        },
                                "Sri Srinivasa Theater AC DTS - Nallajerla":  {
-                                                                                 "status":  "missing",
-                                                                                 "last_backup":  "2026-11-24",
-                                                                                 "db_size_bytes":  669437952
+                                                                                 "status":  "ok",
+                                                                                 "last_backup":  "2026-11-26",
+                                                                                 "db_size_bytes":  669700096
                                                                              },
                                "Navarang Theatre - Vijayawada":  {
                                                                      "status":  "ok",
@@ -4633,5 +4633,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-26 18:00:03"
+    "started_at":  "2026-11-26 22:00:04"
 }
