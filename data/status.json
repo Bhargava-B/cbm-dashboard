@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-26 11:54:05",
+    "generated_at":  "2026-11-26 14:02:02",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -1377,9 +1377,9 @@
                                                                                 "db_size_bytes":  5688963072
                                                                             },
                                   "Asian Venkateshwara - Siddipet":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-11-25",
-                                                                         "db_size_bytes":  3417104384
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-11-26",
+                                                                         "db_size_bytes":  3418218496
                                                                      },
                                   "AAA Cinemas - Ameerpet":  {
                                                                  "status":  "missing",
@@ -3817,9 +3817,9 @@
                                                                                      "db_size_bytes":  null
                                                                                  },
                                "Tulasi Cinemas - Thullur":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-25",
-                                                                "db_size_bytes":  746967040
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-26",
+                                                                "db_size_bytes":  747094016
                                                             },
                                "Satyanarayana Theaters AC 2K Dolby - Nuzvid":  {
                                                                                    "status":  "ok",
@@ -4057,9 +4057,9 @@
                                                                                            "db_size_bytes":  5898131968
                                                                                        },
                                "Sri Devi Mahal - Amadalavalasa":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-11-25",
-                                                                      "db_size_bytes":  416165888
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-11-26",
+                                                                      "db_size_bytes":  416956416
                                                                   },
                                "Srinivasa Theater AC 2K Dolby - Markapur":  {
                                                                                 "status":  "ok",
@@ -4187,8 +4187,8 @@
                                                                    "db_size_bytes":  274452480
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-11-25",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-26",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Capital Cinemas Vijayawada":  {
@@ -4633,5 +4633,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-26 10:00:03"
+    "started_at":  "2026-11-26 12:00:03"
 }
