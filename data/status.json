@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-27 11:51:59",
+    "generated_at":  "2026-11-27 13:53:26",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -193,9 +193,9 @@
                                                                "db_size_bytes":  431820800
                                                            },
                                "Cauvery Theatre":  {
-                                                       "status":  "missing",
-                                                       "last_backup":  "2026-11-22",
-                                                       "db_size_bytes":  1243336704
+                                                       "status":  "ok",
+                                                       "last_backup":  "2026-11-27",
+                                                       "db_size_bytes":  1244381184
                                                    },
                                "DEVI CINEMAS CHENNAI":  {
                                                             "status":  "ok",
@@ -368,9 +368,9 @@
                                                                    "db_size_bytes":  1386598400
                                                                },
                                "BABU CINEMAS KANCHIPURAM":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-10-28",
-                                                                "db_size_bytes":  1480740864
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-27",
+                                                                "db_size_bytes":  1599463424
                                                             },
                                "Jeya Anand Theatre Rajapalayam":  {
                                                                       "status":  "ok",
@@ -653,9 +653,9 @@
                                                              "db_size_bytes":  44448668160
                                                          },
                                "Krishnaveni Cinema T Nagar":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-11-26",
-                                                                  "db_size_bytes":  6013374464
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-11-27",
+                                                                  "db_size_bytes":  6010863616
                                                               },
                                "Balaji Theatre 70mm Pondicherry":  {
                                                                        "status":  "ok",
@@ -2271,9 +2271,9 @@
                                                               "db_size_bytes":  1027727360
                                                           },
                                "IMP Big Screen 2K 3D Parassala":  {
-                                                                      "status":  "missing",
-                                                                      "last_backup":  "2026-11-26",
-                                                                      "db_size_bytes":  819380224
+                                                                      "status":  "ok",
+                                                                      "last_backup":  "2026-11-27",
+                                                                      "db_size_bytes":  819777536
                                                                   },
                                "Dreams Theatre Attingal":  {
                                                                "status":  "ok",
@@ -3480,8 +3480,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-11-25",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-11-27",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -4187,8 +4187,8 @@
                                                                    "db_size_bytes":  281071616
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-11-26",
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-27",
                                                                         "db_size_bytes":  null
                                                                     },
                                "Capital Cinemas Vijayawada":  {
@@ -4633,5 +4633,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-27 10:00:04"
+    "started_at":  "2026-11-27 12:00:03"
 }
