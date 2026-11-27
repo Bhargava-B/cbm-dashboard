@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-27 15:53:37",
+    "generated_at":  "2026-11-27 17:50:51",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -2326,9 +2326,9 @@
                                                        "db_size_bytes":  772784128
                                                    },
                                "GMAX Cinema Kollam":  {
-                                                          "status":  "missing",
-                                                          "last_backup":  "2026-11-26",
-                                                          "db_size_bytes":  2982338560
+                                                          "status":  "ok",
+                                                          "last_backup":  "2026-11-27",
+                                                          "db_size_bytes":  2963001344
                                                       },
                                "Aashirvad Cineplexx Kozhikode":  {
                                                                      "status":  "ok",
@@ -2691,9 +2691,9 @@
                                                             "db_size_bytes":  3277733888
                                                         },
                                "Aashirvaad Cineplexx Muvattupuzha":  {
-                                                                         "status":  "missing",
-                                                                         "last_backup":  "2026-11-26",
-                                                                         "db_size_bytes":  2813229568
+                                                                         "status":  "ok",
+                                                                         "last_backup":  "2026-11-27",
+                                                                         "db_size_bytes":  2817358336
                                                                      },
                                "Kavitha Theatre Ernakulam":  {
                                                                  "status":  "ok",
@@ -2781,9 +2781,9 @@
                                                               "db_size_bytes":  8956731392
                                                           },
                                "Dhanalakshmi Cinemas Nenmara":  {
-                                                                    "status":  "missing",
-                                                                    "last_backup":  "2026-11-26",
-                                                                    "db_size_bytes":  1417011200
+                                                                    "status":  "ok",
+                                                                    "last_backup":  "2026-11-27",
+                                                                    "db_size_bytes":  1419304960
                                                                 },
                                "Fun Movies Thrissur":  {
                                                            "status":  "ok",
@@ -4182,8 +4182,8 @@
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Sangameswara Cinemas Tenali":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-11-27",
+                                                                   "status":  "missing",
+                                                                   "last_backup":  "2026-11-23",
                                                                    "db_size_bytes":  281071616
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
@@ -4633,5 +4633,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-27 14:00:03"
+    "started_at":  "2026-11-27 16:00:03"
 }
