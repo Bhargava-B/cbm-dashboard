@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-28 15:46:54",
+    "generated_at":  "2026-11-28 17:42:58",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -4182,8 +4182,8 @@
                                                                                    "db_size_bytes":  null
                                                                                },
                                "Sangameswara Cinemas Tenali":  {
-                                                                   "status":  "ok",
-                                                                   "last_backup":  "2026-11-28",
+                                                                   "status":  "missing",
+                                                                   "last_backup":  "2026-11-23",
                                                                    "db_size_bytes":  278454272
                                                                },
                                "Ram Mohan Theater - Gampalagudem":  {
@@ -4633,5 +4633,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-28 14:00:03"
+    "started_at":  "2026-11-28 16:00:03"
 }
