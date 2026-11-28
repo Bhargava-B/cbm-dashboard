@@ -1,5 +1,5 @@
 ﻿{
-    "generated_at":  "2026-11-28 09:45:12",
+    "generated_at":  "2026-11-28 11:53:55",
     "regions":  {
                     "TN":  {
                                "Srinivasa Theatre Thirukoilur":  {
@@ -408,9 +408,9 @@
                                                              "db_size_bytes":  null
                                                          },
                                "Gokulam Cinema Poonamallee":  {
-                                                                  "status":  "missing",
-                                                                  "last_backup":  "2026-11-27",
-                                                                  "db_size_bytes":  6901485568
+                                                                  "status":  "ok",
+                                                                  "last_backup":  "2026-11-28",
+                                                                  "db_size_bytes":  6909845504
                                                               },
                                "LA Cinemas Thiruverumbur":  {
                                                                 "status":  "ok",
@@ -608,9 +608,9 @@
                                                                                 "db_size_bytes":  1848406016
                                                                             },
                                "Sri Venkateswara Theatre Kalaiyarkovil":  {
-                                                                              "status":  "missing",
-                                                                              "last_backup":  "2026-11-27",
-                                                                              "db_size_bytes":  521584640
+                                                                              "status":  "ok",
+                                                                              "last_backup":  "2026-11-28",
+                                                                              "db_size_bytes":  522371072
                                                                           },
                                "Radiance Cinemas Rajapalayam":  {
                                                                     "status":  "ok",
@@ -678,9 +678,9 @@
                                                             "db_size_bytes":  482340864
                                                         },
                                "MSP Theatre Andipatti":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-27",
-                                                             "db_size_bytes":  808980480
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-28",
+                                                             "db_size_bytes":  809308160
                                                          },
                                "Ayya theatre":  {
                                                     "status":  "ok",
@@ -1038,9 +1038,9 @@
                                                                "db_size_bytes":  1799227904
                                                            },
                                "Anbu Cinema Lalgudi Road":  {
-                                                                "status":  "missing",
-                                                                "last_backup":  "2026-11-27",
-                                                                "db_size_bytes":  1190068224
+                                                                "status":  "ok",
+                                                                "last_backup":  "2026-11-28",
+                                                                "db_size_bytes":  1194459136
                                                             },
                                "Kaveri Cinema Coimbatore":  {
                                                                 "status":  "ok",
@@ -1741,9 +1741,9 @@
                                                                     "db_size_bytes":  4362176000
                                                                 },
                                "Anchani Cinemas 4K Pallickathodu":  {
-                                                                        "status":  "missing",
-                                                                        "last_backup":  "2026-11-27",
-                                                                        "db_size_bytes":  2853515264
+                                                                        "status":  "ok",
+                                                                        "last_backup":  "2026-11-28",
+                                                                        "db_size_bytes":  2860527616
                                                                     },
                                "MAR Basil EVM Theatre Rajakumari":  {
                                                                         "status":  "ok",
@@ -2858,9 +2858,9 @@
                                                                  "db_size_bytes":  2999828480
                                                              },
                                "Amity Lite Maharagama":  {
-                                                             "status":  "missing",
-                                                             "last_backup":  "2026-11-27",
-                                                             "db_size_bytes":  2495332352
+                                                             "status":  "ok",
+                                                             "last_backup":  "2026-11-28",
+                                                             "db_size_bytes":  2500182016
                                                          },
                                "New Janaki Cinema Mathugama":  {
                                                                    "status":  "ok",
@@ -2970,8 +2970,8 @@
                                                                                "db_size_bytes":  null
                                                                            },
                                "Nataraj Talkies - Sirsi":  {
-                                                               "status":  "missing",
-                                                               "last_backup":  "2026-11-27",
+                                                               "status":  "ok",
+                                                               "last_backup":  "2026-11-28",
                                                                "db_size_bytes":  null
                                                            },
                                "Cinephile HSR Layout - PNR Felicity Mall Haralur Rd":  {
@@ -3310,8 +3310,8 @@
                                                                       "db_size_bytes":  null
                                                                   },
                                "Sri Balaji Dommasandra":  {
-                                                              "status":  "missing",
-                                                              "last_backup":  "2026-11-27",
+                                                              "status":  "ok",
+                                                              "last_backup":  "2026-11-28",
                                                               "db_size_bytes":  null
                                                           },
                                "Apsara \u0026 Sudha Cinemas - Hubli":  {
@@ -3360,8 +3360,8 @@
                                                                                         "db_size_bytes":  null
                                                                                     },
                                "Sri Balaji 2K Dolby Atmos-Viveknagar":  {
-                                                                            "status":  "missing",
-                                                                            "last_backup":  "2026-11-27",
+                                                                            "status":  "ok",
+                                                                            "last_backup":  "2026-11-28",
                                                                             "db_size_bytes":  null
                                                                         },
                                "Laxmi pride cinemas -Hubli":  {
@@ -3480,8 +3480,8 @@
                                                                                   "db_size_bytes":  null
                                                                               },
                                "Mahadeshwara Cinema 4K Dolby ATMOS AC Banashankari":  {
-                                                                                          "status":  "missing",
-                                                                                          "last_backup":  "2026-11-27",
+                                                                                          "status":  "ok",
+                                                                                          "last_backup":  "2026-11-28",
                                                                                           "db_size_bytes":  null
                                                                                       },
                                "Ganga Theatre - Bellary":  {
@@ -4633,5 +4633,5 @@
                                                                          }
                            }
                 },
-    "started_at":  "2026-11-28 08:00:03"
+    "started_at":  "2026-11-28 10:00:04"
 }
